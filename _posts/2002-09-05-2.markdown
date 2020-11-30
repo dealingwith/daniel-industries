@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<img src="http://www.powazek.com/bman2002/image/42.jpg">
+
+<a href="http://www.powazek.com/bman2002/">Powazek.com -- burning man 2002</a>
+
+<a href="http://burningman.com/">Burning man</a> is the probly the only festival/conference/gathering in the US I really want to go to. Looks alot like Glastonbury, if I had to guess what both were like, since I've been to neither...
+

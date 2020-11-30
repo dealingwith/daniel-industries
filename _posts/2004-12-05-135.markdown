@@ -1,0 +1,12 @@
+---
+author: dealingwith
+date: '2004-12-05 23:18:00'
+layout: post
+slug: '135'
+status: publish
+title: '...'
+wordpress_id: '135'
+---
+
+yeah
+

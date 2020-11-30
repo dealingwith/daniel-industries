@@ -1,0 +1,42 @@
+---
+author: dealingwith
+date: '2007-11-12 09:17:00'
+layout: post
+slug: olpc
+status: publish
+title: OLPC
+wordpress_id: '2362'
+categories:
+ - change
+ - concept of the day
+ - consumption
+ - distributed knowledge
+ - dreams
+ - elsewhere
+ - humanity
+ - ideas
+ - information
+ - innovation
+---
+
+![][1]Now that I've done it, I'll tell you about [laptopgiving.org and One
+Laptop Per Child's "Give One, Get One" deal][2]. US/Canada only, and it comes
+out to $423.95 with shipping, $200 of which is deductible.
+
+> The mission of One Laptop Per Child (OLPC) is to empower the children of
+developing countries to learn by providing one connected laptop to every
+school-age child. In order to accomplish our goal, we need people who believe
+in what we’re doing and want to help make education for the world’s children a
+priority, not a privilege. Between November 12 and November 26, OLPC is
+offering a Give One Get One program in the United States and Canada. During
+this time, you can donate the revolutionary XO laptop to a child in a
+developing nation, and also receive one for the child in your life in
+recognition of your contribution.
+
+Whoever thought up this campaign is pretty genius. It works on a number of
+psychological and practical levels.
+
+   [1]: http://pics.ebaystatic.com/aw/pics/xogiving/g1g1/home-laptop_v2.jpg
+
+   [2]: http://www.laptopgiving.org/
+

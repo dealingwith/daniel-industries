@@ -1,0 +1,30 @@
+---
+author: dealingwith
+date: '2007-01-21 10:09:00'
+layout: post
+slug: feltron
+status: publish
+title: feltron
+wordpress_id: '1946'
+categories:
+ - art
+ - brilliant
+ - elsewhere
+ - ia
+ - ideas
+ - illustration
+ - imagining
+ - information
+ - innovation
+ - internets
+ - ir
+---
+
+[feltron vii][1], [espesh][2] [via][3]
+
+   [1]: http://www.feltron.com/index.html
+
+   [2]: http://www.feltron.com/06report_index.html
+
+   [3]: http://www.subtraction.com/archives/2007/0119_optimizing_f.php
+

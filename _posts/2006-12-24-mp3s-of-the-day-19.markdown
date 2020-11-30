@@ -1,0 +1,36 @@
+---
+author: dealingwith
+date: '2006-12-24 14:59:00'
+layout: post
+slug: mp3s-of-the-day-19
+status: publish
+title: mp3s of the day
+wordpress_id: '1904'
+categories:
+ - johnny citizen
+ - mp3 of the day
+ - music
+---
+
+[![][1]
+
+Advent Mix][2] (52M) A collection of songs about Waiting, featuring a lot of
+Dallas acts. I guess we wait alot in Dallas. I'm waiting, and as [suggested in
+this post][3], my waiting will not be fulfilled tomorrow. Mine has no defined
+endpoint. It may never end. I just don't know.
+
+[Daniel Miller - Cliche][4] A new song I recorded a home demo of.
+
+[Daniel Miller - When I Go][5] (by Over the Rhine) A cover I also recently
+recorded at home.
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/12/waiting.png
+
+   [2]: http://daniel.iaspiretonothing.com/blog/files/2006/12/Advent%20Mix.zip
+
+   [3]: http://dealingwith.livejournal.com/500854.html
+
+   [4]: http://daniel.iaspiretonothing.com/blog/files/2006/12/Daniel%20Miller%20-%20Cliche.mp3
+
+   [5]: http://daniel.iaspiretonothing.com/blog/files/2006/12/Daniel%20Miller%20-%20When%20I%20Go%20(Over%20the%20Rhine).mp3
+

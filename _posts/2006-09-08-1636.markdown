@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2006-09-08 09:34:00'
+layout: post
+slug: '1636'
+status: publish
+title: '...'
+wordpress_id: '1636'
+categories:
+ - quotable
+---
+
+> I wonder why we listen to poets when nobody gives a fuck
+
+[#][1]
+
+   [1]: http://www.azlyrics.com/lyrics/wilco/ashesofamericanflags.html
+

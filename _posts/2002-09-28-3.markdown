@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.jordivpou.com/#">Jordi V Pou , Black and White Photographer</a>
+

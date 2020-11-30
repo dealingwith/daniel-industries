@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2009-01-01 09:57:00'
+layout: post
+slug: surprise
+status: publish
+title: Surprise!
+wordpress_id: '2898'
+categories:
+ - minutia
+ - vblog
+ - video
+---
+
+
+[Hay Internet][1] from [Daniel Miller][2] on [Vimeo][3].
+
+   [1]: http://vimeo.com/2687865
+
+   [2]: http://vimeo.com/danielsjourney
+
+   [3]: http://vimeo.com
+

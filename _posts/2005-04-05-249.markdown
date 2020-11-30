@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2005-04-05 16:47:00'
+layout: post
+slug: '249'
+status: publish
+title: '...'
+wordpress_id: '249'
+---
+
+[Great paintings, for example, get you laid][1] in a way that great computer
+programs never do. Even not-so-great paintings - in fact, any slapdash attempt
+at slapping paint onto a surface - will get you laid more than writing
+software, especially if you have the slightest hint of being a tortured,
+brooding soul about you. For evidence of this I would point to my college
+classmate Henning, who was a Swedish double art/theatre major and on most days
+could barely walk.
+
+   [1]: http://www.idlewords.com/2005/04/dabblers_and_blowhards.htm
+

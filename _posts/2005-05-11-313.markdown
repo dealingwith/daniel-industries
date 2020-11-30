@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2005-05-11 11:40:00'
+layout: post
+slug: '313'
+status: publish
+title: '...'
+wordpress_id: '313'
+---
+
+[ya knew this was going to happen][1]
+
+may comment more on the proper blog eventually
+
+   [1]: http://www.themorningnews.org/archives/new_york_new_york/the_letters_of_gary_benchley_rock_star_the_last_waltz.php
+

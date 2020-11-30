@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.centralbooking.com/index.php">Central Booking - Read like crazy...</a>
+

@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2005-04-05 16:58:00'
+layout: post
+slug: '250'
+status: publish
+title: '...'
+wordpress_id: '250'
+---
+
+[I've always liked the old designer's adage of "good, fast, or cheap, pick
+two".][1] That is, a project can be completed quickly, it can be done cheap,
+and it can be done well, but you need to choose which two of those you want.
+If you want a good project done quickly, it's gonna be expensive. Fast and
+cheap? It's gonna suck. In his talk at SXSW, Jason Fried outlined another pick
+two scenario clients need to be aware of: "fixed scope, fixed timeframe, or
+fixed budget". Here are some more variations:
+
+Elegant, documented, on time. Privacy, accuracy, security. Have fun, do good,
+stay out of trouble. Study, socialize, sleep. Diverse, free, equal. Fast,
+efficient, useful. Cheap, healthy, tasty. Secure, usable, affordable. Short,
+memorable, unique. Cheap, light, strong.
+
+   [1]: http://www.kottke.org/05/04/pick-two
+

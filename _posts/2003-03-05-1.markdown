@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://abcnews.go.com/wire/US/reuters20030304_651.html">abcnews.com : lawyer arrested for wearing a 'peace' t-shirt</a> <em></em>
+

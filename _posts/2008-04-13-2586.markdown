@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-04-13 12:18:00'
+layout: post
+slug: '2586'
+status: publish
+title: '...'
+wordpress_id: '2586'
+categories:
+ - elsewhere
+ - quotable
+---
+
+[Yes][1]:
+
+> Stop being holy, forget being prudent, it'll be a hundred times better for
+everyone.
+
+   [1]: http://twitter.com/presencemachine/statuses/788344824
+

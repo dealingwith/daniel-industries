@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'winer'
+categories:
+ - quotable
+---
+
+
+Someone I only read when someone I do read points to him, but his DaveNet pieces are traditionally very good. The latest is no exception:<blockquote>Today software and music, software and writing, software and all kinds of creativity, are indistinguishable. There is no clear line dilineating where one ends and the other starts. Nor is there a line between people. To be creative in either technology or the arts requires an understanding of both.</blockquote><a href="http://davenet.userland.com/2003/05/24/whoWillPayForSoftware">DaveNet: Who will pay for software?</a>
+		
+
+
+
+		

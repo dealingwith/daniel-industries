@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://fray.org/6/stuff/fd6desktop-800x600.jpg"><img src="http://fray.org/6/stuff/fd6desktop.jpg"></a>One of many Fray Day 6's is <a href="http://fray.org/6/dc/">being held</a> in my town! WHOOOWEEEEE!
+

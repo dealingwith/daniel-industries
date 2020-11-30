@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2005-02-22 11:01:00'
+layout: post
+slug: '197'
+status: publish
+title: '...'
+wordpress_id: '197'
+---
+
+> [Are you excited? If by that you mean "do you feel like you're going to
+throw up?" then yes.][1]
+
+   [1]: http://www.kottke.org/05/02/kottke-micropatron
+

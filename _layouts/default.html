@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="bg-gray-100 text-gray-700 font-sans quicksand">
+  <div class="p-6 sm:p-10 md:p-16 flex flex-wrap">
+    {{ content }}
+    <div class="w-full md:w-1/2 md:pr-32 pt-12 md:pt-0 md:sticky md:bottom-0 order-4 md:order-3">
+      <div class="max-w-md md:float-right md:text-right leading-loose tracking-tight md:mb-16">
+        <ul class="flex flex-wrap justify-between flex-row md:flex-col">
+          <li><a href="/" class="nav mx-2 md:mx-0">Home</a></li>
+          <li><a href="/about/" class="nav mx-2 md:mx-0">About</a></li>
+          <li><a href="/music/" class="nav mx-2 md:mx-0">Music</a></li>
+        </ul>
+        {% include footer.html %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Pin to top right corner -->
+  <div class="absolute top-0 right-0 h-12 w-18 p-4">
+    <button class="js-change-theme focus:outline-none">🌙</button>
+  </div>
+
+  <script>
+    //Toggle mode
+    const toggle = document.querySelector('.js-change-theme');
+    const body = document.querySelector('body');
+
+    function toggleToDark() {
+      toggle.innerHTML = "☀️";
+      body.classList.remove('text-gray-700');
+      body.classList.add('text-gray-300');
+      body.classList.remove('bg-gray-100');
+      body.classList.add('bg-gray-900');
+      localStorage.setItem('theme', 'dark');
+    }
+
+    function toggleToLight() {
+      toggle.innerHTML = "🌙";
+      body.classList.remove('text-gray-300');
+      body.classList.add('text-gray-700');
+      body.classList.remove('bg-gray-900');
+      body.classList.add('bg-gray-100');
+      localStorage.setItem('theme', 'light');
+    }
+
+    const theme = localStorage.getItem('theme');
+
+    if (theme == "dark") {
+      toggleToDark();
+    } else if (theme == "light") {
+      toggleToLight();
+    }
+
+    toggle.addEventListener('click', () => {
+      if (body.classList.contains('text-gray-700')) {
+        toggleToDark();
+      } else {
+        toggleToLight();
+      }
+    });
+
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Elsewhere.comment:</i>
+
+<a href="http://news.bbc.co.uk/2/hi/world/asia-pacific/2355797.stm">Jiang upbeat on US summit</a>
+
+<img src="http://news.bbc.co.uk/media/images/38378000/jpg/_38378473_ap_laugh300.jpg">
+So then I told him, "But those factories are bringing valuable jobs to the area..."
+

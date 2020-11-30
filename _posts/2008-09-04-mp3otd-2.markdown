@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2008-09-04 09:51:00'
+layout: post
+slug: mp3otd-2
+status: publish
+title: Mp3otD
+wordpress_id: '2769'
+categories:
+ - mp3 of the day
+---
+
+[Ben Gibbard covering Palmcorder Yajna by the Mountain Goats][1]
+
+   [1]: http://ia350632.us.archive.org/1/items/bengibbard2007-05-09.flac16/bengibbard2007-05-09t14_vbr.mp3
+

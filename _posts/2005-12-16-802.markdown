@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-12-16 12:18:00'
+layout: post
+slug: '802'
+status: publish
+title: '...'
+wordpress_id: '802'
+---
+
+![][1]
+
+   [1]: http://danielsjourney.com/blog/files/2005/12/zzzzzz7654299.jpg
+

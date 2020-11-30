@@ -1,0 +1,49 @@
+---
+author: dealingwith
+date: '2007-10-05 14:45:00'
+layout: post
+slug: mp3s-of-the-day-22
+status: publish
+title: mp3s of the day
+wordpress_id: '2329'
+categories:
+ - mp3 of the day
+---
+
+[Takako Minekawa - _1.6666_][1]
+
+[Mt. Goats covering _The Boys Are Back In Town_ (live)][2]
+
+[Mika - _Relax, Take It Easy_][3]
+
+[Athlete - _Airport Disco_][4]
+
+[_Chaconne, transcription for piano in D minor (after J. S. Bach, BWV 1004),
+KiV B24_ Composed by Ferruccio Busoni with Edna Stern][5]
+
+Some Pigeon John ([ref][6]) (You can also see these tracks performed live in
+studio at [Dinner with the Band][7] [here][8] and [here][9].)
+
+[WNYC's Radio Lab - _Musical Language_ from Sept 25, 2007][10]
+
+   [1]: http://danielsjourney.com/blog/files/2007/10/1_666666.mp3
+
+   [2]:
+http://ia340903.us.archive.org/3/items/tmg2007-03-08/tmg2007-03-08t15_vbr.mp3
+
+   [3]: http://www.silviacastro.com/mblog/Relax,%20Take%20It%20Easy.mp3
+
+   [4]: http://www.aolcdn.com/_media/ch_music/athlete_airport_disco.mp3
+
+   [5]: http://danielsjourney.com/blog/files/2007/10/01%20Busoni.mp3
+
+   [6]: http://twitter.com/dealingwith/statuses/312869562
+
+   [7]: http://www.onnetworks.com/videos/dinner-with-the-band/
+
+   [8]: http://www.onnetworks.com/videos/dinner-with-the-band/live---welcome-to-the-show ('Welcome to the Show')
+
+   [9]: http://www.onnetworks.com/videos/dinner-with-the-band/live---money-back-guarantee ('Money Back Guarantee')
+
+   [10]: http://audio.wnyc.org/radiolab/radiolab092507pod.mp3
+

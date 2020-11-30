@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-10-28 22:56:00'
+layout: post
+slug: '117'
+status: publish
+title: '...'
+wordpress_id: '117'
+---
+
+[build a better bush][1]
+
+   [1]: http://www.fh-worms.de/~ebm245/BuildabetterBush.htm
+

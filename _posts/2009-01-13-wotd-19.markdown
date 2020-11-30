@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2009-01-13 12:39:00'
+layout: post
+slug: wotd-19
+status: publish
+title: WotD
+wordpress_id: '2911'
+categories:
+ - word of the day
+---
+
+Kaleidoscopic.
+
+I was trying to describe a building where the hallways all begin to look the
+same after a while, like an old 2D video game. "That building can get
+kaleidoscopic."
+
+...courtesy of my coworker, who used to teach math, but I told her: now that I
+know she has a great vocabulary, she's in trouble.
+

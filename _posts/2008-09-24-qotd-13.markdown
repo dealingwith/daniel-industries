@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2008-09-24 13:58:00'
+layout: post
+slug: qotd-13
+status: publish
+title: QotD
+wordpress_id: '2803'
+categories:
+ - elsewhere
+ - quotable
+ - technology
+ - women
+---
+
+[Sony Ericsson's MBW-200 Bluetooth watches for sporty she-geeks][1]
+
+> When a press release is laced with words like "handbag," "sophisticated,"
+and "vibrates," it's clearly targeting the fairer sex.
+
+Like the watches, though.
+
+   [1]: http://www.engadget.com/2008/09/24/sony-ericssons-mbw-200-bluetooth-watches-for-sporty-she-geeks/
+

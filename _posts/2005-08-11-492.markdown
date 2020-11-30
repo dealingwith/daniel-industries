@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-08-11 20:37:00'
+layout: post
+slug: '492'
+status: publish
+title: '...'
+wordpress_id: '492'
+---
+
+[maybe this is what happened][1]
+
+   [1]: http://www.milkandcookies.com/links/34182/
+

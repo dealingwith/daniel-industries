@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'haircut'
+categories:
+ - minutia
+---
+
+oh yeah, and i had M cut my hair a little bit yesterday. just a little bit.
+

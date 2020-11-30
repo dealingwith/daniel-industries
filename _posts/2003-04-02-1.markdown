@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - quotable
+---
+
+<a href="http://www.benhammersley.com/archives/004433.html">ben hammersley.com: i'm going to get socks. this is a good thing</a> <blockquote>hell, as the saying goes, when mozart was my age he'd been dead three years. (well, ok, not really, but my opera isn't coming on as fast as i'd like.)</blockquote>
+

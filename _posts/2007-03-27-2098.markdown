@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2007-03-27 11:21:00'
+layout: post
+slug: '2098'
+status: publish
+title: '...'
+wordpress_id: '2098'
+categories:
+ - brilliant
+ - elsewhere
+ - music
+ - video
+---
+
+W00t! [on the Merlin Show][1]! Good stuff.
+
+Meta: LJing about this video where/while they are talking about LJing.
+
+   [1]: http://www.themerlinshow.com/ep/011-interview-peter-hughes
+

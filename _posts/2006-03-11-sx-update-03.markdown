@@ -1,0 +1,64 @@
+---
+author: dealingwith
+date: '2006-03-11 15:48:00'
+layout: post
+slug: sx-update-03
+status: publish
+title: sx update 03
+wordpress_id: '1095'
+categories:
+ - sxsw
+ - sxswi2006
+---
+
+The [Opening Keynote][1] was worthy of capitalization, of course. Now I'm at
+[BarCamp][2] catching up with food and friends and slightly more reliable
+WiFi.
+
+There were/are two things I'd love to ask [Mr. Fried][3]. I totally agree with
+pretty much all the [Getting Real][4] stuff (and if you haven't bought that
+book I recommend it for anyone, not just geeks), but have come up against a
+couple issues that I think are rather common:
+
+1. Burnout. "When you have less time you waste less time." But my problem is
+after 8-9 hours a day of banging my head against the brick wall of .NET, I
+don't have the mental energy to really concentrate on the side job. And don't
+just tell me to use RoR was going to be my caveat...and related, what about
+constraints at our day jobs, like what technology we must use or what
+political hoops we must jump through? -- What I call "bad constraints." ...And
+how are they able to blog so much?! They mentioned curiosity as the most
+valuable human asset -- but I'm learning my third language and as each have
+their nuance, strengths, and weaknesses, I'm coming up against my brain's
+limit!
+
+2. They mentioned being a generalist is a strength as well. But how does one
+avoid the jack-of-all-trades-master-of-none syndrome, which I have been
+feeling for some time now.
+
+They mentioned failing while in obscurity as a good thing. I've certainly done
+that! I'm just writing my long-standing intention to blog about my numerous
+business failures of 2004-2005 on [underdeconstruction.com][5] (which is
+currently under severe deconstruction).
+
+Later:
+
+Just attended [Chris Messina][6]'s [Flock][7] [presentation][8] here at
+BarCamp. Short version: I LIKE. Will probably jump on the dev release as soon
+as I hear it is stable enough for everyday use.
+
+   [1]: http://2006.sxsw.com/interactive/programming/opening_remarks/
+
+   [2]: http://barcamp.org/BarCampAustin
+
+   [3]: http://37signals.com/svn/
+
+   [4]: https://gettingreal.37signals.com/
+
+   [5]: http://underdeconstruction.com/
+
+   [6]: http://factoryjoe.com/blog/
+
+   [7]: http://www.flock.com/
+
+   [8]: http://factoryjoe.com/blog/2006/03/10/flock-etech-presentation-available/
+

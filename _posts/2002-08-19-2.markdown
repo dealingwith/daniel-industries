@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.comedycentral.com/tv_shows/triggerhappytv/">Trigger Happy TV is going to be on Comedy Central</a>!! Yeah!
+

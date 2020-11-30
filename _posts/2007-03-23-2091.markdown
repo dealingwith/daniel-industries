@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2007-03-23 01:19:00'
+layout: post
+slug: '2091'
+status: publish
+title: '...'
+wordpress_id: '2091'
+categories:
+ - brilliant
+ - comedy
+ - elsewhere
+ - ia
+ - imagining
+ - information
+---
+
+[![][1]][2]<
+
+   [1]: http://danielsjourney.com/blog/files/2007/03/card711.png
+
+   [2]: http://indexed.blogspot.com/
+

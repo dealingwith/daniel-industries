@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.sevenmagazine.org/index.php?archive=092002_header">September Seven Mag</a> is up and I've contrib'd the final <a href="http://www.sevenmagazine.org/index.php?archive=092002_04">My New Church</a> art.
+

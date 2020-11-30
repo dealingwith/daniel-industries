@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2007-07-23 00:32:00'
+layout: post
+slug: wotd-6
+status: publish
+title: WotD
+wordpress_id: '2241'
+categories:
+ - word of the day
+---
+
+[Diachronic][1]
+
+   [1]: http://en.wikipedia.org/wiki/Diachronic
+

@@ -1,0 +1,67 @@
+---
+author: dealingwith
+date: '2009-01-30 17:35:00'
+layout: post
+slug: charts
+status: publish
+title: Charts!
+wordpress_id: '3220'
+categories:
+ - ID
+ - IM
+ - video
+---
+
+[youtube http://www.youtube.com/watch?v=V87I10yMIb4&hl=en&fs=1]
+
+  * [Edward Tufte][1] ...the guru of Information Design
+
+  * [Data Visualization: Modern Approaches][2] on Smashing Magazine
+
+  * [flowingdata.com][3] ..."FlowingData explores how designers,
+statisticians, and computer scientists are using data to understand ourselves
+better - mainly through data visualization."
+
+  * A friend pointed me to [this portfolio][4] (Scroll down to
+"experimental".)
+
+  * [This guy is getting a lot of press lately][5]
+
+  * and of course don't forget about [indexed][6]
+
+  * via one of the above: [these look yummy][7]
+
+  * [BIG tree maps][8]
+
+These all came across my desk in the last week--something about [attention][9]
+and having attended the Tufte seminar Monday--and I thought I would catalog
+them here and share…
+
+
+Video [via @stephenanderson][10]
+
+![][11]
+
+   [1]: http://www.edwardtufte.com/tufte/
+
+   [2]: http://www.smashingmagazine.com/2007/08/02/data-visualization-modern-approaches/
+
+   [3]: http://flowingdata.com
+
+   [4]: http://www.devedeset.com/index.php#experimental
+
+   [5]: http://www.thebackofthenapkin.com/index.php
+
+   [6]: http://thisisindexed.com
+
+   [7]: http://www.gridplane.com/html/projects/data-vis
+
+   [8]: https://xd.adobe.com/#/featured/video/111
+
+   [9]: http://en.wikipedia.org/wiki/Attention
+
+   [10]: https://twitter.com/stephenanderson/status/1159965829
+
+   [11]: https://blogger.googleusercontent.com/tracker/3147579-368177134080636
+4937?l=nonlinear.blogspot.com
+

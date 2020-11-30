@@ -1,0 +1,13 @@
+---
+layout: post
+title: '100 XML Acronyms'
+categories:
+ - design
+---
+
+This is why XML sucks (notice my tone changing--ha ha): <a href="http://www.perfectxml.com/XMLAcronyms.asp">http://www.perfectxml.com/XMLAcronyms.asp</a>
+
+
+
+via <a href="http://diveintomark.org/archives/2003/01/28/in_brief_28_jan_2003.html">diveintomark</a>, who comments, <em>Irony is apparently in short supply these days.</em> He also recently made the entirety of his posts available through his RSS feed. Thank you Mark!!
+

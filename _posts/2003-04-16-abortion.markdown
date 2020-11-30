@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'abortion'
+categories:
+ - imagining
+---
+
+<img src="images/abortionii.jpg" />
+

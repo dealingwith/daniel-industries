@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2007-01-26 16:05:00'
+layout: post
+slug: 168-2
+status: publish
+title: '...'
+wordpress_id: '3175'
+categories:
+ - nonlinear
+---
+
+[Several prototype applications for Jeff Han's famous multi-touch display][1].
+
+   [1]: http://link.brightcove.com/services/link/bcpid271543545/bclid428890160/bctid422563006
+
+   
+

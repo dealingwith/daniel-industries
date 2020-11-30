@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2008-05-19 14:48:00'
+layout: post
+slug: '2643'
+status: publish
+title: '...'
+wordpress_id: '2643'
+categories:
+ - twitter
+ - video
+---
+
+
+[Control Lights with Twitter][1] from [Justin][2] on [Vimeo][3].
+
+   [1]: http://www.vimeo.com/1025711?pg=embed&sec=1025711
+
+   [2]: http://www.vimeo.com/user284499?pg=embed&sec=1025711
+
+   [3]: http://vimeo.com?pg=embed&sec=1025711
+

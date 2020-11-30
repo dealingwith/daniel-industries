@@ -1,0 +1,12 @@
+---
+author: dealingwith
+date: '2004-08-08 09:28:00'
+layout: post
+slug: '77'
+status: publish
+title: '...'
+wordpress_id: '77'
+---
+
+Does anyone know how to quickly find out how many posts one has total on LJ?
+

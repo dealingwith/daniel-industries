@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.mirrorproject.com/mirror/?id=15029">the mirror project | moby | self portrait in bathroom</a>
+

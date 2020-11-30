@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2006-02-27 19:32:00'
+layout: post
+slug: '1054'
+status: publish
+title: '...'
+wordpress_id: '1054'
+categories:
+ - quotable
+---
+
+[_7 year olds are really good at deep, meaningful, conversations about life.
+If you haven't chatted with one recently, I highly recomend it._][1]
+
+   [1]: http://julievw.blogspot.com/2006/02/velvelta-cheese-and-life-say-whatever.html
+

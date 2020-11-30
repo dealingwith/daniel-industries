@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2005-10-29 17:24:00'
+layout: post
+slug: '665'
+status: publish
+title: '...'
+wordpress_id: '665'
+---
+
+_There's a reason why we carry around this metabolically expensive hunk of
+multitasking wetware in our heads. Serializing its inputs won't solve
+anything. The trick will be to optimize parallel inputs for its unique
+architecture._
+
+[Jon Udell: Culture wars, Darwin Awards, and optimal attention][1]
+
+ahh..."wetware"
+
+   [1]: http://weblog.infoworld.com/udell/2005/10/26.html#a1329
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+Current <a href="customize.html">color scheme</a>: <i>London</i>, of course.
+

@@ -1,0 +1,115 @@
+---
+author: dealingwith
+date: '2005-04-30 18:09:00'
+layout: post
+slug: mssv-net
+status: publish
+title: mssv.net
+wordpress_id: '3135'
+categories:
+ - nonlinear
+---
+
+[mssv.net][1], "massively multiuser online entertainment · biology · space"
+
+> ...is the personal weblog of Adrian Hon, featuring articles on massively
+
+multiplayer online entertainment and science. The 'middling' and 'tiny'
+
+sections include more general posts and links.
+
+
+When someone asks me what I do, I used to be able to say that I was
+
+a neuroscientist. This was a wonderfully simple and, as it turned out,
+
+apparently very impressive answer, especially when backed up with the
+
+whole Oxford-PhD thing.
+
+
+Unfortunately, those days are now gone. I left my PhD at Oxford in August 2004
+to work in London on something called [Perplex City][2]
+
+(formerly named Project Syzygy). Gone was the easy answer to that
+
+standard question. For the first few weeks in my new job, I actually
+
+attempted to give an accurate answer, which went something along the
+
+lines of:
+
+
+"Well, do you remember the movie A.I. by Steven Speilberg? See, Microsoft and
+Dreamworks SKG did [this marketing campaign][3] for the film..." and so on.
+
+
+This wasn't an answer that could last. Not only was it too long, but
+
+people still didn't understand what it was that I did. So I changed it
+
+to:
+
+
+"I work in a multimedia entertainment company developing a new type of cross-
+platform game."
+
+
+Slightly better, but not really any more informative since I
+
+generally ended up explaining the whole thing all over again. I then
+
+made a radical change to it and now when asked, I simply say:
+
+
+"I'm a puzzle designer."
+
+
+If they want to know more, fine, if not, at least we've both saved
+
+some time. It's not a particularly accurate answer but it'll have to do
+
+until Perplex City launches and I can just tell people that I work on
+
+that.
+
+
+I do other things apart from being a 'puzzle designer'. I'm the editor of [New
+Mars][4]
+
+
+(which I have been horribly neglecting of late) and a member of the
+
+Mars Society UK steering committee, and I hold several other positions
+
+within the Mars Society International. In 2001, I was a moderator for
+
+the [Cloudmakers][3] community following Microsoft's AI online immersive game
+and wrote the [Guide][5] for the game.
+
+
+I still retain a healthy interest in neuroscience and recently I
+
+contributed a chapter to 'Mind Hacks', a neuroscience book being
+
+published by O'Reilly.
+
+Most recently with the very interesting [The Reality Artificers][6]: "How the
+BBC, Orson Welles, ancient Egyptian scribes and alternate reality game
+designers all follow the same 3900 year old tradition."
+
+
+   [1]: http://mssv.net/
+
+   [2]: http://www.perplexcity.com
+
+   [3]: http://www.cloudmakers.org
+
+   [4]: http://www.newmars.com
+
+   [5]: http://www.vavatch.co.uk/guide
+
+   [6]: http://www.mssv.net/archives/000665.shtml
+
+   
+

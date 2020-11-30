@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'webstuff'
+categories:
+ - design
+---
+
+<a href="http://diveintomark.org/archives/2003/01/13.html#semantic_obsolescence">Mark Pilgrim: Semantic Obsolescence</a>: <i>Standards are bullshit. XHTML is a crock. The W3C is irrelevant.</i> I always wondered about Mark; he's a huge webstar, super smart; but it seemed (from his blog anyway) that he spent all his time conforming to the newest standards and accessibility (what an inaccessible word--3 each of c, s, and i--jeesh) reqs. Well now it has come around and bit him in the ass. I haven't seen it yet, but I've heard DJDC displays well in Safari (<a href="http://diveintomark.org/">DIMDC</a> doesn't). I've also heard Safari is fast-fast. <b>update:</b> But it once again proves who has the power--the software makers, not the W3C (which is partly a consortium of the software makers!). I personally didn't think we needed YET ANOTHER browser, but apparently the gen public did (.5mil downloads of the beta). Also there's <a href="http://newsobserver.com/24hour/technology/story/712974p-5244591c.html">another one in Ireland made by a 16 year old</a>!
+
+
+
+I take this all as a note of caution. I'm sold on the Semantic Web as much as <a href="http://ftrain.com">anyone</a>, and I'm building <a href="http://swm.danielsjourney.com">SWM</a> around <a href="http://xml.com">XML</a>, even though it is some-ok-most of the time a pain in the ass, because I feel that XML is the most simply executed semantic markup around. I hope that as the SW matures, it and its applications will be able to deal with my raw XML quite easily.
+
+
+
+I could of course use a database and later dump out XML files at will. Will have to think about that one. Still, XML are just files, no database required, and you can use any system you want with a SWM front-end (yes, even blogger; and yes, the SWM front-end will be free) because all you need to do is write files to your webserver.
+
+
+
+Another reason for my observance of SW standards is my belief, and my <u title="I am moving to Bosnia">soon-to-be-need</u>, for not just a microcontent publisher, but for the content I consume to be microcontent (like <a href="rss.php">RSS</a>). Bandwidth will be lacking, and "pre-parsing" semantically-markedup content (for example, by category or keywords) for what I'm interested would be oh-so-sweet. (Did I just coin both "pre-parsing" and "semantically-markedup content"? Surely not, but still cool tech-BS words.)
+

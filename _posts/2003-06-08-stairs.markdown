@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'stairs'
+categories:
+ - minutia
+---
+
+These are the stairs <a href="index.php?file=blog_2003_05_26.xml&id=20">I run up</a> sometimes. I never noticed the graves before:
+
+<img src="images/sarajevo/june_2003/stairs.jpg" />

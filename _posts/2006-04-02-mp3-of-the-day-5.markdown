@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-04-02 13:32:00'
+layout: post
+slug: mp3-of-the-day-5
+status: publish
+title: mp3 of the day
+wordpress_id: '1177'
+categories:
+ - mp3 of the day
+---
+
+[This one I won't say right here in clear text just yet][1]
+
+   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/04/01-Boston-Third%20Stage-Amanda.mp3
+

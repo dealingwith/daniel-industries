@@ -1,0 +1,22 @@
+---
+layout: post
+title: 'SWiM test 1M'
+categories:
+ - design
+---
+
+Is this going to work? Does this work? Is that possible? What will I say?
+
+
+
+What will I say in a second paragraph? This is going to go right up on the site?
+
+
+
+No one cares. No one cares that my little program works 10%.
+
+
+
+If this is on the site then 0.2 is 50%. The first option (line breaks--hey, that's all Blogger does either, and its so dern easy) of 1.2.1 is done.
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>Blogger hacked</b>
+
+I was blissfully unaware, off doing different things on the web for the entire time, but Blogger was hacked and taken offline (by Blogger, not the hacker) in order to solve the problem this morning. Should you be worried? Yes. I've changed all FTP passwords on my servers and am increasingly anxious to pull myself off this tit we call Blogger. Not much longer now and I will be moving all my blogs into my own CMS.
+
+More info: <a href="http://www.dashes.com/anil/index.php?archives/003780.php">here</a> <a href="http://rss.com.com/2100-1001-963375.html?type=pt&part=rss&tag=feed&subj=news">here</a> <a href="http://slashdot.org/article.pl?sid=02/10/25/1658229">here</a> ...this from <a href="http://evhead.com/">Ev</a> <a href="http://www.quicktopic.com/17/H/2PJzsGkTbtZR">here</a> <i>Yes, turns out things weren't nearly as bad as they looked. We're fairly confident, while the attack affected a lot of users (um...all), it was relatively trivial compared to what it could have been. All information like ftp servers, etc., is in a different database than the one compromised. And we had a backup of all the data that was changed within a couple hours.</i>
+

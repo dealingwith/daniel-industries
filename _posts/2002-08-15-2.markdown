@@ -1,0 +1,12 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.satirewire.com/news/0103/usfirst.shtml">SatireWire | U.S. Suspects World Not Putting U.S. Interests First</a>
+
+"In a stinging accusation, the U.S. today charged other nations with taking a narrow-minded "world view" and deliberately failing to consider U.S. economic interests above individual international concerns."
+
+

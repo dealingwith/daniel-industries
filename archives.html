@@ -1,0 +1,17 @@
+---
+layout: archive
+title: Archives
+---
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul></div>{% endunless %}
+    <div style="float:left; width: 400px">
+      <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
+        <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><a class="archive_link" href="{{ post.url }}" style="font-size:.9rem">{{ post.title }}</a></li>
+  {% if forloop.last %}</ul></div>{% endif %}
+{% endfor %}

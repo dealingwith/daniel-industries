@@ -1,0 +1,34 @@
+---
+author: dealingwith
+date: '2006-03-11 12:54:00'
+layout: post
+slug: sx-update-02
+status: publish
+title: sx update 02
+wordpress_id: '1094'
+categories:
+ - sxsw
+ - sxswi2006
+---
+
+Last night at midnight went to _This Film Is Not Yet Rated_ which was
+excellent. Missed my chance to see _Thank You For Smoking_, will have to
+catch that one in theatres. The line for _Rated_ was so long though, I don't
+want to know how crazy _Smoking_ was.
+
+Sitting in the Platinum Louge at the moment. The SX wireless network was
+dropping me constantly, over here I'm picking up another open one that...is
+also dropping me constantly! I think I'm going to rebuild this laptop when I
+get back to Dallas. I think it might be me, what with the network problems at
+home etc. And the main reason I've hesitated is mostly moot--my development
+environment being mostly setup on the tower.
+
+Anyhoo, free coffee and water which is very good for my still hungover self. I
+can't even focus well on far away things because I'm so dehydrated. Just went
+to _How to Do Precisely the Right Thing at All Possible Times_ which was
+ok. Meant to go to a 10 o'clock session but slept until 10:30. Now just
+killing time before the opening keynote, then I'm off to [BarCamp
+Austin][7]. Wanted to see _How to Create Passionate Users_ but it might not
+be worth the trip back to the convention center from BarCamp. Will see.
+
+   [7]: http://barcamp.org/BarCampAustin

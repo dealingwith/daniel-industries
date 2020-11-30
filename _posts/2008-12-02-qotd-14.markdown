@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-12-02 09:35:00'
+layout: post
+slug: qotd-14
+status: publish
+title: QotD
+wordpress_id: '2867'
+categories:
+ - quotable
+---
+
+From Amy, a.k.a. [Slash7][1]:
+
+> we are not resting on laurels or other vegetation
+
+Also, the post title ("Cat bag-ectomy")? Not bad, either.
+
+   [1]: http://www.slash7.com/articles/2008/12/2/cat-bag-ectomy-freckle-s-live
+

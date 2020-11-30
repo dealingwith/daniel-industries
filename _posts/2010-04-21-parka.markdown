@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2010-04-21 14:26:00'
+layout: post
+slug: parka
+status: publish
+title: Parka
+wordpress_id: '3074'
+---
+
+_I wonder if when we look back at this month of iPad if we'll think what an
+amazing moment to have lived through, or if it will be like some guy with
+sideburns telling your dad about the reel-to-reel player in his carpeted van._
+
+-- [ftrain.com][1]
+
+   [1]: http://www.ftrain.com/green-parka-and-so-on.html
+

@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 20:42:00'
+layout: post
+slug: 75-2
+status: publish
+title: '...'
+wordpress_id: '3112'
+categories:
+ - nonlinear
+---
+
+[Ted Nelson and Xanadu][1]
+
+
+   [1]: http://www.iath.virginia.edu/elab/hfl0155.html
+
+   
+

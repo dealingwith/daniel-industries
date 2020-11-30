@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2006-12-17 11:42:00'
+layout: post
+slug: '1889'
+status: publish
+title: '...'
+wordpress_id: '1889'
+categories:
+ - comedy
+ - elsewhere
+---
+
+[This][1] is pretty funny.
+
+> Haha, look at those shitty sidetables!
+
+(via [jeffro][2])
+
+   [1]: http://www.pitchforkmedia.com/article/feature/40185/Staff_List_Top_25_Worst_Album_Covers_of_2006
+
+   [2]: http://lastsecondcomeback.blogspot.com/2006/12/worst-album-covers-of-2006.html
+

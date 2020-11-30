@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-04-25 10:22:00'
+layout: post
+slug: '278'
+status: publish
+title: '...'
+wordpress_id: '278'
+---
+
+[the reasonably polite SHHH, the Society for HandHeld Hushing][1]
+
+   [1]: http://www.coudal.com/shhh.php
+

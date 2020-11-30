@@ -1,0 +1,54 @@
+---
+author: dealingwith
+date: '2009-04-07 19:51:00'
+layout: post
+slug: wiispray
+status: publish
+title: WiiSpray
+wordpress_id: '3231'
+categories:
+ - art
+ - design
+ - gaming
+ - ux
+ - video
+---
+
+[http://vimeo.com/moogaloop.swf?clip_id=3941280&server=vimeo.com&show_title=1&
+show_byline=1&show_portrait=0&color=&fullscreen=1][1]
+
+[WiiSpray Teaser][2] from [Martin Lihs ][3] on [Vimeo][4].
+
+
+[![][5]][6]
+
+> The foundational basis for the project goes well beyond replacing real
+graffiti as an art form. Moreover, WiiSpray
+
+is to be seen as an interface to give graffiti a new virtual level surpassing
+tactile boundaries of the tangible world.
+
+[WiiSpray][7]
+
+
+via @[erinmiddleton][8]
+
+
+   [1]: http://vimeo.com/moogaloop.swf?clip_id=3941280&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1
+
+   [2]: http://vimeo.com/3941280
+
+   [3]: http://vimeo.com/wiispray
+
+   [4]: http://vimeo.com
+
+   [5]: http://farm4.static.flickr.com/3444/3381330323_9ac88f14e0_m.jpg
+
+   [6]: http://www.flickr.com/photos/31708145@N05/3381330323/
+
+   [7]: http://www.wiispray.com/
+
+   [8]: http://twitter.com/erinmiddleton/statuses/1470773655
+
+   
+

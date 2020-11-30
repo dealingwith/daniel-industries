@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2007-07-02 19:01:00'
+layout: post
+slug: qotd-5
+status: publish
+title: QotD
+wordpress_id: '2218'
+categories:
+ - art
+ - lacan
+ - quotable
+---
+
+> Only a saint in his asceticism might find _jouissance_ that is not linked to
+the big Other. But there are no gallery openings for a saint's performance.
+
+[Salecl][1], 115
+
+   [1]: http://www.amazon.com/Perversions-Love-Hate-Renata-Salecl/dp/1859842364/ref=sr_1_3/002-1068956-0436006?ie=UTF8&s=books&qid=1182582014&sr=8-3
+

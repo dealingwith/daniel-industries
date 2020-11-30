@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-09-24 23:38:00'
+layout: post
+slug: mp3s-of-the-day-10
+status: publish
+title: mp3s of the day
+wordpress_id: '1687'
+categories:
+ - mp3 of the day
+---
+
+today's mp3s of the day are located [here][1]
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/09/24/
+

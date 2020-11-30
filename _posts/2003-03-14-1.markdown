@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://news.bbc.co.uk/2/hi/americas/2849439.stm">bbc news - americas - man in doghouse for stepson abuse</a>
+

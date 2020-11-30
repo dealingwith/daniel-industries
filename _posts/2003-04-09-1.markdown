@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.arianafrench.com/">artnotes by ariana french :: an art news & art history weblog</a> boo ya
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - quotable
+---
+
+<blockquote>Among his staple ingredients was the odd spoonful of a Bosnian metaphysics that was strongly opposed to the idea of nutrition or a healthy diet, being more interested in unadulterated hedonism.</blockquote>Miljenko Jergovi&#263; in <em>Sarajevo Marlboro</em>, page 40.
+

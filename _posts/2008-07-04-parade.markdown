@@ -1,0 +1,43 @@
+---
+author: dealingwith
+date: '2008-07-04 12:56:00'
+layout: post
+slug: parade
+status: publish
+title: Parade
+wordpress_id: '2690'
+categories:
+ - bicycling
+ - dogs
+ - imagining
+ - minutia
+ - pavlov
+---
+
+[![][1]][2]
+
+[Parade][3]
+
+Originally uploaded by [carissabyers][4]
+
+Was curious what I looked like, riding my fixie down the road with a dog
+attached. [He][5] survived [about a mile run each way][6] in the heat and
+caused me very little stress; he is trained to stay on my left which means he
+tried to pass behind me a couple of times after finding himself to my right,
+but mostly he stayed in front or just off to my left, neither pulling or
+crossing my path. [#][7]
+
+   [1]: http://farm4.static.flickr.com/3058/2636086823_120a776dc6_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/2636086823/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/2636086823/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+
+   [5]: http://twitter.com/pavdog
+
+   [6]: http://maps.google.com/maps?f=d&hl=en&geocode=11320741433398810390,32.853656,-96.736901&saddr=Wake+Forrest+Dr+%4032.853656,+-96.736901&daddr=32.846315,-96.745332&mra=mi&mrsp=1,0&sz=18&sll=32.846058,-96.744635&sspn=0.002398,0.002924&ie=UTF8&ll=32.849885,-96.740949&spn=0.00959,0.011694&t=h&z=16
+
+   [7]: http://carissabyers.blogspot.com/2008/07/happy-4th.html
+

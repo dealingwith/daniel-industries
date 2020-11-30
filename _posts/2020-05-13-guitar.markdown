@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Guitar"
+excerpt: "She just wanted to play that guitar"
+date: 2020-05-13 23:16:58 -0500
+categories: 
+---
+
+![](/assets/2020/05/lucy_guitar.jpg)

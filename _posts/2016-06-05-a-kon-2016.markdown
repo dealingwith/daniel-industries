@@ -1,0 +1,28 @@
+---
+layout: post
+title: "A-Kon 2016"
+excerpt: "For the second year, Minecraft U was invited to speak at A-Kon"
+date: 2016-06-05 06:18:07 -0500
+comments: true
+categories: 
+---
+
+> A-Kon...is a three-day anime convention held annually in Dallas...A-Kon is North America's longest running national anime convention... [#](https://en.wikipedia.org/wiki/Project_A-Kon)
+
+[A-Kon](http://www.a-kon.com/) was this weekend and on Friday myself and some instructors from [Minecraft U](http://www.minecraftu.org) spoke for the second year in a row. It was an honor to be asked back by A-Kon. Last year we spoke in very specific terms about our experiences in Minecraft U. This year we tried to speak more generally about gaming, education and online safety for all ages.
+
+<script async class="speakerdeck-embed" data-id="4fbedd8f311c4ebc98c07d81b28d8080" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+This was actually the third part of a three-part talk, but the first two parts made heavy use of animated gifs and so do not really work on Speaker Deck.
+
+My family came with me this year, which was fun.
+
+![](/assets/2016/06/akon0.jpg)
+
+![](/assets/2016/06/akon1.jpg)
+
+![](/assets/2016/06/akon2.jpg)
+
+![](/assets/2016/06/akon3.jpg)
+
+[Here is a Flickr search for A-kon photos from this year](https://www.flickr.com/search/?text=a-kon&sort=date-taken-desc&view_all=1&min_taken_date=1464757200&max_taken_date=1467349199&dimension_search_mode=min&height=640&width=640&media=photos).

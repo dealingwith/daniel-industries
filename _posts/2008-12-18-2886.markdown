@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-12-18 15:24:00'
+layout: post
+slug: '2886'
+status: publish
+title: '...'
+wordpress_id: '2886'
+categories:
+ - cartoon of the day
+ - comedy
+ - love
+---
+
+[![][1]][2]
+
+   [1]: http://www.gapingvoid.com/0812theday-thumb.jpg
+
+   [2]: http://www.gapingvoid.com/Moveable_Type/archives/004754.html
+

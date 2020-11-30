@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Archives"
+excerpt: "I made an archive page"
+image: "/assets/2017/10/archives.png"
+date: 2017-10-09 23:02:14 -0500
+comments: true
+categories: 
+---
+
+![](/assets/2017/10/archives.png)
+
+I made an archives page. Lots of posts. Lots of broken links. Lots of broken dreams. Lots of messed up content.
+
+It also breaks full-page screen capture tools.
+
+Link in the menu now.

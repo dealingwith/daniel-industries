@@ -1,0 +1,23 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>alt.worship explosion</i>...
+
+...just kidding...the other day when I met with Stephen I obtusely referred to alt.worship and threw a few URL's out there for him. Well, he <a href="http://faithmaps.blogspot.com/">checked them out</a> and I must say I am pleasantly surprised. (He also blogrolled me and he also writes stuff I like to read, so Stephen I will be returning the favor soon.) Influence is a funny thing and maybe, just maybe, from up here, closer to people geographically, we will make some headway in creating viable worship in the U.S. (Although there was that feeling when we were in Florida that we were extra underground, being at the butt end of the country and all and creating these super transcending installations and moving ahead free of the church and its baggage...there's that part of me that doesn't want anyone over here to "get" it...that's Scott's influence :) ...who, BTW, moved <a href="http://gravattville.com">his blog</a> and of course never told anyone...)
+
+<i>blogging</i>...
+
+Through Stephen's blog I am also realizing that this little postmod xian community is making quite a big deal about this blogging thing. Don't worry, it'll wear off. :)
+
+Bigger point: <b>content management</b> and <b>ease of publishing</b>. The web made it somewhat easy, but now content management systems, of which Blogger and Movable Type and many many others (no time to share my multitude of links with you just yet) are some, abstract your design from your content creation. That's the key: seperate the content production (blogger interface) with the content display (blogger template). Except Blogger only goes so far. There are many other more usefull technologies. Like XML.
+
+All this to say that I am building a content management solution for <a href="http://islandwatersports.com">islandwatersports.com</a>. It happens to be built in Cold Fusion, but with the data stored in a database <i>and</i> XML. But I am going to create a portable content management system from my work for them and my work for danielsjourney. It will look like this: data gets stored in XML on your server. Data gets processed through PHP. Design stays in a template. Additional fields like title, image1, image2, link1, link2, etc. It would allow you to create an entire site updateable through one interface. A content management system, in other words. For example every area of my site will be based around this model, and anyone could pull the picture of the day, or the blog, or the daily serial off my site and use it on their site. I'm going to write a web interface for it to start with, but might write a desktop application which would let you write to your blog all day long offline, then upload all your updates at the end of the day when yer online. I'm also going to implement this at <a href="http://sevenmagazine.org">sevenmagazine</a>.
+
+All <i>that</i> to say, everyone might want to wait because it's going to rock; but I can't promise how soon I'll get it going and perfected. Right now I'm still working out the bugs in <a href="current.xml">my XML</a>/PHP blog (like permalinks)...but once it's done I would love to give it to a bunch of people to get the word out and perfect it further...
+
+Or you can just check out <a href="http://www.movabletype.org/">moveable type</a> or <a href="http://brandbenbrown.com/">ben brown</a>. Both seem good but not perfect for me (when I can write one myself).
+

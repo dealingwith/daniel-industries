@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-06-13 17:54:00'
+layout: post
+slug: '2200'
+status: publish
+title: '...'
+wordpress_id: '2200'
+categories:
+ - quotable
+---
+
+> A friend is someone who will bail you out of jail. But your best friend is
+the one sitting next to you in jail, saying "mate, that was fucking awesome".
+
+[Wake Up Tiger][1]
+
+   [1]: http://wakeuptiger.blogspot.com/2007/06/best-friend.html
+

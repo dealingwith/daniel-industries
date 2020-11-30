@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'u2 log'
+categories:
+ - elsewhere
+---
+
+
+<a href="http://www.u2log.com/">u2log.com</a> (via <a href="http://ellensjourney.org/stranger/">ellen</a>)

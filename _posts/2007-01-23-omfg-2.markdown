@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2007-01-23 10:26:00'
+layout: post
+slug: omfg-2
+status: publish
+title: OMFG
+wordpress_id: '1952'
+categories:
+ - brilliant
+ - information
+ - innovation
+ - ir
+ - ui
+ - video
+---
+
+[a movie depicting several prototype applications for Jeff Han's famous multi-
+touch display][1]
+
+   [1]: http://infosthetics.com/archives/2007/01/jeff_han_multi-touch_display_demo_applications.html
+

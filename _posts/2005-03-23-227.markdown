@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-03-23 00:49:00'
+layout: post
+slug: '227'
+status: publish
+title: '...'
+wordpress_id: '227'
+---
+
+[David Gibson][1]
+
+   [1]: http://www.valleyhouse.com/index.asp?main=bio.asp?artistid=8
+

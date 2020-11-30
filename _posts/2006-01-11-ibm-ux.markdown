@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2006-01-11 10:00:00'
+layout: post
+slug: ibm-ux
+status: publish
+title: IBM != UX
+wordpress_id: '856'
+---
+
+You know, god bless 'em, but [Big Blue][1] have an even harder time creating
+decent user interfaces than [MS][2]
+
+   [1]: http://www.ibm.com
+
+   [2]: http://www.microsoft.com
+

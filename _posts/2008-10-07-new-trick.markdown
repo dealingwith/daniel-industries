@@ -1,0 +1,37 @@
+---
+author: dealingwith
+date: '2008-10-07 12:21:00'
+layout: post
+slug: new-trick
+status: publish
+title: New-trick
+wordpress_id: '2813'
+categories:
+ - dogs
+ - elsewhere
+ - imagining
+---
+
+[![][1]][2]
+
+[New-trick][3]
+
+Originally uploaded by [fast boy][4]
+
+[the set][5]
+
+
+wants to take [the dogs][6] somewhere country and cold!!
+
+   [1]: http://farm4.static.flickr.com/3289/2915673713_ae2f69345a_m.jpg
+
+   [2]: http://www.flickr.com/photos/fastboy/2915673713/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/fastboy/2915673713/
+
+   [4]: http://www.flickr.com/people/fastboy/
+
+   [5]: http://www.flickr.com/photos/fastboy/sets/72157607598225552/
+
+   [6]: http://flickr.com/photos/carissabyers/sets/72157607431716599/
+

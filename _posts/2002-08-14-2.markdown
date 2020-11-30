@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+D: "Hi my name is Daniel and I've been broadband-free for 6 weeks."
+
+BA: "Hi, Daniel!"
+

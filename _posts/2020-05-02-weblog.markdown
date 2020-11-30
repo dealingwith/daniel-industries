@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Web Log"
+excerpt: "Yet another (small) collection of links"
+date: 2020-05-02 10:19:46 -0500
+categories: 
+---
+
+[Roderick on the Line Ep. 380: "The Impossible Me"](http://www.merlinmann.com/roderick/ep-380-the-impossible-me.html)
+
+This is my favorite podcast and this might be my favorite episode (at least top 5). Specifically "Act 2", which if your podcast player supports it, you can skip to if you like. There's too much of the good stuff to transcribe, unfortunately. Here're are a few small bits of gold, however:
+
+>The CEO of your company is only the CEO because he is the most sociopathic person that happened to be standing around that day.
+
+>In America, if you're a narcissist who shows up, you're going to do fine.
+
+...
+
+>If this [COVID-19] comes back super hard over the summer because you wanted to be able to go get an Auntie Annie's pretzel...that's not normal, that's mental!
+
+---
+
+[Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+
+>Spotify doesn’t use “the Spotify model”
+and neither should you.
+
+"The Spotify model" always bothered me as a benchmark of how to do software engineering process and when it was touted around the office as some kind of brilliant idea I would give a side-eye and say "we'll see". (This is one of my signature responses to new process ideas.) This article does a really good job of explaining why it's not quite right.

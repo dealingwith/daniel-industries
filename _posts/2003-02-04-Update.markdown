@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'Update'
+categories:
+ - minutia
+---
+
+Just updated <a href="http://design.danielsjourney.com">design.danielsjourney.com</a> and added a "principles" page to it. I liked the old design but am slowly bringing everything into a consistent look. The deal is, static pages are getting done a while so I can forget about them. Pages that are going to be dynamic require SWM, which is still not finished. This is why I haven't had any link love for all of you out there with a website. Sorry 'bout that. That will be the first page to go up when all is ready.
+

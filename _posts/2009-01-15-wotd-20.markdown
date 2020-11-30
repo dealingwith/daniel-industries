@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2009-01-15 12:19:00'
+layout: post
+slug: wotd-20
+status: publish
+title: WotD
+wordpress_id: '2915'
+categories:
+ - word of the day
+---
+
+[Mien][1]
+
+   [1]: http://dictionary.reference.com/browse/mien
+

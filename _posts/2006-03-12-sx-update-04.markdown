@@ -1,0 +1,31 @@
+---
+author: dealingwith
+date: '2006-03-12 12:18:00'
+layout: post
+slug: sx-update-04
+status: publish
+title: sx update 04
+wordpress_id: '1099'
+categories:
+ - sxsw
+ - sxswi2006
+---
+
+I think my count was 9 drinks last night. So yeah, I'm hungover again today.
+Same sleep schedule as the previous night as well, 3-10:30, not even looking
+at the 10:00 panel lineup because...well, I'm realizing the futility of 10
+a.m. panels.
+
+Last night was the pleasant surprise of a [Happy Bullets][1] show a little
+outside of the sxsw milieu, and it was, as usual, an excellent show.
+
+So I went to the [Tagging 2.0][2] panel just now and damnit with a name like
+that I should have known better. It sucked, and I made the additional stupid
+decision to sit way up front (because it was packed with people sitting on the
+aisles), so when I left I had to walk quite a ways.
+
+   [1]: http://happybullets.com/
+
+   [2]:
+http://2006.sxsw.com/interactive/programming/panels/?action=show&id=IAP060072
+

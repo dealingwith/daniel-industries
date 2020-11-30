@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'I know'
+categories:
+ - quotable
+---
+
+<blockquote>Random twenty-something male on cell phone: "I know you want to hook up with me and we both know she wants to hook up with me, so..."</blockquote>
+
+
+--<a href="http://nando1119.blogspot.com/2003_07_27_nando1119_archive.html#105960847588666928">random</a>

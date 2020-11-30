@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-10-04 23:55:00'
+layout: post
+slug: mp3-of-the-day-19
+status: publish
+title: mp3 of the day
+wordpress_id: '1720'
+categories:
+ - mp3 of the day
+---
+
+[The Polyphonic Spree - Lithium (Nirvana cover)][1]
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/10/The%20Polyphonic%20Spree%20-%20Wait%20-%204%20-%20Lithium.mp3
+

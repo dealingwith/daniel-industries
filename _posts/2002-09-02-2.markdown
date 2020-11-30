@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.photodude.com/index.shtml">PhotoDude's Web Log: Brain Dump & Pixel Pile</a>
+
+<img alt="Color Swatch" src="http://www.photodude.com/weblog/dumped/jacksonswatch.jpg" width="160" height="70" border="0" />
+

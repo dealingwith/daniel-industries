@@ -1,0 +1,12 @@
+---
+author: dealingwith
+date: '2005-06-25 11:52:00'
+layout: post
+slug: test
+status: publish
+title: test
+wordpress_id: '363'
+---
+
+does this thing work? heheh.
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.fadingad.com/index.html"><img src="http://www.fadingad.com/023.gif" align="left" border="0">Fading Ad Campaign</a>
+
+This is a cool online photo exhibit by a gay, married, HIV-positive artist with cancer.
+

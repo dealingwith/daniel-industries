@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Numbers"
+excerpt: "In which I try to gain perspective on the magnitude of this crisis"
+date: 2020-04-25 08:41:56 -0500
+categories: 
+---
+
+[As U.S. coronavirus death toll tops 51,000, handful of states move toward reopening](https://www.reuters.com/article/us-health-coronavirus-usa/as-u-s-coronavirus-death-toll-tops-50000-handful-of-states-edge-toward-reopening-idUSKCN22622M)
+
+>The U.S. death toll from COVID-19, the highest in the world, surpassed 51,000 on Friday, having doubled in 10 days, according to a Reuters tally, and the number of Americans known to be infected surpassed 900,000.
+
+More up-to-date number: [52,234](https://twitter.com/AndyBiotech/status/1253859071050108930)
+
+### Total U.S. Deaths in Context
+
+|Event|Deaths|
+|-----|------|
+|Civil War|750,000|
+|1918 H1N1 Virus|675,000|
+|World War II|405,399|
+|World War I|116,516|
+|1968 H3N2 Virus|100,000|
+|Vietnam War|58,209|
+|Korean War|54,246|
+|COVID-19|52,234|
+|Revolutionary War|25,000|
+|2009 Swine Flu|12,469|
+
+...so very soon, COVID-19 will have killed more people than those who died in the Korean War or the Vietnam War, and eventually will likely eclipse U.S. deaths in World War I.
+
+Washington made the first announcement of a death from the disease in the U.S. on February 29 and later announced that two deaths there on February 26 were also due to COVID-19.
+
+That's 52,234 deaths in 59 days, or 885 deaths per day.
+
+US participation in World War I lasted from April 6, 1917 to November 11, 1918--584 days. That's 200 deaths per day.
+
+There are over four times more people dying every day from COVID-19 than there were dying per day during World War I.
+
+![](/assets/2020/04/lusitania-coffins_2898200k.jpg)
+
+_^ 1915_
+
+![](/assets/2020/04/EVQBgX8VAAE1Wp5.jpg)
+
+_^ 2020_
+
+### "...but the economy"
+
+>...stay-at-home orders and business closures have thrown more than 26 million people out of work, a level of unemployment not seen since the Great Depression of the 1930s.
+
+[Life and death during the Great Depression](https://www.pnas.org/content/106/41/17290)
+
+>...mortality tended to peak during years of strong economic expansion (such as 1923, 1926, 1929, and 1936–1937). In contrast, the recessions of 1921, 1930–1933, and 1938 coincided with declines in mortality and gains in life expectancy...Correlation and regression analyses confirmed a significant negative effect of economic expansions on health gains. The evolution of population health during the years 1920–1940 confirms the counterintuitive hypothesis that, as in other historical periods and market economies, population health tends to evolve better during recessions than in expansions.
+
+[Great Depression Had Little Effect on Death Rates](https://www.smithsonianmag.com/science-nature/great-depression-had-little-effect-on-death-rates-46713514/)
+
+>Two causes of death did correlate with the pattern of bank suspensions: suicide rates rose but motor vehicle accidents declined, so much so that they outweighed the increase in suicides.
+
+---
+
+>[...there are more important things than living and that’s saving this country for my children and my grandchildren...](https://twitter.com/i/status/1252972712437452800)
+
+I considered expanding on my response to the above, "Capitalism is a weird Higher Power," but I think I'll just continue to leave it at that.

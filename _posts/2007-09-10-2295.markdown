@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2007-09-10 20:15:00'
+layout: post
+slug: '2295'
+status: publish
+title: '...'
+wordpress_id: '2295'
+categories:
+ - comedy
+ - elsewhere
+ - women
+---
+
+[heh][1]
+
+   [1]: http://www.tmcm.com/comics/webcomics/tmcm070910
+

@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2005-04-24 11:07:00'
+layout: post
+slug: '274'
+status: publish
+title: '...'
+wordpress_id: '274'
+---
+
+[Technologists consume Big-Gulp-loads of information, and write, code, and
+edit reams of output][1]. Author Charlie Stross notes that he reads and
+digests more in his morning bookmarks than most literate 18th-century readers
+would process in a year. Linus Torvalds and other open source leaders hold
+down day jobs, and still have time to create wonders in their spare time.
+Everyone at ETech juggles amounts of email that would stun an ox.
+
+   [1]: http://conferences.oreillynet.com/cs/et2004/view/e_sess/4802
+

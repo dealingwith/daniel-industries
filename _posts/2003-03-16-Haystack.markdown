@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Haystack'
+categories:
+ - design
+---
+
+<a href="http://haystack.lcs.mit.edu/index.html">Haystack</a> is a very interesting PIM based on RDF coming out of MIT. (Enough 3 letter acro's there? How about this: it all relates somehow to SWM. :) Of particular interest is their <a href="http://haystack.lcs.mit.edu/publications.html">publications</a> section. Grrr.
+
+
+
+Figure 7 of <em>RDF Authoring Environments for End Users</em> struck a thought: This uberPIM that I've had in this little humble brain of mine since summer of 2001 comes from a graphic place like the classic org chart, or a Visio diagram, but it zaps it with a nonlinear paradigm and kills the hierarchy in preference to a molecular paradigm, where any atom can relate to any other without any kind of hegemony. Very hard to explain textually, need some graphics, but I'm not sure I want to even go there right now. If this makes sense to anyone and spikes your interest, do contact me. Point is, if SWM is an RDF mCMS for the web with a desktop client, it can then grow into the uberPIM that I have been thinking of, and it will be a natural progression. If groups like this one at MIT keep making interesting RDF based toolsets it could be a very bright future indeed.
+

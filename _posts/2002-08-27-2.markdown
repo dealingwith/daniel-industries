@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+also will hopefully get some images which will help tell thousands of words...
+

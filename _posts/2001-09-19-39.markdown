@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2001-09-19 22:30:00'
+layout: post
+slug: '39'
+status: publish
+title: 'Nonlinear: Christopher Nolan'
+wordpress_id: '3093'
+categories:
+ - nonlinear
+---
+
+Christopher Nolan wrote and directed a film called Momento. Momento has one storyline that starts at the "end" and goes backward, and another that starts at the "beginning" and goes forward. It's non-linear. It's cool. It's ahead of its time. But that's what makes it so cool. And storytelling is only getting more and more non-linear.
+
+From an interview on BBC Online by David Wood:
+
+> Wood: The film takes a non-linear approach toward narrative...
+
+> Nolan: Film makers should be able to experiment with narrative without alienating the audience and without creating something that's impenetrable. I actually see myself as a very mainstream film maker and always have. Even though you aren't going to get the answers to all of the questions in the film and it is a kind of unsettling film in lots of ways, if you watch it a couple of times it's pretty much all in there. One of the things I've been most satisfied by the film - after having now watched it with various festival audiences - is that it really lives on in people's heads.
+
+From a review by Joe McGovern:
+
+> Memento, resultantly, is both a tautly wound, if occasionally potmarked, psychological brain-teaser and an imaginative, near-fully realized experiment in bent-backwards narrative storytelling...Opening with its epilogue, the movie has almost no discernible structure. While comparisons have been made to Harold Pinter’s play Betrayal, in which the action starts at the end and then tracks back each consecutive scene until it gets to the beginning, Nolan pledges that it was not one of his influences. And that would make sense, since the purpose of Memento’s non-linear narrative is to illustrate the frenzy and perversion of the world through the eyes of someone with such a condition, while Pinter’s goal was more or less to show the long-term degeneration of a relationship in reverse.
+
+Best quote from the movie:
+
+> How can you begin to heal if you can’t feel time?

@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2009-04-18 11:43:00'
+layout: post
+slug: '2989'
+status: publish
+title: '...'
+wordpress_id: '2989'
+categories:
+ - twitter
+---
+
+![][1]
+
+> The king of Twitter isn’t amused.
+
+[Urlesque][2]
+
+   [1]: http://13.media.tumblr.com/CR8X4s9J1mele0wkiN1AaHMSo1_400.jpg
+
+   [2]: http://urlesque.tumblr.com/post/97209897/the-king-of-twitter-isnt-amused
+

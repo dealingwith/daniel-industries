@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-02-25 12:04:00'
+layout: post
+slug: '200'
+status: publish
+title: '...'
+wordpress_id: '200'
+---
+
+[http://www.google.com/alerts][1]
+
+   [1]: http://www.google.com/alerts
+

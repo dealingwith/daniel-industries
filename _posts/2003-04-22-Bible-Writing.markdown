@@ -1,0 +1,126 @@
+---
+layout: post
+title: 'Bible Writing'
+categories:
+ - fiction
+---
+
+...or not? {historical}
+
+
+<b>Christmas 2001</b>
+
+a short story by daniel miller 
+
+
+
+I remember Mary and Joseph. They were a nice couple. It took Joseph forever to finally pop the question.
+
+
+
+You see, they met at our church, a medium-sized un-affiliated Baptist, the only church in a nothing-special midwestern town of 1,277. Our town doesn't have much time for church, or for semi-stable interpersonal groupings at all for that matter. It exists primarily as a pass-through for the cattle drivers; there are stables for the old-fashioned kind and truck stops for the modern ones. One of the stables bought some bleachers in 1953 and has since hosted a mid-sized rodeo that draws a statewide crowd in June.
+
+
+
+You see, Mary and Joseph ho-hawed for quite some time, seeing each other in church when they both showed up on the same Sunday. There seemed to be this tension between the two that suggested that if they remained in the same physical proximity for too long, flammable objects located nearby would start to spontaneously combust.
+
+
+
+So you see, it wasn't much surprise to us church regulars when, soon after getting engaged, it turned out that Mary was pregnant. My wife and I had been trying to have a baby for years and grumbled about how it's always the people that don't want kids that have them, and the people that want them can't. There was of course a church board meeting that, despite its agenda, was almost wholly devoted to the topic of Mary's pregnancy. 
+
+
+
+For a while there you see, things became really difficult. We suggested that they go ahead with the marriage, and simply get it over with very quickly, or wait until after the birth. The problem was, however, that Joseph was insisting that the baby wasn't his. We tried to assure him that he was forgiven and that we did not judge him for his actions, but that it was important that he take responsibility for them. After a couple weeks of this, Mary and Joseph finally decided to go together to her parent's place back East to give birth to their son. They had a very simple, small ceremony at the church and left that very afternoon. There was still a slight hint of stress behind Joseph's eyes.
+
+
+
+But you see, upon their return some months later, things seemed remarkably different. The baby was a beautiful baby boy, one whose smile could light up the room; indeed just the presence of baby Jesus, as Mary and Joseph had so oddly named him, seemed to uplift all those around. But Joseph's attitude seemed absolutely reversed. He was now a proud father, beaming about his son to any who would look like they were listening. Mary, too, had been somehow transformed into the most determined mother of the year award. We wondered if there was something magical about "back East" or if they had seen a vision somewhere on the road through Ohio, but for the most part we just shrugged our shoulders and moved on.
+
+
+
+So you see, it wasn't much surprise to me when a little stick of a boy, Jesus, showed up at one of our church board meetings last week...
+
+
+<hr>
+
+
+<b>Jesus, Terrible and Munificent</b>
+
+(another bible writing by daniel)
+
+
+
+It was a strange time, 2001. It was even stranger in the city. No where else could you find such a diversity of things and people smashed into such a small geographic location. The variety of smells, sights, tastes and feelings made for a strange integration unlike any other experience available to human kind. Some people flourished in it, the speed of life, the chaotic nature of the streets. Others couldn't cope with it, finding the barrage on their senses too overwhelming. However it was in this setting that Jesus, the mysterious and bold man from Vegas, decided to make his final stand.
+
+
+
+New York was much as it is now, a home to thousands, a vestige of the arts, a spectrum of lifestyles from the multi-million-dollar Manhattan penthouses to the projects in Queens. It was also the place where the greatest thinkers of the day went to learn, and be learned from. It was where movements began, but also where they ended.
+
+
+
+Jesus came to town with a small band of devotees, after making a pilgrimous journey from Vegas. He traveled by any means available, walking, hitching, hoboing, he even took a charter bus in from Philly when it came time to arrive in the Big Apple. He also gathered some people during his journey: a couple of cattlemen from Denver, their hippie friends from Boulder, even an IRS agent in St. Louis. They all took extended sabbaticals to hang out with this guy with the big, bright aura.
+
+
+
+Immediately upon his arrival into town, people were skeptical of the Vegas showboat. Surely he was no different than everything else that came out of sin city. He was supposedly performing some miracles in the Bronx, but the only people who witnessed them were unreliable at best: Jesus was fond of hanging out with drug dealers, shysters, con-men, pimps, dirty landlords, sweatshop owners, abortion doctors. But he was especially fond of hanging out with their victims, people of desperation: addicts, street walkers, welfare-dependents, pregnant girls who had no intensions on keeping their babies, residents of those million-dollar hotels scattered all over this supposedly-great country's urban landscapes. He even took time to visit Mumia Abu-Jamal when he passed through Philly the week before coming to NYC.
+
+
+
+He would say the strangest things. He would be spending time with these aforementioned people, even cohabitating with them, but at the same time admonish the crowds at his speeches that sleeping with a women in your mind is the same as sleeping with her in reality. He would say other things that seemed to relate to our behaviors, but in a way no one could understand. It was like he was taking the art of storytelling to a new and inconceivable level where the normal well-composed and clear endings were exchanged for strange and confusing tangents into space.
+
+
+
+And maybe it was the mystery of his character that made Jesus so popular among his chosen constituency. The supposed miracles combined with the sublime speech writing and eccentric travel and housing practices made his public persona become quite the flavor of the month. Even in the high offices of International and 32nd his name was whispered around the water cooler (particularly after his tirade inside the 5th and 32nd Starbucks). However it was his religious underpinnings that made him the enemy of many, and the target of their own public platforms.
+
+
+
+The first to be offended, and the quickest to cry out for public anger against Jesus, was the so-called &quot;religious right.&quot; Pat Robertson was one of the first to respond, crying out with anti-Jesus rhetoric through both his Christian Coalition organization and his 700 Club television program. In fact, his 700 Club feature documentary, &quot;Jesus: Subversive Sin Supporter,&quot; was rebroadcast three weeks in a row and viewed on the Internet over half a million times. It's follow-up, &quot;Son of Slepian,&quot; focused on Jesus' relationship with a notorious NYC abortion-clinic doctor, who has been targeted by anti-abortion groups as the 'next Dr. Barnett Slepian' (the Buffalo doctor who was murdered by a sniper in 1998).
+
+
+
+Jerry Falwell spoke out against Jesus, citing his practices as contrary to Falwell's own mission of &quot;healing the wounds of immorality and godlessness in our nation.&quot; According to Falwell, Jesus' friendship with &quot;the world&quot; ran contrary to the standards of moral purity that were to be practiced by those of religious fervor. Focus on the Family's James Dobson spoke frequently on his radio program about the dangers of Jesus' teachings. Among his numerous admonishments of Jesus was this one concerning attitudes towards AIDS: 
+
+
+
+"We and other pro-family organizations are concerned about the teachings of Jesus about AIDS. For Jesus to associate with (head of the White House AIDS office and professing homosexual) Mr. Evertz is to advance a fundamental misunderstanding of what causes AIDS in this country. These associations send a disturbing message that the problem of AIDS can be resolved without dealing with the promiscuity of many in the homosexual life. As long as that lie is perpetuated, Jesus cannot successfully claim any moral standing among righteous citizens of this once-great nation. I hope Jesus will reconsider the potentially harmful message he is sending Americans regarding the issue of homosexuality.&quot;
+
+
+
+It seemed to humor Jesus at times, at other times infuriate him, that his small enterprise in the dirty streets of New York's poorest neighborhoods would illicit such a strong reaction from such powerful players in the American religious arena. He made snide remarks in response to their media attacks towards him:
+
+
+
+&quot;You sorry people! You pay your money to these organizations, you spend your days plotting against those doing 'evil' in our fair streets, but you don't know the first thing about love or justice! You leaders, you love sitting in front of your throngs of followers, you bask in the glory of your petty culture, but you are really ignored by society, cast aside like forgotten graves...You all honor yourselves, and exalt in your enterprises; but what I'm saying is you will die, and these that you call 'worthless' and 'pathetic' and 'immoral' will live forever.&quot;
+
+
+
+Some say it was his messianic complex and his bold claims about God that did him in, others say that it was the rate at which his following amassed (although no one could say that it was a large following by anyone's standards--there were still more people at the Phish concert in Madison Square Garden than there were at all of his speeches in Central Park), still others said that he had a death wish. I think it was fate. 
+
+
+
+One day in late 2001, after Jesus' movement had already been recently discounted and ignored by most New Yorkers, he led a small, quiet march from Queens all the way into Manhattan. Police were dispatched to the scene, for what reason I do not know. They were determined to prevent Jesus and his group from entering Manhattan, perhaps because of the mayoral campaigning occurring there (some say it was the Mayor of New York, the paunch former Navy pilot, who personally commanded the police to deploy). Before the marchers even arrived in the city, the police greeted them with teargas. As they struggled to breathe amongst the toxic fumes, the police rushed in with gas masks and riot gear in full effect. The entire mob rushed away, but for some reason Jesus remained hunched over in the middle of the street, a solitary figure silhouetted in the fog. 
+
+
+
+...The beating went on for what seemed like eternity, until even the smoke lifted, and passer-byers amassed to see what was going down. More cops joined in, and in a bizarre series of events, just as it seemed that the beating had stopped, a uniform who had just arrived, gun drawn, fired a single shot into Jesus' chest. He died instantly. It will never be known whether Jesus would've survived anyway, the blood gushing out of his gunshot wound simply added to the already thick spill growing underneath his indistinguishable body, and many say it was for the best, anyway, to end his misery. 
+
+
+
+No charges were ever pressed against the cop who pulled the trigger, or any other law enforcement, for that matter. No large protests marked this clear violation of human rights. Small groups met in homes afterward, to solemnly remember the atrocity with candles and tears. A prostitute was the only one to come forward and identify the body at the morgue (drawing sarcastic and disdainful scorn from the religious sector), and she and Jesus' mother (who had recently flown in from Vegas to be with her son) were the only two to make funeral arrangements. He was buried in a tiny graveyard near the docks, with no priest and only a few friends present.
+
+
+
+Days later, rumors began about people seeing Jesus again. One had him walking through a wall as his former followers commiserated about their ruined lives in one of their dirty apartments in the Bronx. Eventually it seemed that everybody had seen Jesus at some point or another after his death. Everybody except me.
+
+
+
+Now there are groups meeting all around the city, talking about what Jesus was and what he represented. There are even a few guys trying to write down what he said, and some more writing down what they think he would say now. Some people are even talking about him in their everyday conversation, trying to get other people involved in their &quot;Way.&quot;
+
+
+
+For the rest of us, though, Jesus will always remain an enigma. He seemed to have something that everybody else, including myself, I must admit, wished they had. As I look back on his mysterious life, and his equally inexplicable post-death appearances, I am left with a lot to ponder. Above all, I am left to ponder my own life...
+
+
+
+
+(based on the Biblical stories of Jesus' life)

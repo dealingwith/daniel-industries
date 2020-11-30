@@ -1,0 +1,53 @@
+---
+author: dealingwith
+date: '2008-04-10 14:11:00'
+layout: post
+slug: uwe-boll
+status: publish
+title: Uwe Boll
+wordpress_id: '2579'
+categories:
+ - distributed knowledge
+ - elsewhere
+ - movies
+ - oddities
+ - people
+ - pissing people off
+ - quotable
+ - video
+---
+
+[Uwe Boll (Wikipedia)][1]:
+
+> Boll is able to acquire funding thanks to German tax laws that reward
+investments in film. The law allows investors in German-owned films to write
+off 100% of their investment as a tax deduction; it also allows them to invest
+borrowed money and write off any fees associated with the loan. The investor
+is then only required to pay taxes on the profits made by the movie; if the
+movie loses money, the investor gets a tax writeoff.
+
+...
+
+> We, the undersigned, respectfully ask that Uwe Boll give proper weight to
+the wishes of the video game community, the horror community, and the film
+going community in general and stop directing, producing, or taking any part
+in the creation of feature films. His distasteful handling of the subject
+matter and lack of acknowledgement of his failures simply [cannot be abided
+any longer][2].
+
+[Uwe Boll responds to petition (YouTube) (NSFW audio)][3]
+
+You'll notice from the wikipedia entry that he also has a doctorate in
+literature. I'm always fascinated by conflicts in public narratives--perhaps
+more so because they always exist. I have never seen any of his movies before;
+I might have to indulge in order to figure out if there is genius or just
+wankery going on here. [via epicfu][4]
+
+   [1]: http://en.wikipedia.org/wiki/Uwe_Boll
+
+   [2]: http://www.petitiononline.com/RRH53888/petition.html
+
+   [3]: http://www.youtube.com/watch?v=WWqCNmfJ1hY
+
+   [4]: http://feeds.feedburner.com/~r/epicfublog/~3/267645423/uwe-boll-wants-you-to-look-har.html
+

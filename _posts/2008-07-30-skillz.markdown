@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2008-07-30 21:43:00'
+layout: post
+slug: skillz
+status: publish
+title: Skillz
+wordpress_id: '2725'
+categories:
+ - imagining
+ - minutia
+---
+
+[![][1]][2]
+
+[Skillz][3]
+
+Originally uploaded by [carissabyers][4]
+
+
+   [1]: http://farm4.static.flickr.com/3227/2717957119_3039670f63_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/2717957119/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/2717957119/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+

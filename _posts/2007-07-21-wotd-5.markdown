@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2007-07-21 10:45:00'
+layout: post
+slug: wotd-5
+status: publish
+title: WotD
+wordpress_id: '2240'
+categories:
+ - word of the day
+---
+
+[Probity][1]
+
+   [1]: http://dictionary.reference.com/search?r=10&q=probity
+

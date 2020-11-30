@@ -1,0 +1,39 @@
+---
+author: dealingwith
+date: '2008-12-04 15:53:00'
+layout: post
+slug: wotd-17
+status: publish
+title: WotD
+wordpress_id: '2873'
+categories:
+ - design
+ - development
+ - wankers
+ - word of the day
+---
+
+[Bikeshedding][1]
+
+> It comes from [Parkinson's Law][2] by C. Northcoate Parkinson. He describes
+how a planning board will approve spending millions of dollars to build an
+atomic power plant but if you go to them to get approval to build a bike shed
+they will argue endlessly. The problem being that the atomic power plant is so
+large, complex, and difficult to understand that no one can really argue about
+how exactly it is done. On the other hand, everyone knows what goes into a
+building a bike shed and so everyone feels qualified to argue about the
+details.
+
+For some reason, technical discussions seem to be particularly susceptible to
+bikeshedding.
+
+via @[therealadam replying to][3] [my griping][4]
+
+   [1]: http://xarg.net/blog/one-entry?entry_id=20005
+
+   [2]: http://www.amazon.com/exec/obidos/ASIN/0141186852
+
+   [3]: http://twitter.com/therealadam/status/1038929977 (See also,'bikeshedding'. Further, that button really is too small.)
+
+   [4]: http://twitter.com/dealingwith/status/1038924419 (The problem withbeing a user interface expert is that everyone is a goddamn user interfaceexpert.)
+

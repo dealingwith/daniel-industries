@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2008-02-03 15:30:00'
+layout: post
+slug: wotd-10
+status: publish
+title: WotD
+wordpress_id: '2470'
+categories:
+ - word of the day
+---
+
+[caprioles][1]
+
+[via this fun little exchange][2] (I'm dumping you into the middle, where the
+word is used) [via joshuarudd][3]
+
+   [1]: http://dictionary.reference.com/search?q=caprioles
+
+   [2]: http://blogs.msdn.com/stevecla01/archive/2008/02/03/information-architects-all-change.aspx#7414724
+
+   [3]: http://twitter.com/joshuarudd/statuses/673506932
+

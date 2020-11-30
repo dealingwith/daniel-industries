@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Hi-Ya'
+categories:
+ - minutia
+---
+
+<img src="images/clean.jpg">
+
+
+
+This week M and I are taking the course I probly can't tell you anything about. Suffice it to say it's fun. In a clinical-paranoia-inducing kinda way. :)
+

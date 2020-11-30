@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2008-02-18 10:58:00'
+layout: post
+slug: '2489'
+status: publish
+title: '...'
+wordpress_id: '2489'
+categories:
+ - elsewhere
+ - humanity
+ - quotable
+---
+
+[Clinton is MSFT, Obama is Google][1]...
+
+> Clinton is an OS - request a feature and it will be considered, then
+prioritized for a four-year release cycle. Obama is an API - if you want
+something, build it.
+
+Clinton is the familiar new IBM CEO, appointed by the Board of Directors
+because they all sit together on Pepsico's board. Obama is the start-up CEO -
+you'll quit your job to be employee #6 because you get to be part of the
+solution.
+
+   [1]: http://elapsedtime.blogspot.com/2008/02/clinton-is-msft-obama-is-google.html
+

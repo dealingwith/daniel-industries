@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.deviantart.com/">deviantART : where ART meets application :: oderint dum metuant</a>
+

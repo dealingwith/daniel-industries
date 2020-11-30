@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-06-16 14:32:00'
+layout: post
+slug: '2201'
+status: publish
+title: '...'
+wordpress_id: '2201'
+categories:
+ - concept of the day
+ - personal notes
+---
+
+[![][1]][2]
+
+   [1]: http://danielsjourney.com/blog/files/2007/06/WuWei1.jpg
+
+   [2]: http://en.wikipedia.org/wiki/Wu_wei
+

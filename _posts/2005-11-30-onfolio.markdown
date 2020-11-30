@@ -1,0 +1,56 @@
+---
+author: dealingwith
+date: '2005-11-30 10:33:00'
+layout: post
+slug: onfolio
+status: publish
+title: Onfolio
+wordpress_id: '765'
+categories:
+ - cms
+ - design
+---
+
+[RSS and Onfolio in USA Today][1] :
+
+> You known something is going mainstream when it hits the hotel floors,
+airport lounges and bathroom stalls in everyone’s favorite quick read – USA
+Today. Yesterday, they had a useful piece by Anh Ly called; RSS feeds college
+students' diet for research.
+
+Not feeling it. Trying to do too much. Solution in search of a problem. Well,
+the problem is there, but I don't see how this is adding any value or
+providing a terribly useful solution.
+
+Need to jot down more of my thinking re: distributed-to-centralized CM/KM/CMS
+(ala Benson).
+
+» I [del.icio.us'd][2] JJ Alaire's [Onfolio][3] a while back, and finally had
+a chance to check it out today.
+
+big thumbs down.
+
+Maybe it's because I'm trying to solve the same problem and coming at it
+slightly differently. Maybe it's because everyone's brain works differently
+and this has to do a little with mapping ones brain. But to say that [the
+aggregator is the one you've "been waiting for"][4] is a bit over the top... I
+hated the aggregator in particular, and couldn't intuitively or quickly
+integrate any other content. Besides, what good is local content anyway, then
+local content I can't organize and annotate the way I want to (like, how we
+all are doing it now, through our blogging apps/backpack/del.icio.us etc)?
+
+It's not worth the time to ennumerate all my issues/what-I-would-consider-bugs
+with the tool. Overall, it's UI is pretty but unusable more so than not.
+
+More can be found [following a few links][5]
+
+   [1]: http://onfolio.typepad.com/onfolioblog/2005/08/rss_and_onfolio.html
+
+   [2]: http://del.icio.us/dealingwith/blogs+business+cms+KM+productivity+rss+search+software+tags+technology+tools+web+SWIM
+
+   [3]: http://onfolio.com/
+
+   [4]: http://radio.weblogs.com/0001011/2004/11/03.html#a8572
+
+   [5]: http://del.icio.us/search/?all=onfolio
+

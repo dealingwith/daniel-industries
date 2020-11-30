@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2007-01-05 20:55:00'
+layout: post
+slug: '1926'
+status: publish
+title: '...'
+wordpress_id: '1926'
+categories:
+ - local
+ - minutia
+ - music
+---
+
+Johnny Citizen is going to be coming out of the closet.
+

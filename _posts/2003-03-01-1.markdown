@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - quotable
+---
+
+<blockquote>Street food vendors have special "Crusaders Only" menu.</blockquote>--From a secret source in an Arab country
+

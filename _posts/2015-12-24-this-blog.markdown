@@ -1,0 +1,38 @@
+---
+layout: post
+title: "This Blog"
+date: 2015-12-24 15:03:14 -0600
+comments: true
+categories: 
+---
+
+This blog started in September 2001 after I read a Wired magazine article on Blogger. It's currently in a bit of a state, and I'll be cleaning it up and organizing it over the coming months. But it does contain (almost) every post from these 14 years.
+
+Some stats:
+
+* 3,194 posts:
+  * 2001: 45
+  * 2002: 467
+  * 2003: 568
+  * 2004: 216
+  * 2005: 406
+  * 2006: 456
+  * 2007: 300
+  * 2008: 373
+  * 2009: 115
+  * 2010: 63
+  * 2011: 94
+  * 2012: 37
+  * 2013: 21
+  * 2014: 23
+  * 2015: 10
+* 558,481 words
+  * an average of 175 words per post
+* 4374 links total
+  * 1062 dead links
+* 4 blogging engines
+  * Blogger
+  * A homespun PHP blog engine
+  * LiveJournal
+  * For about 6 years now, [Jekyll](http://jekyllrb.com/), with a short break to test out the great engine at [Known](http://withknown.com).
+* More designs than I could track, although after a quick trip through the Wayback Machine, I am still pretty happy with most of them. Minimalism serves well. 

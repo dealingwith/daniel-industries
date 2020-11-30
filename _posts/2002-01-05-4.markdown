@@ -1,0 +1,15 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+that's all.
+
+just normal thoughts.
+
+yeah.
+
+ciao.
+

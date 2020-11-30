@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2007-03-08 08:10:00'
+layout: post
+slug: '2053'
+status: publish
+title: '...'
+wordpress_id: '2053'
+categories:
+ - comics
+ - elsewhere
+---
+
+[Captain America Is Dead][1]
+
+   [1]: http://www.nytimes.com/2007/03/08/books/08capt.htm?_r=1&oref=slogin
+

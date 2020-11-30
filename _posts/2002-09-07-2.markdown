@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Content'
+categories:
+ - minutia
+---
+
+<a class="dead">The Morning News--Quitter (dead link)</a>
+
+>still not understood, exactly, what content is, how it becomes dynamic or forward-thinking, and exactly how the creatives are supposed to populate or architect it...

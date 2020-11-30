@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2008-12-02 11:46:00'
+layout: post
+slug: qotd-2-2
+status: publish
+title: QotD 2
+wordpress_id: '2870'
+categories:
+ - quotable
+---
+
+[Airbag - Cholesterol][1]:
+
+> It's just that we don't live long enough on this Earth to go through life
+jumping off bridges or drinking instant grape beverage each and every time
+we're asked to do so...
+
+The more you live and work around people who rarely present a different
+viewpoint, the softer your brain gets, the more complacent you become, and
+before you know it Wilford Bradley is the only one who makes any sense in the
+world.
+
+   [1]: http://www.airbagindustries.com/archives/airbag/cholesterol.php
+

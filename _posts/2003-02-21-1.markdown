@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://launch.yahoo.com/read/news.asp?contentID=212284">Bono of U2 has been placed on the short list of possible winners of this year's Nobel Peace Prize</a>
+

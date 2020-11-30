@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2006-11-17 10:23:00'
+layout: post
+slug: '1829'
+status: publish
+title: '...'
+wordpress_id: '1829'
+categories:
+ - art
+ - elsewhere
+---
+
+[Corporate art that doesn't suck][1] by [timsamoff][2]
+
+   [1]: http://www.signindustry.com/digital/articles/2006-11-15-JD_SignsMoreThanArtForArtsSake.php3
+
+   [2]: http://timsamoff.livejournal.com/
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://daringfireball.net/2002/10/microsoft_makeup.html">Daring Fireball: Microsoft Make-Up</a>
+
+Ok, if you want to know the whole story, this is the blog entry to get it from.
+
+I personally didn't think this was worth so much energy, but it certainly made the big-blog circles, so I figured it should make our little one as well.
+

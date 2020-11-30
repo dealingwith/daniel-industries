@@ -1,0 +1,24 @@
+---
+layout: default
+title: Home
+---
+
+<div class="w-full md:w-1/2 md:pr-32 order-3 md:order-1">
+  <div class="max-w-md md:float-right md:text-right leading-relaxed tracking-normal md:sticky md:top-0">
+    <p class="font-bold mt-9 mb-1">Previous Posts</p>
+    <ul class="flex flex-wrap justify-between flex-col">
+      {% for post in paginator.posts offset:1 limit:5 %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}" class="text-sm">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% assign post = site.posts.first %}
+<div class="w-full md:w-1/2 order-1 md:order-2 main-content md:top-0">
+  <div class="max-w-md leading-relaxed tracking-normal">
+    <h1 class="font-bold my-0 leading-10">{{ post.title }}</h1>
+    <p class="mb-2 post-metadata">{{ post.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></p>
+    {{ post.content }}
+  </div>
+</div>

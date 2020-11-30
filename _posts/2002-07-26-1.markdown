@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://ftrain.com/google_takes_all.html">Ftrain.com: August 2009: How Google beat Amazon and Ebay to the Semantic Web</a> This is totally for real. This guy knows his stuff. If you want an easy to read primer on the Semantic Web, this is it.
+

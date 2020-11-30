@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Covet"
+excerpt: 
+date: 2019-02-04 23:21:01 -0600
+comments: true
+categories: 
+  - music
+  - elsewhere
+---
+
+Currently a little obsessed with this music:
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/RXGwVJCdV6A?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2003550962/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://covetband.bandcamp.com/album/effloresce">effloresce by covet</a></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GKdsaRU2u8g?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

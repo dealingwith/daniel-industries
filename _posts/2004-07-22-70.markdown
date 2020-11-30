@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2004-07-22 09:12:00'
+layout: post
+slug: '70'
+status: publish
+title: '...'
+wordpress_id: '70'
+---
+
+[http://www.natelarson.com/stories.htm][1]
+
+[http://www.natelarson.com][2]
+
+   [1]: http://www.natelarson.com/stories.htm
+
+   [2]: http://www.natelarson.com
+

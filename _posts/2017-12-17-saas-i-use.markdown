@@ -1,0 +1,52 @@
+---
+layout: post
+title: "SaaS I Use"
+excerpt: "A little inventory of the online software I use"
+date: 2017-12-17 06:36:05 -0600
+comments: true
+categories: 
+---
+
+At [work](https://modernmsg.com/) we use a *ton* of [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) tooling: for [logging](https://logdna.com/), [bug tracking](https://sentry.io/), [performance tracking](https://newrelic.com/), [work tracking](https://waffle.io/), [product planning](https://craft.io/), etc. So this is not that list. This is a list of the software I use personally to manage my life. And it is only SaaS tools; it does not include [Sublime Text](http://www.sublimetext.com/), which I have purchased and use constantly and am writing this in, or Chrome, my current browser of choice, or [Airmail](http://airmailapp.com/), my email client of choice. 
+
+## Software I pay for
+
+I try to keep this list as short as possible. 
+
+[Github](https://github.com/). I'm grandfathered in at $7/month so that I can have a few private repositories (all public repositories are free). I could probably figure out a way to not need private repositories, but as soon as I do I'll want to store an API key or something and need the paid plan again so I just keep it.
+
+[EverydayCheck](https://everydaycheck.com/) is a recent one. It's a simple habit tracker. At $1/month, the price is great. The UI is great. I've tried similar apps on my phone with no success. Having it open in a tab in my browser 24/7 reminds me to think about my habits and also makes it really easy to check them off. It does one thing well. It's made by [one person](http://www.joanboixados.com/) in Barcelona who does [other cool things](https://github.com/mezod/awesome-indie) as well.
+
+[YouTube Red](https://en.wikipedia.org/wiki/YouTube_Red). I watch a lot of YouTube, and my kids watch a **lot** of YouTube. Once one goes ad-free on YouTube, one does not go back to ads. It also includes Google Play Music, so no additional music streaming service required. (Actually the latter includes the former.) $15/month.
+
+[Hover](https://www.hover.com/) is where I register domains. I recently let about half my domains expire. I now have 10.
+
+[Dropbox](https://www.dropbox.com). It's just easier to have all my important stuff in the cloud, and Dropbox has been doing it the longest, has the cleanest interface, and the cost of moving to something else is too high. I'm on the most basic paid plan at 1TB of storage for $8.25/month.
+
+[Dreamhost](https://www.dreamhost.com/), where I host this site and [Minecraft U](http://minecraftu.org/). $8/month. (I am grandfathered in as a customer since 2006, but their prices haven't really gone up in that time.)
+
+Amazon Prime, including Amazon Prime Fresh. To say my wife loves the latter is not an overstatement. $8.25/month for Prime, $15/month for Fresh.
+
+Netflix. We cut the cord years ago. My wife and kids use this way more than I do. $14/month (4 screens at a time) (insert scream emoji here).
+
+[Life360](https://www.life360.com/) for tracking family members' travels. It makes sense if one has a teenager. It's also just nice to know when one's spouse has left or arrived at their destination safely. It cuts down on the "Where are you?" texts quite a bit. $5/month.
+
+I also pay for three Minecraft servers on [MCProHosting](https://mcprohosting.com/). (Two of them are business expenses of Minecraft U, however.) The server I'm paying for myself is $2.50/month. I actually have it on my list to cancel that server.
+
+## Software I do not pay for but use a ton
+
+[Trello](https://trello.com/). I use the crap out of Trello. I have 26 personal boards, 5 for Minecraft U, and 8 for work. Almost all of them are set up as [Kanbans](https://en.wikipedia.org/wiki/Kanban). I use their new desktop app and I use their bookmarklet and Android widget for [capture](http://gettingthingsdone.com/fivesteps/) multiple times per day. I also use a text file to manage my work, probably in equal measure (more for daily planning and note taking). I use the [Taskpaper](https://www.taskpaper.com/) format but via the [PlainTasks](https://github.com/aziz/PlainTasks) Sublime Text plugin. I [created a small Ruby script](https://github.com/dealingwith/trellopaper) to import from Trello to a taskpaper file. I also developed [a Chrome extension for Trello](https://chrome.google.com/webstore/detail/collar-for-trello/gihipdjddmpohdaojninllaghokfaend) that lets you hide columns (although since switching to their desktop app I can't make use of it). I would pay for Trello in a heartbeat if they had a personal plan that made sense, and they used to, but their paid plans are now focused on businesses. 
+
+[Feedly](https://feedly.com/). I've left social media behind but I still read blogs. According to Feedly I am following 94 sources. (Just cleaned out about 100 unreachable and inactive feeds!) [Here is the OPML of my sources](/assets/2017/12/feedly-2017-12-17.opml).
+
+[Pocket](http://getpocket.com). I moved over from Instapaper a couple of years ago. I imported my Instapaper when I did, so I have years of saved-for-later articles in there. Well over 1,000. I probably add four for every one I read.
+
+Google services (Gmail, Google Docs).
+
+## Software I do not pay for and use a bit
+
+[Simplenote](https://simplenote.com/), [Wunderlist](https://www.wunderlist.com/) (mostly for shopping lists), [Pinboard](https://pinboard.in), [Huffduffer](https://huffduffer.com/), [Dark Sky](https://darksky.net) (on the web and via my [Android weather app of choice](https://play.google.com/store/apps/details?id=com.samruston.weather)).
+
+## Software my company pays for but I would if I couldn't expense it
+
+[Plato](https://www.platohq.com/) is mentoring-as-a-service for engineering leaders and is worth every penny ($200/month). I average about two or three half-hour calls a month with CTOs and engineering VPs, including monthly calls with the same mentor (someone who as a CTO took a company from startup to IPO).

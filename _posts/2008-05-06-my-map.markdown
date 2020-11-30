@@ -1,0 +1,41 @@
+---
+author: dealingwith
+date: '2008-05-06 21:04:00'
+layout: post
+slug: my-map
+status: publish
+title: My Map
+wordpress_id: '3201'
+categories:
+ - ambient
+ - art
+ - ux
+ - video
+---
+
+
+[My Map][1] from [Christopher Baker][2] on [Vimeo][3].
+
+> Email became an integral part of my life in 1998. Like many people, I have
+archived all of my email with the hope of someday revisiting my past. I am
+interested in revealing the innumerable relationships between me, my
+schoolmates, work-mates, friends and family. This could not readily be
+accomplished by reading each of my 60,000 emails one-by-one. Instead, I
+created My Map, a relational map and alternative self portrait. My Map is a
+piece of custom designed software capable of rendering the relationships
+between myself and individuals in my address book by examining the TO:, FROM:,
+and CC: fields of every email in my email archive. The intensity of the
+relationship is determined by the intensity of the line. My Map allows me to
+explore different relational groupings and periods of time, revealing the
+temporal ebbs and flows in various relationships. In this way, My Map is a
+veritable self-portrait, a reflection of my associations and a way to locate
+myself.
+
+   [1]: http://www.vimeo.com/468413?pg=embed&sec=468413
+
+   [2]: http://www.vimeo.com/christopherbaker?pg=embed&sec=468413
+
+   [3]: http://vimeo.com?pg=embed&sec=468413
+
+   
+

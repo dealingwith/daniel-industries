@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2005-11-20 13:33:00'
+layout: post
+slug: '740'
+status: publish
+title: '...'
+wordpress_id: '740'
+---
+
+_Lifehacker reader and blogger Craig Clayton wants to stop eating fast food -
+so he promises his web site readers that if he eats at McDonald's during the
+month of November, he'll donate money to a charity of their choosing._
+
+[Peer pressure yourself into achieving a goal - Lifehacker][1]
+
+   [1]: http://www.lifehacker.com/software/life-hacks/peer-pressure-yourself-into-achieving-a-goal-135139.php
+

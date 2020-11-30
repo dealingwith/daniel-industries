@@ -1,0 +1,26 @@
+---
+author: dealingwith
+date: '2006-07-25 07:31:00'
+layout: post
+slug: '1521'
+status: publish
+title: '...'
+wordpress_id: '1521'
+categories:
+ - bicycling
+ - quotable
+ - tour de france
+---
+
+> Yet the very next day, Landis attacked on the first climb back up the same
+mountain range, the 201km stage to Morzine-Avoriaz, and didn't stop until he
+left his opponents out of breath and in denial. The gamble was so audacious,
+so hardheaded and risky that as word of Landis' plan rippled through a peloton
+worn out after a week in the Pyrenees and Alps, several riders pulled up
+alongside and begged him not to try it.
+
+"I just told 'em," Landis would recall, "'Go drink some Coke, 'cause we're
+leaving on the first climb if you want to come along.'"
+
+http://velonews.com/tour2006/news/articles/10575.0.html
+

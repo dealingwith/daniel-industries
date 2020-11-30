@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.mindjack.com/">Mindjack - the beat of digital culture</a>
+

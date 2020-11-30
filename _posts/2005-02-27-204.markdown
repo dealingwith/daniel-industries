@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-02-27 23:01:00'
+layout: post
+slug: '204'
+status: publish
+title: '...'
+wordpress_id: '204'
+---
+
+[oh to live in Philly][1]
+
+   [1]: http://www.tinangel.com/schedule.html
+

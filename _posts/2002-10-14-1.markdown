@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>Get in the spirit!</b>
+
+did two sarajevo-related things to the site. 1. the countdown at right and 2. a new "sarajevo" <a href="customize.html">color scheme</a>
+
+..after you can go choose the appropriate "enthusiastically moving" face to go with all this...
+

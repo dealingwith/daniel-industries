@@ -1,0 +1,33 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+I am sitting here, looking <a href="images/sarajevo/may_2003/panarama1_web.jpg">out the window</a>, only not from there, sitting in the second bedroom, which is also my office, so mostly I see <a href="images/sarajevo/june_2003/DSCN1070.jpg">roof</a>, the somewhat decrepid back-side of a tall building in front of ours (the other side, which faces the main street, <em>Titova</em>, has a new facade). I can see just a little bit of the mountain, but enough to see some hillside homes, a cliff or two, and what must be a beautiful mountaintop meadow. I can see a flock of birds flying left, then right, then left again, in front of the mountain. It is enough to show just how high those points are, how much perspective sitting on top of that hill might bring.
+
+
+
+Of course, not a few years ago, there would have been someone up on that hill pointing a big gun at me, firing bullets made to down airplanes at my fragile body. Not just to kill. To destroy permanently. Of course, not a few years ago, this building in which we now live must have been a burned-out carcass. Our floor, which being the lowest floor from which one could see over that roof, being the lowest floor you would want to live on, so that you could enjoy the view, not a few years ago would have been the floor just high enough to get you killed.
+
+
+
+...Next to me is a book, <em>Professional XML Meta Data</em>, which is finally explaining to me RDF, because I am in fact building an "RDF application", whatever that is. Soon it will explain enough to me for me to finish the last bit of data architecture required for version 0.1, and I will, God willing, enter into the code zone, everything else melting away in a cloud of PHP encoded logic.
+
+
+
+But suddenly I could give a shit.
+
+
+
+...You know when all your dreams are on the cusp of being fulfilled, or at least dashed for good, and you realize that your pre-dream, simple, washed-out, washed-up life wasn't so bad? That the simple things are all that matter? That having just a few people around whenever you need them to whom you can be totally honest, around whom you can be yourself, who get on your nerves but only in a good way, who know you and about what you are doing and will come out to support it or create venues for it...
+
+
+
+I am finally left alone to pursue my dreams and all I want is what is impossible. I guess if this was impossible I would again want it. I am having an Ecclesiastes 1 moment. Check that. Week/month/year?
+
+
+
+...<em>no <a href="http://benbubar.blogspot.com/scott.jpg">that's</a> not Jeff Buckley</em>. Man. Remember how only a couple months after really getting to know you at all, I was the only one standing up, the only one asking WTF? That's worth something, right? That was something good I did.
+

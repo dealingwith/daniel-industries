@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2006-12-16 11:27:00'
+layout: post
+slug: '1887'
+status: publish
+title: '...'
+wordpress_id: '1887'
+categories:
+ - minutia
+ - mp3 of the day
+---
+
+you know when your heart is dying and the blood and other fluids that made it
+alive are dripping into the pit of your stomach and bubbling there in a sick
+little stew with chunks of thoughts and strings of film reals?
+
+yeah.
+
+[Rhett Miller - Come Around][1]
+
+[Over the Rhine - When I Go][2]
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/12/Rhett%20Miller%20-%20Come%20Around.mp3
+
+   [2]: http://daniel.iaspiretonothing.com/blog/files/2006/12/Over%20The%20Rhine%20-%20When%20I%20Go.mp3
+

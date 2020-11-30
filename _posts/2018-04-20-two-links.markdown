@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Two Links"
+excerpt: "From two of the most prominent bloggers of all time"
+date: 2018-04-20 17:21:56 -0500
+comments: true
+categories: 
+ - elsewhere
+---
+
+Normally I try to link to more obscure things, but these two stuck out as blog-worthy blogs:
+
+Anil Dash's [12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411):
+
+> Tech is more important than ever, deeply affecting culture, politics and society. Given all the time we spend with our gadgets and apps, it’s essential to understand the principles that determine how tech affects our lives.
+
+And Jason Kottke's [Blogging is most certainly not dead](https://kottke.org/18/04/blogging-is-most-certainly-not-dead), a list of interesting blogs. So meta.

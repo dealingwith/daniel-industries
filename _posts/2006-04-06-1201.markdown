@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2006-04-06 10:54:00'
+layout: post
+slug: '1201'
+status: publish
+title: '...'
+wordpress_id: '1201'
+categories:
+ - technology
+---
+
+Apple stock went up over six bucks on the news you can now run Windows on a
+Mac out of the box.
+

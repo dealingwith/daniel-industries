@@ -1,0 +1,31 @@
+---
+author: dealingwith
+date: '2007-10-21 10:49:00'
+layout: post
+slug: shadow
+status: publish
+title: Shadow
+wordpress_id: '2341'
+categories:
+ - imagining
+ - joy
+ - mp3 of the day
+ - music
+---
+
+![][1]
+
+>Last night I had the extreme pleasure of watching Tom Conlon play
+for an attentive living room audience.
+
+[#][5]
+
+[see also][7]
+
+
+   [1]: http://farm3.static.flickr.com/2126/1609275989_5c0f519f50_m.jpg
+
+   [5]: http://carissabyers.blogspot.com/2007/10/tom-conlon-with-excessive-use-of.html
+
+   [7]: http://twitter.com/theyblinked/statuses/344051402
+

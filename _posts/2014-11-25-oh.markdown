@@ -1,0 +1,8 @@
+---
+author: dealingwith
+date: '2014-11-25 23:03:52'
+layout: post
+title: 'OH:'
+---
+
+> Ok, what I'm going to do is revert these lines one by one and see if that magically fixes anything; and if it does, we're going to throw our computers out the window.

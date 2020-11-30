@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'nonlin'
+categories:
+ - elsewhere
+---
+
+<a href="http://nonlinear.blogspot.com"><img src="http://danielsjourney.com/blog/files/2005/02/nonlinear.jpg" /></a>
+
+
+
+Blogged a lot on <a href="http://nonlinear.blogspot.com">nonlinear</a> yesterday.

@@ -1,0 +1,74 @@
+---
+author: dealingwith
+date: '2010-02-15 14:35:00'
+layout: post
+slug: bad-buzz
+status: publish
+title: Bad Buzz
+wordpress_id: '3255'
+categories:
+ - nonlinear
+---
+
+Based on my casual observation of the situation, it seems to me [the bad
+things about Google Buzz][1] [[2][2]] [*] were the result of just a couple
+basic product design decisions that probably felt natural and ingenious to the
+product designers, based on their usage of Google products as a whole. Of
+course being Google employees, their usage likely differs significantly from
+other Gmail users, say nothing of their trust in the company as a whole.
+
+
+While [building software for yourself][3] is a good idea, especially for small
+businesses or startups, it is dependent on you being a lot like your
+customers. Once you are building products for yourself inside a giant
+organization that internally looks a lot different than the outside world,
+that is when having [empathy][4] [[2][5]] for your actual customers becomes
+increasingly important. Especially when you have the resources to actually go
+and find out, scientifically, what your users are like.
+
+
+Google is still just a search company, and that piece of their business and
+experience they get right every time. But they are also increasingly a
+product** company, and getting a lot of exposure through their products. I
+suspect that these products are primarily developed by (relatively) small
+teams of very smart people, whose intelligence has led to a certain self-
+assurance but whose myopic experience has led to a certain naiveté about how a
+product will be received in the "outside" world. Buzz feels a lot like
+Google's version of [Clippy][6]. Let's just hope Google is able to turn the
+user experience ship early and go back to creating products born out of novel
+innovations and not just internal versions of other company's products.
+
+
+* There were a ton of intelligent critiques of Buzz and I hoped to link to a
+few more of my favorites, but I failed to preserve the links or re-find them
+in a cursory search. Although just now I found [this well-written (if wordy)
+analysis that I think says the same things I just did but in a more business-
+like, thought out way][7].
+
+
+** Their search engine and results presentation is also a product, but for the
+purposes of this discussion I've categorized it separately.
+
+
+Postscript: FWIW, I disabled Buzz after about 15 minutes of testing. Had there
+been a setting to keep it out of my inbox without having to create a filter I
+might have tried it for a day or two, but the email inbox is sacred, and their
+intrusion into it was enough of an offense for me to make a quick and final
+judgement in terms of my own usage of the product.
+
+   [1]: http://www.nytimes.com/2010/02/15/technology/internet/15google.html
+
+   [2]: http://ilovebenbrown.com/post/382112393/waiting-for-the-google-buzz-privacy-outcry
+
+   [3]: http://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
+
+   [4]: http://www.poetpainter.com/thoughts/article/what-a-designer-does-part-i
+
+   [5]: http://www.peterme.com/archives/000085.html
+
+   [6]: http://en.wikipedia.org/wiki/Office_Assistant
+
+   [7]: http://counternotions.com/2010/02/15/buzzback/ ('What Google is missing, in other words, is strategic design.')
+
+   
+

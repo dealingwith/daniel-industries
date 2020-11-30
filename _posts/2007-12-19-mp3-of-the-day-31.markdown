@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2007-12-19 16:20:00'
+layout: post
+slug: mp3-of-the-day-31
+status: publish
+title: mp3 of the day
+wordpress_id: '2410'
+categories:
+ - mp3 of the day
+---
+
+[Mew - The Zookeeper's Boy][1]
+
+I've had this Mew record for a while but hadn't listened to it until today.
+Now I'm a bit obsessed, especially with this song.
+
+   [1]:
+http://danielsjourney.com/blog/files/2007/12/The%20Zookeeper's%20Boy.m4a
+

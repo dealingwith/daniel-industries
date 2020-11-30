@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2008-01-14 16:49:00'
+layout: post
+slug: qotd-6
+status: publish
+title: QotD
+wordpress_id: '2450'
+categories:
+ - design
+ - quotable
+---
+
+[from uncov][1]:
+
+> It's not like companies are paying graphic designers to make up whole
+corporate identities; they're making the logo in an afternoon with a pirated
+copy of Photoshop. Tell me I'm wrong, I dare you.
+
+   [1]: http://www.uncov.com/2008/1/14/wanna-go-to-chotchkies-get-some-coffee
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'Human handshake opens data stream'
+categories:
+ - elsewhere
+ - tech
+---
+
+>A system that automatically transfers electronic data when two PDA-carrying humans shake hands has been developed by two Japanese telecommunications firms, according to news reports. 
+
+(dead link)

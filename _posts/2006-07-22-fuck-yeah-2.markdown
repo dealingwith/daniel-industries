@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2006-07-22 12:29:00'
+layout: post
+slug: fuck-yeah-2
+status: publish
+title: FUCK YEAH
+wordpress_id: '1512'
+categories:
+ - bicycling
+ - brilliant
+ - tour de france
+---
+
+[FLOYD RETOOK YELLOW TODAY][1]. As unlikely as it was for an American named
+Lance Armstrong to win the Tour de France in 1999, then win it 6 additional
+times in succession, it is even more unlikely that another American would win
+the next tour following, particularly in the fashion that he did. I fucking
+love this sport.
+
+   [1]: http://velonews.com/tour2006/details/articles/10536.0.html
+

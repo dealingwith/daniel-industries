@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2007-06-08 17:09:00'
+layout: post
+slug: mp3-of-the-day-25
+status: publish
+title: mp3 of the day
+wordpress_id: '2189'
+categories:
+ - mp3 of the day
+---
+
+[Michael Knott - Blame][1]
+
+...just 'cuz...
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2007/06/Michael%20Knott%20-%20Nash%20Vegas%20-%2010%20-%20Blame.mp3
+

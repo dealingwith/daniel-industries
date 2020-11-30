@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-06-24 22:00:00'
+layout: post
+slug: '362'
+status: publish
+title: '...'
+wordpress_id: '362'
+---
+
+[awesome episode III review][1]
+
+   [1]: http://www.thebestpageintheuniverse.net/c.cgi?u=episode3
+

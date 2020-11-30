@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-05-14 00:20:00'
+layout: post
+slug: '317'
+status: publish
+title: '...'
+wordpress_id: '317'
+---
+
+[Urban Dictionary][1] is all growed up!
+
+   [1]: http://www.urbandictionary.com/
+

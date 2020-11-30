@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.phototropos.com/stateofsecurity/index2.html">state of security</a> (2.5 M flash but way worth it)
+

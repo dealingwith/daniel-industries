@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2007-07-20 15:00:00'
+layout: post
+slug: stones
+status: publish
+title: Stones
+wordpress_id: '2239'
+categories:
+ - faithy
+ - humanity
+ - quotable
+---
+
+> If we could all just stop throwing stones, and stoop, knees bent and write
+in the dust,
+
+we'd see that the dust was once stone - grand, and hard, and proud, and tough
+- now ground and dissolved in grace and tears.
+
+So... how much better to be a grain of dirt on that kind prophet's hands than
+a stone in the cold, accusing Temple of the pure.
+
+[the open office: Stones][1]
+
+   [1]: http://303.typepad.com/openoffice/2007/07/stones.html
+

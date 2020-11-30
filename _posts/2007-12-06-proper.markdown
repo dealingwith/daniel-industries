@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2007-12-06 11:11:00'
+layout: post
+slug: proper
+status: publish
+title: proper!
+wordpress_id: '2389'
+categories:
+ - twitter
+---
+
+[Twitter Blog: New Replies Settings][1]
+
+![][2]
+
+   [1]: http://blog.twitter.com/2007/12/new-replies-settings.html
+
+   [2]: http://bp0.blogger.com/_E8ZD85Wzu9E/R1dTtVxmD0I/AAAAAAAAAFM/x0sMQovraWw/s400/settings.png
+

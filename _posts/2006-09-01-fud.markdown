@@ -1,0 +1,48 @@
+---
+author: dealingwith
+date: '2006-09-01 07:06:00'
+layout: post
+slug: fud
+status: publish
+title: FUD
+wordpress_id: '1626'
+categories:
+ - development
+ - software
+---
+
+[Fear, Uncertain, and Doubt by Joel Spolsky (Loud Thinking)][1]:
+
+> Joel Spolsky is a good writer. I've thoroughly enjoyed many of his pieces.
+[Language Wars][2] is not one of them.
+
+>
+
+>> ...enterprisy stuff where Someone is Going to Get Fired.
+
+>
+
+> And as soon as you start selling those t-shirts with "Serious Business
+Stuff", I got green ready to flow. Short of that, I'd take a red teddy bear
+with the embroidering "Someone is Going to Get Fired".
+
+...
+
+> I'll wait for the shirt that says:
+
+Big Enterprisy Thing
+
+| | | /
+
+...
+
+> Oh, for the love of English, there's no such word as "acronymises"!
+
+...
+
+> http://www.spreadshirt.com/shop.php?article_id=1503487&view=181
+
+   [1]: http://www.loudthinking.com/arc/000596.html
+
+   [2]: http://www.joelonsoftware.com/items/2006/09/01.html
+

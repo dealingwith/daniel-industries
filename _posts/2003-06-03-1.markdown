@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - quotable
+---
+
+<blockquote>The term "Semantic Markup" is bandied about freely, and with every year that passes, it makes me more and more nervous</blockquote><a href="http://www.tbray.org/ongoing/When/200x/2003/04/09/SemanticMarkup">ref</a>
+

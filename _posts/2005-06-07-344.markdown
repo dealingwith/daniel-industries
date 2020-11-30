@@ -1,0 +1,13 @@
+---
+author: dealingwith
+date: '2005-06-07 15:47:00'
+layout: post
+slug: '344'
+status: publish
+title: '...'
+wordpress_id: '344'
+---
+
+"writing fiction is hard because it has to make sense, reality is under no
+such restriction." -anon
+

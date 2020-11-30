@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2006-09-12 20:58:00'
+layout: post
+slug: '1649'
+status: publish
+title: '...'
+wordpress_id: '1649'
+categories:
+ - development
+ - geek
+ - quotable
+ - software
+ - technology
+---
+
+> The era of islands is over for most development scenarios. You don't have to
+make one definitive choice. Instead, you get to hog all the productivity you
+can for the common cases, then outsource the bottlenecks to existing packages
+in faster languages or build your own tiny extension when it's needed.
+
+...So please don't let bottlenecks (real or imaginary, usually the latter)
+dictate your choice of software development environment. We have a term for
+that and it's called premature optimization.
+
+[Outsourcing the performance-intensive functions (Loud Thinking)][1]
+
+   [1]: http://www.loudthinking.com/arc/000598.html
+

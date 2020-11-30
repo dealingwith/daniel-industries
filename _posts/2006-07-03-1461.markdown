@@ -1,0 +1,39 @@
+---
+author: dealingwith
+date: '2006-07-03 07:03:00'
+layout: post
+slug: '1461'
+status: publish
+title: '...'
+wordpress_id: '1461'
+categories:
+ - bicycling
+ - elsewhere
+ - personal notes
+ - tour de france
+---
+
+[VeloNews video player][1]
+
+[VeloNews Tour de France Video-on-Demand][2]
+
+http://www.velonews.com/tour2006/
+
+[official le Tour site][3]
+
+http://grahamwatson.com/
+
+[OLN/action_sports][4]
+
+[OLN/cyclysm][5]
+
+   [1]: http://contagion.dayport.com/viewer/viewerpage.php?Art_ID=95&PreloadContract_DefID=1&Contract_DefID=2&tf=contagionviewer.tpl&Category_ID=3
+
+   [2]: http://www.velonews.com/tour2006/news/articles/10170.0.html
+
+   [3]: http://www.letour.fr/2006/TDF/LIVE/us/0/index.html
+
+   [4]: http://www.olntv.com/action_sports/
+
+   [5]: http://www.olntv.com/cyclysm/
+

@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2004-05-20 19:28:00'
+layout: post
+slug: '43'
+status: publish
+title: '...'
+wordpress_id: '43'
+---
+
+But if I were going to listen to music it would be [the innocence mission][1]
+and [the ocean blue][2].
+
+Anyway, the point of this post is to alert you to [this funny/cute
+picture][3].
+
+   [1]: http://theinnocencemission.com
+
+   [2]: http://www.theoceanblue.com/home.html
+
+   [3]: http://www.cluttered.com/anne/breastfeedingstatue.jpg
+

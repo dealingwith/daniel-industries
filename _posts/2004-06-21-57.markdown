@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-06-21 14:14:00'
+layout: post
+slug: '57'
+status: publish
+title: '...'
+wordpress_id: '57'
+---
+
+[check out this LJ][1]
+
+   [1]: http://www.themorningnews.org/archives/stories/the_livejournal_of_zachary_marsh.php
+

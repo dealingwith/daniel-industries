@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2006-12-24 12:37:00'
+layout: post
+slug: '1903'
+status: publish
+title: '...'
+wordpress_id: '1903'
+categories:
+ - innovation
+ - technology
+---
+
+What I love about technology is how/when a technology creates a positive
+innovation feedback loop. Like how a [novel user interface controller][1]
+(combined with internet accessibility and the ability to run as a local web
+server) creates a burst of [creative hacks][2] so quickly after its release. I
+guess another way to look at it is as an innovation tipping point. Change the
+way one seemingly solved problem is addressed and all of a sudden...
+
+   [1]: http://en.wikipedia.org/wiki/Wii
+
+   [2]: http://wiihacks.blogspot.com/
+

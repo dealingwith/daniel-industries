@@ -1,0 +1,60 @@
+---
+layout: post
+title: 'the worm'
+categories:
+ - design
+---
+
+If you were wondering why this site has been flaky latey (and I was wondering why I couldn't get cash out the ATM yesterday):
+
+
+
+<a href="http://www.nytimes.com/aponline/technology/AP-Internet-Attack.html?pagewanted=print&position=top">Internet Attack Exposes Security Flaws</a> (requires v quick free signup)
+
+
+
+some sample text:
+
+
+
+...<b>U:</b> <a href="http://www.hyperorg.com/blogger/mtarchive/001121.html">JOHO has some cool info about it too</a>...
+
+<em>By THE ASSOCIATED PRESS
+
+
+
+ 
+
+Filed at 5:42 a.m. ET
+
+
+
+NEW YORK (AP) -- This weekend's Internet attack has security experts worried that too many system managers are only fixing problems as they occur, rather than keeping their defenses up to date.
+
+
+
+The worm that crippled tens of thousands of computers worldwide, congested the network for countless others and even disabled Bank of America cash machines took advantage of a vulnerability in some Microsoft Corp. software that had been discovered in July.
+
+
+
+Microsoft had made software updates available to patch the vulnerability in its SQL Server 2000 software -- used mostly by businesses and governments -- but many system administrators had yet to install them when the attack hit Saturday.
+
+
+
+``There was a lot that could have been done between July and now,'' said Howard A. Schmidt, President Bush's No. 2 cybersecurity adviser. ``We make sure we have air in our tires and brakes get checked. We also need to make sure we keep computers up-to-date.''
+
+
+
+Network technicians worked Sunday to complete repairs to damage caused by Saturday's fast-spreading worm. The problem was declared largely under control Sunday, though some experts were worrying about the possibility of lingering infections appearing Monday.
+
+
+
+The FBI said Sunday that the attack's origin was still unknown.
+
+
+
+As the worm infected one computer, it was programmed to seek other victims by sending out thousands of probes a second, saturating many Internet data pipelines.
+
+
+
+</em>

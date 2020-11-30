@@ -1,0 +1,38 @@
+---
+layout: post
+title: "The Ship"
+excerpt: "When you hear Eno in new music, it has less to do with a specific sound than with a certain kind of exploratory spirit, a curiosity and openness about the relationship between sound and the world."
+date: 2017-09-29 23:18:55 -0500
+comments: true
+categories: 
+---
+
+[theship.ai](http://theship.ai/)...
+
+> ...hosts a short continually evolving film that attempts to visualize the song, "The Ship" from the Brian Eno album of the same name.
+
+> In explanation of the work, Eno comments:
+
+> "Humankind seems to teeter between hubris and paranoia: the hubris of our ever-growing power contrasts with the paranoia that we're permanently and increasingly under threat. At the zenith we realise we have to come down again... we know that we have more than we deserve or can defend, so we become nervous. Somebody, something is going to take it all from us: that is the dread of the wealthy. Paranoia leads to defensiveness, and we all end up in the trenches facing each other across the mud."
+
+> Taking this statement as a starting point and utilizing a bespoke artificial intelligence programme developed by the Dentsu Lab Tokyo, this film explores various historical photographic images and real time news feeds to compose a collective photographic memory of humankind.
+
+> Developed especially for this project, the artificial intelligence programme employs machine learning techniques to interpret its own ”memories” of the past, associating them with ongoing current events and presenting them in a unique generative film.
+
+---
+
+[Brian Eno's The Ship, and the family tree of ambient music](https://www.theverge.com/2016/4/29/11535672/brian-eno-the-ship-review-jean-michel-blais-kaitlyn-aurelia-smith)
+
+> When you hear Eno in new music, it has less to do with a specific sound than with a certain kind of exploratory spirit, a curiosity and openness about the relationship between sound and the world.
+
+---
+
+[Brian Eno: Ambient Sounds, but Political, Too](https://www.nytimes.com/2016/04/28/arts/music/brian-eno-the-ship.html)
+
+> At the age of 67, I've finally hit my stride.
+
+---
+
+[Brian Eno's sound art installation THE SHIP](http://chartartfair.com/brian-eno-ship/)
+
+> THE SHIP is Brian Eno’s first solo exhibition in Denmark since 1992. Using audio Eno explores the relationship between environment and musical composition creating a powerful yet intimate atmosphere that imbues the entire venue.

@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2005-12-15 23:58:00'
+layout: post
+slug: '798'
+status: publish
+title: '...'
+wordpress_id: '798'
+---
+
+_The shit's going down and it'll be interesting to see how the landscape
+shifts in the next few years._
+
+[Yahoo vs. Google: An academics vs. in-the-trenches entrepreneurs showdown? -
+Signal vs. Noise (by 37signals)][1]
+
+   [1]: http://37signals.com/svn/archives2/yahoo_vs_google_an_academics_vs_inthetrenches_entrepreneurs_showdown_.php
+

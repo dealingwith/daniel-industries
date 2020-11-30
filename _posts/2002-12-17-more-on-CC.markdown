@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'more on CC'
+categories:
+ - elsewhere
+---
+
+<a href="http://www.junell.net/clients/cc/getcreative/">this</a> is a great flash animation explaining what creative commons is doing and why. this is also the best application of flash, imho...online presentations, EPK's (electronic press kits), etc.
+
+

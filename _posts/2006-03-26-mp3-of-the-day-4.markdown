@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-03-26 15:20:00'
+layout: post
+slug: mp3-of-the-day-4
+status: publish
+title: mp3 of the day
+wordpress_id: '1153'
+categories:
+ - mp3 of the day
+---
+
+[Stance Punks - No Boy No Cry][1]
+
+   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/03/Stance%20Punks%20-%20No%20Boy%20No%20Cry.mp3
+

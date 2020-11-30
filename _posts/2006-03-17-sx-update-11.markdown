@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2006-03-17 18:00:00'
+layout: post
+slug: sx-update-11
+status: publish
+title: sx update 11
+wordpress_id: '1138'
+categories:
+ - film
+ - sxsw
+---
+
+My body isn't liking how I'm treating it.
+
+[Before the Music Dies][1] is an excellent film.
+
+   [1]: http://www.beforethemusicdies.com/index2.html
+

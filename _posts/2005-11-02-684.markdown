@@ -1,0 +1,35 @@
+---
+author: dealingwith
+date: '2005-11-02 08:41:00'
+layout: post
+slug: '684'
+status: publish
+title: '...'
+wordpress_id: '685'
+---
+
+_Most of us have day jobs. Many of us have families. So we have a limited
+amount of attention left. And I suspect we are consuming most of it with what
+we've got on our plates today.
+
+So where does the attention come for the next wave of blogs and web services?
+From the old ones, I guess. In my case, its not going to come out of my
+family's attention allocation or my firm's.
+
+So attention is a zero sum game and if we are creating (at an exponential
+rate?) more uses of attention, then we are facing a looming attention crisis.
+
+That's all I can offer at this point. I don't know when that crisis will hit
+and what its effects are going to be. Maybe something will come along that
+allocates attention more efficiently (delicious or digg?) and the crisis will
+be averted for now.
+
+I suppose anything is possible, but I feel in my gut that we are facing a
+"poverty of attention" and something is going to give._
+
+[A VC: The Looming Attention Crisis][1]
+
+this VC has some good taste in music...
+
+   [1]: http://avc.blogs.com/a_vc/2005/11/the_looming_att.html
+

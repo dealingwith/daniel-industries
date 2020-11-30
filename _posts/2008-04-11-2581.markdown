@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2008-04-11 10:08:00'
+layout: post
+slug: '2581'
+status: publish
+title: '...'
+wordpress_id: '2581'
+categories:
+ - comments
+ - meme
+ - video
+ - web
+---
+
+[Flickr video...][1]
+
+   [1]: http://www.flickr.com/photos/dorkmaster/2401700341/page2/#comment72157604486791585
+

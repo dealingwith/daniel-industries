@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2008-08-18 23:47:00'
+layout: post
+slug: wotd-14
+status: publish
+title: WotD
+wordpress_id: '2752'
+categories:
+ - word of the day
+---
+
+[pseudocide][1]
+
+   [1]: http://news.bbc.co.uk/2/hi/uk_news/magazine/7512487.stm
+

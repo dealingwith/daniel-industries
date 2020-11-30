@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<b><a href="http://old.saturn.org/summer2002/letter.php">a letter to pyra; saturn.org.</a></b>
+hint: i already knew of this guy, but in case you don't get it...after you read this letter, go view source...
+i love the irony that i'm posting this through blogger...but let's just say my mind is made up to use my own interface for my CMS (i was thinking about building my content management system around blogger's api, but NO)...and to think i was a day away from shelling it out for Pro...bleah
+

@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2008-02-26 11:47:00'
+layout: post
+slug: wotd-11
+status: publish
+title: WotD
+wordpress_id: '2503'
+categories:
+ - word of the day
+---
+
+[entelechy][1]
+
+   [1]: http://dictionary.reference.com/search?q=entelechy
+

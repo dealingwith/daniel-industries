@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2007-08-17 19:25:00'
+layout: post
+slug: '177'
+status: publish
+title: '...'
+wordpress_id: '3182'
+categories:
+ - ARG
+---
+
+[Alternate Reality Games: Design, Development And Implementation (Part III)][1]
+
+   [1]: http://www.masternewmedia.org/news/2007/01/12/alternate_reality_games_design_development.htm
+
+   
+

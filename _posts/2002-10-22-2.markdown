@@ -1,0 +1,21 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>RSS and Newsreaders are NEET-O!</b>
+
+SO, I finally got <a href="http://www.danielsjourney.com/rss.php">my RSS feed</a> going after a long time of thinking about the best way to do it and procrastination. 
+
+It still may change as time goes on, eventually I'll create an actual XML file instead of doing it on the fly like I do now. The details on my feed are: Right now I'm keeping formatting and links in the description field. No images tho. And only the first paragraph of text. And the last 5 entries...
+
+You might want to check out this very well done newsreader as well: <a href="http://www.feedreader.com">FeedReader</a>. I'm using it right now, and let me tell you: Get an RSS feed on yer site! Going to the actual site is so inconvenient! :) Plus no guesswork--you know it's been updated! No deep dissapointment when your favorite blogger in the world has taken the last hour off. :)
+
+<img src="images/FeedReader.jpg">
+color image with less crop: <a href="images/FeedReader0.jpg">59K</a>
+what happens when you then click my link, or double click the headline: <a href="images/FeedReader1.jpg">61K</a>
+
+My feed is also <a href="http://feeds.archive.org/validator/check?url=http://www.danielsjourney.com/rss.php">valid</a>.
+

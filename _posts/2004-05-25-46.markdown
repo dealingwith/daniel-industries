@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2004-05-25 00:50:00'
+layout: post
+slug: '46'
+status: publish
+title: '...'
+wordpress_id: '46'
+---
+
+[michael miller][1]. visit site. buy record. listen to record. be happier.
+
+![][2]
+
+   [1]: http://www.michaelmillercrusade.com/
+
+   [2]: http://www.michaelmillercrusade.com/show_pix_3/mm_at_radio_station.jpg
+

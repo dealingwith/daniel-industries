@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<img src="http://adbusters.org/creativeresistance/30/07-imagefreezone.gif">
+

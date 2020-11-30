@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'my new business card'
+categories:
+ - minutia
+---
+
+_my_ new business card, for those that haven't seen it yet, anyway:
+
+<center><b>Daniel W. Miller</b><br><small>human being</small><br><small>www.danielsjourney.com</small></center>

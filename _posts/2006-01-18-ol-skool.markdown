@@ -1,0 +1,38 @@
+---
+author: dealingwith
+date: '2006-01-18 13:37:00'
+layout: post
+slug: ol-skool
+status: publish
+title: ol skool
+wordpress_id: '890'
+categories:
+ - elsewhere
+---
+
+_A couple of months ago, my keyboard died. This, my friends, was a sad event.
+101 keys is precisely where it's at – it's the optimal balance of features and
+precision. Any less, it's incomplete; any more and you have a device that's
+littered with dangerous finger landmines that can easily pop-up an OS dialog
+in the middle of a life and death rocket duel.
+
+So, it was with great trepidation that I trekked down to my local computer
+emporium to purchase a new one. Needless to say, it was a great
+disappointment.
+
+When I'm typing, I like people in the next room to think that they're under
+siege by an M240G machine gun. I like keys with a spring action that could
+launch a small Russian satellite into low earth orbit. Furthermore, the whole
+assembly has to weigh enough to cause a small bulge in the fabric of space-
+time. Cheap plastic knock-offs from Crapco don't have this. They do have
+buttons that can change the volume on your lawnmower and open up the
+preferences menu in your dwarf throwing simulator, but no machine gun audio,
+orbital action, or gravity multiplying sturdiness.
+
+As desperate as I was, however, I had to fork out for one of these flimsy
+knockoffs and then struggle to type on it for the next two weeks – its
+featherweight build moving all over the desk, its confoundingly placed
+shortcut keys reducing productivity by an estimated 47%._
+
+http://www.themaninblue.com/writing/perspective/2006/01/05/
+

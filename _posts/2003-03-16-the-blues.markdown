@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'the blues'
+categories:
+ - imagining
+---
+
+Last night we went to see a friend play some jazz-tinged blues at a jazz club in Alexandria.
+
+<img src="http://danielsjourney.com/images/jazz1.jpg" border="3" style="border-color:#cccccc;" />
+
+
+
+<img src="http://danielsjourney.com/images/jazz2.jpg" border="3" style="border-color:#cccccc;" />
+
+
+
+<img src="http://danielsjourney.com/images/jazz3.jpg" border="3" style="border-color:#cccccc;" />

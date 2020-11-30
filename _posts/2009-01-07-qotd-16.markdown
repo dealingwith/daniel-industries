@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2009-01-07 13:19:00'
+layout: post
+slug: qotd-16
+status: publish
+title: QotD
+wordpress_id: '2905'
+categories:
+ - elsewhere
+ - quotable
+---
+
+_But For The Grace_ (dead link)
+
+> Looking at the old man, he wonders, how many more of the tiny switches in
+his head would need to be flipped the wrong way round to move him from
+“eccentric and sometimes difficult” to “burden on society?” Not many, he
+figures.

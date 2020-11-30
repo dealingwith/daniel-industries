@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2008-02-17 11:41:00'
+layout: post
+slug: '2487'
+status: publish
+title: '...'
+wordpress_id: '2487'
+categories:
+ - comedy
+---
+
+[Analyze This: Hoaxer Haunts Earnings Calls][1]
+
+> "Can you provide some more color as to what you are doing for your supply
+chain initiatives to reduce manufacturing costs per hectoliter, as you
+originally promised $150 million in synergy or savings to decrease working
+capital?"
+
+   [1]:
+http://online.wsj.com/article/SB120301945499169247.html?mod=hps_us_pageone
+

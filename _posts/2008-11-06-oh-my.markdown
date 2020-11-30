@@ -1,0 +1,30 @@
+---
+author: dealingwith
+date: '2008-11-06 18:25:00'
+layout: post
+slug: oh-my
+status: publish
+title: Oh MY
+wordpress_id: '2849'
+categories:
+ - consumption
+ - humanity
+---
+
+So, from [the video I mentioned in my last post, _The Century of the
+Self_][1]:
+
+> One leading Wall Street banker...of Lehman Brothers, was clear about what
+was necessary. "We must shift America," he wrote, "from a needs to a desires
+culture. People must be trained to desire, to want new things even before the
+old have been entirely consumed. We must shape a new mentality in America.
+Man's desires must overshadow his needs."
+
+(At about 16:00 in the video.) This quote was from the 1940's.
+
+In case you're just coming out of a cave: [Lehman Brothers][2]
+
+   [1]: http://video.google.com/videoplay?docid=8953172273825999151
+
+   [2]: http://news.google.com/news?q=lehman+brothers
+

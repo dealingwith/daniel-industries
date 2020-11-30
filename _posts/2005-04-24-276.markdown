@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2005-04-24 11:19:00'
+layout: post
+slug: '276'
+status: publish
+title: '...'
+wordpress_id: '276'
+---
+
+[#][1] nerds are often disorganized or have a twisted skein of attention-
+deficit issues # nerds love assessing, classifying, and defining the objects
+in their world # nerds crave actionable items and roll their eyes at 'mission
+statements' and lofty management patois # nerds like things that work with
+technology-agnostic and lofi tools # nerds like frameworks but tend to ignore
+rules # nerds are unusually open to change (if it can be demonstrated to work
+better than what they're currently using) # nerds like fixing things on their
+own terms # nerds have too many projects and lots and lots of stuff
+
+   [1]: http://www.43folders.com/2004/09/getting_started.html
+

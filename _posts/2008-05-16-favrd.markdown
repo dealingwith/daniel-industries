@@ -1,0 +1,39 @@
+---
+author: dealingwith
+date: '2008-05-16 16:18:00'
+layout: post
+slug: favrd
+status: publish
+title: favrd
+wordpress_id: '3204'
+categories:
+ - twitter
+---
+
+[favrd][1]
+
+
+[Textism: Oh, look, another web app][2]
+
+> So I spent the last few days knocking this together. It works on three
+principles: first, that anyone who wants to can have their vote counted;
+second, that things people find interesting are more important than people who
+find things interesting; and third, that by any means necessary, web-strategy,
+social-media, online-marketing webcocks – unaware as they are of how toxic
+their presence is in the arenas they cannot shut up about – must and shall be
+filtered out of view.
+
+
+There’s some fancy albeit inchoate weighting logic going on under the surface,
+and I’ve got a few vaguely neato features in the works, though it is as they
+say very beta. It will I hope grow, and, as more people are added to the
+voting ranks, be a reliable source for funny, weird, obnoxious, entertaining,
+inspiring, webcock-less, tiny little fragments of life.
+
+
+   [1]: http://textism.com/favrd/
+
+   [2]: http://textism.com/2008/05/16/oh.look.another.web.app
+
+   
+

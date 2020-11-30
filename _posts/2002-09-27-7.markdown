@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.cnn.com/2002/US/South/09/27/imf.protests/index.html">CNN.com - IMF protesters arrested in DC - Sep. 27, 2002</a>
+

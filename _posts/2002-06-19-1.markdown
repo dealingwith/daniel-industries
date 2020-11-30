@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+I hate Netscape:
+
+If anyone can tell me why this site doesn't look right in Netscape, <a href="mailto:daniel@danielsjourney.com">let me know</a>. The fact that my CSS doesn't color your background doesn't bother me as much as the fact that my "etc." cell falls off the bottom of the window somehow. Whatsupwiththat? Some things I knew about, like no "hand" when you hover over the options on the <a href="customize.html">customize</a> page (which you don't know about because the etc. cell is off the bottom), but then what's up with the way it colors the cell when you do hover over the options? Sorry I didn't test in Netscape earlier. I've sort of given up. Note the title of this post. Ciao.
+

@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2009-02-19 19:55:00'
+layout: post
+slug: mp3otd-7
+status: publish
+title: Mp3OTD
+wordpress_id: '2943'
+categories:
+ - mp3 of the day
+---
+
+[The Beastles][1], for those of you who haven't already heard it. A mashup of
+the Beatles and the Beastie Boys. Purr itty good stuff.
+
+   [1]: http://danielsjourney.com/blog/files/2009/02/The%20Beastles.zip
+

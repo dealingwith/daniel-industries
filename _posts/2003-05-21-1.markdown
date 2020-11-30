@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - elsewhere
+---
+
+<a href="http://www.mezzoblue.com/zengarden/">css zen garden: the beauty in css design</a>
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<b>Tech</b>
+<i>The new look</i>
+
+Noticed this site is loading slow today. Sorry 'bout that. Could be my location, tho. (I'm at the Foreign Service Institute all day today.) <b>Update:</b> <a href="http://www.sevenmagazine.org">seven</a>, which is on the same server farm, is also slow, so it's something in the pipe from Florida (these are hosted in Lake Worth, if memory serves). (Just realized that was a pun. I am losing my mind. Sorry again. Have I said sorry? Sorry.)
+
+Looking at the background colors through a CBT monitor, they are a little too dark. They look just how I want them (subtle), tho, on my Dell's LCD. So if you want to see the "right" look of DJDC, then come to Arlington.
+

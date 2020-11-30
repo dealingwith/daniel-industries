@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2009-01-21 11:51:00'
+layout: post
+slug: mp3otd-6
+status: publish
+title: Mp3otD
+wordpress_id: '2919'
+categories:
+ - mp3 of the day
+---
+
+I put it online for a coworker, but you might as well [download my favorite
+piece of music of all time][1] as well, if you don't have it already.
+
+   [1]:
+http://danielsjourney.com/blog/files/2009/01/Gorecki%20Symphony%20No%203/
+(Gorecki's 3rd Symphony)
+

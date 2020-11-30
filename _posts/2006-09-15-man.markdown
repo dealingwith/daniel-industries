@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2006-09-15 17:21:00'
+layout: post
+slug: man
+status: publish
+title: man!
+wordpress_id: '1657'
+categories:
+ - crap
+ - design
+ - evil
+ - internets
+---
+
+i wish IE supported :hover on more than just the anchor tag
+

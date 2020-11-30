@@ -1,0 +1,13 @@
+---
+author: dealingwith
+date: '2007-04-02 16:13:00'
+layout: post
+slug: '2112'
+status: publish
+title: '...'
+wordpress_id: '2112'
+categories:
+ - quotable
+---
+
+> Kings wear being as the heavy crown of self-awareness. To be troubled over who you are is glory

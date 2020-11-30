@@ -1,0 +1,87 @@
+---
+author: dealingwith
+date: '2005-08-10 16:48:00'
+layout: post
+slug: on-swim
+status: publish
+title: On SWIM
+wordpress_id: '3161'
+categories:
+ - nonlinear
+---
+
+It was actually while looking at the Technorati info on [SWIM][1] that I
+thought about this page's sidebar link/blurb on SWIM. "WTF does SWIM have to
+do with nonlinear anything?" I hear nonexistant readers asking.
+
+
+SWIM the web [CMS][2] is the first baby step towards SWIM the nonlinear mind
+mapping slash organization slash CMS tool.
+
+
+Eating lots of my own dog food this morning with a fresh install of SWIM
+destined for [danielsjourney.com][3] (sometime in the next century), I
+realized that SWIM is pretty damn impressive.
+
+
+One feature (and I'll get to how this links to future SWIM nonlinear goodness
+later) that was a pain to develop, but that I like alot, is the ability to
+linearly display the taxonomy. Other CMS's can do this too, I know, but it's a
+built-in characteristic of SWIM.
+
+
+Here's an example display of a taxonomy in a typical outline format:
+
+
+[![][4]][5]
+
+
+Here's the display of an entry-specific taxonomy in a linear format:
+
+
+[![][6]][7]
+
+
+...indicating the tree structure of the entries existence in one category and
+the stand-aloneness of another category.
+
+
+Now where this will get cool sometime in the next decade (or much sooner, god
+willing) (investors, anyone?) (just kidding) (no i'm not) ...is where there
+will be meaning links between not only categories in the taxonomy, but between
+individual entries. Then SWIM can start doing creative analytics on your
+entries and suggesting interconnected meanings between entries. Something akin
+to [this][8], but, you know, much more useful (*Upon request for the info*:
+"This entry may relate to: x, y, and z").
+
+
+For now, we need to get some basic CMS features released, and again not to
+gush but I am really happy with the way we've made a lot of these basic CMS
+features work already. We're talking in depth about how to get a [tag][9]ging
+system working in SWIM, and then make it work intuitively/seemlessly with our
+existing taxonomy system, and how to make it then work with the future
+"meaning tags/links" system.
+
+![][10]
+
+   [1]: http://underde.com/swim
+
+   [2]: http://en.wikipedia.org/wiki/Content_management_system
+
+   [3]: http://danielsjourney.com
+
+   [4]: http://photos1.blogger.com/blogger/420/40/400/swim%20category%20view%20outline.jpg
+
+   [5]: http://photos1.blogger.com/blogger/420/40/1600/swim%20category%20view%20outline.jpg
+
+   [6]: http://photos1.blogger.com/blogger/420/40/400/swim%20category%20view%20linear.jpg
+
+   [7]: http://photos1.blogger.com/blogger/420/40/1600/swim%20category%20view%20linear.jpg
+
+   [8]: http://parazite.greatnow.com/assistantsuicide.gif
+
+   [9]: http://del.icio.us/dealingwith/tags
+
+   [10]: https://blogger.googleusercontent.com/tracker/3147579-112369288286735
+463?l=nonlinear.blogspot.com
+

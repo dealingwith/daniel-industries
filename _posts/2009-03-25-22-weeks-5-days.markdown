@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2009-03-25 16:42:00'
+layout: post
+slug: 22-weeks-5-days
+status: publish
+title: 22 weeks, 5 days
+wordpress_id: '2971'
+categories:
+ - minutia
+---
+
+[![][1]][2]
+
+[22 weeks, 5 days][3]
+
+Originally uploaded by [carissabyers][4]
+
+I made that
+
+   [1]: http://farm4.static.flickr.com/3629/3385916534_168357ac17_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/3385916534/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/3385916534/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+

@@ -1,0 +1,33 @@
+---
+author: dealingwith
+date: '2008-07-08 14:10:00'
+layout: post
+slug: wotd-13
+status: publish
+title: WotD
+wordpress_id: '2697'
+categories:
+ - imagining
+ - nostalgia
+ - word of the day
+---
+
+[![Sarajevo funicular][1]][2]
+
+[originally uploaded by PabsV][3]
+
+[Funicular][4]. I rode this one a bunch of times during a very interesting
+week of my life. [See also][5]. [via][6]
+
+   [1]: http://farm1.static.flickr.com/73/165771072_c130c8e934_m.jpg
+
+   [2]: http://www.flickr.com/photos/rer212/165771072/ (but i mostly took thestairs, actually)
+
+   [3]: http://www.flickr.com/photos/rer212/165771072/
+
+   [4]: http://en.wikipedia.org/wiki/Funicular
+
+   [5]: http://en.wikipedia.org/wiki/Funicul%C3%AC,_Funicul%C3%A0
+
+   [6]: http://notrocketsurgery.com/articles/2007/04/02/the-mile-high-club-37signals-fuck-yeahs-and-productivity-stock-art
+

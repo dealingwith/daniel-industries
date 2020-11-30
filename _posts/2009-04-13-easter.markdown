@@ -1,0 +1,48 @@
+---
+author: dealingwith
+date: '2009-04-13 00:51:00'
+layout: post
+slug: easter
+status: publish
+title: Easter
+wordpress_id: '2985'
+categories:
+ - faithy
+ - family
+ - minutia
+ - video
+---
+
+![][1]
+
+I wanted to write a profound post for Good Friday. It didn't happen.
+
+Just go listen [to this Radiolab][2].
+
+![][3]
+
+I did have the realization that [Christianity is possibly the most emo
+religion][4], like, evar.
+
+What's really important is simply [the satisfaction of finding all the
+eggs][5].
+
+...
+
+> Functional programming may be the ultimate answer, but method chaining is
+the productivity lock people wanted to crack.
+
+[#][6]
+
+   [1]: http://danielsjourney.com/blog/files/2009/04/eas_2.jpg
+
+   [2]: http://blogs.wnyc.org/radiolab/2009/04/07/in-silence/
+
+   [3]: http://danielsjourney.com/blog/files/2009/04/eas_17.jpg
+
+   [4]: http://twitter.com/dealingwith/status/1505901592
+
+   [5]: http://www.youtube.com/watch?v=rUDag968BxI
+
+   [6]: http://blog.labnotes.org/2009/03/20/just-find-me-the-lock-i-need-to-crack/ (this has a lot more to do with my immediate future than i am going tolet on)
+

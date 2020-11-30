@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'advert'
+categories:
+ - comment
+---
+
+got this in my yahoo mail inbox. this is the kind of advert that adbusters doesn't have to modify when they run it in their mag as satire:
+
+<table border="0" cellspacing="0" cellpadding="0"><tr><td colspan="2"><img border="0" src="images/advert/Img1.gif" width="450" height="71"></td></tr><tr><td><img border="0" src="images/advert/Img2.gif" width="277" height="166">
+<img border="0" src="images/advert/Img5.gif" width="100" height="69"><img border="0" src="images/advert/4.gif" width="177" height="69"></td><td><img border="0" src="images/advert/Img3.gif" width="173" height="235"></td></tr></table>

@@ -1,0 +1,13 @@
+---
+author: dealingwith
+date: '2001-09-19 22:10:00'
+layout: post
+slug: '30'
+status: publish
+title: 'Nonlinear: Business organization software'
+wordpress_id: '3089'
+categories:
+ - nonlinear
+---
+
+Business organizational software is also only ok. My software is in its most basic form an integration of these with those from 6. However it is much more than that. These allow the non-linear connections, but are all based around a flowchart metaphor. My idea, based around the story/informational field/map (you even get to pick your language!), is fundamentally different and therefore infinitely more flexible in it's application. The same version of the product could be used for both this market, storyboarding, and the following market....

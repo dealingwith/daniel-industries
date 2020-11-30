@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2006-05-08 14:56:00'
+layout: post
+slug: '1296'
+status: publish
+title: '...'
+wordpress_id: '1296'
+categories:
+ - development
+ - elsewhere
+ - geek
+ - ruby
+ - technology
+---
+
+http://therealadam.com/presentations/culture_and_aesthetic-
+sdforum/CultureAndAestheticOfRubyAndRails.pdf
+
+this is pretty darn geeky, but has some real metanuggets for the non-geek
+willing to scan over the technobabble to find them. this guy is a great
+presenter. will hopefully be getting to know him better over the next few
+months...assuming i stick around dfw.
+

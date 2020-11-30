@@ -1,0 +1,21 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>Nonprofit Company Builds Interpersonal Information Manager</b>
+
+<a href="http://www.siliconvalley.com/mld/siliconvalley/4327025.htm">Mercury News | 10/20/2002 | Dan Gillmor: Software idea may be just crazy enough to work</a>
+
+Dammit! This looks like exactly the same kind of thing I want to do!! This is both very encouraging and a "I'm late to the game" kind of feeling...
+
+<i>Mitch Kapor smiles at the half-serious question: "Are you crazy to try something like this?''
+
+For more than a year, Kapor and his small team have been working on what they're calling an open-source "Interpersonal Information Manager.''
+
+That makes the Chandler business plan perhaps as important as the product itself. Kapor, founder of the software company that sold the influential and hugely successful Lotus 1-2-3 spreadsheet program in the 1980s, is funding the initial work through a non-profit foundation. Why does this matter? For one thing, it may succeed. For another, it could be a model for other such projects.</i>
+
+The best place for information about this product seems to be <a href="http://blogs.osafoundation.org/mitch/">Mitch Kapor's weblog about it</a>, on the <a href="http://www.osafoundation.org/index.htm">OSA Foundation website</a>.
+

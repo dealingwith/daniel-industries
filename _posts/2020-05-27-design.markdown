@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Design"
+excerpt: '"Designing is more focused on figuring out how it should be and engineering is figuring out how to actually build that thing in a way that has reliability and quality in it but there’s a huge part where you’re doing some of both."'
+date: 2020-05-27 10:42:23 -0500
+categories: 
+---
+
+[How Design Makes the World: With Author and Designer Scott Berkun](https://postlight.com/trackchanges/podcast/how-design-makes-the-world-with-author-and-designer-scott-berkun)
+
+> I think that any time you have an idea for something and you try to make it real in the world, you’re doing some amount of designing and engineering. Designing is probably more focused on the figuring out how it should be and the engineering is figuring out how to actually build that thing in a way that has reliability and quality in it but there’s a huge part where you’re doing some of both. And so I was a computer science student, and we learned to write code and do algorithms, they never mentioned the word ‘design’ and I think that was terrible. I think that had we applied any basic amount of design practice, of thinking about alternatives, thinking about goals, thinking about prototyping---that would’ve been helpful as an engineer 'cause when you write an API, you’re doing both design and engineering. You’re creating a thing someone else is gonna have to use and you’re trying to guess at what’s gonna be easy for them to do. So to me, an API is this weird combination of design, engineering, and interface design, even though it’s purely code which shouldn’t really have an interface, right? The easy answer is my first one though: they overlap in the middle. Design’s usually about figuring out what it should be, and engineering is how do you build this so no one dies when they use it? 
+
+> ...it’s fascinating to me how much the tech community is involved in interface design and design work...that don’t think of design as something that they do. And that’s part of what I’m trying to solve with the book is that anyone who makes stuff, you’re designing it. There’s design involved. And what you wanna draw the line between engineer and design: I don’t care. You’re doing---you’re trying to do quality work that solves a problem. And the more informed you are about how other people in the past have solved problems well, the better job you’re gonna do. And design is one way to frame—one lens on how you make things well. 
+
+Listening to this I realized this is part of what I have that has made my career what it is. I'm an engineer first, but with design sensibilities. I've always had a strong interest in both fields, especially where they intersect---which, as suggested above, is almost everywhere. I've been able to speak the language of both design and code. And I've been the person you bring in before there is an established design process to create some sane software and help get that design process up and running, or at least find the help needed in the short term.
+
+I also really liked this part. In all my years advocating for better design, I never thought to frame it as simply _quality_.
+
+> I tell designers, and it’s one of the early parts of the book, is that design is just---it’s a kind of quality. I mean engineering you could argue is a quality too. That’s fine, I don’t have any argument there. It’s a kind of quality. And once you start talking about quality, now you have---people have stakes in that. So one might say, “Oh, is my thing design?” Well, I don’t know. If you say, “Is the thing you’re making high quality or not?” Everyone gets really defensive. “Of course what I make is high quality!”

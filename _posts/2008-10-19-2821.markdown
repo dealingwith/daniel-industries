@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2008-10-19 21:57:00'
+layout: post
+slug: '2821'
+status: publish
+title: '...'
+wordpress_id: '2821'
+categories:
+ - video
+---
+
+
+[Obama '08 - Vote For Hope][1] from [MC Yogi][2] on [Vimeo][3].
+
+   [1]: http://vimeo.com/1891426?pg=embed&sec=1891426
+
+   [2]: http://vimeo.com/mcyogi?pg=embed&sec=1891426
+
+   [3]: http://vimeo.com?pg=embed&sec=1891426
+

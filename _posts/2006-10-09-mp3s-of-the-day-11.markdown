@@ -1,0 +1,53 @@
+---
+author: dealingwith
+date: '2006-10-09 18:05:00'
+layout: post
+slug: mp3s-of-the-day-11
+status: publish
+title: mp3s of the day
+wordpress_id: '1738'
+categories:
+ - love
+ - mp3 of the day
+ - music
+ - personal notes
+---
+
+[been listening to all these records alot][1].
+
+[![][2]][3] [![][4]][5] [![][6]][7] [![][8]][9]
+
+[Marjorie Fair - My Sun is Setting Over Her Magic][10]
+
+[Derek Webb - Love is Not Against the Law][11]
+
+[Josh Rouse - It Looks Like Love][12]
+
+[Matthew Sweet - Don't Go][13]
+
+   [1]: http://www.last.fm/user/dealingwith/charts/?charttype=recenttracks
+
+   [2]: http://images.amazon.com/images/P/B0009VBU6I.01._SCTHUMBZZZ_.jpg
+
+   [3]: http://www.amazon.com/Self-Help-Serenade-Marjorie-Fair/dp/B0009VBU6I/sr=1-1/qid=1160436276/ref=pd_bbs_1/102-3685726-9396143?ie=UTF8&s=music
+
+   [4]: http://images.amazon.com/images/P/B000CC3SEG.01._SCTHUMBZZZ_.jpg
+
+   [5]: http://freederekwebb.com
+
+   [6]: http://images.amazon.com/images/P/B000EHQ850.01._SCTHUMBZZZ_V58640157_.jpg
+
+   [7]: http://www.amazon.com/exec/obidos/search-handle-url/102-3685726-9396143?%5Fencoding=UTF8&search-type=ss&index=music&field-artist=Josh%20Rouse
+
+   [8]: http://ec1.images-amazon.com/images/P/B000FJA9OI.01._SCTHUMBZZZ_V67099655_.jpg
+
+   [9]: http://www.amazon.com/Girlfriend-Matthew-Sweet/dp/B000FJA9OI/sr=1-1/qid=1160436405/ref=pd_bbs_1/102-3685726-9396143?ie=UTF8&s=music
+
+   [10]: http://daniel.iaspiretonothing.com/blog/files/2006/10/Marjorie%20Fair%20-%20Self%20Help%20Serenade%20-%2012%20-%20My%20Sun%20Is%20Setting%20Over%20Her%20Magic.mp3
+
+   [11]: http://daniel.iaspiretonothing.com/blog/files/2006/10/Derek%20Webb%20-%2011%20-%20Love%20Is%20Not%20Against%20The%20Law.mp3
+
+   [12]: http://daniel.iaspiretonothing.com/blog/files/2006/10/Josh%20Rouse%20-%20Subtitulo%20-%203%20-%20It%20Looks%20Like%20Love.mp3
+
+   [13]: http://daniel.iaspiretonothing.com/blog/files/2006/10/Matthew%20Sweet%20-%20Girlfriend%20-%2011%20-%20Don't%20Go.mp3
+

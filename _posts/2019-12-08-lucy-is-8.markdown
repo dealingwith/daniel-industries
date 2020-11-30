@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Lucy is 8"
+excerpt: 
+date: 2019-12-08 08:50:11 -0600
+comments: true
+categories: 
+---
+
+![](/assets/2019/12/lucy_8.jpg)

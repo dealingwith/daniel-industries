@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+FYI. It's almost out: <a href="http://www.relevantstore.com/catalog/product_info.php?products_id=32">RELEVANT store</a>
+

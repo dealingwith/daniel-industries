@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2006-08-10 11:06:00'
+layout: post
+slug: '1563'
+status: publish
+title: '...'
+wordpress_id: '1563'
+categories:
+ - elsewhere
+ - geek
+ - pranks
+---
+
+[News 14 Carolina gets pwnt][1]:
+
+> On February 26, 2004, we had a snowstorm here in Raleigh, and all the news
+channels posted the businesses and schools that would be closed the next day.
+One of these fine news organizations, Time Warner Cable's News 14 Carolina,
+chose the most convenient but least secure method to allow businesses to
+report closings: the Internet. Well, it wasn't long before members of The Wolf
+Web, an NCSU message board, exposed this flaw. They went crazy, as you're
+about to see. The best part of the whole thing was once a closing was
+accepted, it could be edited on the Internet and would go straight to TV
+without having to be reviewed again, so a fake closing that seemed plausible
+the first time it was shown could be outrageous the next time.
+
+   [1]: http://www4.ncsu.edu/~smheath/news14.html
+

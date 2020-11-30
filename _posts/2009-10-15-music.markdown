@@ -1,0 +1,52 @@
+---
+author: dealingwith
+date: '2009-10-15 00:46:00'
+layout: post
+slug: music
+status: publish
+title: Music
+wordpress_id: '3041'
+categories:
+ - johnny citizen
+ - music
+---
+
+[Presteign][1], randomly found site, love the overall aesthetic. Music-group-
+as-corporate-entity is not new (see [dfg corporation][2] [#][3]) but I also
+like the music-group-as-cultural-ministry, and the above-linked site pulls it
+off with a nice, subtle European flair.
+
+Been thinking a lot about what I want/need to do in regards to my artistic
+pursuits, having done virtually nothing since the release of [the last
+record][4] last March.
+
+Then there's this attitude, equally popular:
+
+> Call it God, magic, fortune or simply the sum of the variables you cannot
+understand or control, but know that your very best work cannot be scheduled
+of produced on-demand. You’ve got to be patient, you’ve got to try and try
+again and you’ve got to let God in.
+
+-- from [Let God In][5].
+
+Coincidentally, I got a new temp site up for [johnnycitizen.com][6], just
+conglomerated all the different iterations and content across four different
+sites. Still not sure what I'm going to do with it, but since it (and every
+site on my server) was hacked earlier in the summer it'd just been empty.
+
+I have a bookmark folder around here somewhere full of great tunes I've found
+over the last 6 months, all free for the download. I might be posting another
+music post here soon.
+
+   [1]: http://www.presteign.com/
+
+   [2]: http://www.thedfgcorporation.co.uk
+
+   [3]: http://www.flickr.com/photos/smallritual/2331204131/
+
+   [4]: http://danielmiller.bandcamp.com/
+
+   [5]: http://www.contrast.ie/blog/let-god-in/
+
+   [6]: http://johnnycitizen.com/
+

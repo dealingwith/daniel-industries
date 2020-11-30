@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-09-26 17:58:00'
+layout: post
+slug: '593'
+status: publish
+title: '...'
+wordpress_id: '593'
+---
+
+somewhat obsessed with [dirty projectors][1] today.
+
+   [1]: http://www.wnyc.org/shows/spinning/episodes/04082005
+

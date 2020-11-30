@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2007-08-12 14:42:00'
+layout: post
+slug: mp3-of-the-day-28
+status: publish
+title: mp3 of the day
+wordpress_id: '2258'
+categories:
+ - mp3 of the day
+---
+
+[Colin Meloy covers Morrissey's Every Day Is Like Sunday][1]
+
+   [1]: http://danielsjourney.com/blog/files/2007/08/Colin%20Meloy%20-%20Colin%20Meloy%20Sings%20Morrissey%20-%206%20-%20Every%20Day%20Is%20Like%20Sunday.mp3
+

@@ -1,0 +1,52 @@
+---
+author: dealingwith
+date: '2008-05-02 11:05:00'
+layout: post
+slug: say-what
+status: publish
+title: say WHAT??
+wordpress_id: '2614'
+categories:
+ - bad
+ - blah
+ - bullshit
+ - buzzkill
+ - crap
+ - dumb
+ - elsewhere
+ - internets
+ - wankers
+---
+
+[![][1]][2]
+
+[say WHAT??][3]
+
+Originally uploaded by [_rebekka][4]
+
+Given [sugarfilled][5]'s recent rejections from iStockphoto ("too much post"
+on a photo straight out of the camera), the fact that someone stole 80% of
+their iStockphoto portfolio off of someone else's Flickr account--
+photoshopping the watermark off of a 300kb image already compressed by open
+source server side scripting code on Flickr's servers--REALLY PISSES ME OFF.
+
+
+To the point I think I'm going to use up the rest of my iStock credits and
+find a new stock image supplier.
+
+
+This is the other far side from [this thing][6] and pisses me off far, far
+more.
+
+   [1]: http://farm3.static.flickr.com/2152/2243426607_83d1c3a42c_m.jpg
+
+   [2]: http://www.flickr.com/photos/rebba/2243426607/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/rebba/2243426607/
+
+   [4]: http://www.flickr.com/people/rebba/
+
+   [5]: http://sugarfilled.com
+
+   [6]: http://dealingwith.livejournal.com/641479.html (explanation ofthisphotobylanehartwell.com)
+

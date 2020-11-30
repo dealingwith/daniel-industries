@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2006-08-10 07:27:00'
+layout: post
+slug: big-toms
+status: publish
+title: big toms
+wordpress_id: '1561'
+categories:
+ - minutia
+ - music
+---
+
+I need to play drums in a band again.
+

@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2008-10-20 13:55:00'
+layout: post
+slug: wotd-15
+status: publish
+title: WotD
+wordpress_id: '2826'
+categories:
+ - quotable
+ - ui
+ - ux
+---
+
+Not sure if I'd already blogged this article, but I wanted to capture this
+particular quote, even if it was for a second time: [The new UI wars: Why
+there’s no Flash on iPhone 2.0][1]:
+
+> This is a company so obsessed with UI and user experience that it hasn’t yet
+introduced something as basic as copy and paste on the iPhone 2.0 because, as
+is rumored, it hasn’t quite nailed a proper UI pattern.
+
+   [1]: http://counternotions.com/2008/06/17/flash-iphone/
+

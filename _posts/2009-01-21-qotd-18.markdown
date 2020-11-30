@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2009-01-21 11:32:00'
+layout: post
+slug: qotd-18
+status: publish
+title: QotD
+wordpress_id: '2918'
+categories:
+ - quotable
+ - social software
+---
+
+[Social Media "Experts" are the Cancer of Twitter (and Must Be Stopped)][1]:
+
+> back in the day (about a year ago) various techie friends started to declare
+themselves _social media gurus_ because they decided to hang out on Twitter
+and Facebook all day
+
+   [1]: http://www.fanboy.com/2009/01/social-media-experts-rant.html
+

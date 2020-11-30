@@ -1,0 +1,41 @@
+---
+author: dealingwith
+date: '2006-02-15 10:50:00'
+layout: post
+slug: wtf
+status: publish
+title: W.T.F.
+wordpress_id: '1009'
+categories:
+ - technology
+---
+
+http://www.adaptivepath.com/team/news/2006_02.php
+
+_**Measure Map Goes to Google.** Adaptive Path has sold Measure Map, the
+unique analytics service designed for bloggers, to Google.
+
+This acquisition is the culmination of Adaptive Path’s first initiative to
+develop products in-house. We set out to provide bloggers with a powerful,
+simple way to understand participation on their blogs. Our users and the media
+have praised Measure Map as an innovative approach to analytics; this
+acquisition by Google reaffirms our belief in the product and those involved.
+
+Jeffrey Veen, an Adaptive Path founder and Product Director for Measure Map,
+will make the journey to Google along with several other members of the
+development team. Jeff will retain ties with Adaptive Path as a friend and
+colleague.
+
+We wish Jeff the best and could not be happier for him and the others who will
+be headed to Google. For more information about Measure Map and Google’s
+acquisition, please read Jeff’s blog post on the [Google website][1]._
+
+It's getting worse. Now all you need is vaporware to achieve the geek wet
+dream of Google acquisition.
+
+[later saw this][2]
+
+   [1]: http://googleblog.blogspot.com/
+
+   [2]: http://blog.jjg.net/weblog/2006/02/google_acquires_1.html
+

@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2006-03-17 12:24:00'
+layout: post
+slug: sx-update-10
+status: publish
+title: sx update 10
+wordpress_id: '1137'
+categories:
+ - film
+ - minutia
+ - music
+ - sxsw
+---
+
+I have no time, quite literally. But last night was quite good. Got to hang
+out with David Hopkins, [Who the $#%& is Jackson Pollock?][1] was an excellent
+film, the Happy Bullets played another good set, and dEUS played a good late
+set. The hangover wasn't _too_ bad.
+
+   [1]: http://2006.sxsw.com/film/screenings/film/F5453.html
+

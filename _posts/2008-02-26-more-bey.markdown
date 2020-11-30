@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2008-02-26 13:20:00'
+layout: post
+slug: more-bey
+status: publish
+title: more Bey
+wordpress_id: '2504'
+categories:
+ - hakim bey
+ - quotable
+ - thoughts
+---
+
+[Seduction of the Cyber Zombies][1]:
+
+> Only the most extropian true believers in the Net still dream of it as the
+final solution. More realistic thinkers have rejected cyber-soteriology, but
+accept the Net as a viable tool (or weapon). They would agree that other nets
+must be set up and maintained simultaneously with "the" Net---otherwise it
+becomes just another medium of alienation, more engrossing than TV, maybe, but
+thereby even more total in entrancement.
+
+I didn't get much farther along in this essay (maybe later), but this said
+what I wanted to say.
+
+   [1]: http://www.hermetic.com/bey/seduct.html
+

@@ -1,0 +1,30 @@
+---
+author: dealingwith
+date: '2007-02-27 19:12:00'
+layout: post
+slug: polymath
+status: publish
+title: Polymath
+wordpress_id: '2029'
+categories:
+ - comedy
+ - elsewhere
+ - imagining
+ - london
+---
+
+[![][1]][2]
+
+[Polymath][3]
+
+Originally uploaded by [Matthew Gidley][4].
+
+
+   [1]: http://farm1.static.flickr.com/57/226112704_5a60f85425_m.jpg
+
+   [2]: http://www.flickr.com/photos/matthew_gidley/226112704/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/matthew_gidley/226112704/
+
+   [4]: http://www.flickr.com/people/matthew_gidley/
+

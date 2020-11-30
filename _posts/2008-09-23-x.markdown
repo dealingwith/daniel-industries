@@ -1,0 +1,37 @@
+---
+author: dealingwith
+date: '2008-09-23 22:10:00'
+layout: post
+slug: x
+status: publish
+title: X
+wordpress_id: '2799'
+categories:
+ - bicycling
+ - elsewhere
+ - imagining
+---
+
+[![][1]][2]
+
+[X][3]
+
+Originally uploaded by [R A P H A][4]
+
+Expired: Shaking your Polaroid pictures
+
+
+Tired: Cycling culture
+
+
+Wired: Taking Polaroid pictures of _cyclocross_ riders in _Portland_ with some
+vague _Belgian_ connection
+
+   [1]: http://farm4.static.flickr.com/3233/2882570929_0a4222ec58_m.jpg
+
+   [2]: http://www.flickr.com/photos/raphacc/2882570929/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/raphacc/2882570929/
+
+   [4]: http://www.flickr.com/people/raphacc/
+

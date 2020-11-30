@@ -1,0 +1,33 @@
+---
+author: dealingwith
+date: '2008-10-25 17:46:00'
+layout: post
+slug: leroica-2008
+status: publish
+title: L'eroica 2008
+wordpress_id: '2831'
+categories:
+ - bicycling
+ - elsewhere
+ - imagining
+ - nostalgia
+---
+
+[![][1]][2]
+
+[L'eroica 2008-24][3]
+
+Originally uploaded by [tetedelacourse][4]
+
+[This is my kind of race][5]
+
+   [1]: http://farm4.static.flickr.com/3188/2958916935_b4c28f2777_m.jpg
+
+   [2]: http://www.flickr.com/photos/tetedelacourse/2958916935/ (photosharing)
+
+   [3]: http://www.flickr.com/photos/tetedelacourse/2958916935/
+
+   [4]: http://www.flickr.com/people/tetedelacourse/
+
+   [5]: http://www.flickr.com/photos/tetedelacourse/sets/72157608213066264/
+

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'at least'
+categories:
+ - quotable
+---
+
+<blockquote>At least I don't have to worry about that verse, "Woe to you when all people speak well of you" any more!</blockquote><a href="http://the-next-wave-ezine.info/issue78/index.cfm?id=1&ref=ARTICLES%5FINTERVIEWS%5F16">Brian McLaren</a>

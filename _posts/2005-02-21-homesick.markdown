@@ -1,0 +1,60 @@
+---
+layout: post
+title: 'homesick'
+categories:
+ - values.goals.strategy
+---
+
+<blockquote> I'll lose some sales and my boss won't be happy
+
+But I can't stop listening to the sound
+
+Of two soft voices mended in perfection
+
+From the reels of this record that I found
+
+Everyday there's a boy in the mirror
+
+Asking me what are you doing here
+
+Finding all my previous motives
+
+Growing increasingly unclear
+
+
+
+I've travelled far and I've burned all the bridges
+
+I believed as soon as I hit land
+
+All the other options held before me
+
+Will wither in the light of my plan
+
+So I'll lose some sales and my boss won't be happy
+
+But there's only one thing on my mind
+
+Searching boxes underneath the counter
+
+On a chance that on a tape I'd find
+
+A song for
+
+Someone who needs somewhere
+
+To long for
+
+
+
+Homesick
+
+Cause I no longer know
+
+What home is</blockquote>
+
+Kings of Convenience, <a href="http://www.songmeanings.net/lyric.php?lid=3530822107858508975">Homesick</a>. Mar 20 at the Tea Room oh yeah.
+
+
+
+I've added <a href="http://www.43things.com/people/view/dealingwith">my <s>43</s> 24 things</a> to the sidebar (if you're looking at the homepage and not a permalink). I need dependencies. I'm working on a SWIM project management module (in my head, have to finish the initial release first) that I'll be implementing, possibly in public, once it's at least halfway done.

@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-02-24 07:27:00'
+layout: post
+slug: '1040'
+status: publish
+title: '...'
+wordpress_id: '1040'
+---
+
+[![][1]][2]
+
+   [1]: http://danielsjourney.com/blog/files/2006/02/lifeis.jpg
+
+   [2]: http://danielsjourney.com/blog/files/2006/02/Duke%20Special%20-%20Adventures%20In%20Gramophone%20-%206%20-%20Kill%20Me%20Quickly%20Please.mp3
+

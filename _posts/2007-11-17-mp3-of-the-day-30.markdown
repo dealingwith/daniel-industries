@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2007-11-17 11:05:00'
+layout: post
+slug: mp3-of-the-day-30
+status: publish
+title: mp3 of the day
+wordpress_id: '2366'
+categories:
+ - brilliant
+ - mp3 of the day
+ - music
+---
+
+[Dan Wilson - All Kinds][1]
+
+I've [been listening][2] to [this track][3] (and this record) so much lately
+it had to be the mp3 of the day. It's better when you've sung along to the
+song live in a little club a couple nights ago, but still amazing and
+beautiful.
+
+   [1]: http://danielsjourney.com/blog/files/2007/11/01%20All%20Kinds.mp3
+
+   [2]: http://www.last.fm/user/dealingwith/charts/?charttype=recenttracks
+
+   [3]: http://www.last.fm/music/Dan+Wilson/_/All+Kinds
+

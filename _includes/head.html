@@ -1,0 +1,101 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
+
+  <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap" rel="stylesheet">
+
+  <style>
+    .quicksand {
+      font-family: sans-serif;
+    }
+
+    h1, h2, h3, h4, h5, h6, header *, .heading-style {
+      font-family: Nunito, sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.8em;
+    }
+    h3 {
+      font-size: 1.6em;
+    }
+    h4 {
+      font-size: 1.4em;
+    }
+    h5 {
+      font-size: 1.2em;
+    }
+    h6 {
+      font-size: 1em;
+    }
+    
+    ::selection {
+        background: yellow;
+        /* WebKit/Blink Browsers */
+    }
+    ::-moz-selection {
+        background: yellow;
+        /* Gecko Browsers */
+    }
+
+    a {
+      color: rgb(1 1 200 / 80%);
+      cursor: pointer;
+      font-weight: 400;
+      text-decoration: none;
+    }
+    a:hover, a:focus {
+      border-bottom: 1px solid rgb(1 1 200 / 80%);
+    }
+    a strong {
+      color: inherit;
+    }
+    a.dead {
+      color: #9ca3af;
+      text-decoration: line-through;
+    }
+    .bg-gray-900 a {
+      color: #9ca3af;
+    }
+    .bg-gray-900 a:hover, .bg-gray-900 a:focus {
+      border-bottom: 1px solid #9ca3af;
+    }
+    
+    .main-content p, .main-content hr, .main-content div, .main-content iframe {
+      margin-bottom: 1em;    
+    }
+    
+    .post-metadata {
+      color: rgba(55,65,81,.6);
+      font-size: .9em;
+    }
+    .bg-gray-900 .post-metadata {
+      color: #9ca3af;
+    }
+    
+    blockquote {
+      border-left: 2px solid #9ca3af;
+      padding-left: 1em;
+    }
+    
+    img {
+      border-radius: 5px;
+    }
+  </style>
+
+</head>

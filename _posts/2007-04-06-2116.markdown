@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2007-04-06 16:35:00'
+layout: post
+slug: '2116'
+status: publish
+title: '...'
+wordpress_id: '2116'
+---
+
+![][1]
+
+   [1]:
+http://daniel.iaspiretonothing.com/blog/files/2007/04/chickengoodfri.jpg
+

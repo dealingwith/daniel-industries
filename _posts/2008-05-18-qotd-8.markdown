@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2008-05-18 10:56:00'
+layout: post
+slug: qotd-8
+status: publish
+title: QotD
+wordpress_id: '2640'
+categories:
+ - quotable
+---
+
+> To have without possessing, do without claiming, lead without controlling;
+this is mysterious power
+
+[#][1]
+
+   [1]: http://twitter.com/presencemachine/statuses/814048622
+

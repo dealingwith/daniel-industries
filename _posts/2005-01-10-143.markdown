@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-01-10 12:18:00'
+layout: post
+slug: '143'
+status: publish
+title: '...'
+wordpress_id: '143'
+---
+
+[http://www.livejournal.com/users/jwz/429090.html][1]
+
+   [1]: http://www.livejournal.com/users/jwz/429090.html
+

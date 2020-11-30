@@ -1,0 +1,12 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+my archives broke again, so i republished all, so i just happened upon october: 
+
+> Still working on all the same stuff. Hate Mail has obsessed me, fulfilled me, and practically institutionalized me all in the same breath. Crazy...Lord, please be right about not worrying about tomorrow, about the birds having enough to eat, etc. I don't know if You noticed, but we're not birds. We sometimes think about being able to eat tomorrow.
+
+on another note, joined the blogger API listserve today, alot of info out there as I explore publishing my blog as XML, but I'll get thru it eventually...

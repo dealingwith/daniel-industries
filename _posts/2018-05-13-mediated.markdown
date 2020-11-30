@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Mediated"
+excerpt: "These are all related, I promise..."
+date: 2018-05-13 22:26:20 -0500
+comments: true
+categories: 
+---
+
+[Google’s Big AI Advance Is...Script Theory?](https://hapgood.us/2018/05/12/googles-big-ai-advance-is-script-theory/)
+
+> After years of Big Data  and personal analytics hype, the advance that Google demonstrated is an application of 1970s AI work that requires none of that.
+
+In case you missed it, Google made everyone sycophantic with their demo of [their Assistant scheduling appointments and stuff](https://www.theverge.com/2018/5/8/17332070/google-assistant-makes-phone-call-demo-duplex-io-2018 "'Google just gave a stunning demo of Assistant making an actual phone call' for example"). So now those of us who can't bear to make phone calls can have AI do it for us.
+
+[Seth Everman](https://twitter.com/SethEverman/status/973603138908426242):
+
+> once i fix my sleep schedule, start eating healthy, get physically fit, beat depression, stop procrastinating, learn how to do taxes, get mentally strong enough to make phone calls, then it’s over for you bitches
+
+Not so fast, though; you can't just continue to retreat into your tiny screen...
+
+[Some tough love for introverts](http://journal.avdi.org/2018/05/12/some-tough-love-for-introverts/)
+
+> The internet has given us shy folk an unprecedented opportunity to make connections. But it has also given us ample excuses never to make real-world, hugging, glass-clinking, snort-laughing, high-fiving, companionable-hiking, thoughtful-silence-sharing buddies.
+
+> Give yourself the gift of a safety net. No matter how painful and unnatural it feels, cultivate local friendships.
+
+Maybe we need to think about this stuff...
+
+[On Ethics and Techno-Utopianism at the Media Lab](https://joi.ito.com/weblog/2018/05/12/on-ethics-and-t.html)
+
+> I believe that we need to continue to integrate social sciences and reflection even more deeply into our science and technology work.
+
+> More socially integrated work in technology has continued to increase in both the rest of society and at the Lab. One of my questions is whether the Lab is changing fast enough, and whether the somewhat emergent way that the work is infusing itself in the Lab is the appropriate way.
+
+Because if we're creators at our core, what does that mean for our technologies, particularly those that intend to drive us farther apart...
+
+[Icons and Images of God](https://cac.org/icons-and-images-of-god-2018-05-13/)
+
+> If God is creator, and we are made in God’s image or Imago Dei, then we are, in our essence, creators. We are, in our essence, artists. Therefore, when we open ourselves to the expression of creativity, we also open to the movement of the Divine within us.
+
+Because it is hard to know sometimes which tech is bringing us together and which is really separating us...
+
+[The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy](/2010/11/29/connected/)
+
+> As discourteous as people can be, the machines are worse, they are just too dumb to understand. In a previous age the machines didn’t talk. Now they chatter on like children unaware of their words.
+
+And perhaps one of these technological "revolutions" will announce the second coming...
+
+[The Antipocalypse](/assets/page/writing/The-Antipocalypse.pdf)
+
+> "Post-apocalyptic? It’s been so anti-climactic,
+though. What happened to the skies on fire,
+dragons, and white horses? So the average
+temperature has gone up 30 degrees. I wanted
+the fire and brimstone falling from the sky, not
+creeping up at me from the equator."
+
+> "Black horses. And that’s just the thing. At first
+Jesus was going to come back on a horse, then? A
+rail car? An aeroplane? A web page?"
+
+Because "all experience is mediated"--and has been, long before the advent of the world wide web--what of our experience of the other, and of god?
+
+[Immediatism](https://books.google.com/books?id=FlKN__HHPTMC&lpg=PP1&ots=L760-c6-yS&dq=hakim+bey+immediatism&pg=PA7&hl=en#v=onepage&q&f=false)
+
+> All experience is mediated--by the mechanisms of sense perception, mentation, language, etc.--& certainly all art consists of some further mediation of experience. 
+
+So with so many things--AI, society, art, philosophy, spirituality, technology--everything old is new again. We need to make new things in old ways. The artisenal web.
+
+[Make Frontend Shit Again](https://makefrontendshitagain.party/)
+
+> We used to make websites because it was fun and at a point we lost the way. 
+We need to make dumb shit! Make useless stuff; make the web fun again!
+
+

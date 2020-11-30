@@ -1,0 +1,37 @@
+---
+author: dealingwith
+date: '2008-07-04 12:09:00'
+layout: post
+slug: the-train
+status: publish
+title: The train
+wordpress_id: '2689'
+categories:
+ - elsewhere
+ - minutia
+ - quotable
+---
+
+I've had some [scary][1], [gross][2] and [interesting][3] experiences in my
+two weeks of commuting by train (and still consider it to be a significant
+improvement to my quality of life), but fortunately nothing quite like this.
+[No Commercial Potential: Fluttered][4]:
+
+> On the train this morning there was an extremely stressed and haggard-
+looking butterfly flitting it’s battered little self against the windows. And
+then as it rested against the tiny ledge around the window getting abraded by
+the air conditioning vent, a guy calmly peeled it from its perch, threw it on
+the floor, and stomped it.
+
+I was on my way to my second day at a putting-on-pants, getting-on-a-train,
+sitting-in-an-office job and decided it wasn’t a good time to go looking for
+metaphors.
+
+   [1]: http://twitter.com/dealingwith/statuses/843388880
+
+   [2]: http://twitter.com/dealingwith/statuses/843705025
+
+   [3]: http://twitter.com/dealingwith/statuses/848796268
+
+   [4]: http://nocommercialpotential.net/unjustifiedText/Fluttered
+

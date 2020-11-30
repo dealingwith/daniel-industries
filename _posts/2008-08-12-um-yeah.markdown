@@ -1,0 +1,36 @@
+---
+author: dealingwith
+date: '2008-08-12 21:20:00'
+layout: post
+slug: um-yeah
+status: publish
+title: Um, Yeah...
+wordpress_id: '2748'
+categories:
+ - elsewhere
+ - quotable
+ - technology
+---
+
+> Using an iPod was “frustrating”. Seriously. OK, the first one was DOA, but
+my father returned it to the Apple Store without incident. But because he
+didn’t have a music collection, he relied on me to fill his iPod with new
+music every so often. The first time he went to recharge it, he plugged it
+into his Mac and iTunes “helpfully” wiped it and refilled it with the few
+songs that were in his iTunes library. Of course he didn’t realize what had
+actually happened until he went to the gym the next day and had virtually no
+music (and certainly no good exercise music). His next thought was that I
+should refill it, and then he would just copy the music from the iPod to his
+iTunes library. This led to a long discussion of why iTunes wouldn’t let you
+do that, and how this was technically different from me letting him borrow one
+of my CDs, and how if he really wanted to do that there were utilities but not
+from Apple, and so on and so forth. So yeah, my parents switched to Linux
+because — among other reasons — it was easier to use with their iPod. That’s
+how badly Apple has lost the plot.
+
+[2008 is the year of Linux on the desktop][1] (...[but it didn't last][2])
+
+   [1]: http://diveintomark.org/archives/2008/01/04/my-parents-desktop
+
+   [2]: http://diveintomark.org/archives/2008/08/12/year-of-what-now
+

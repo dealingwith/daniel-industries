@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.unknownnews.net/google.html">google refuses our ad, from unknown news</a>
+

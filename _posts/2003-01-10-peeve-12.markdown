@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'peeve 12'
+categories:
+ - minutia
+---
+
+12. Powerpoint. Not powerpoint as much as bad powerpoint. But the entire application points you straight down that road. Better to just have a folder open with text/outliner, and all the images and multimedia, and traverse that material...culest would be to have the outliner open in one half of the screen and an image viewer open in the other half. This way, you could also easily traverse your material nonlinearly. <b>Update</b>: don't even start with <a href="http://www.apple.com/keynote/">alternatives</a>. it's the method that's wrong, not just the software.
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-06-05 16:32:00'
+layout: post
+slug: '342'
+status: publish
+title: '...'
+wordpress_id: '342'
+---
+
+maybe the taxonomy looks like this:
+
+passion --love --hate
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.time.com/time/europe/generatione/index.html">TIME EUROPE: Generation Europe</a>
+

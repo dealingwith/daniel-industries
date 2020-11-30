@@ -1,0 +1,17 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>SWiM</b>
+
+So, if you were paying attention, you know that my blogging tool is now in its, like, tenth name change, and is now the Simple Widget Mover, or SWiM. I have a beta of the news aggregator, unconfigurable ATM but filled with some blogs I find useful, <a href="http://www.danielsjourney.com/syndicates.php">here</a>.
+
+I have recently noticed that <a href="http://www.moveabletype.org/">Moveable Type</a> does the thing I was saying my Widget Mover was going to do the best, which is automatically categorize things and menu them for you based on said cat and title (no not that cat below). So, oh well. Not a novel idea. But hey, they have about three years head start on me, so what can I do? Mine is still novel in many other ways.
+
+This is all assuming I get the shit done!
+
+Also, I installed and played with <a href="http://radio.userland.com">Radio</a> a while and am thinking, "What's the big freakin' deal?"
+

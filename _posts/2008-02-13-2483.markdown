@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2008-02-13 19:13:00'
+layout: post
+slug: '2483'
+status: publish
+title: '...'
+wordpress_id: '2483'
+categories:
+ - announcements
+---
+
+[We are the undefended. There's a virus come to town. He's been givin' me shit
+for years.][1]
+
+   [1]: http://danielsjourney.com/
+

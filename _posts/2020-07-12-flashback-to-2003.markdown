@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Flashback to 2003"
+excerpt: 
+date: 2020-07-12 12:16:08 -0500
+categories: 
+---
+
+[30 Jul 2003: My Mozilla Experiment](/2003/07/30/my-mozilla-experiment/)
+
+> I started using Mozilla a few weeks ago. I did this because I am attempting to wean off of M$ product, and I wanted tabbed browsing.
+
+Kids, browsers once did not have tabs. And I had been blogging for almost two years at this unbelievable ancient time. One of the advantages of having journaled in one place (I've journaled all over the place, almost all other places are lost or forgotten) is randomly revisiting old posts like this one. I even have [a script](https://github.com/dealingwith/randomjourney) that randomly pulls an old post for me to review, mostly for the purposes of deleting worthless or embarrassing posts, or posts that mostly or entirely contain link rot (this is a lot of them) (the ones that work for this nostalgic purpose, like this one, were just text).
+
+> I’m becoming very anti-client-side-anything.
+
+How prescient I was at 28.

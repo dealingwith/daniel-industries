@@ -1,0 +1,10 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.washingtonpost.com/wp-dyn/metro/specials/demonstrations/imf/">washingtonpost.com: World Bank/IMF Protests</a>
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A9810-2002Sep27.html">Demonstration Skirmishes Continue in the District (washingtonpost.com)</a>
+

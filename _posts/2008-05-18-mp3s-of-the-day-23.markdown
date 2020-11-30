@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2008-05-18 16:52:00'
+layout: post
+slug: mp3s-of-the-day-23
+status: publish
+title: mp3s of the day
+wordpress_id: '2642'
+categories:
+ - mp3 of the day
+---
+
+The [Happy Mix][1] originally made for [someone][2]. A 46M ZIP file which
+includes the cover image/tracklisting.
+
+   [1]: http://danielsjourney.com/blog/files/2008/05/Happy.zip
+
+   [2]: http://twitter.com/carissa/statuses/814320411
+

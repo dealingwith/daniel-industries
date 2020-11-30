@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.newphotography.co.uk/">New Photography ... photo-artist Chris Lane</a>
+

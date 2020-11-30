@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2009-04-26 17:26:00'
+layout: post
+slug: 240-2
+status: publish
+title: '...'
+wordpress_id: '3233'
+categories:
+ - twitter
+ - video
+---
+
+[youtube http://www.youtube.com/watch?v=iglWyCGFTts&color1=0xb1b1b1&color2=0xc
+fcfcf&hl=en&feature=player_embedded&fs=1]
+
+![][1]
+
+   [1]:
+

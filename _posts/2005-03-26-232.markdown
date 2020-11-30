@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-03-26 15:13:00'
+layout: post
+slug: '232'
+status: publish
+title: '...'
+wordpress_id: '232'
+---
+
+[(He survived.)][1]
+
+   [1]: http://www.theyblinked.com/blog/2005/03/daniel-just-looked-at-me-and-said-in.html
+

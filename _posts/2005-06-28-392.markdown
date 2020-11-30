@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-06-28 23:25:00'
+layout: post
+slug: '392'
+status: publish
+title: '...'
+wordpress_id: '392'
+---
+
+[http://wtfsticker.com/][1]
+
+   [1]: http://wtfsticker.com/
+

@@ -1,0 +1,43 @@
+---
+author: dealingwith
+date: '2008-02-28 10:17:00'
+layout: post
+slug: fwailter
+status: publish
+title: FWAILTER
+wordpress_id: '2615'
+categories:
+ - twitter
+---
+
+[reddit.com: Serious Twitter security concern: Whenever I send a new request
+to the server, I'm in a different random account, which I can use (Video)][1]
+
+[Today was Twitter as Someone Else Day, and no one told me][2]
+
+[looks like Twitter ate the brown acid][3]
+
+[oh gee wiz, that was weird, sorry 'bout that, dum-de-dum][4]
+
+and of course, for me at least, twitter over IM remains a fail going on two
+weeks now. this makes receiving notifications from edge network people or
+tracking anything impossible (simply can't have that many msgs sent to my
+phone).
+
+worst ratio of great idea to technical incompetence. sad, really.
+
+in other news: [normative][5] ([normative][6]), omg like u kno i'm totally
+going to get bored sometime this afternoon and totally read that whole thing
+
+   [1]: http://reddit.com/info/6a8l4/comments/
+
+   [2]: http://valleywag.com/361672/today-was-twitter-as-someone-else-day-and-no-one-told-me
+
+   [3]: http://twitter.com/laughingsquid/statuses/764293132
+
+   [4]: http://blog.twitter.com/2008/02/timeline-oddity-update.html
+
+   [5]: http://jakoblodwick.com/post/25173777
+
+   [6]: http://normative.com/
+

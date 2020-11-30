@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2006-03-24 09:59:00'
+layout: post
+slug: '1147'
+status: publish
+title: '...'
+wordpress_id: '1147'
+categories:
+ - minutia
+ - mp3 of the day
+ - music
+ - thoughts
+---
+
+_It's time...time to fake a smile laugh..._ [Iain Archer][1]
+
+![][2]
+
+   [1]:
+http://iaspiretonothing.com/daniel/blog/files/2006/03/iain%20archer%20live.mp3
+
+   [2]: http://danielsjourney.com/blog/files/2006/03/chickencouch2.jpg
+

@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2007-03-20 11:13:00'
+layout: post
+slug: '2083'
+status: publish
+title: '...'
+wordpress_id: '2083'
+categories:
+ - elsewhere
+ - film
+ - video
+---
+
+"[Well that's way too easy. What else?][1]"
+
+   [1]: http://www.hillmancurtis.com/hc_web/film_video/source/fof/table.php
+

@@ -1,0 +1,21 @@
+---
+layout: post
+title: '...'
+categories:
+ - imagining
+---
+
+
+<img src="images/july_2003/celic/kid_w_gun.jpg" width="400" height="300" alt="img src=images/july_2003/celic/kid_w_gun.jpg" />
+
+
+
+
+
+<img src="images/july_2003/celic/mural.jpg" width="400" height="300" alt="img src=images/july_2003/celic/mural.jpg" />
+
+
+
+
+
+<img src="images/july_2003/sarajevo/cat.jpg" width="400" height="300" alt="img src=images/july_2003/sarajevo/cat.jpg" />

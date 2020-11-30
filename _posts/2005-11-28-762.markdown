@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-11-28 11:10:00'
+layout: post
+slug: '762'
+status: publish
+title: '...'
+wordpress_id: '762'
+---
+
+_You know you've achieved perfection in design, not when you have nothing more
+to add, but when you have nothing more to take away._ - Antoine de Saint-
+Exupery
+

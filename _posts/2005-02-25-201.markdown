@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2005-02-25 12:11:00'
+layout: post
+slug: '201'
+status: publish
+title: '...'
+wordpress_id: '201'
+---
+
+[All Development is Done by Elves][1]
+
+   [1]:
+http://hnewlands.typepad.com/cardboard_spaceship/2005/02/all_development.html
+

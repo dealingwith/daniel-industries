@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Web Log"
+excerpt: "Another occasional collection of links"
+date: 2020-07-05 11:09:28 -0500
+categories: 
+---
+
+[The Knowledge Project Ep. #85 -- Bethany McLean: Crafting a Narrative](https://fs.blog/knowledge-project/bethany-mclean/)
+
+> There’s this idea that the business world is hard and cold and rational, and it’s not. It’s incredibly emotional. And everybody is biased toward belief, because most people stand to make money if a stock goes up. It’s that great quote from the end of The Sun Also Rises, “Isn’t it pretty to think so?” It’s always prettier to think so then to not think so.
+
+> When people think about the purpose of a company being more than a bottom line, most people think this is something new. It’s not new, it’s old. It didn’t work perfectly the last time around either. So, you can’t just say that, you actually have to think about how you’re going to implement it. I think we’re just at the very early stages of that.
+
+> I think there’s so much cult of personality. It’s one of the ways in which the business world is so not rational and is so emotional. People are believers in other people, and sometimes because those other people really have figured it out and sometimes because those people just have a really compelling way of presenting their vision.
+
+> You would think that the visionary sat at one end of the spectrum and the fraudster at the other end of the spectrum, but I think it’s one of those many things where they actually meet in the circle. I sometimes think the only thing that separates them is that the visionary gets lucky and it all works out and the fraudster gets caught in the middle.
+
+---
+
+[Postlight Podcase -- Finding the Right Fit: On Hiring Managers and Building Trust](https://postlight.com/podcast/finding-the-right-fit-on-hiring-managers-and-building-trust)
+
+> [There are] different approaches. There’s the autocratic approach of like here’s Jill, Jill just came in. She was highly recommended. She was doing something similar over at “Lightpost”. And now she’s at Postlight and we’re going to give her our allegiance and we’re going to move forward. And then you say...
+
+> Jill, you have, these are your metrics for success. Good luck. We, you know, we’ve got your back. I will meet with you for an hour every week or two.
+
+> I think I grapple with two things. One is I worry about how the different people come together when a leader is drop parachuted into an org, right? So is it fitting? Like, is the person blending in nicely? And I think here are the things I think about if I’m recruiting that person, which again, we’re not, but I would look at the kind of personality it is. Is this person going to come in like a sledgehammer or are they going to realize, and it, and these are great people. Like the people that realize it’s going to take three months to build trust amongst the people that report to them and are fine with the friction initially and anxiety initially, are great. Right. They just understand that I have work to do here for this to be successful. And that’s, you know, it’s funny when you’re interviewing there’s the resume and then there’s your experience and tell me about yourself, but then there’s also your posture, and your attitude and your tone. Those are the things that are going to be in the room with those team members.
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maybe you don’t have imposter syndrome. Maybe you’ve been treated like an imposter your entire career.</p></blockquote>
+
+&mdash; Merci Victoria Grace (@merci) <a href="https://twitter.com/merci/status/1277991691253805057?ref_src=twsrc%5Etfw">June 30, 2020</a>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I talked about this in yesterday&#39;s <a href="https://twitter.com/womentalkdesign?ref_src=twsrc%5Etfw">@womentalkdesign</a> workshop. People from underrepped groups aren&#39;t inherently unconfident. When you&#39;ve been systematically given impossible and conflicting feedback about how you should look and talk for years, *ofc* some of it gets internalized.</p></blockquote>
+
+&mdash; Sara Wachter-Boettcher (@sara_ann_marie) <a href="https://twitter.com/sara_ann_marie/status/1278309056227278850?ref_src=twsrc%5Etfw">July 1, 2020</a>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The best way to stop internalizing this shit is to allow yourself to spend real time defining and getting comfortable owning who you are, what you care about, and how you want to be in the world. Self-knowledge is a shield and a filter to separate helpful feedback from noise.</p></blockquote>
+
+&mdash; Sara Wachter-Boettcher (@sara_ann_marie) <a href="https://twitter.com/sara_ann_marie/status/1278310714046926849?ref_src=twsrc%5Etfw">July 1, 2020</a>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s insidious is that when all that shit gets in your head and under your skin, it can be hard to even believe you deserve to spend time learning about yourself and reflecting on your values. <br><br>This time is not frivolous. It is not selfish. It is essential.</p></blockquote>
+
+&mdash; Sara Wachter-Boettcher (@sara_ann_marie) <a href="https://twitter.com/sara_ann_marie/status/1278311283054587911?ref_src=twsrc%5Etfw">July 1, 2020</a>
+
+---
+
+Did you know [peopleofthepandemicgame.com](https://peopleofthepandemicgame.com/) was created by my new coworkers at [egghead.io](https://egghead.io)? They do a lot of stuff like this, without much credit.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So many thank you&#39;s to Stephen Osserman for partnering w/ me on this, <a href="https://twitter.com/sidneymbell?ref_src=twsrc%5Etfw">@sidneymbell</a> for giving invaluable feedback, <a href="https://twitter.com/jhooks?ref_src=twsrc%5Etfw">@jhooks</a> for offering <a href="https://twitter.com/eggheadio?ref_src=twsrc%5Etfw">@eggheadio</a>—and thus <a href="https://twitter.com/Mappletons?ref_src=twsrc%5Etfw">@Mappletons</a> <a href="https://twitter.com/_jonesian?ref_src=twsrc%5Etfw">@_jonesian</a> <a href="https://twitter.com/vjthlk?ref_src=twsrc%5Etfw">@vjthlk</a>—support, <a href="https://twitter.com/observablehq?ref_src=twsrc%5Etfw">@observablehq</a> for answering our Q&#39;s, and <a href="https://twitter.com/DataVizSociety?ref_src=twsrc%5Etfw">@DataVizSociety</a> for providing feedback!</p></blockquote>
+
+![](/assets/2020/07/egghead-credits.png)
+
+&mdash; Shirley Wu (@sxywu) <a href="https://twitter.com/sxywu/status/1252345059950780416?ref_src=twsrc%5Etfw">April 20, 2020</a>

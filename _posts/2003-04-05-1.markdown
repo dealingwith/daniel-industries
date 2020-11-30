@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - balkans
+---
+
+<a href="http://www.nytimes.com/2003/04/05/international/europe/05SERB.html?ex=1050210000&en=569e2150b8a3ac6f&ei=5040&partner=MOREOVER">serbia to issue arrest warrant for the wife of milosevic</a> <em>as part of a sweeping crackdown on organized crime after the assassination of the country's prime minister on march 12, serbian authorities said today that they would issue an arrest warrant for mirjana markovic, the wife of former president slobodan milosevic.</em>
+

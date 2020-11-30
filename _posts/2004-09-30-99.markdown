@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-09-30 23:44:00'
+layout: post
+slug: '99'
+status: publish
+title: '...'
+wordpress_id: '99'
+---
+
+[OMG OMG OMG RSS FEED!][1]
+
+   [1]: http://www.livejournal.com/users/dealingwith/data/rss
+

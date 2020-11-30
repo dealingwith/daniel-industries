@@ -1,0 +1,22 @@
+---
+layout: post
+title: 'snown'
+categories:
+ - minutia
+---
+
+It snowed a lot yesterday. Here's how much:
+
+<img src="images/febsnow1.jpg">
+
+
+
+<img src="images/febsnow2.jpg">
+
+
+
+<img src="images/febsnow3.jpg">
+
+
+
+<img src="images/febsnow7.jpg">

@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Elsewhere:</i> <b>Don't Link dot Com</b>
+
+<a href="http://www.dontlink.com/">http://www.dontlink.com</a> ...should we submit gravattville? ;)
+

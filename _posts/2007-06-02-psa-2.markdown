@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2007-06-02 17:18:00'
+layout: post
+slug: psa-2
+status: publish
+title: PSA
+wordpress_id: '2179'
+categories:
+ - minutia
+---
+
+The display on my phone is busted so don't bother messaging me on it.
+

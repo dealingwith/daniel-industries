@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-05-22 16:18:00'
+layout: post
+slug: mp3-of-the-day-24
+status: publish
+title: mp3 of the day
+wordpress_id: '2159'
+categories:
+ - mp3 of the day
+---
+
+[Long Winters - Hindsight][1] [#][2]
+
+   [1]:
+http://daniel.iaspiretonothing.com/blog/files/2007/05/04%20hindsight.mp3
+
+   [2]: http://www.songmeanings.net/lyric.php?lid=3530822107858603818
+

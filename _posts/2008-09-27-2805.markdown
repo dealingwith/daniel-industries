@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2008-09-27 17:29:00'
+layout: post
+slug: '2805'
+status: publish
+title: '...'
+wordpress_id: '2805'
+categories:
+ - video
+---
+
+
+[Summer Test][1] from [Marco Aslan][2] on [Vimeo][3].
+
+   [1]: http://vimeo.com/1807479?pg=embed&sec=1807479
+
+   [2]: http://vimeo.com/user548605?pg=embed&sec=1807479
+
+   [3]: http://vimeo.com?pg=embed&sec=1807479
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-07-01 01:40:00'
+layout: post
+slug: '64'
+status: publish
+title: '...'
+wordpress_id: '64'
+---
+
+[the infinate cat project][1]
+
+   [1]: http://infinitecat.com/
+

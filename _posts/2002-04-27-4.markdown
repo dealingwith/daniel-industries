@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.afterdinner.com/readers/">afterDinner: for Readers</a>
+
+sweet!
+

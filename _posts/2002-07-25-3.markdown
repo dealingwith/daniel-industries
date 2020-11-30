@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="brands.html"><img src="images/tide_brainwash1ii.gif"></a>
+

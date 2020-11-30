@@ -1,0 +1,10 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.jesusradicals.com/main/essays/manifesto.html">Jesus Radicals - manifesto</a>: I Pledge Allegiance to Jesus, not the Flag
+by Fred Bahnson
+

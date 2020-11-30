@@ -1,0 +1,37 @@
+---
+author: dealingwith
+date: '2007-08-11 16:19:00'
+layout: post
+slug: 176-2
+status: publish
+title: '...'
+wordpress_id: '3181'
+categories:
+ - ARG
+ - marketing
+ - video
+---
+
+> Icetruck.tv looks like a normal Youtube knockoff at first glance. It has
+friendly soft blue icons with rounded edges that just scream, "let's watch
+dramatic chipmunks all day long." But beneath the unsuspecting veneer lies one
+of the greatest viral marketing campaigns to hit the internet since Al Gore
+invented it so long ago.
+
+
+The Icetruck site is actually a webvertisment for Showtime's Dexter, about a
+serial killer who works as a forensic analyst to help catch murderers. If that
+doesn't sound cool enough, it stars Michael C. Hall from Six Feet Under. What
+more do you need?
+
+[TV Squad: Dexter promo to die for][1]
+
+
+[Apophenia: personalized viral marketing][2]
+
+   [1]: http://www.tvsquad.com/2007/08/10/dexter-promo-to-die-for/
+
+   [2]: http://www.zephoria.org/thoughts/archives/2007/08/10/personalized_vi.html
+
+   
+

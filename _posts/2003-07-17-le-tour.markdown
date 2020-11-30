@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'le tour'
+categories:
+ - elsewhere
+---
+
+
+It's all over as far as I can tell, but then there's always the <a href="http://notd.blogs.com/tdf/">Tour de France and it's blog</a> to make your day.

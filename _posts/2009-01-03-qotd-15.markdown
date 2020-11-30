@@ -1,0 +1,26 @@
+---
+author: dealingwith
+date: '2009-01-03 09:52:00'
+layout: post
+slug: qotd-15
+status: publish
+title: QotD
+wordpress_id: '2900'
+categories:
+ - art
+ - minutia
+ - quotable
+ - work
+ - writing
+---
+
+From [Rhetorical Device][1]:
+
+> How's a man supposed to work under these conditions? Ample free time, money
+in the bank, a supportive girlfriend. This is no way for a man of letters to
+live. Hardship. Suffering. These are the cornerstones of artistic achievement!
+
+A brilliant blog, by the way...
+
+   [1]: http://rhetoricaldevice.com/AngelsRollTheRockAway.html
+

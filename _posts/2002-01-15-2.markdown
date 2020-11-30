@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.socialinvest.org/">About Social Investment Forum-environmental, green socially responsible investment, tobacco, toxic-free</a>
+

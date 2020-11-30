@@ -1,0 +1,38 @@
+---
+author: dealingwith
+date: '2006-01-02 19:03:00'
+layout: post
+slug: hel-lo-2006-and-goodbye-2005
+status: publish
+title: Hel-lo 2006 (and GOODBYE 2005)
+wordpress_id: '828'
+categories:
+ - technology
+ - thinking
+---
+
+> Technology has always been about amplifying our power, blowing ourselves up
+so that with the squeeze of a hot finger on cold metal we could snuff out a
+life 100 yards away, with the pressing of a foot on a pedal we could
+accelerate ourselves and two tonnes of internal combustion to 100mph in a city
+side-street.
+
+> So what to do? Go back? Impossible? Seek some Luddite golden age? Foolish. We
+took raw creation, thought we had tamed it, and realize that it has bridled
+us. Technology has been used, like religion, to draw power to ourselves. We
+must now, like religion, channel it to benefit 'the other'. Turn it round.
+Turn it upside down. Get out of the 'command centre' surrounded by screens and
+power and switches, and get to the node: facilitating, passing on, feeding,
+sharing.
+
+> We're getting there. As our technology becomes more 'complex', so the centres
+of power can only begin to distribute, dissolve and work better for the
+'others.' We're on a 'stages of faith' cycle with it: starting with innocent
+dreams and wildly optimistic predictions about its power to save, working
+through our self-centred enjoyment, our struggles and doubts, and hopefully
+coming to a conjunctive place where we can see the good, even while we
+appreciate the potential for great harm.
+
+[The Complex Christ: Technology: Fight the Power][1]
+
+   [1]: http://thecomplexchrist.typepad.com/the_complex_christ/2006/01/technology_figh.html#more

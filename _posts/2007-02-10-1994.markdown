@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-02-10 11:41:00'
+layout: post
+slug: '1994'
+status: publish
+title: '...'
+wordpress_id: '1994'
+categories:
+ - local
+ - music
+---
+
+[South by North Texas Music Festival, ellum: ONSTAGE, 10-13 Mar 2007][1]. dang
+this looks amazing. the venue ain't bad either. no booze but plenty of bars to
+hit in-between acts.
+
+   [1]: http://www.last.fm/event/97817
+

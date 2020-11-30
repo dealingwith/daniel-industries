@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2001-09-19 17:22:00'
+layout: post
+status: publish
+title: 'Nonlinear: The Original Business Proposition'
+wordpress_id: '3085'
+categories:
+ - nonlinear
+---
+
+The ~~following~~ are from a slide presentation indended for those interested in the possibility of an online gaming venture, with the future possiblity of creating a piece of desktop software that would help build these non-linear games, as well as influence many markets mentioned within this document. I am not too forthcoming with the specs on the software, however the spec does continue to evolve and is closely linked to the higher level discussion here.
+
+Bottom line for investors or other interested parties: very little upfront investment, great time to market, and great revenue streams. This could never be a multi-million dollar business, but it could be a very interesting buy for a Microsoft, particularly if the software I have in mind were as extensive as I imagine it.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'classic'
+categories:
+ - elsewhere
+---
+
+<a href="http://a799.g.akamai.net/3/799/388/be17eb5236396d/www.msnbc.com/comics/comics/bo030614.gif">jesus: this is not spam</a> (via <a href="http://www.theyblinked.com/blog/2003_06_15_theyblinked_archive.html#95678269">theyblinked</a> via <a href="http://mel-x.blogspot.com/">mel-x</a>)
+

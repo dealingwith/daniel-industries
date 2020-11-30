@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-08-06 16:39:00'
+layout: post
+slug: qotd-11
+status: publish
+title: QotD
+wordpress_id: '2739'
+categories:
+ - development
+ - quotable
+ - technology
+---
+
+[dive into mark][1]
+
+> I never really understood how people found bugs like this until I had kids
+
+   [1]: http://diveintomark.org/archives/2008/08/06/little-drummer-boy
+

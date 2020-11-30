@@ -1,0 +1,17 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>Syndication Page</b>
+
+This may take a little while to load but I've done something smart with RSS feeds, methinks:
+
+<a href="http://www.danielsjourney.com/syndicates.php">SWiM News Aggregate</a>:
+
+I finally got my new aggregator set up the way I like. Still working on who's in there by default, and this type of page will be a configurable option in the final SWiM product.
+
+Catching you up: the new-new-new name for the blogger on steroids is Simple Widget Mover.
+

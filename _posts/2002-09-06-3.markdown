@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+with much apprehension i re-enable permalinks...if they don't work it's blogger's fault, not publishing archives as it should...i'm about a month off of using my own CMS instead of blogger...a week off of trying out MT instead...be on the lookout for betatesters of my CMS starting next week... 
+

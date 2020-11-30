@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2008-09-13 22:13:00'
+layout: post
+slug: qotd-12
+status: publish
+title: QotD
+wordpress_id: '2784'
+categories:
+ - quotable
+---
+
+[Enjoymentland - A long inventory of things on Sept 12th, 2008][1]:
+
+> When you put a creative effort out there, it sure has a tendency to bounce
+back and do all kinds of weird things to your goals, your relationships, your
+ideas, your fears, your everything. McLeod Residence has probably been the
+single most difficult, scary, and interesting endeavor of my life so far.
+
+   [1]: http://bustermcleod.livejournal.com/216463.html
+

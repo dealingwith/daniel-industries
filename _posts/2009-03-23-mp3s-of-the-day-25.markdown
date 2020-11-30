@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2009-03-23 10:52:00'
+layout: post
+slug: mp3s-of-the-day-25
+status: publish
+title: Mp3s of the Day
+wordpress_id: '2967'
+categories:
+ - mp3 of the day
+---
+
+I've been meaning to mention this for a while, but you can download [Who
+Killed Amanda Palmer][1] for free on Bandcamp.
+
+[Amanda Palmer][2] is this amazing artist formerly of The Dresden Dolls. She's
+also [an entertaining tweeter][3].
+
+   [1]: http://amandapalmer.bandcamp.com/album/who-killed-amanda-palmer
+
+   [2]: http://en.wikipedia.org/wiki/Amanda_Palmer
+
+   [3]: http://twitter.com/amandapalmer
+

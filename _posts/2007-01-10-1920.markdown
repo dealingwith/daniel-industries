@@ -1,0 +1,26 @@
+---
+author: dealingwith
+date: '2007-01-10 12:56:00'
+layout: post
+slug: '1920'
+status: publish
+title: '...'
+wordpress_id: '1920'
+categories:
+ - elsewhere
+ - quotable
+---
+
+[![][1]][2]
+
+> I don't know who you call about loose wild dogs in your brain.
+
+[#][3]
+
+   [1]:
+http://daniel.iaspiretonothing.com/blog/files/2007/01/11444661533-thumb.jpg
+
+   [2]: http://www.gapingvoid.com/Moveable_Type/archives/003629.html
+
+   [3]: http://www.ftrain.com/my-palace-of-memory-crumbles.html
+

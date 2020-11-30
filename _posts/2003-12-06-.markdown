@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - elsewhere
+---
+
+
+<a href="http://oblivio.com/road/03120601.shtml">Oblivio.com:My K</a>

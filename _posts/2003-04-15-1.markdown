@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.palsolidarity.org/writings/5Apr03_JeninMichael.htm">American Peace Activist Shot by Israeli Tank</a>
+

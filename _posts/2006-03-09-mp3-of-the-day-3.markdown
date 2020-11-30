@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2006-03-09 07:12:00'
+layout: post
+slug: mp3-of-the-day-3
+status: publish
+title: mp3 of the day
+wordpress_id: '1086'
+categories:
+ - mp3 of the day
+---
+
+[David Holmes, Gritty Shaker][1], from [![][2] Let's Get Killed][3].
+
+   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/03/David%20Holmes%20-%20Let's%20Get%20Killed%20-%204%20-%20Gritty%20Shaker.mp3
+
+   [2]: http://images.amazon.com/images/P/B000002GNX.01._SCTHUMBZZZ_.jpg
+
+   [3]: http://www.amazon.com/gp/product/B000002GNX/sr=8-1/qid=1141909942/ref=pd_bbs_1/002-7986446-4457653?%5Fencoding=UTF8
+

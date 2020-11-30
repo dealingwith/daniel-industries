@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Riddell fiction'
+categories:
+ - minutia
+---
+
+If anyone "over there" has any <a href="http://www.amazon.com/exec/obidos/ASIN/1869503481/ref=cm_wed_ovu-pg.1-pos.14/103-4102535-4120632?coliid=IFOLVXGYSKRXJ">Riddell</a> <a href="http://www.amazon.com/exec/obidos/ASIN/1869502388/ref=cm_wed_ovu-pg.1-pos.15/103-4102535-4120632?coliid=I35GZ91WB5RP68">fiction</a> I could borrow, that would be great. It's very difficult to get over here....I tried ordering these books last week and the seller on Amazon was not legit or something and the order didn't go through...
+
+Now that I'm reading <a href="http://www.amazon.com/exec/obidos/ASIN/1861006918/qid=1029593031/sr=2-1/ref=sr_2_1/103-4102535-4120632">Professional PHP4</a> the NoLogo progress will slow again...but there's not much straight-up reading going on with tech books...of course, now there is <a href="http://www.amazon.com/exec/obidos/ASIN/1861007213/qid=1029593110/sr=2-2/ref=sr_2_2/103-4102535-4120632">a more precise book for what I'm doing</a>, but that's ok...

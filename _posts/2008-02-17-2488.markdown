@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2008-02-17 13:11:00'
+layout: post
+slug: '2488'
+status: publish
+title: '...'
+wordpress_id: '2488'
+categories:
+ - social software
+ - web
+---
+
+[Really, We Don’t Want to Join Your Social Network](http://www.brianoberkirch.com/2008/02/11/really-we-dont-want-to-join-your-social-network/)
+
+> I keep hearing horror stories of brands insisting on launching their own
+social networks. The short version of this post: don’t do it. We really don’t
+care. Really. We. Don’t. Care. We are not going to hang out on your site and
+reload the page every minute or so just to see if anything has happened. We
+are not going to grant you access to every jot & tittle of our digital
+friendships. We are not going to gangbang content for you. You are just not
+that central to our lives. Really. I’m telling you this because I care.
+
+> Mostly I care about you wasting my time and trying to reinvent what already
+exists on the Web without reusing it in some savvy way. The wonder of the Web
+is that it all works together. I know the bumfuzzle around Facebook has
+confused you about this point, but I swear it’s the case. Instead, what would
+be much better, what would save you money and me time, is for you to be like
+the Web.

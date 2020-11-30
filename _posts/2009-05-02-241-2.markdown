@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2009-05-02 15:55:00'
+layout: post
+slug: 241-2
+status: publish
+title: '...'
+wordpress_id: '3234'
+categories:
+ - ambient
+ - art
+ - mobile
+ - music
+ - ux
+---
+
+[youtube http://www.youtube.com/watch?v=PV_w38ldZaE&color1=0xb1b1b1&color2=0xc
+fcfcf&hl=en&feature=player_embedded&fs=1]
+
+
+via [conej][1]
+
+
+   [1]: http://twitter.com/conej/
+
+   
+

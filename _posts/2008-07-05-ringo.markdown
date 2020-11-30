@@ -1,0 +1,30 @@
+---
+author: dealingwith
+date: '2008-07-05 23:23:00'
+layout: post
+slug: ringo
+status: publish
+title: Ringo
+wordpress_id: '2692'
+categories:
+ - bicycling
+ - dogs
+ - imagining
+ - minutia
+---
+
+[![][1]][2]
+
+[Ringo][3]
+
+Originally uploaded by [carissabyers][4]
+
+
+   [1]: http://farm3.static.flickr.com/2418/2641275918_53b29680e2_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/2641275918/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/2641275918/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+

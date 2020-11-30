@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.evanizer.com/">evanizer.com</a> :: An artist in NYC. Excellent installation art and a seemingly good blog...
+
+<i>Hell, what are 'liberal' beliefs? What are 'conservative' beliefs? I don't even know, and most people who shriek and shriek from either 'side' don't really know either. To them the world is a one-lane highway from pole to pole, with no place to turn around, no place to double back, no place to pull over and have a look at the map. A traffic jam in two directions that hasn't moved for centuries. Well, I'm tired of the traffic jam. Stretching out from that highway there are vistas and mountains and deep, humid valleys and soft, quiet pine forests with resinous breezes. There is a whole universe in and around that narrow highway, so I'm ramming my SUV through the barrier and simply driving away.</i>
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+After much hassle and procrastination, <a href="http://design.danielsjourney.com">design.danielsjourney.com</a> is up...
+

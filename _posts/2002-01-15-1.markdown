@@ -1,0 +1,10 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+hey all hows it going.
+
+

@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-11-08 09:46:00'
+layout: post
+slug: mp3s-of-the-day-15
+status: publish
+title: mp3s of the day
+wordpress_id: '1809'
+categories:
+ - mp3 of the day
+---
+
+here: http://www.daytrotter.com/songs/
+
+just go. you'll see.
+

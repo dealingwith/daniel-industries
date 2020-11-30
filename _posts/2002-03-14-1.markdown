@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+Going to NYC today. May or may not have time to post. Cheers.
+

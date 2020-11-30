@@ -1,0 +1,33 @@
+---
+author: dealingwith
+date: '2007-09-09 09:20:00'
+layout: post
+slug: turn-4
+status: publish
+title: turn 4
+wordpress_id: '2291'
+categories:
+ - bicycling
+ - imagining
+---
+
+[![][1]][2]
+
+[turn 4][3]
+
+Originally uploaded by [dealingwith][4]
+
+[Went to the velodrome yesterday][5] (finally!) ...now I want to get into a
+new fixie and start training to race again! (We will see if time allows!
+Fixie: for sure. Racing: not sure.)
+
+   [1]: http://farm2.static.flickr.com/1222/1350173539_df5e592b61_m.jpg
+
+   [2]: http://www.flickr.com/photos/dealingwith/1350173539/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/dealingwith/1350173539/
+
+   [4]: http://www.flickr.com/people/dealingwith/
+
+   [5]: http://www.flickr.com/photos/dealingwith/sets/72157601924420736/
+

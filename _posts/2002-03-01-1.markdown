@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.wired.com/news/business/0,1367,48874-2,00.html">Big Stink Over a Simple Link</a>
+

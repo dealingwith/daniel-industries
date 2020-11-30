@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-01-13 02:51:00'
+layout: post
+slug: '147'
+status: publish
+title: '...'
+wordpress_id: '147'
+---
+
+[this is awesome][1]
+
+   [1]: http://www.livejournal.com/users/jwz/432035.html?nc=14&style=mine
+

@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'quote unquote'
+---
+
+Alfred North Whitehead:
+
+> An enormous part of our mature experience cannot not be expressed in words.
+
+---
+
+> In formal logic, a contradiction is the signal of defeat, but in the evolution of real knowledge it marks the first step in progress toward a victory.
+
+---
+
+> Knowledge shrinks as wisdom grows. 
+
+---
+
+> The deepest definition of youth is life as yet untouched by tragedy.
+
+---
+
+> The art of progress is to preserve order amid change and to preserve change amid order.
+
+---
+
+> There are no whole truths: all truths are half-truths. It is trying to treat them as whole truths that plays to the devil.
+
+---
+
+> We think in generalities, but we live in detail.
+
+---
+
+> I have suffered a great deal from writers who have quoted this or that sentence of mine either out of its context or in juxtaposition to some incongruous matter which quite distorted my meaning, or destroyed it altogether.
+
+<p class="postscript">I was searching for the Whitehead quote &ldquo;It is the business of the future to be dangerous&rdquo; about a year ago because of the DJ Spooky song <em>Synchronic Disjecta</em>.</p>

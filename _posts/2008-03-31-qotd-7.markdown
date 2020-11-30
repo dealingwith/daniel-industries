@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2008-03-31 17:10:00'
+layout: post
+slug: qotd-7
+status: publish
+title: QotD
+wordpress_id: '2560'
+categories:
+ - quotable
+---
+
+"If you're wondering what an _Art Space_ is, it's a bar."
+
+...from my most recent favorited blog, [Bike Snob NYC][1]
+
+   [1]: http://bikesnobnyc.blogspot.com
+

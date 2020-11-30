@@ -1,0 +1,22 @@
+---
+layout: post
+title: 'roundup'
+categories:
+ - elsewhere
+---
+
+<b>NYC Wifi</b>
+
+> Note to dumb self: If you still can't connect to the computer that's 10 feet away from you, even after trying fifty million times, you might want to make sure you're logged into your own wifi network, and not one of the 3 neighboring ones that surround you.
+
+> Note to dumb neighbor: Turn off file sharing. And run a spell-check on that cover letter before you send it, or there's no chance that place is going to hire you.
+
+-- <a class="dead">Anil Dash (dead link)</a>
+
+---
+
+<b>More on powerblogs grr!</b>
+
+> Frankly, I'm not all that interested in Clay Shirky's latest on "Power Laws, Weblogs, and Inequality," where he explains why "freedom of choice" amongst more and more blogging outlets "makes stars inevitable." Instead, what I'm still trying to get a handle on is a tangential topic that was discussed at Werbach's Supernova: given the proliferation of media outlets and a truly finite resource called "attention," is the average info diet shifting from "bigger" (roughly defined) to "smaller" or "independent" (again, roughly defined) outlets. Is the average Internet user exposed to a wider array of voices (if not viewpoints), thanks to the proliferation of push-button publishing and dead simple broadcast channels?
+
+-- <a class="dead">sippey.com (dead link)</a>

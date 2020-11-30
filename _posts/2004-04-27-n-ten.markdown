@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'n-ten'
+categories:
+ - elsewhere
+---
+
+
+<a title="N-TEN : About N-TEN" href="http://www.nten.org/about">N-TEN : About N-TEN</a>
+
+
+
+<a href="http://nten.typepad.com/">blog</a>

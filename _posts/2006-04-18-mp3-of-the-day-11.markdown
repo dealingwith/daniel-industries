@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-04-18 00:21:00'
+layout: post
+slug: mp3-of-the-day-11
+status: publish
+title: mp3 of the day
+wordpress_id: '1239'
+categories:
+ - mp3 of the day
+---
+
+[Neko Case - Star Witness][1]
+
+   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/04/Various%20Artists%20-%20Paste%20Magazine%20Sampler%2020%20-%2010%20-%20Neko%20Case%20-%20Star%20Witness.mp3
+

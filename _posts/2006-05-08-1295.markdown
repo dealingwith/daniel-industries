@@ -1,0 +1,34 @@
+---
+author: dealingwith
+date: '2006-05-08 13:25:00'
+layout: post
+slug: '1295'
+status: publish
+title: '...'
+wordpress_id: '1295'
+categories:
+ - code
+ - development
+ - elsewhere
+ - quotable
+ - technology
+---
+
+http://mudcorporation.com/articles/CookieFreedom/
+
+_ When you study physics, you quickly realize that in this universe everything
+comes in polar pairs. Particles/anti-particles, love/hate, nerd/jock; we can
+go on and on. The Cookie Freedom is a type of force, and we learned from Star
+Wars that forces have a “dark side,” which I think was Yoda’s way of telling
+us about the polaring force of...the force.
+
+So what is the dark side of the Cookie Freedom? It’s the non-existence of
+restriction (which ironically is also the good side of the Cookie Freedom.)
+You need restrictions to the freedom so you don’t have to make every single
+decision yourself, and to stop you from doing stupid things like start
+drinking at 9am. On its own the Cookie Freedom is anarchy. You’re your own
+dictator, so you better set responsible policies.
+
+Now I know why people get 9-5 jobs, move to the upper west side, get married
+and have kids. They inherit restrictions through newfound responsibilities._
+

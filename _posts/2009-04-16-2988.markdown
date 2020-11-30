@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2009-04-16 10:46:00'
+layout: post
+slug: '2988'
+status: publish
+title: '...'
+wordpress_id: '2988'
+categories:
+ - art
+---
+
+[ ![][1]][2]
+
+   [1]: http://www.smbc-comics.com/comics/20090331.gif
+
+   [2]: http://www.smbc-comics.com/index.php?db=comics&id=1472
+

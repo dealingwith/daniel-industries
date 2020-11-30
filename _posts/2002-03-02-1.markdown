@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.technologyreview.com/articles/jenkins0302.asp">Blog This......Bloggers are turning the hunting and gathering, sampling and critiquing the rest of us do online into an extreme sport. We surf the Web; these guys snowboard it. Bloggers are the minutemen of the digital revolution.</a>
+

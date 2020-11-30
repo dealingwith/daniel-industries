@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Lark News'
+categories:
+ - links
+---
+
+<a href="http://www.larknews.com/">larknews.com</a>
+Too too funny.
+

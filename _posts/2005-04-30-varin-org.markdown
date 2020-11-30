@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2005-04-30 17:18:00'
+layout: post
+slug: varin-org
+status: publish
+title: varin.org
+wordpress_id: '3131'
+categories:
+ - nonlinear
+---
+
+[varin.org][1]
+
+
+I'm not sure about this one, but they're using Mambo, which has some
+interesting features, it seems...
+
+![][2]
+
+   [1]: http://www.varin.org
+
+   [2]:
+

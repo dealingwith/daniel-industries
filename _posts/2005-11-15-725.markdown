@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-11-15 20:14:00'
+layout: post
+slug: '725'
+status: publish
+title: '...'
+wordpress_id: '725'
+---
+
+[Check out my latest article.][1]
+
+   [1]: http://www.elsewhere.org/cgi-bin/postmodern/
+

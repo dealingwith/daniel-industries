@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'the view'
+categories:
+ - minutia
+---
+
+
+<a href="images/sarajevo/may_2003/dalmatia/view_panor.jpg">Here is a taste of the view from our balcony over the weekend</a>.
+		
+
+
+
+		

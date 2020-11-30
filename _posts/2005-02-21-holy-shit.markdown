@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-02-21 11:32:00'
+layout: post
+slug: holy-shit
+status: publish
+title: HOLY SHIT
+wordpress_id: '193'
+---
+
+[Hunter S Thompson commits suicide][1]
+
+   [1]: http://news.bbc.co.uk/2/hi/entertainment/4282865.stm
+

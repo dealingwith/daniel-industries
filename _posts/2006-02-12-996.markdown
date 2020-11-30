@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2006-02-12 15:25:00'
+layout: post
+slug: '996'
+status: publish
+title: '...'
+wordpress_id: '996'
+categories:
+ - chuck palahniuk
+ - elsewhere
+ - podcast
+---
+
+http://www.wnyc.org/stream/ram.py?file=studio/studio021006a.mp3 ...chuck
+palahniuk
+
+**"In a way I'm almost a secular traveling priest...a japanese driftnet."**
+

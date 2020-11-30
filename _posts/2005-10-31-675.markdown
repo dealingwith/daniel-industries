@@ -1,0 +1,31 @@
+---
+author: dealingwith
+date: '2005-10-31 09:07:00'
+layout: post
+slug: '675'
+status: publish
+title: '...'
+wordpress_id: '676'
+---
+
+_A CEO with hotel chain A found himself having to spend a night in a hotel
+from hotel chain B. Naturally, he was very curious as to what kind of
+information systems they had, and resolved to keep an open eye for competitive
+use of IT. As he approached the reception for first time, the woman behind it
+smiled at him and said "Welcome back, Sir!"
+
+Flabbergasted, he said "But...it is 12 years since I was here last! How could
+you know that I have stayed here before, what kind of advanced information
+systems do you have that can store and find the fact that I was here 12 years
+ago?"
+
+"Well, it is really very simple", she said. "When the doorman opened the door
+to your cab, he asked if this was your first stay with us. You answered no,
+and as you walked through the door, the doorman looked at me through the
+window and touched his nose. That told me that you should be welcomed
+back...."_
+
+[Applied Abstractions: What is an information system?][1]
+
+   [1]: http://www.espen.com/archives/2005/10/what_is_an_info.html
+

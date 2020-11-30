@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+I'm very curious why so many people with their own domain still host their blog on blogspot, especially on days like today when blogspot is down...ha-ha...
+

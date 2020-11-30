@@ -1,0 +1,13 @@
+---
+layout: post
+title: "2013"
+date: 2013-01-08 10:16
+comments: true
+categories: [minutia]
+---
+
+<h2><s>Resolutions</s> <s>Goals</s> <s>Intentions</s> Ideas about what to do</h2>
+
+[![](http://imgs.xkcd.com/comics/resolution.png)](http://xkcd.com/1154/)
+
+I wrote down some goals yesterday so I could check that todo off my list.

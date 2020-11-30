@@ -1,0 +1,21 @@
+---
+layout: post
+title: '100 stories'
+categories:
+ - elsewhere
+---
+
+<a href="http://diveintomark.org/archives/2003/02/11/introducing_100_stories.html">Introducing 100 stories [dive into mark]</a><blockquote>They are not syndicated. They are not categorized. They are not archived in reverse chronological order.
+
+
+They are not memes. They are not content. They do not conform to the latest standards.
+
+
+They are not comment-enabled. They are not trackback-enabled. They are not licensed under a Creative Commons license.
+
+
+They are all original. They are all interrelated. Some of them are over 80 years old.
+
+
+They are <a href="http://diveintomark.org/100/">100 stories of unfamous people</a>.</blockquote>
+

@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2002-02-10 20:45:00'
+layout: post
+slug: 77-2
+status: publish
+title: '...'
+wordpress_id: '3113'
+categories:
+ - nonlinear
+---
+
+[Afternoon: An Introduction][1]
+
+   [1]: http://www.iath.virginia.edu/elab/hfl0179.html
+
+   
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.markfiore.com/animation/liberation.html">Fiore - congratulations! - 3/26/03</a> (flash)
+

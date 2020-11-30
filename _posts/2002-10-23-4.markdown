@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Elsewhere:</i> <b>Protest Ramp Up in Prague</b>
+
+<a href="http://www.praguepost.com/P03/2002/Art/1023/news1.php">The Prague Post Online</a>
+

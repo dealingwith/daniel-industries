@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2002-02-10 20:24:00'
+layout: post
+slug: 74-2
+status: publish
+title: '...'
+wordpress_id: '3111'
+categories:
+ - nonlinear
+---
+
+Below are a bunch of links I found this morning. They are in no particular
+order or organization. They are all very cool and worth a look.
+
+
+It turns out the idea for a piece of software I had is already being done. See
+anything about Storyspace or Eastgate below. So... Whether or not it is being
+done WELL is another story. Ahem. Anyway, I have the demo installed on my
+machine and maybe I'll use it to model my own custom application that I'll
+distribute as shareware. We'll see. At least I know for sure there is a market
+for it! And academic circles for the types of things I'm interested in.
+
+![][1]
+
+   [1]:
+

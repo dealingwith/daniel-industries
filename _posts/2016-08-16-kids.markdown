@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Kids"
+excerpt: "More pictures of Milo and Lucy"
+image: "/assets/2016/08/milo1.png"
+date: 2016-08-16 21:47:43 -0500
+comments: true
+categories: 
+---
+
+![](/assets/2016/08/milo1.png)
+
+![](/assets/2016/08/milo2.png)
+
+![](/assets/2016/08/milo3.png)
+
+![](/assets/2016/08/lucy1.png)

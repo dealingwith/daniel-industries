@@ -1,0 +1,13 @@
+---
+author: dealingwith
+date: '2001-09-19 22:36:00'
+layout: post
+slug: '45'
+status: publish
+title: '...'
+wordpress_id: '3095'
+categories:
+ - nonlinear
+---
+
+Note: I've reached the end of my original outline finally. I will continue this web log to record my research and thoughts as they come. The spec for the software continues to evolve.

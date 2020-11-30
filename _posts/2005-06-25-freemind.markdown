@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2005-06-25 04:52:00'
+layout: post
+slug: freemind
+status: publish
+title: FreeMind
+wordpress_id: '3157'
+categories:
+ - nonlinear
+---
+
+[FreeMind][1]
+
+
+> FreeMind is a premier free mind-mapping software written in Java. The recent
+development has hopefully turned it into high productivity tool. We are proud
+that the operation and navigation of FreeMind is faster than that of
+MindManager because of one-click "fold / unfold" and "follow link" operations.
+
+   [1]: http://www.thebestpageintheuniverse.net/c.cgi?u=episode3
+
+   
+

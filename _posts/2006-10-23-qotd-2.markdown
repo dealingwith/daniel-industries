@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2006-10-23 11:23:00'
+layout: post
+slug: qotd-2
+status: publish
+title: qotd 2
+wordpress_id: '1778'
+categories:
+ - geek
+ - quotable
+ - to checkout
+ - to read
+---
+
+> Writing a CMS is like the new Hello World
+
+[phpied.com » Blog Archive » Fly Yahoo UI][1]
+
+i also need to read this article later...
+
+   [1]: http://www.phpied.com/fly-yahoo-ui/
+

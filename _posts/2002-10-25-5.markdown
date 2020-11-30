@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Minutia:</i> <b>Currently obsessed with the record:</b>
+
+<a href="http://www.amazon.com/exec/obidos/tg/detail/-/B000002KHF/qid=1035586908/sr=8-1/ref=sr_8_1/002-7399107-1844829?v=glance">Van Morrison, Moondance</a>
+

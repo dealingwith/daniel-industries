@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.ulc.org/">Become An Ordained Minister in just 3 minutes. FREE</a>
+

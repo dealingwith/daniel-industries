@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.alternet.org/story.html?StoryID=15418">alternet: the media companies' fcc wishlist</a>
+

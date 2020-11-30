@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://theyblinked.blogspot.com/2002_07_21_theyblinked_archive.html#79487334">a very important post</a> at <a href="http://theyblinked.blogsopt.com">theyblinked</a>...
+

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Pictures"
+excerpt: "Some recent photos of my children"
+image: "/assets/2017/04/DSC_0260.jpg"
+date: 2017-04-17 23:14:03 -0500
+comments: true
+categories: 
+---
+
+![](/assets/2017/04/DSC_0260.jpg)
+
+![](/assets/2017/04/DSC_0220-2.jpg)
+
+![](/assets/2017/04/DSC_2673.jpg)
+
+![](/assets/2017/04/DSC_2693.jpg)
+
+![](/assets/2017/04/DSC_2861.jpg)
+
+All photos by [Carissa Byers](http://carissabyers.com/). (Photography being just one of her many talents.)

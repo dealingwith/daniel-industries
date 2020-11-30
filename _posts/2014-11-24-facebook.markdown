@@ -1,0 +1,8 @@
+---
+author: dealingwith
+date: '2014-11-24 14:39:21'
+layout: post
+title: 'Facebook is kind of terrible'
+---
+
+In both battery and data usage the Facebook iOS app is the biggest offender by an order of magnitude. If your iPhone charge or data plan aren't going as far as they seem like they should, it's likely Facebook's fault. I have to have it installed for testing purposes but I quit it as often as possible.

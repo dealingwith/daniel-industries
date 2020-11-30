@@ -1,0 +1,36 @@
+---
+author: dealingwith
+date: '2009-02-13 14:47:00'
+layout: post
+slug: mp3s-of-the-day-24
+status: publish
+title: mp3s of the day
+wordpress_id: '2938'
+categories:
+ - local
+ - mp3 of the day
+ - music
+---
+
+[![][1]][2]
+
+[The Postmarks][2] are a south Florida band of repute. I knew Jonathan Wilkins
+when I lived there, he played drums for the same band I (briefly) did, [The
+Freakin' Hott][3] (who are amazing as well, and have been an often topic of
+this blog).
+
+Anyhoo, they came up in a [last.fm][4] station I was playing the other day, so
+I went to catch up, and saw that not only do they have a new record out, but
+they have [a bunch of mp3's available on their site for your downloading
+pleasure][5].
+
+   [1]: http://userserve-ak.last.fm/serve/252/267669.jpg
+
+   [2]: http://www.thepostmarks.com/
+
+   [3]: http://www.myspace.com/thefreakinhott
+
+   [4]: http://last.fm
+
+   [5]: http://www.thepostmarks.com/media_iframe.html#music
+

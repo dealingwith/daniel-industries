@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#3,0,0,0" width="400" height="80">
+          <param name="SRC" value="http://www.soulbath.com/message/filipedigital/human_race.swf">
+          <embed src="http://www.soulbath.com/message/filipedigital/human_race.swf" pluginspage="http://www.macromedia.com/shockwave/download/" type="application/x-shockwave-flash" width="400" height="80">
+          </embed> 
+        </object>
+

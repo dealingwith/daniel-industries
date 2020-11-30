@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2005-02-20 15:44:00'
+layout: post
+slug: '189'
+status: publish
+title: 'The umlaut'
+categories:
+ - elsehwere
+ - quotable
+---
+
+> The umlaut became de rigueur for a whole host of bands, ranging from Motörhead to Queensryche (which impossibly put it over the “Y”), and it was typically added as an afterthought, a hollow symbol of distinction that owed nothing to linguistic or cultural actualities (graphic designer Bruce Campbell notes that when Mötley Crüe played Germany, the literal-minded crowd chanted “Mutley Cruh”).
+
+-- from [designobserver.com](https://designobserver.com/) (original a `dead link`)

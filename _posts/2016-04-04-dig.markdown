@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Dig"
+excerpt: Has always been one of my favorite songs
+date: 2016-04-04 21:02:40 -0500
+comments: true
+categories: 
+---
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=546191778/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3629559962/transparent=true/" seamless><a href="http://adamagain.bandcamp.com/album/dig-2015-remaster">Dig (2015 Remaster) by Adam Again</a></iframe>
+
+Recently some friends of Adam Again remastered _Dig_, frequently considered their best work, re-released it on CD and released it for the first time on vinyl. The title track has always been one of my favorite songs. I've covered it many times. 
+
+In fact, my own song _[Don't Tell Me](https://danielmiller.bandcamp.com/track/dont-tell-me)_ was directly inspired by _Dig_; and the lyrics in the ending of _Don't Tell Me_ are stolen directly from _Dig_.

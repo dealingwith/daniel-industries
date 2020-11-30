@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+those banners came from <a href="http://www.soulbath.com/">http://www.soulbath.com/</a>
+

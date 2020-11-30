@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'were all'
+categories:
+ - quotable
+---
+
+<blockquote>We're all fuck ups just looking for a little acceptance as we find our way.</blockquote>
+
+
+--A friend.

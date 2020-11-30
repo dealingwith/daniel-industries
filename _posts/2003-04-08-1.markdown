@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.cnn.com/2003/TRAVEL/DESTINATIONS/04/08/trv.travel.bosnia.ap/index.html">cnn.com - tour guide's work: bosnia tragedy - apr. 8, 2003</a>
+

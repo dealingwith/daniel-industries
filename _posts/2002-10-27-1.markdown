@@ -1,0 +1,17 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <a href="http://old.saturn.org/winter2001/?x=archive&y=2001_01_28_archive#2210869"><b>long live blogger; blogger is dead.</b></a>
+
+I'm moving off Blogger tonight. I might not update in the next few days. I wanna get my system going, and this is a great motivation for me. Besides, <font color="white">Blogger is evil</font>.
+
+You can go check my comments on <a href="http://www.jordoncooper.com/2002_10_01_archives.html#85605952">Jordon's blog</a>. You can also read Ev's arrogant comment on this <a href="http://www.dashes.com/anil/index.php?archives/003780.php">page of very good comment and information</a>. Here it is if you don't want to scroll down: <i>Hi, folks. We're fairly confident we've found the vunerability, and we've restored the data. As for the brilliant analysis that it was due to "M$" software, I'm sure you're very educated on these things but...well, you're wrong. [Note: this was a response to two stupid comments that I deleted. --Anil] Thanks, Ev.</i> .....Granted, it <b>wasn't</b> running on IIS, and Anil added that note, but <b>still</b>...if you are running a company, grow up a little. I'd give him a little ground for being human, but this wasn't the first time (Read <a href="http://old.saturn.org/summer2002/explanation.php">this</a>. Read it <a href="http://old.saturn.org/summer2002/letter.php">all</a> in case you hadn't <a href="http://www.danielsjourney.com/index.php?archive=2002_07_01_archive.xml&id_pass=79458422">all</a><a href="http://www.danielsjourney.com/index.php?archive=2002_07_01_archive.xml&id_pass=79494309">ready</a>. If you are reading this site you should understand...and don't deny your gut this time...and know that my venture will be very much different. Perhaps I should contact <a href="http://saturn.org">Jack</a>...), and from reading his <a href="http://evhead.com/">blog</a> i get the impression...well, you can make your own impression. I've made mine known enough already...
+
+I'm off for a while.....go do something IRL. 
+
+Like drink a <a href="http://www.yuengling.com/">beer</a>.
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-10-02 19:38:00'
+layout: post
+slug: '106'
+status: publish
+title: '...'
+wordpress_id: '106'
+---
+
+[Debate Spotter: word frequency tool][1]
+
+   [1]: http://overstated.net/projects/debates/index.asp?p=hard+work&s=&f=on
+

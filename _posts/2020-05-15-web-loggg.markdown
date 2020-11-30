@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Web loggg"
+excerpt: "More good things from the interwebs"
+date: 2020-05-15 10:33:09 -0500
+categories: 
+---
+
+Discord update messages are the best update messages...
+
+> We’ve been cooking up a new noise suppression feature for all you keyboard slammers, parrot owners, and people who have neighbors that think every day is a good day to mow the lawn.
+
+---
+
+[Own Goals podcast: Gatsby & Software "Architecture"](https://owngoals.stream/episodes/gatsby-software-architecture)
+
+> Startups are really incremental rewrite machines
+
+>> And you can either choose to take a path that leads you to needing to do a wholesale re-write at some point in the future, which to be fair is a choice that when made purposefully can be the right choice, right? Sometimes you just need to build something out, accumulate a bunch of tech debt and then three, four years from now when your company is still alive because you did that, you can re-write it.
+
+> But the better path is sort of write your code today, such that you can make choices that are sub-optimal in sub-sections of your application so that you can delete those sub-sections instead of needing to delete those sub-sections and the spider web of dependencies in which they touch, right?
+
+---
+
+[Postlight's been reading our mail](https://postlight.com/trackchanges/podcast/big-red-button-dealing-with-unreasonable-asks)
+
+> PF Well, ok, it’s Friday morning and due to circumstances outside of our control, related to the pandemic, I need to change [music fades out] our product road map significantly. By Wednesday. I need to take...
+
+> RZ By Wednesday?!? 
+
+> PF ...everything we’ve been building. Yeah, we gotta make--we have to put a bunch of alerts in and then change the way the service works fundamentally and also there needs to be a streaming video. I think we actually have to commission like a puppet show. I--I’m losing it, man! 
+
+> RZ Slow down. You need a plan by Wednesday? 
+
+> PF No, no, I have to launch a product by Wednesday. I said it was impossible and they were like, “I guess if it’s impossible, you should still find a way to do it.” That’s what they told me. 
+
+> RZ Oh, boy. Ok. 
+
+> PF Yeah, I just said, “Ok,” and then I went and I looked at the wall for a while. And that’s why I’m calling you cuz you seem to be pretty good in situations like this. 
+
+---
+
+I think about this song often these days.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1607945823/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1903546474/transparent=true/" seamless><a href="http://danielmiller.bandcamp.com/album/form">Form by Daniel Miller</a></iframe>
+
+Obviously I included it on my last record. (Aside: my last record was seven years ago. _Sigh_.) (Second aside: God, I love Paul Averitt's vocals on this track. He was absolutely perfect for it.) This song is awash with nostalgia for me. I first heard it in [White Water Summer](https://en.wikipedia.org/wiki/White_Water_Summer), a movie I watched on broadcast television not long after its theatrical release. I can't remember much about the movie--I want to watch it again, but not tonight--except that it features this song. I think I already knew about Cutting Crew from their hit signals from the _[Broadcast](https://en.wikipedia.org/wiki/Broadcast_(Cutting_Crew_album))_ record--namely _(I Just) Died in Your Arms_ and _I've Been in Love Before_. But _Life in a Dangerous Time_ has always been my favorite song on the record, and the one that seems to have best withstood the test of time. Here's the original:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kCFPKt2jzlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> It must've been lonely  
+> It must've been cold  
+> It must've been something  

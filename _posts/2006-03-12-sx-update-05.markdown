@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2006-03-12 15:16:00'
+layout: post
+slug: sx-update-05
+status: publish
+title: sx update 05
+wordpress_id: '1100'
+categories:
+ - sxsw
+ - sxswi2006
+---
+
+The [Armstrong][1] / [Kottke][2] [keynote][3] was entertaining as expected. I
+got a free chair massage in the platinum louge right after my last entry,
+which was rather nice. About to go to [Everyware][4] and then call it day for
+panels etc.
+
+   [1]: http://www.dooce.com/
+
+   [2]: http://www.kottke.org/
+
+   [3]:
+http://2006.sxsw.com/interactive/programming/panels/?action=show&id=IAP060039
+
+   [4]:
+http://2006.sxsw.com/interactive/programming/panels/?action=show&id=IAP060085
+

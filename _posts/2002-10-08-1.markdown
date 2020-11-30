@@ -1,0 +1,20 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+Wow. Too much stuff to post today.
+
+Inspired by <a href="http://www.disobey.com/amphetadesk/index.html">amphetadesk</a>, I've realized how I'm going to do syndication. Look out for it soon. (It will become my homepage, in fact it will be a locally run (i.e. off of my hard drive) thing on <i>my</i> machine. It would take me a long time to document how to get PHP running on your computer so you could run it locally, but the advantages local vs. remote (i.e. on danielsjourney.com) will be negligible anyway.)
+
+Also, hows this for another reason to be waiting on the edge of your seat for my blogging tool?: You give an entry a heading and a title, say like this:
+
+<b>Tech</b>
+<i>My blogging widget is going to rule all blogging widgets.</i>
+
+And that entry automatically gets indexed (if you so choose, of <i>course</i>) by title in your menu, under that heading. You could also display only the last <i>n</i> items per heading, for example. The blogging tool will remember your past headings, allowing you to quickly pick the heading you want. 
+
+You'll see me start to categorically headline entries more often now, as I prepare to implement my application.
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "QotD"
+excerpt: "from E. F. Schumacher"
+date: 2018-09-11 23:32:45 -0500
+comments: true
+categories: 
+---
+
+>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius--and a lot of courage--to move in the opposite direction.
+
+-- E. F. Schumacher 

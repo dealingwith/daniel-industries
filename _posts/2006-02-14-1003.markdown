@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2006-02-14 08:51:00'
+layout: post
+slug: '1003'
+status: publish
+title: '...'
+wordpress_id: '1003'
+categories:
+ - design
+ - elsewhere
+ - web
+---
+
+[Roses are red, violets are blue, sometimes dear web, we sure hate you.][1]
+and check out this [myspace page run through the validator][2].
+
+   [1]: http://www.alistapart.com/articles/vdaymassacre
+
+   [2]: http://validator.w3.org/check?uri=http%3A%2F%2Fprofile.myspace.com%2Findex.cfm%3Ffuseaction%3Duser.viewprofile%26friendid%3D6385825&charset=%28detect+automatically%29&doctype=Inline
+

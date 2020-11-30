@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-03-26 14:46:00'
+layout: post
+slug: '231'
+status: publish
+title: '...'
+wordpress_id: '231'
+---
+
+[Wake up, wake up dead man][1]
+
+   [1]: http://ellensjourney.org/stranger/archives/001338.html
+

@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2009-01-07 23:42:00'
+layout: post
+slug: most-days
+status: publish
+title: Most Days
+wordpress_id: '2908'
+categories:
+ - comedy
+ - elsewhere
+ - video
+---
+
+
+[Most Days (2009-01-05)][1] from [Merlin Mann][2] on [Vimeo][3].
+
+Oh goodness Merlin does it again. These are all good, although this is the
+best IMHO so if you didn't think this was hilarious then don't bother; but if
+you did (as I did) then follow the link and check out the rest and then stay
+tuned.
+
+   [1]: http://vimeo.com/2728497
+
+   [2]: http://vimeo.com/merlin
+
+   [3]: http://vimeo.com
+

@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2007-01-10 13:29:00'
+layout: post
+slug: iphype
+status: publish
+title: iPhype
+wordpress_id: '1921'
+categories:
+ - elsewhere
+ - monkeys
+ - technology
+---
+
+[This][1] is exactly what my first thought was. [This][2] was a very good
+point as well.
+
+   [1]: http://www.hicksdesign.co.uk/journal/the-only-drawback-with-the-iphone
+
+   [2]: http://www.37signals.com/svn/posts/188-iphone-not-touchy-feely
+

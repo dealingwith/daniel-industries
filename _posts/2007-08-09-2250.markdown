@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2007-08-09 10:13:00'
+layout: post
+slug: '2250'
+status: publish
+title: '...'
+wordpress_id: '2250'
+categories:
+ - imagining
+---
+
+[![][1]][2]
+
+photo (c)2006 [byron barrett][2]
+
+   [1]: http://danielsjourney.com/blog/files/2007/08/astica3_resized.jpg
+
+   [2]: http://www.filemagazine.com/thecollection/archives/barrett/index.html
+

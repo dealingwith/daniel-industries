@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2005-05-11 15:55:00'
+layout: post
+slug: osl
+status: publish
+title: OSL
+wordpress_id: '3155'
+categories:
+ - nonlinear
+---
+
+[![][1]][2]
+
+
+...getting inspired...
+
+![][3]
+
+   [1]: http://danielsjourney.com/blog/files/2005/05/osl_graphic-1_thmb.jpg
+
+   [2]: http://danielsjourney.com/blog/files/2005/05/osl_graphic-1.png
+
+   [3]:
+

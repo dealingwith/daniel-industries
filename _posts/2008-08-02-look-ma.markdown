@@ -1,0 +1,49 @@
+---
+author: dealingwith
+date: '2008-08-02 14:48:00'
+layout: post
+slug: look-ma
+status: publish
+title: look ma
+wordpress_id: '2733'
+categories:
+ - beauty
+ - bicycling
+ - elsewhere
+ - humanity
+ - imagining
+ - life
+ - people
+ - sad
+ - sucks
+---
+
+[![][1]][2]
+
+[look ma][3]
+
+Originally uploaded by [fast boy][4]
+
+fast boy just built one of his amazingly beautiful bikes for Glen Hansard
+
+
+and found out he has cancer
+
+
+fooks sake
+
+
+he'll be documenting his journey via his amazing photography on his flickr
+stream
+
+
+consider this a pointer
+
+   [1]: http://farm4.static.flickr.com/3209/2688980036_3050b79fae_m.jpg
+
+   [2]: http://www.flickr.com/photos/fastboy/2688980036/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/fastboy/2688980036/
+
+   [4]: http://www.flickr.com/people/fastboy/
+

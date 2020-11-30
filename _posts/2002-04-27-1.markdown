@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<img src="http://personal.atl.bellsouth.net/mia/m/i/mill6858/images/michasmap.jpg">
+

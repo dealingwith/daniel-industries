@@ -1,0 +1,13 @@
+---
+author: dealingwith
+date: '2001-09-19 22:15:00'
+layout: post
+slug: '33'
+status: publish
+title: 'Nonlinear: Story-building software'
+wordpress_id: '3090'
+categories:
+ - nonlinear
+---
+
+Story building software is what really stinks. The GUI's stink, they're bound my story methodologies that are old, old, old, and they're expensive to boot. Most of these are for screenwriters, and therefore would be used in conjunction with the storyboarding software. My software would combine these into one easy to use interface. It's intuitive, allows for levels of organization from just getting started free associating down to the smallest detail of the story, and then would assist in creating the output necessary for any media (screenplay, prose, online presentation, etc.).

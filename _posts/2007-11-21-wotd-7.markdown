@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2007-11-21 22:28:00'
+layout: post
+slug: wotd-7
+status: publish
+title: WotD
+wordpress_id: '2373'
+categories:
+ - word of the day
+---
+
+Douche
+
+[#][1]
+
+(How had I not seen this before?)
+
+   [1]: http://valleywag.com/tech/mark-zuckerberg/facebook-founders-100+year-flub-320208.php
+

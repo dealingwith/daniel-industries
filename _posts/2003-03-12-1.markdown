@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.nytimes.com/2003/03/09/opinion/09CART.html">just war -- or a just war?</a> by Jimmy Carter, 2002 Nobel Peace Prize winner
+

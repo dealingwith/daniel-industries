@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.cnn.com/POLL/results/368431.content.html">ahh yes the moral fiber of your average cnn reader</a> 
+

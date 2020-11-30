@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-03-04 09:03:00'
+layout: post
+slug: '2038'
+status: publish
+title: '...'
+wordpress_id: '2038'
+categories:
+ - quotable
+---
+
+> You never ask board members what they think. You tell them what you're going
+to do.
+
+[#][1]
+
+   [1]: http://twitter.com/nivi/statuses/5828871
+

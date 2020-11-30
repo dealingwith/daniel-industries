@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+If you don't see a new design, hit refresh. (Come to think of it, if you can't see a new design, then you can't see this text. Or you're blind and your computer is reading you this page; and I don't know how well that works.)
+
+Let me know what you think. Honestly. Oh, and if you had the yellow scheme set for yourself, you're back to blue. The yellow just didn't work with this new design. You can go to the (also redone for simplicity) "customize" page and pick a new scheme if you like.
+
+Oh, and only the homepage is redone. I have to give it a couple days myself.
+

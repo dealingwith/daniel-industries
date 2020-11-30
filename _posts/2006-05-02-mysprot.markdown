@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2006-05-02 13:23:00'
+layout: post
+slug: mysprot
+status: publish
+title: mysprot
+wordpress_id: '1282'
+categories:
+ - elsewhere
+ - evil
+ - fads
+ - myspace
+ - technology
+ - trends
+---
+
+[welcome to botspace][1]
+
+   [1]: http://www.mikeindustries.com/blog/archive/2006/05/welcome-to-botspace
+

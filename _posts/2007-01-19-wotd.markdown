@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2007-01-19 15:49:00'
+layout: post
+slug: wotd
+status: publish
+title: WotD
+wordpress_id: '1944'
+categories:
+ - word of the day
+---
+
+[#][1]
+
+   [1]: http://twitter.com/dealingwith/statuses/3322933
+

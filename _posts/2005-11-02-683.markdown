@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2005-11-02 08:37:00'
+layout: post
+slug: '683'
+status: publish
+title: '...'
+wordpress_id: '684'
+---
+
+_"What information consumes is rather obvious: it consumes the attention of
+its recipients. Hence a wealth of information creates a poverty of attention,
+and a need to allocate that attention efficiently among the overabundance of
+information sources that might consume it." (Computers, Communications and the
+Public Interest, pages 40-41, Martin Greenberger, ed., The Johns Hopkins
+Press, 1971.)_
+
+[Ross Mayfield's Weblog: Attention Saturation][1]
+
+   [1]: http://ross.typepad.com/blog/2005/11/attention_satur.html
+

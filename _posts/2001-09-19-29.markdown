@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2001-09-19 22:05:00'
+layout: post
+slug: '29'
+status: publish
+title: 'Nonlinear: Storyboarding software'
+wordpress_id: '3088'
+categories:
+ - nonlinear
+---
+
+Storyboarding software is ok. Most of it is pretty low budget stuff sold for
+way to much. This might, however, be our best bet for a software integration
+with my specs. Checking them out will suffice for you.

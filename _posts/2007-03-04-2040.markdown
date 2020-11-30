@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2007-03-04 10:46:00'
+layout: post
+slug: '2040'
+status: publish
+title: '...'
+wordpress_id: '2040'
+categories:
+ - elsewhere
+ - music
+---
+
+![][1]
+
+   [1]: http://www.theinnocencemission.com/we%20walked%20web2%20copy.jpg
+

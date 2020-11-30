@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2010-08-07 03:57:00'
+layout: post
+slug: graboids
+status: publish
+title: Graboids
+wordpress_id: '3262'
+categories:
+ - video
+---
+
+[http://vimeo.com/moogaloop.swf?clip_id=13621353&server=vimeo.com&show_title=1
+&show_byline=1&show_portrait=1&color=&fullscreen=1&autoplay=0&loop=0][1]
+
+[Monstrous Wildlife][2] from [Frank Robnik][3] on [Vimeo][4].
+
+   [1]: http://vimeo.com/moogaloop.swf?clip_id=13621353&server=vimeo.com&show_title=1&show_byline=1&show_portrait=1&color=&fullscreen=1&autoplay=0&loop=0
+
+   [2]: http://vimeo.com/13621353
+
+   [3]: http://vimeo.com/frobnik
+
+   [4]: http://vimeo.com
+
+   
+

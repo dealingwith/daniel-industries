@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.dashes.com/anil/index.php?archives/005482.php">anil dash</a> <em>explaining trackback</em>
+

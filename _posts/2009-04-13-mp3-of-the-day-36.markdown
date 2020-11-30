@@ -1,0 +1,34 @@
+---
+author: dealingwith
+date: '2009-04-13 22:54:00'
+layout: post
+slug: mp3-of-the-day-36
+status: publish
+title: mp3 of the day
+wordpress_id: '2986'
+categories:
+ - local
+ - mp3 of the day
+ - music
+---
+
+[Robert Gomez - On This Day][1]
+
+![][2]
+
+[NPR][3]:
+
+> Notably, Pine Sticks and Phosphorous is the first of Gomez's LPs to be
+recorded almost entirely in a professional studio. Though Gomez is technically
+a "solo artist" and writes the songs, parts, and arrangements on his own, a
+number of talented musicians join him on the record, including Sarah Jaffe,
+and members of The Polyphonic Spree, Midlake, and Postmarks, giving Pine
+Sticks and Phosphorous an impressive, full band sound.
+
+   [1]: http://podcastdownload.npr.org/anon.npr-podcasts/podcast/15466058/102744061/npr_102744061.mp3
+
+   [2]:
+http://media.npr.org/music/secondstage/2009/april/robert/robert_300.jpg
+
+   [3]: http://www.npr.org/templates/story/story.php?storyId=102699273
+

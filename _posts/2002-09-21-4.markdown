@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<img src="http://www.lighttocarry.com/images/02/img_11_sm.jpg" align="left"><a href="http://www.lighttocarry.com/index.shtm">{ .light.to.carry. }</a>
+

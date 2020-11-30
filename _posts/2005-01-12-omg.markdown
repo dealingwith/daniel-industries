@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2005-01-12 03:04:00'
+layout: post
+slug: omg
+status: publish
+title: OMG
+wordpress_id: '146'
+---
+
+Someone buy me [this][1], just for shits and giggles.
+
+
+Um, just kidding.
+
+   [1]: http://www.pick-me.com/specialeffects/firebible.htm
+

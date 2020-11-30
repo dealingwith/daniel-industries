@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2006-11-27 19:09:00'
+layout: post
+slug: '1848'
+status: publish
+title: '...'
+wordpress_id: '1848'
+categories:
+ - elsewhere
+ - video
+---
+
+[scrabble!][1]
+
+   [1]: http://www.zefrank.com/theshow/archives/2006/11/112706.html
+

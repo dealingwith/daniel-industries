@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2006-10-19 18:07:00'
+layout: post
+slug: '2222'
+status: publish
+title: '...'
+wordpress_id: '2222'
+categories:
+ - elsewhere
+ - video
+---
+
+I had a meeting with ppl from my church tonight. This is what I've kinda felt
+from them.
+
+
+[TheChurchYouKnow.com][1]
+
+[via sense-datum][2]
+
+   [1]: http://www.thechurchyouknow.com/
+
+   [2]: http://sense-datum.org/tim/archive/2006/10/19/thechurchyouknowcom/tim_samoff__weblog/tim_samoff__weblog
+

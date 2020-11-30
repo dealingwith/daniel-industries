@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2007-01-23 00:42:00'
+layout: post
+slug: '1951'
+status: publish
+title: '...'
+wordpress_id: '1951'
+categories:
+ - brilliant
+ - comedy
+ - elsewhere
+ - faithy
+---
+
+[ Instructions on Marriage][1]:
+
+> The husband must give to his wife what she has a right to expect.
+
+also: [the law][2] and [sexual discharges][3] ...been a couple years or
+something since I've been to bricktestament
+
+   [1]: http://www.thebricktestament.com/epistles_of_paul/instructions_on_marriage/1co07_01-02.html
+
+   [2]: http://www.thebricktestament.com/the_law/
+
+   [3]:
+http://www.thebricktestament.com/the_law/sexual_discharges/lv15_16a.html
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>Nation Microsoft</b>
+
+It's really happening. Is there any reason these products can't be less expensive except to maintain the monopoly?
+
+MS reports that they want revenue from MS Office to double--<a href="http://www.eweek.com/article2/0,3959,644086,00.asp">to 20 billion clams by 2010</a>. They have <a href="http://www.siliconvalley.com/mld/siliconvalley/business/columnists/dan_gillmor/ejournal/4307752.htm">40 million in cash</a>, 7.7 billion in sales just last <b>quarter</b>, and their stock price <a href="http://finance.yahoo.com/q?d=t&s=MSFT">has been going up</a>.
+
+Greedy, greedy bastards. Makes me want to just develop my software ideas in Java on a Linux machine. Perhaps it is time. If you have any advice to give me in this regard (you know a good machine to run Linux on, a good site to get recent, compiled versions and docs from, decent IDE's for Linux, etc.) click the "contact" link at the top, wouldja?
+
+More on the technical aspects of The Monopoly later...
+

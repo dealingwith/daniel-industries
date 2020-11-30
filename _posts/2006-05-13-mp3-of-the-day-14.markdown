@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2006-05-13 13:00:00'
+layout: post
+slug: mp3-of-the-day-14
+status: publish
+title: mp3 of the day
+wordpress_id: '1306'
+categories:
+ - mp3 of the day
+ - music
+---
+
+Not normally my cup o' tea, but I've had [Jenny Pound][1] in my head every
+waking second since Team Evil played it last night during their gig at the
+Double Wide.
+
+   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/05/Team%20Evil%20-%20%20-%202%20-%20Jenny%20Pound.mp3
+

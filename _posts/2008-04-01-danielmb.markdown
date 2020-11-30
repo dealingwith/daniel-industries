@@ -1,0 +1,30 @@
+---
+author: dealingwith
+date: '2008-04-01 12:55:00'
+layout: post
+slug: danielmb
+status: publish
+title: danielMB
+wordpress_id: '2563'
+categories:
+ - me
+ - minutia
+ - personal notes
+---
+
+[![][1]][2]
+
+[danielMB][3]
+
+Originally uploaded by [dealingwith][4]
+
+Found this the other day...from 2002
+
+   [1]: http://farm3.static.flickr.com/2201/2380004421_20223945e0_m.jpg
+
+   [2]: http://www.flickr.com/photos/dealingwith/2380004421/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/dealingwith/2380004421/
+
+   [4]: http://www.flickr.com/people/dealingwith/
+

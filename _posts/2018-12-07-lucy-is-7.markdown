@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Lucy is 7"
+excerpt: 
+date: 2018-12-07 06:45:23 -0600
+comments: true
+categories: 
+---
+
+[![](/assets/2018/12/lucy.png)](/assets/2018/12/lucy.png)

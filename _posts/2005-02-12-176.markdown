@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-02-12 11:05:00'
+layout: post
+slug: '176'
+status: publish
+title: '...'
+wordpress_id: '176'
+---
+
+[it won't fucking kill you][1]
+
+   [1]: http://www.urbanhonking.com/kill/archives/2005/02/post_201.html
+

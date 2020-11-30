@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2008-06-02 07:42:00'
+layout: post
+slug: qotd-9
+status: publish
+title: QotD
+wordpress_id: '2659'
+categories:
+ - quotable
+---
+
+[Bike Snob NYC][1]
+
+> It may come as little surprise to many of you that a person as bitter as
+myself requires a lot of alone time in the morning in order to come to grips
+with the fact that I am a) alive; and b) must once again eventually interact
+with other people at some point during the course of the day.
+
+   [1]: http://bikesnobnyc.blogspot.com/2008/05/dominated-by-unwitting-how-i-lost-great.html
+

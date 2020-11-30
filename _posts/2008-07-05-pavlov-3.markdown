@@ -1,0 +1,31 @@
+---
+author: dealingwith
+date: '2008-07-05 23:41:00'
+layout: post
+slug: pavlov-3
+status: publish
+title: Pavlov
+wordpress_id: '2694'
+categories:
+ - dogs
+ - imagining
+ - minutia
+ - pavlov
+---
+
+[![][1]][2]
+
+[Pavlov][3]
+
+Originally uploaded by [carissabyers][4]
+
+Couldn't resist, had to blog this one too!
+
+   [1]: http://farm4.static.flickr.com/3007/2641275856_404934a601_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/2641275856/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/2641275856/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+

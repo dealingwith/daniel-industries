@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2008-03-24 20:20:00'
+layout: post
+slug: '2546'
+status: publish
+title: '...'
+wordpress_id: '2546'
+categories:
+ - quotable
+---
+
+[TheyBlinked][1]:
+
+> This is progress engineered to unravel the fabric of local identity leaving
+in its place the public camera, ID card and military checkpoint: the
+architecture of control that regulates the acceleration of subjugation in the
+name of national unity, financial opportunity and social stability.
+
+   [1]: http://www.theyblinked.com/blog/2008/03/current-situation-in-tibet-is-about.html
+

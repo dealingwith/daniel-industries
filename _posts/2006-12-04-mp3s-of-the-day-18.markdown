@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2006-12-04 01:32:00'
+layout: post
+slug: mp3s-of-the-day-18
+status: publish
+title: mp3s of the day
+wordpress_id: '1860'
+categories:
+ - mp3 of the day
+---
+
+[Salim Nourallah - Overwhelmed][1]
+
+[The Innocence Mission - Spinning][2]
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/12/Salim%20Nourallah%20-%20Overwhelmed.mp3
+
+   [2]: http://daniel.iaspiretonothing.com/blog/files/2006/12/The%20Innocence%20Mission%20-%20Glow%20-%2010%20-%20Spinning.mp3
+

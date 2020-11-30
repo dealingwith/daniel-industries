@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2005-10-25 11:40:00'
+layout: post
+slug: '646'
+status: publish
+title: '...'
+wordpress_id: '646'
+---
+
+_Fray is going on hiatus. There will be no new stories or events for a while,
+but the current site will remain accessible as an archive._
+
+[{fray} storyblog - Fray is on hiatus][1]
+
+   [1]: http://fray.com/storyblog/2005/10/22/000691.shtml
+

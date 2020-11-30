@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Web log"
+excerpt: "I got sick of calling these 'Around the web'"
+date: 2019-01-13 17:29:20 -0600
+comments: true
+categories: 
+---
+
+[Love and Radio: Points of Egress](http://loveandradio.org/2018/10/points-of-egress/)
+
+If I haven't already recommended the Love and Radio podcast, this is a great episode to start with.
+
+---
+
+[Sam Harris, Ph.D.: The transformative power of mindfulness](https://peterattiamd.com/samharris/)
+
+>In this episode, Sam Harris, neuroscientist, author, and host of the Waking Up Podcast, walks us through the profound, yet practical, ways that meditation can transform our lives. Additionally, he helps to define the types of meditation and clarifies potential misconceptions with terms like happiness, pain, and suffering.
+
+I previously recommended another episode of the Peter Attia podcast and to be honest that one and this one are the only two episodes of the podcast that I've listened to. This one is also very long, but I found it all valuable. As problematic as (some of) Sam Harris' ideas are, I've yet to run into anything he's said that I didn't find useful or inspiring (although I've consumed a small percentage of his vast output).
+
+---
+
+[Driven to Distraction](https://harpers.org/archive/2018/05/easy-chair-15/)
+
+>Thanks to our own megamachine, it often seems to me that we have become a different species altogether, as though before social media and smartphones we were something roaming in relative solitude, like wolverines. Back then, our lives were full of gaps. During the journeys between home and school and work, for example, we were on our own, self-reliant, self-directed. In some ways, we accepted more uncertainty in our lives, and in others, we operated with more inflexibility—without smartphones, you couldn’t renegotiate your arrival time over and over, or suddenly decide that you wanted green olives and not black. You had to live with black olives.
+
+Great article on technology and modern society...
+
+---
+
+[Whatever Happened to the Semantic Web?](https://twobithistory.org/2018/05/27/semantic-web.html)
+
+>For a while, this vision enticed a lot of people. After new technologies such as AJAX led to the rise of what Silicon Valley called Web 2.0, Berners-Lee began referring to the Semantic Web as Web 3.0. Many thought that the Semantic Web was indeed the inevitable next step. A New York Times article published in 2006 quotes a speech Berners-Lee gave at a conference in which he said that the extant web would, twenty years in the future, be seen as only the “embryonic” form of something far greater. A venture capitalist, also quoted in the article, claimed that the Semantic Web would be “profound,” and ultimately “as obvious as the web seems obvious to us today.”
+
+>Of course, the Semantic Web we were promised has yet to be delivered.
+
+I was a big proponent of the Semantic Web back in the day. I dabbled in all the tech discussed in this article...
+
+---
+
+[Why the Depth Year Was My Best Year](https://www.raptitude.com/2018/12/why-the-depth-year-was-my-best-year/)
+
+>Towards the end of last year I proposed an idea that unexpectedly caught fire: what if, for a whole year, you stopped acquiring new things or taking on new pursuits. Instead, you return to abandoned projects, stalled hobbies, unread books and other neglected intentions, and go deeper with them than you ever have before.
+
+[Go Deeper, Not Wider](https://www.raptitude.com/2017/12/go-deeper-not-wider/). The original article, "read by a million people", of which I was not one. I'm considering making 2019 a personal "depth year" but am still on the fence. I _might_ decide to do so, and if I do, I _might_ decide to blog about it.

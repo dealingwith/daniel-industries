@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2007-03-03 18:57:00'
+layout: post
+slug: seals
+status: publish
+title: seals
+wordpress_id: '2036'
+categories:
+ - elsewhere
+ - imagining
+ - relationships
+---
+
+[![][1]][2]
+
+[seals][3]
+
+Originally uploaded by [photo-geek][4].
+
+
+   [1]: http://farm1.static.flickr.com/149/409170554_fde18f5c12_m.jpg
+
+   [2]: http://www.flickr.com/photos/allisonvsmith/409170554/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/allisonvsmith/409170554/
+
+   [4]: http://www.flickr.com/people/allisonvsmith/
+

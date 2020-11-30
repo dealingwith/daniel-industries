@@ -1,0 +1,67 @@
+---
+author: dealingwith
+date: '2005-04-24 11:10:00'
+layout: post
+slug: '275'
+status: publish
+title: '...'
+wordpress_id: '275'
+---
+
+[All geeks have a todo.txt file. They use texteditors (Word, BBEd, Emacs,
+Notepad) not Outlook or whathaveyou.][1]
+
+"What we keep in our todo is the stuff we want to forget
+
+"Geeks say they remember details well, but they forget their spouses'
+birthdays and the dry-cleaning. Because it's not interesting.
+
+"It's the 10-second rule: if you can't file something in 10 seconds, you won't
+do it. Todo.txt involves cut-and-paste, the simplest interface we can
+imagine."
+
+"Power-users don't trust complicated apps. Every time power-geeks has had a
+crash, s/he moves away from it. You can't trust software unless you've written
+it -- and then you're just more forgiiving."
+
+"The private blog -- a secret blog, using a tool:
+
+"Brad Fitzpatrick of LiveJournal: 8 entries every 10 min are private. Closed
+off from everyone.
+
+"Announce stuff is moving into RSS -- email announcements to something that
+syndicates over RSS
+
+--
+
+"Geeks write scripts to take apart dull, repetitive tasks. They'll spend 10h
+writing a script that will save 11h -- because writing scripts is interesting
+and doing dull stuff isn't.
+
+"Scripts are embarassingly coded, often forgotten."
+
+"People do lots of webscraping. Scrape stuff and turn it into RSS -- make your
+own feeds. JWZ uses this to help him run his bar.
+
+"Lots of people do this with banking services -- to keep an eye on their
+accounts.
+
+--
+
+"People make utilities to make their stuff public. Not just blogs -- but stuff
+like Eric Raymond's "shipper" -- package a code into an RPM, upload to
+SourceForge, announce, etc.
+
+"Edd Dumbill: Ideas rot if you don't do something with them. Don't hoard them.
+I blog them or otherwise tell people.
+
+"This is a way to look organized, "That guy has lots of ideas, what a genius."
+
+"You only have to be right once -- people google for some idea and find your
+ramble about it and are impressed.
+
+"Making stuff public is like having your parents come to stay -- you clean
+everything up."
+
+   [1]: http://www.craphound.com/lifehacksetcon04.txt
+

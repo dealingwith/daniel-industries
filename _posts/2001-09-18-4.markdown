@@ -1,0 +1,71 @@
+---
+author: dealingwith
+date: '2001-09-18 17:20:00'
+layout: post
+slug: '4'
+status: publish
+title: 'Nonlinear: Post 1'
+wordpress_id: '4'
+categories:
+ - nonlinear
+---
+
+**Introduction, Outline and Resources**
+
+This is my story, of examining non-linear story. I must begin with a couple
+disclaimers, both relating to the fact that this is in-process and will likely
+continue for years: 1) very rough around the edges this is a working draft and
+blog of my research and thoughts 2) also perhaps a bit unorganized however
+I'll do my best and this entire exercise is one for organizing this research
+
+While postmodernity has dramatically affected our storytelling over the last
+twenty to thirty years, the advent of the World Wide Web has provided a medium
+that highlights storytelling in the light of non-linear paradigms. While the
+experience of surfing the web is in itself linear, with each link opening
+another page within the interface of the browser and "back" and "forward"
+buttons allowing us to traverse the browsed "line" we created, the
+information, or story, map we follow while surfing can be a rather circuitous
+one. The following figures tell the story of non-linear processing on the web:
+
+Not only does the Internet contribute to this postmodern "information
+overload" but additional technologies built to keep us "in touch" at all times
+do as well: cell phones, text pagers, instant message software, the "ancient"
+telephone, even. Soon, our refrigerators and cars will be constantly wiring us
+in to the infinitely unfolding story of our electronic collective conscience.
+
+In this light, the traditional scavenger hunt, storytelling, and sleuthing
+methodologies were transformed into a new medium. My first experience with
+this type of experience integrated film, telephone, and web technologies. It
+was BMW Films dot com:
+
+1. [BMW Films][6]
+1. [AI Online Game](https://en.wikipedia.org/wiki/The_Beast_(game))
+1. [Majestic](https://en.wikipedia.org/wiki/Majestic_(video_game))
+1. New storytelling
+    1. [turbulence.org][14]
+    1. [submethod.com][15]
+    1. [scottmccloud.com][18]
+    1. [The Story Machine][19]
+    1. [blogger.com][20]
+1. Storyboarding software
+1. Business organization software
+    1. [microsoft.com/office/visio][23]
+    1. [conceptdraw.com/en][24]
+    1. [smartdraw.com][26]
+1. Story-building software
+    1. [Dramatica][27]
+1. Training methodologies
+1. Web content management
+1. Christopher Nolan
+1. Chuck Palahniuk
+
+   [6]: http://www.bmwfilms.com/site_layout/index.asp
+   [14]: http://turbulence.org/
+   [15]: http://www.submethod.com/
+   [18]: http://www.scottmccloud.com/
+   [19]: http://www.scottmccloud.com/4-inventions/machine/index.html
+   [20]: http://www.blogger.com/
+   [23]: http://www.microsoft.com/office/visio/
+   [24]: http://www.conceptdraw.com/en/
+   [26]: http://www.smartdraw.com/
+   [27]: http://www.screenplay.com/

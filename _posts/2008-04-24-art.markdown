@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2008-04-24 15:21:00'
+layout: post
+slug: art
+status: publish
+title: Art
+wordpress_id: '2604'
+categories:
+ - art
+ - video
+---
+
+I had a big long post about art all in my head ready to go and then I stumbled
+across [this][1] and realized I'd been beat to the punch.
+
+   [1]: http://www.youtube.com/watch?v=pDo_vs3Aip4
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-08-03 13:28:00'
+layout: post
+slug: '75'
+status: publish
+title: '...'
+wordpress_id: '75'
+---
+
+["But I like hip-hop. I'm hopping all the time, man."][1]
+
+   [1]: http://www.mtv.com/chooseorlose/headlines/news.jhtml?id=1489883
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.kuro5hin.org/">kuro5hin.org || technology and culture, from the trenches</a>
+

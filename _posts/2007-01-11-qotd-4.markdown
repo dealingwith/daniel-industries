@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-01-11 15:23:00'
+layout: post
+slug: qotd-4
+status: publish
+title: QotD
+wordpress_id: '1922'
+categories:
+ - quotable
+---
+
+> The best people've closed their eyes, shut their ears and turned away from
+me forever. The worst people have me under surveillance.
+
+[#][1]
+
+   [1]: http://overheardstarbuck.blogspot.com/2007/01/best-peopleve-closed-their-eyes-shut.html
+

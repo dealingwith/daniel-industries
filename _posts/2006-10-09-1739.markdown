@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-10-09 09:59:00'
+layout: post
+slug: '1739'
+status: publish
+title: '...'
+wordpress_id: '1739'
+---
+
+["stupid user" - Google Code Search][1]:
+
+> // We obviously have a very stupid user, but we're nice
+
+   [1]: http://google.com/codesearch?q=%22stupid+user%22&hl=en
+

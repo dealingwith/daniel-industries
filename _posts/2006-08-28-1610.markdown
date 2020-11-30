@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2006-08-28 15:00:00'
+layout: post
+slug: '1610'
+status: publish
+title: '...'
+wordpress_id: '1610'
+categories:
+ - dogs
+ - elsewhere
+ - imagining
+ - pavlov
+---
+
+[GuideLive.com - Night, a Day in Dallas][1]
+
+"Dallas' most photogenic dog...made GuideLive." #13
+
+via Kara Name
+
+   [1]: http://www.guidelive.com/sharedcontent/dws/pt/slideshows/2006/08/eveningadayindallas_2006/
+

@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Indieweb?"
+date: 2014-01-16 23:46:11 -0600
+comments: true
+categories: 
+---
+
+![I worry that soon we will drift centuries apart, unable to communicate ever again.](/images/ds_relationship_internet.png)
+
+From "It's not you, it's meme" by [Richard Stevens](http://http://dieselsweeties.com/) See also: "[Analogjam](http://www.dieselsweeties.com/archive/3472)".
+
+[Ben Werdmüller](http://werd.io/ "Who I did not meet at XOXO this year, but he was there") posted something that's apparently going around, "[I'm making 50 pieces of art. Do you want one?](http://werd.io/2014/im-making-50-pieces-of-art-do-you-want-one "I, Ben Werdmuller, promise to send a small work of art for the first fifty people who comment on this post by replying from their own website. Twitter or Facebook is not enough. Just link to this post and let me know you want in")" and I quite liked the sentiment, that is that to participate you must independently web-publish something indicating your interest.
+
+Which led me to [indiewebify.me](http://indiewebify.me/), a collection of tools and protocols for cataloging and connecting the "indie web" (13 years ago when I started blogging we just called it "the web"). Despite thinking a lot about how to help get my friends out of the prison that is Facebook and try and recreate the idyllic time that was web 1.0, I hesitated to participate in this little indiewebart experiment simply because I'm quite unsure I should take on a single additional commitment. But after scanning indiewebify.me I became rather unsure I should take on such a technical endeavor, *and I'm a web developer*.
+
+So. I will probably ping Ben via a "webmention" [I initiate from the command line](http://indiewebcamp.com/webmention#How_to_Test_Webmentions). And if you request it via your own independent web-based publication of some sort, I will send you some art by the end of 2014. Sadly I won't get webmentions working on my server in time. But you know how to find me.
+
+---
+
+Excerpt from “Is My Laptop Ruining My Life?” by Adam Buxton (NSFW).
+
+<audio src="http://johnnycitizen.com/podcast/jcp_24.mp3"></audio>
+
+Maciej Cegłowski on content and social.
+
+<audio src="http://johnnycitizen.com/podcast/jcp_19.mp3"></audio>
+
+Both of the above from the [dConstruct conference 2013 archive](http://archive.dconstruct.org/2013/).
+
+---
+
+Oh, and I [wrote something for my company's blog](http://blog.modernmsg.com/post/73405224877/surprise-and-delight "'Surprise and Delight', in which I expound upon the importance of playing games as a child"), something I will be doing more of this year.

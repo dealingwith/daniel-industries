@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2009-03-29 09:24:00'
+layout: post
+slug: mp3s-of-the-day-26
+status: publish
+title: mp3s of the day
+wordpress_id: '2975'
+categories:
+ - mp3 of the day
+---
+
+[lenses][1]
+
+Because it's arabic indie rock. Think Neutral Milk Hotel but in a language you
+can't understand. And free.
+
+   [1]: http://lenses.bandcamp.com/
+

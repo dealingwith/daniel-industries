@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotable"
+image: "/assets/2018/02/Bernstein_2000_07_c_REDUCED-1481918492-960x480.jpg"
+excerpt: "To achieve great things, two things are needed..."
+date: 2018-02-27 16:55:13 -0600
+comments: true
+categories: quotable
+---
+
+![](/assets/2018/02/Bernstein_2000_07_c_REDUCED-1481918492-960x480.jpg)
+
+> To achieve great things, two things are needed: a plan, and not quite enough time.
+
+-- Leonard Bernstein

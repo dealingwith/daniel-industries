@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Web Log"
+excerpt: 
+date: 2019-04-26 00:20:31 -0500
+comments: true
+categories: 
+---
+
+Remember when these used to be individual posts?
+
+---
+
+<img src="/assets/2019/04/people_book.jpg" style="max-width: 33%; float:right; margin-left: 1rem; border-radius: 0">
+
+[Palaces for the People](https://99percentinvisible.org/episode/palaces-for-the-people/)
+
+[List of Carnegie libraries in Texas](https://en.wikipedia.org/wiki/List_of_Carnegie_libraries_in_Texas)
+
+---
+
+[When Do You Know You Are Emotionally Mature? 26 Suggestions](https://www.theschooloflife.com/thebookoflife/when-do-you-know-you-are-emotionally-mature-26-suggestions/)
+
+---
+
+[Inventing the Company That's Right for You with Natalie Nagele of Wildbit](https://www.indiehackers.com/podcast/090-natalie-nagele-of-wildbit)
+
+Bonus Indie Hackers podcast episode: [Examining the Repeated Successes of a Product-Focused Solo Founder with AJ of Carrd](https://www.indiehackers.com/podcast/087-aj-of-carrd)
+
+---
+
+[93% of Paint Splatters are Valid Perl Programs](https://docs.google.com/document/d/1ZGGNMfmfpWB-DzWS3Jr-YLcRNRjhp3FKS6v0KELxXK8/preview)
+
+>In this paper, we aim to answer a long-standing open problem in the programming languages community: is it possible to smear paint on the wall without creating valid Perl?
+
+---
+
+[This thread on Twitter](https://twitter.com/evolvable/status/1113031660637847552):
+
+>Had a prod incident today. CPU riding at 100% in a typically sleepy webapp. Eventually tracked down the recent changes and the "offending" code that we think is causing the issue. Had the programmer done something stupid? Unlikely, she was one of our very best...
+
+---
+
+>...it turns out that taking a break to view some cuteness might actually benefit your work there’s a lot we’re still learning but according to some research looking at cute animals is associated with a boost and focus and fine motor skills.
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/BEmSoOA1Eyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+via [laughingsquid](https://laughingsquid.com/benefits-of-watching-cute-animal-videos/)
+
+---
+
+>Elle O’Brien and a team from Botnik Studios created a predictive AI country song entitled “You Can’t Take My Door”. The song was created by training a neural network to learn country music hits and then produce one of its own. The song was then arranged and performed by humans. The accompanying video reflects all of the colorful imagery in the song.
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/EPs6wdM7S3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+also [via laughingsquid](https://laughingsquid.com/country-song-created-by-neural-network/)
+
+---
+
+Speaking of machine learning, [Colormind](http://colormind.io/) is "a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art...Different datasets are loaded each day..."
+
+---
+
+[Do ship today](https://www.doship.today/)
+
+>Wanna ship? You need to skip.
+
+>Ever been in the final stages—just before you want to launch—and had doubts? Is my product good enough? Will people enjoy using it? Does it need more features? Being a maker it's easy to fall into the trap of “just one more feature”. Don't. Do ship today.
+
+---
+
+Speaking of shipping, two shops that can ship:
+
+[Hundred Rabbits](https://100r.co/)
+
+[Monome](https://monome.org/)
+
+---
+
+[The Library of Babel](https://libraryofbabel.info/) deserves its own blog post, but I don't have the time!
+
+>If completed, it would contain every possible combination of 1,312,000 characters, including lower case letters, space, comma, and period. Thus, it would contain every book that ever has been written, and every book that ever could be - including every play, every song, every scientific paper, every legal decision, every constitution, every piece of scripture, and so on. At present it contains all possible pages of 3200 characters, about 10^4677 books.
+
+Try the search functionality! For example, [here is the next paragraph of this blog post in the library](https://libraryofbabel.info/bookmark.cgi?ldmbvgernibaj,g,jnzufz289).
+
+---
+
+Milo has a lot of phrases I love. Everything in the future is "next week". But my favorite so far is, "Reese's Peaches". He might be onto a product idea there.
+
+---
+
+This picture of Lucy right after she died the ends of her hair pink:
+
+![](/assets/2019/04/lucy.jpg)

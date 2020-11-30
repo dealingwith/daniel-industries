@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'test'
+categories:
+ - design
+---
+
+I'm testing for my new LastModified feature, which most likely means nothing to any of you. 
+

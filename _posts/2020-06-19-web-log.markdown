@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Web log"
+excerpt: "My irregular collection of links"
+date: 2020-06-19 20:59:09 -0500
+categories: 
+---
+
+First off, hello from Ubuntu! I just got Jekyll running on here. [It wasn't hard](https://jekyllrb.com/docs/installation/ubuntu/). I also didn't maintain my Sublime Text settings, so I found a new theme and I really like it. It's [ayu-mirage](https://github.com/dempfi/ayu). New is good.
+
+---
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/VAhHkJQ3KgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Today has been [Bandcamp Friday](https://daily.bandcamp.com/features/bandcamp-naacp-ldf-fundraiser) and I've spent a lot of time today discovering new music. I just found [Owen](http://owenmusic.bandcamp.com/). Incredible music and every record is name-your-own-price. I'm buying (almost) all of his vast catalog.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2466955886/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://owenmusic.bandcamp.com/album/the-avalanche">The Avalanche by Owen</a></iframe>
+
+---
+
+Here are some other records I bought today:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3016803707/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://palosantotx.bandcamp.com/album/compilation-for-change-2">Compilation for Change by Palo Santo Records</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=439532184/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://blackbelteaglescout.bandcamp.com/album/at-the-party-with-my-brown-friends">At the Party With My Brown Friends by Black Belt Eagle Scout</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4210911783/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://juliasophie.bandcamp.com/track/x0x-remix">x0x (remix) by Julia-Sophie</a></iframe>
+
+---
+
+[What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html)
+
+[Loss](https://askmolly.substack.com/p/loss)
+
+---
+
+I started a new job this week. More on that at a later date.
+
+At new job we write daily summaries of what we worked on. Starting on day two, I started titling my posts.
+
+> Manifesto Hot Sauce
+
+> Conway's Law
+
+> You BETter Shape Up
+
+I plan on writing a _really great title_ for my first week's summing-up but haven't yet.

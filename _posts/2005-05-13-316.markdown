@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2005-05-13 22:37:00'
+layout: post
+slug: '316'
+status: publish
+title: '...'
+wordpress_id: '316'
+---
+
+"[If you buy the new Dave Matthews Band Stand Up CD, do not put it in your
+Windows computer][1]. I did and it popped up an annoying software installation
+and I said no to it just like I did 9 years ago when I first saw that happen
+with Fiona Apple%u2019s Tidal. It then ejected the CD. First strike! I just
+wanted to listen to it. So I did the logical thing and pushed the CD drive
+back in, and the CD spun up and then the computer crashed and rebooted.
+Needless to say, this is a very bad thing."
+
+   [1]: http://photomatt.net/2005/05/13/dave-matthews-stand-up/
+

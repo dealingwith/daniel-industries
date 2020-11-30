@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2008-03-16 19:15:00'
+layout: post
+slug: mp3-of-the-day-32
+status: publish
+title: mp3 of the day
+wordpress_id: '2538'
+categories:
+ - mp3 of the day
+---
+
+[The Frames (live) covering Love Will Tear Us Apart][1]
+
+   [1]: http://danielsjourney.com/blog/files/2008/03/The+Frames+-+Love+Will+Tear+Us+Apart.mp3
+

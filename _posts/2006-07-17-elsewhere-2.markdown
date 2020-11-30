@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2006-07-17 21:55:00'
+layout: post
+slug: elsewhere-2
+status: publish
+title: elsewhere
+wordpress_id: '1501'
+categories:
+ - elsewhere
+ - technology
+ - web
+---
+
+http://vox.com -- eh
+
+http://honeybrown.ca/Pubs/BumpTop.html - OMG OMG OMG!
+

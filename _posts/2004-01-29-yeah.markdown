@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'yeah'
+categories:
+ - elsewhere
+---
+
+<a title="gapingvoid" href="http://www.gapingvoid.com/Moveable_Type/archives/hjsdert10.jpg">Glorious past. Fab future. Present tense kinda sucks but I've got my best people working on it.</a>
+
+
+<a title="gapingvoid" href="http://www.gapingvoid.com/Moveable_Type/">gapingvoid</a>

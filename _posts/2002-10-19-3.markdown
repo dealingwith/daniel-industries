@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.sharonpaz.com/">sharonpaz.com</a> :: another installation and video artist, found via the previous
+

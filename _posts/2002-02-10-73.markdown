@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 18:10:00'
+layout: post
+slug: '73'
+status: publish
+title: '...'
+wordpress_id: '3110'
+categories:
+ - nonlinear
+---
+
+[Histories of Internet Art: Fictions and Factions][1]
+
+
+   [1]: http://blurr2.colorado.edu/~hiaff/home.htm
+
+   
+

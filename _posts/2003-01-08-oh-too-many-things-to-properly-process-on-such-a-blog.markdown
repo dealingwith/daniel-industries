@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'oh too many things to properly process on such a blog'
+categories:
+ - minutia
+---
+
+This afternoon we had a very humbling and sobering 3 hour presentation on Bosnia and the effects of the war. I was going to decompress here, writing about it, but it's honestly just too much. I talked with Miriam about it over dinner and now I've just had to take a break from processing it. Suffice it to say it becomes hard to believe some of the things that go on in this country, some of the things that come out of people's mouths in this country, some of the "problems" people have in this country, after seeing some of the things we saw today. This blog is going to change dramatically after we move, I will change and it will be reflective of that. That I even spent the time to read such self-obsessed drivelling shit such as Eggers seems such a waste, as does such a life as he was lothe to share with so many.
+
+It got me thinking about God, of course, as these things are apt to do. I don't really think about providence or lack thereof like I do when I think about M's health, because war is a thing of man on man, where M's health issue has no cause, nothing in this world accounts for it. So in war I instead think about how it is possible for men to be so darkened, their consciences so dulled, so influenced by such meaningless things as politics and power, to kill others, rape women...both in ways so brutal that it boggles even a violent mind. And then I think about how America may become an agressor in war for the first time in its history. For the first time ever, this country may cross a border in war before it was crossed from the other side. I was quite a student of history as a teen, and I remember seeing the middle of the 19th century as such a dark time for our nation, stealing land violently from both Native peoples and those of Spanish decent. Perhaps we are entering another such period, and we too will have to harden our hearts, turn our religions into politigogies, our churches into slave-whorehouses, kill the man whose hand we shook the day before, rape his wife who poured our drinks late into the night.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Minutia.comment:</i>
+
+When even music cannot comfort...
+
+what do you do?
+

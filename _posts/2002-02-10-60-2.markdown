@@ -1,0 +1,26 @@
+---
+author: dealingwith
+date: '2002-02-10 15:54:00'
+layout: post
+slug: 60-2
+status: publish
+title: '...'
+wordpress_id: '3099'
+categories:
+ - nonlinear
+---
+
+[Tristram Shandy][1]
+
+
+![][2]more info [as of Wed, May 11, 2005][3].
+
+
+   [1]: http://www.iath.virginia.edu/elab/hfl0259.html
+
+   [2]: http://danielsjourney.com/blog/images/update.gif
+
+   [3]: http://nonlinear.blogspot.com/2005/05/electronic-labyrinth-and-more-on.html
+
+   
+

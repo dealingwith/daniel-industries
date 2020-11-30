@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-10-23 14:44:00'
+layout: post
+slug: '111'
+status: publish
+title: '...'
+wordpress_id: '111'
+---
+
+[Bush's debate notes][1].
+
+   [1]: http://www.thatsuncalledfor.com/debate_notes/index.html
+

@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 18:00:00'
+layout: post
+slug: 67-2
+status: publish
+title: '...'
+wordpress_id: '3105'
+categories:
+ - nonlinear
+---
+
+[Storyspace and the Making of Grammarton][1]
+
+
+   [1]: http://www.eastgate.com/storyspace/writing/Amerika.html
+
+   
+

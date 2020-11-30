@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-03-23 00:28:00'
+layout: post
+slug: '226'
+status: publish
+title: '...'
+wordpress_id: '226'
+---
+
+[dallasobserver.com | Whiz Biz Kids | 2004-12-02][1]
+
+   [1]: http://dallasobserver.com/issues/2004-12-02/feature.html
+

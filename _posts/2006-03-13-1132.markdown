@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2006-03-13 14:50:00'
+layout: post
+slug: '1132'
+status: publish
+title: '...'
+wordpress_id: '1132'
+categories:
+ - elsewhere
+ - quotable
+ - sxsw
+ - sxswi2006
+---
+
+_It appears the organizers have tried to fill that social-ramification void by
+grabbing onto the Gladwellian School of Yuppie Self-Help -- that school of
+thought, driven by Malcolm Gladwell, that aims to convince college-educated
+people they can understand the world through five anecdotes, a couple of
+scientific studies, and an overarching theme._ [crabwalk.com][1]
+
+   [1]: http://www.crabwalk.com/archive/2006_03.php#002171
+

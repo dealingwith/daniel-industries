@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-10-08 23:41:00'
+layout: post
+slug: mp3-of-the-day-20
+status: publish
+title: mp3 of the day
+wordpress_id: '1737'
+categories:
+ - mp3 of the day
+---
+
+[Josh Rouse - Givin It Up][1]
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/10/Josh%20Rouse%20-%20Subtitulo%20-%207%20-%20Givin%20it%20Up.mp3
+

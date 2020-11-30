@@ -1,0 +1,27 @@
+---
+author: dealingwith
+date: '2008-06-07 18:43:00'
+layout: post
+slug: qotd-10
+status: publish
+title: QotD
+wordpress_id: '2665'
+categories:
+ - bicycling
+ - quotable
+---
+
+> ...perhaps some unscrupulous shop is doing its best to cram Pistas into
+crotches in which they don't fit in anticipation of the Apocalype.
+
+[Bike Snob NYC][1]. Also:
+
+> Bikes aren't fast--people are fast. Bikes are overpriced.
+
+
+(Regarding my mood: my Windows install on my MacBook died, and it appears I
+have no recourse whatsoever. I have tried _everything_. If I mess about at any
+lower level I might kill the entire machine.)
+
+   [1]: http://bikesnobnyc.blogspot.com/2008/06/worst-of-nyc-craigslist-bike-ads-spikes.html
+

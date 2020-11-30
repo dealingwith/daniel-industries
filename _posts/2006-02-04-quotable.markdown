@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2006-02-04 10:14:00'
+layout: post
+slug: quotable
+status: publish
+title: Quotable
+wordpress_id: '954'
+categories:
+ - quotable
+---
+
+"Change _sounds_ like something." [#][1]
+
+   [1]: http://theyblinked.com
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2006-04-25 07:13:00'
+layout: post
+slug: mp3-of-the-day-13
+status: publish
+title: mp3 of the day
+wordpress_id: '1266'
+---
+
+[Death Cab - Your Heart is an Empty Room][1]
+
+   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/04/Death%20Cab%20-%20Plans%20-%207%20-%20Your%20Heart%20Is%20an%20Empty%20Room.mp3
+

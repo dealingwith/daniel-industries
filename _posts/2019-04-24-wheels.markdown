@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Wheels"
+excerpt: 
+date: 2019-04-24 07:12:54 -0500
+comments: true
+categories: 
+---
+
+There is so much going on in this one panel comic that I had to capture it for posterity.
+
+[![](/assets/2019/04/reinvent_the_wheel_2x.png)](https://xkcd.com/2140/)
+
+I sent it to the #product channel in our company Slack without comment.

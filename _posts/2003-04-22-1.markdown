@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.armchairnews.com/freelance/eggers.html">eggers</a> i really dislike his writing but i can't figure out exactly why
+

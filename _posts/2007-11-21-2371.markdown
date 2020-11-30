@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-11-21 20:41:00'
+layout: post
+slug: '2371'
+status: publish
+title: '...'
+wordpress_id: '2371'
+categories:
+ - comedy
+ - dogs
+---
+
+[I Has a Sweet Potato][1]:
+
+> Dog: I had to do it. I haven't been fed. Ever.
+
+   [1]: http://littera-abactor.livejournal.com/7748.html
+

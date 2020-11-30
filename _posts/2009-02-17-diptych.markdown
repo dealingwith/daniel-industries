@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2009-02-17 16:25:00'
+layout: post
+slug: diptych
+status: publish
+title: Diptych
+wordpress_id: '2942'
+categories:
+ - me
+ - video
+---
+
+
+[Diptych][1].
+
+   [1]: http://vimeo.com/3248439

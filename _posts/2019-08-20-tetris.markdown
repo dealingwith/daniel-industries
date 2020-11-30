@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Tetris"
+excerpt: 
+date: 2019-08-20 20:46:56 -0500
+comments: true
+categories: 
+---
+
+Been playing a lot of Tetris lately.
+
+---
+
+[A Tetris pro helped me survive Tetris 99’s first big tournament](https://www.theverge.com/2019/3/12/18261546/tetris-99-nintendo-switch-tournament-maximus-cup-jonas-neubauer)
+
+---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EUJb1BD63ME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PV06M-Gqxgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/twS0SrDg-fc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9RaqVGzhQTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

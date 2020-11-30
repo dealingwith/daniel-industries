@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2009-04-15 08:35:00'
+layout: post
+slug: qotd-19
+status: publish
+title: QotD
+wordpress_id: '2987'
+categories:
+ - quotable
+---
+
+[Pacing The Panic Room][1]:
+
+> It was so 13 year old angst and the tears and the shaky voice just leapt up
+and out, and the grown ass man hiding inside my brain was like, "Holy shit,
+you are losing it crybaby."
+
+   [1]: http://pacingthepanicroom.blogspot.com/2009/04/nobody-can-make-you-cry-like-mom-can.html
+

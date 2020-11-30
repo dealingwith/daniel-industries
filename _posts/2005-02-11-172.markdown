@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-02-11 15:33:00'
+layout: post
+slug: '172'
+status: publish
+title: '...'
+wordpress_id: '172'
+---
+
+[you want comments, they's got comments][1]
+
+   [1]: http://www.livejournal.com/users/catelin/179683.html
+

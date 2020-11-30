@@ -1,0 +1,48 @@
+---
+author: dealingwith
+date: '2005-05-09 18:59:00'
+layout: post
+slug: '309'
+status: publish
+title: '...'
+wordpress_id: '309'
+---
+
+
+when specifying "northeast":
+
+### American Cities That Best Fit You:
+
+70% Philadelphia
+
+65% Chicago
+
+55% New York City
+
+50% Atlanta
+
+50% Boston
+
+
+[Which American Cities Best Fit You?][1]
+
+
+when specifying "west", i don't even get proper western cities besides denver:
+
+### American Cities That Best Fit You:
+
+65% Chicago
+
+65% Philadelphia
+
+50% Atlanta
+
+50% Denver
+
+50% Las Vegas
+
+
+[Which American Cities Best Fit You?][1]
+
+   [1]: http://www.blogthings.com/americancitiesbestfitquiz/
+

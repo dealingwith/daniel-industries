@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'stuck'
+categories:
+ - design
+---
+
+
+I'm here blogging in MT on my local machine, and I have some problems...blogging software's biggest problem, and one of the problems I'm trying to remedy with SWIM, is that while they have separated content from presentation to a degree, and added metadata to a degree, there are still certain aspects where things are too linked. <a href="http://www.docuverse.com/blog/donpark/2003/07/12.html#a708">Permalinks</a> in MT for example...each entry is located in a monthly archive file, great, and each entry has an ID, great. But there is no way to get just the monthly archive for an entry, and worse, no way to customize the way it writes permalinks. It always wants to do "path/archive_file#ID." I'm about half way done hacking it, but if anyone has any good advise on this kind of thing, do tell. I'll add contact info to the menu over there.
+
+
+
+Later: Oh wait, you will not have read this until after I've managed to hack it. Well, it was nice to vent.
+
+
+
+Later still: Just noticed the current <a href="http://intertwingly.net/wiki/pie/EchoExample">Necho spec</a> has an id attribute. Cool. I am suddenly changing my opinion about that whole thing. Needs namespaces; but I need to catch up on <a href="http://www.intertwingly.net/wiki/pie/NamespaceDiscussion">that discussion</a> before I complain.
+
+
+
+Later still: Ok, <a href="http://dublincore.org/">DC</a> has an "identifier." This is why namespaces are a good thing. I'm putting my ID in there, and best practices says it should be a URI, but in the scope of my site it is a URI, so we fake it.

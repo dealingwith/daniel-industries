@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Why Don't Americans Understand How Poor Their Lives Are?"
+excerpt: "A pretty bleak trio of posts, and some reflection"
+date: 2017-12-21 08:52:44 -0600
+comments: true
+categories: 
+---
+
+[Why Don’t Americans Understand How Poor Their Lives Are?](https://eand.co/what-do-you-call-a-world-that-cant-learn-from-itself-58ae28cefd23)
+
+> Everything I consume in the States is of a vastly, abysmally lower quality. Every single thing. The food, the media, little things like fashion, art, public spaces, the emotional context, the work environment, and life in general make me less sane, happy, alive. I feel a little depressed, insecure, precarious, anxious, worried, angry — just like most Americans do these day. So my quality of life — despite all my privileges — is much worse in America than it is anywhere else in the rich world. Do you feel that I exaggerate unfairly?
+
+> It’s not just an anecdote, of course. Americans enjoy lower qualities of life on every single indicator that you can possibly think of. Life expectancy in France and Spain is 83 years, but in America it’s only 78 years — that’s half a decade of life, folks. The same is true for things like maternal mortality, stress, work and leisure, press freedom, quality of democracy — every single thing you can think of that impacts how well, happily, meaningfully, and sanely you live is worse in America, by a very long way. These are forms of impoverishment, of deprivation — as is every form of not realizing potential that could be.
+
+> But I don’t wish to write a jeremiad, for I am not a pundit. The question is this: why don’t Americans understand how poor their lives have become? Is it even a fair question to ask?
+
+---
+
+[Let's bury the hustle](https://m.signalvnoise.com/lets-bury-the-hustle-9d8aee8ffe1a)
+
+> The hustle has become synonymous with the grind. Pushing through pain and exhaustion in the chase of a bigger carrot. Sacrificing the choice bits of the human experience to climb some arbitrary ladder of success. I can’t connect with any of that.
+
+> The grind doesn’t just feel apt because it’s hard on an individual level, but because it chews people up and spits ’em out in bulk. Against the tiny minority that somehow finds what they’re looking for in that grind, there are legions who end up broken, wasted, and burned out with nothing to show. And for what?
+ 
+> Even more insidious about the concept of the hustle and its grind is how it places the failure of achievement squarely at the feet of the individual. Since it’s possible to “make it” by working yourself to the bone, it’s essentially your own damn fault if you don’t, and you deserve what pittance you may be left with.
+
+> Its origin from a dog-eat-dog world has been turned from a cautionary tale into an inspirational one. It’s not that you need to hustle to survive, it’s that you seek the hustle to thrive, and still at the expense of yourself and others. 
+
+---
+
+[How do you know when it’s time to quit?](https://m.signalvnoise.com/quitting-1e563a529cba)
+
+> We all know people all over the spectrum. Someone who’s been working on something forever that’s never going to work out. And someone who quits every project they start before giving it a fair chance. Then we have those friends who seem to have the magical instinct to know when to quit and when to stick with it until it takes off.
+
+> So how do you know when to quit? 3 months? A year? Is there some signal to look for?
+
+---
+
+A pretty bleak trio of posts I read last night, as I stared at the seemingly infinite collection of Trello cards in my collection, trying to find something productive to do. I was tired. I took DHH's advice and went to sleep. I planned on waking up early and revisiting said collection, but slept through my alarm, going from a planned 8 or so hours of sleep to almost 10.
+
+So many of those Trello cards are projects I've started and failed to even make reasonable progress on. A new version of [SWIM](https://github.com/dealingwith/swim), my career-long project in [PIM](https://en.wikipedia.org/wiki/Personal_information_management); a new record (I have a half-written song--my first in nearly a decade--and a potential collaboration in the works); [coding and design education projects](http://minecraftu.org/) (I have a lot of new unexecuted ideas in this area). There is a pile of to-dos related to the house (as always), a pile of books to read (as always), relationships to tend to, technologies to learn or at least stay abreast of...and that's just the non-work related list. I also lead a team at a rapidly growing startup with no plans to slow down. Listing out those initiatives, projects and to-dos would take pages.
+
+As I look back over that last paragraph I realize these are problems of privilege. And I see that almost all are inward-focused. There is some level of service in my work, my education initiatives and my close relationships, but for the most part my efforts are focused on forwarding my own career, finances and creative output.
+
+This is a time of year for taking stock. I'm looking at my symptoms--mostly burnout, which I'm experienced enough to manage on a day-to-day basis, but also old enough to see when I'm just putting my finger in the dam--and wonder if they are a result of a fundamental priority problem.
+
+I try to ask myself a series of questions every night. Perhaps I should take the final questions more seriously:
+
+> Were we thinking of ourselves most of the time? Or were we thinking of what we could do for others, of what we could pack into the stream of life?

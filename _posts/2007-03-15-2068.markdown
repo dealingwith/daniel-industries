@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2007-03-15 00:39:00'
+layout: post
+slug: '2068'
+status: publish
+title: '...'
+wordpress_id: '2068'
+categories:
+ - elsewhere
+ - imagining
+ - nostalgia
+---
+
+[This][1] is [very close to where I grew up][2]. In fact, I know the road. I
+probably rode my bike by like 1000 times while training.
+
+   [1]: http://www.flickr.com/photos/kicey/sets/72057594116283541
+
+   [2]: http://local.google.com/maps?f=q&hl=en&q=Gravel+Hill+Road,+palmyra,+PA&sll=40.308854,-76.605263&sspn=0.18117,0.367012&layer=&ie=UTF8&z=12&ll=40.342357,-76.616936&spn=0.181081,0.367012&om=1&iwloc=addr
+

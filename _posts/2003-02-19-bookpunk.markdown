@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'bookpunk'
+categories:
+ - links
+---
+
+<a href="http://bookpunk.com/">bookpunk.com</a> so new media's new event arm
+

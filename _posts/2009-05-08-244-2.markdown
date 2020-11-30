@@ -1,0 +1,30 @@
+---
+author: dealingwith
+date: '2009-05-08 05:34:00'
+layout: post
+slug: 244-2
+status: publish
+title: '...'
+wordpress_id: '3235'
+categories:
+ - art
+ - people
+ - video
+---
+
+[http://vimeo.com/moogaloop.swf?clip_id=4515261&server=vimeo.com&show_title=1&
+show_byline=1&show_portrait=1&color=dd4499&fullscreen=1][1]
+
+[street poems :: dublin 2009][2] from [ze frank][3] on [Vimeo][4].
+
+
+   [1]: http://vimeo.com/moogaloop.swf?clip_id=4515261&server=vimeo.com&show_title=1&show_byline=1&show_portrait=1&color=dd4499&fullscreen=1
+
+   [2]: http://vimeo.com/4515261
+
+   [3]: http://vimeo.com/user421260
+
+   [4]: http://vimeo.com
+
+   
+

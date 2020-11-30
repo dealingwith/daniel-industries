@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+PS Bosnian was cool today. I might get the hang of this stuff yet...
+

@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2001-09-19 17:28:00'
+layout: post
+slug: '10'
+status: publish
+title: 'Nonlinear: BMW Films'
+wordpress_id: '10'
+categories:
+ - nonlinear
+---
+
+<a class="dead">BMW Films (dead link)</a> is a series of online short films, all shot by acclaimed directors, and (of course) all involving at least one BMW performing outrageous stunts. Along with the series of films is a "subplot" film sequence, with a piece of the subplot being imbedded into each "main" film. Within each subplot sequence is a piece of "real world" evidence: a phone number, an Internet address, etc. Each piece of evidence reveals more clues as to the significance of the ambiguous subplot.
+
+Upon seeing the first two subplots, calling the number and hearing a strange message, and going to the web address and finding images of strange CIA document photocopies, I was hooked. The quality of the story in the films connected with this small bit of "real life" interactivity, and I waited on the edge of my seat for each new film's release.
+
+Almost immediately, I realized the potential for a whole new experience in games and story. With clues scattered across the web, on existing websites, a sleuther could be directed all over the web. In the process they would drive truckloads of real traffic towards the sites hosting the game content. With content hidden deep within a news site like CNN, for example, a user might view tens of "real" ads before stumbling upon game content, which might look like a real ad, or might look just like a legitimate piece of site content (in this case, a CNN news story). With our technology maintenance at a minimum, we would be freed to create robust story. We would maintain only a starting site, one page even, that users would register on, then continue across the web in search of their next clue.
+
+The main element of this approach would be the non-linear nature of the story. Instead of starting a gamer at the "starting" place for the story, however, (like a murder, etc.) they would be started at some random point within the matrix of the story field. They would then be directed non-linearly through the story field, from clue to clue. The point of the game would revolve around the story as much as it would around finding the next clue. Users would have to piece together the story field as they gained clues. Depending on where they start (on our home page we could direct them to a random point on the story field), they would take different paths through the story field. There would be a set time limit for the game, and at the end of that time period, gamers would submit their "versions" of the story, as it would unfold linearly (like in a book or film). Imagine the different types of linear stories that could result from one non-linear story map.
+
+Really, there could be many more entry and finish points along this field, however assuming a limited number of characters and story intersections, four would most likely be the feasible limit on this type of field. Any field could have any number of start and end points.
+
+Many more business applications came immediately to my mind, including client technology to help build these types of narratives. However before I went pursuing any of these business avenues, I did a little research...

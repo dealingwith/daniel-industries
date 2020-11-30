@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2009-04-01 14:19:00'
+layout: post
+slug: mp3-of-the-day-35
+status: publish
+title: mp3 of the day
+wordpress_id: '2977'
+categories:
+ - local
+ - mp3 of the day
+ - music
+---
+
+In case you missed my tweet about it, new mp3 posted by [St. Vincent][1].
+Thanks to @geoffroper for the heads up.
+
+   [1]: http://www.ilovestvincent.com/news/149/hear-the-new-song-the-strangers-from-st-vincents-new-album-actor-out-may-5
+

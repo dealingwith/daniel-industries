@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.flakmag.com/music/2002/tunes/bullet.mp3"><em>Bullet</em></a> <a href="http://www.flakmag.com/music/2002/5.html#track19">by</a> <a href="http://www.masonjennings.com/">Mason Jennings</a>
+

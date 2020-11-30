@@ -1,0 +1,55 @@
+---
+layout: post
+title: "XOXO"
+date: 2012-09-23 21:35
+categories: [tech, minutia]
+---
+
+Last weekend I attended the internet lovefest known as [XOXO](http://xoxofest.com/).
+
+![/images/xoxo0.jpg](/images/xoxo0.jpg)
+
+A lot has been said already about XOXO. [Here is every tweet posted during XOXO](http://recollect.com/xoxo/timeline). [Anil Dash live blogged the entire conference](http://dashes.com/anil/2012/09/xoxo-jomo-live-blogging-the-conference.html) (it's really well done, if you're interested at all you should check it out).
+
+The speaker lineup was amazing. Here were some of highlights for me.
+
+![/images/studio-neat-slide-3.png](/images/studio-neat-slide-3.png)
+
+[Studio Neat](http://www.studioneat.com/)'s emphasis on passion, simplicity, narrative and actually putting the customer first all hit home.
+
+[Matt Haughey](http://dashes.com/anil/2012/09/xoxo-matt-haughey---metafilter.html)'s "Money is the least interesting problem" stuck a chord with most of us in the audience. [Dan Harmon](http://dashes.com/anil/2012/09/xoxo-dan-harmon---community.html) picked up the money meme. "Money will be the death of everything good in your life." "It caused efficiency and then like all young heroes, it became an old villain." The next day [Chad Dickerson](https://twitter.com/chaddickerson), the CEO (and former CTO) of Etsy [quoted Robert Kennedy](http://www.jfklibrary.org/Research/Ready-Reference/RFK-Speeches/Remarks-of-Robert-F-Kennedy-at-the-University-of-Kansas-March-18-1968.aspx):
+
+> &hellip;the gross national product does not allow for the health of our children, the quality of their education or the joy of their play.  It does not include the beauty of our poetry or the strength of our marriages, the intelligence of our public debate or the integrity of our public officials.  It measures neither our wit nor our courage, neither our wisdom nor our learning, neither our compassion nor our devotion to our country, it measures everything in short, except that which makes life worthwhile.  And it can tell us everything about America except why we are proud that we are Americans.
+
+From [Anil's notes](http://dashes.com/anil/2012/09/xoxo-chad-dickerson---etsy.html):
+
+> Etsy is committed to the ideals behind becoming a [B Corp](http://bcorp.net/)&hellip;Traditional incorporation requires corporate leaders to serve the best interest of its shareholders, but B Corps are pushing to do what's in the best interest of all their stakeholders, including their community.
+
+As I'm writing this I can hear my Inner Dallas Cynic protesting. But I had this thought during a bike ride this morning:
+
+They say, "You're not getting any younger." But when I ride my bike I *am* getting younger, quite literally, mentally and physically. And I'm also getting younger every time my baby smiles, every time I seek to understand my 8-year-old and especially when I choose to ignore the cynics, those around me and those in my own head, and carry on, forward, with hope and optimism. 
+
+![bike commuting](/images/xoxo1.jpg)
+![meeting the famous Aaron Draplin](/images/xoxo2.jpg)
+
+There were other dominant themes at XOXO but what has stayed with me the longest is the fact that it was a gathering around shared values such as honesty, fairness, generosity and community. That is what made it special. As [Glenn Fleishman said on Boing Boing](http://boingboing.net/2012/09/19/xoxo.html):
+
+> Most of what you hear at a tech event you cannot take at face value, because the tech industry is built on the conceits, first, that we always need to replace the past with something better...and second, that no product has enough value in and of itself to be presented on its honest merits, because those merits are usually so slight or have such little bearing on quality of life to evaporate when presented frankly.
+
+> Despite the involvement of technology in XOXO, it suffered from none of the faults of a technology event. I spent two days among people and experienced no ennui, cynicism, snarkiness, or irony whether from fellow attendees, visitors [or] speakers.
+
+![street musician at Powells](/images/xoxo3.jpg)
+![stumptown](/images/xoxo5.jpg)
+
+![Lucy at XOXO](/images/xoxo4.jpg)
+![R](/images/xoxo6.jpg)
+
+# Portland #
+
+![/images/xoxo7.jpg](/images/xoxo7.jpg)
+
+The city itself left its mark. Mostly in contrast to Texas. The road surfaces are smooth and free of wheel-swallowing cracks. The dry air, despite having higher temps--an anomoly, we were repeatedly told--felt cool. Drivers are unhurried and courteous to cyclists, as are cyclists to pedestrians. 
+
+As soon as we landed back in Dallas I read of another local cyclist struck by a driver (that makes 4--that I know of--this year). This time [the cyclist was killed](http://www.star-telegram.com/2012/09/20/4275671/memorial-ride-planned-for-friday.html). My first full day back in Texas, I rode my bike to work--as I had (a borrowed bike) to the festival each day. As I bounced across the cracked, uneven pavement, through hot, sticky air, a driver came up behind me as close as he dared and layed on his horn. The sound was like an aural cloud, a personification of the hostile spirit of this place that challenged the optimism of Portland and XOXO.
+
+It's kinda funny that after all I've been through in this town a single horn honk was the breaking point. Feels like plates are shifting. Maybe we've fracked all the resources out of this ground. Regardless, the lessons of the trip must reverberate, as they did this morning.

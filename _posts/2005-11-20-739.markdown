@@ -1,0 +1,34 @@
+---
+author: dealingwith
+date: '2005-11-20 13:16:00'
+layout: post
+slug: '739'
+status: publish
+title: '...'
+wordpress_id: '739'
+---
+
+_Your absolute must-have requirements mixed in with the shortcomings you're
+willing to tolerate will determine what's right for you. (Coincidentally, this
+is true of jobs, relationships, locations, houses, and cars, too.)
+
+...How will you use it? Will it fit into your life? Be honest. Don’t let the
+features dictate how you use the tool, let your needs dictate what features
+you require.
+
+Choose the simple tools that make sense for you...
+
+Don’t get stuck in continual evaluation analysis paralysis, hopping from one
+solution or software package to another, relentlessly re-working your process
+for the sake of finding the perfect system. Don’t let Shiny New Thing seduce
+you. Stick to what works.
+
+...Employ tools that make mundane tasks satisfying and fulfilling - like
+dropping those blocks into the right slots in Tetris or popping bubble wrap -
+except this game is fitting blocks of information in your life together each
+day. Tools we love are tools we use._
+
+[Geek to Live: How to find the perfect productivity tools - Lifehacker][1]
+
+   [1]: http://www.lifehacker.com/software/feature/geek-to-live-how-to-find-the-perfect-productivity-tools-136067.php
+

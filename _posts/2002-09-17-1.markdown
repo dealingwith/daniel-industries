@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+God help me. <font color="blue">I'm</font> <font color="yellow">gonna</font> bail
+

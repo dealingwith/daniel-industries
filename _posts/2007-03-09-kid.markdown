@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2007-03-09 10:58:00'
+layout: post
+slug: kid
+status: publish
+title: kid
+wordpress_id: '2056'
+categories:
+ - elsewhere
+ - imagining
+---
+
+[![][1]][2]
+
+[kid][3]
+
+Originally uploaded by [Avi_Abrams][4].
+
+
+   [1]: http://farm1.static.flickr.com/157/382178726_6678dfde9c_m.jpg
+
+   [2]: http://www.flickr.com/photos/avi_abrams/382178726/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/avi_abrams/382178726/
+
+   [4]: http://www.flickr.com/people/avi_abrams/
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-10-29 00:00:00'
+layout: post
+slug: '660'
+status: publish
+title: '...'
+wordpress_id: '660'
+---
+
+[Dress Steve Jobs][1]
+
+   [1]: http://www.geekculture.com/joyoftech/joyarchives/692flash.html
+

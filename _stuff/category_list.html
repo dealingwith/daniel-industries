@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body style="width: 10000%">
+
+    {% include header.html %}
+
+    <div style="margin: 1rem">
+      {% for category in site.categories %}
+        {% for posts in category %}
+          {% capture num_posts %}{{ posts | size }}{% endcapture %}
+        {% endfor %}
+        {% assign num_posts = num_posts | plus: 0 %}
+        {% if num_posts > 10 %}
+        <div style="float:left; width: 400px">
+          <h3>{{ category | first }} <span style="font-size:0.9rem;color:#ccc">{{ num_posts }}</span></h3>
+          <ul>
+          {% for posts in category %}
+            {% for post in posts %}
+              {% if post.title %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endif %}
+            {% endfor %}
+          {% endfor %}
+          </ul>
+          <!-- <br style="clear:left"> -->
+        </div>
+        {% endif %}
+      {% endfor %}
+      <br style="clear:left">
+    </div>
+
+    <div class="container content">
+      <footer class="footer">
+        <small>
+          <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons licensed</a>, 2001&ndash;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+        </small>
+      </footer>
+    </div>
+  </body>
+</html>

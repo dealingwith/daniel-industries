@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'about'
+categories:
+ - about
+---
+
+
+critical information for newcomers:
+
+i am an american citizen.
+
+i live in sarajevo.
+
+i am currently male.
+
+i am 28 years old.
+
+i am a human being.
+
+<s>do not expect me to put a head shot here.</s>
+
+
+
+<img src="images/danieli.jpg" />

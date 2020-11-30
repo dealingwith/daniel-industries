@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2005-04-22 12:00:00'
+layout: post
+slug: '269'
+status: publish
+title: '...'
+wordpress_id: '269'
+---
+
+[Translation From PR-Speak to English of Selected Portions of Adobe's 'FAQ'
+Regarding Their Acquisition of Macromedia][1]
+
+   [1]: http://daringfireball.net/2005/04/adobe_translation
+

@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2006-11-06 20:52:00'
+layout: post
+slug: '1806'
+status: publish
+title: '...'
+wordpress_id: '1806'
+categories:
+ - imagining
+ - minutia
+ - toronto 2006
+---
+
+[![][1]][2]
+
+   [1]: http://www.23hq.com/dealingwith/photo/1377737/original
+
+   [2]: http://www.23hq.com/dealingwith/album/1377722
+

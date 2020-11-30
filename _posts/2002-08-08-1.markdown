@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+Got <a href="http://sevenmagazine.org">sevenmagazine.org</a> done last night in a fit of debugging. I call the architecture <i>fearfully named XCMS v.0.10</i>, and it will continue to be refined in the coming months. I've already found a couple of things missing on the site, but none of it has to do with the architecture or code.
+

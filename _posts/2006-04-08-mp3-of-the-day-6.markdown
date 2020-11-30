@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2006-04-08 17:44:00'
+layout: post
+slug: mp3-of-the-day-6
+status: publish
+title: mp3 of the day
+wordpress_id: '1213'
+categories:
+ - mp3 of the day
+---
+
+[A Camp - Algebra][1]
+
+I like this song because it always feels like it's written to two people at
+the same time.
+
+er, um, or three, or four, or five, or...
+
+   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/04/A%20Camp%20-%20Live%20-%20Sweden%20-%2005%20Algebra.mp3
+

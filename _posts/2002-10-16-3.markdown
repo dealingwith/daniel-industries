@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Tech:</i> <b>Colors</b>
+
+Oh, Brilliant!! <a href="http://www.colormatch.dk/">What a damn cool tool/idea</a>! (also found via <a href="http://www.kungfugrippe.com/archives/2002/10/16/index.php#001766">kung fu grippe</a>)
+

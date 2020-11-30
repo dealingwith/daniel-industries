@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2005-07-04 13:12:00'
+layout: post
+slug: '413'
+status: publish
+title: '...'
+wordpress_id: '413'
+---
+
+> "Don't get me wrong, LIVE 8 was an amazing media feat. Yes, it may be an
+inflection point, from cable to the net, from MTV to remix your own. That,
+itself, is a victory for consumers. But isn't there a certain irony for
+celebrating a victory for more consumer choice and control for a handful --
+around an event on global poverty? Is the highpoint of net-enabled media a
+mass entertainment event that draws us to SMS or click on a petition and feel
+we have done our part? "
+
+[#][1]
+
+   [1]: http://feeds.feedburner.com/ross?m=951
+

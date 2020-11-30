@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - quotable
+---
+
+<blockquote>whoever dies with the most toys deserves to die.</blockquote><a href="http://www.modernhumorist.com/mh/0303/somejokes/">modern humorist</a>
+

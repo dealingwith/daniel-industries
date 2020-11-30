@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2006-12-08 10:11:00'
+layout: post
+slug: '1870'
+status: publish
+title: '...'
+wordpress_id: '1870'
+categories:
+ - quotable
+ - word of the day
+---
+
+> "My mantra this week is '[sobriquet][1]'."
+
+"Mine is 'noddle'."
+
+[Overheard Starbuck][2]
+
+   [1]: http://dictionary.reference.com/search?q=sobriquet
+
+   [2]: http://overheardstarbuck.blogspot.com/2006/12/my-mantra-this-week-is-sobriquet.html
+

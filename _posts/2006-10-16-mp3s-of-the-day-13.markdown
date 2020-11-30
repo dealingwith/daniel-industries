@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2006-10-16 22:54:00'
+layout: post
+slug: mp3s-of-the-day-13
+status: publish
+title: mp3s of the day
+wordpress_id: '1762'
+categories:
+ - mp3 of the day
+---
+
+[Mac Lethal and Xaul Zan - Raps of Death][1]
+
+[Sage Francis - Ode to 2005][2]
+
+   [1]: http://www.strangefamousrecords.com/strangefamous/rapsofdeath.mp3
+
+   [2]: http://www.strangefamousrecords.com/strangefamous/odeto2005.mp3
+

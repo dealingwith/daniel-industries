@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 17:58:00'
+layout: post
+slug: 66-2
+status: publish
+title: '...'
+wordpress_id: '3104'
+categories:
+ - nonlinear
+---
+
+[GRAMMATRON][1]
+
+
+   [1]: http://www.grammatron.com/bandwidth.html
+
+   
+

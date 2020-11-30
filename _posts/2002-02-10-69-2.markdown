@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 18:04:00'
+layout: post
+slug: 69-2
+status: publish
+title: '...'
+wordpress_id: '3107'
+categories:
+ - nonlinear
+---
+
+[A List Apart: The Narrative Web][1]
+
+
+   [1]: http://www.alistapart.com/stories/narrative/
+
+   
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2006-04-06 11:17:00'
+layout: post
+slug: '1202'
+status: publish
+title: '...'
+wordpress_id: '1202'
+---
+
+Just a PSA: If you are looking for an LCD monitor, don't go with NEC's. This
+one I have at work was new in December and it already has three dead pixels.
+It had one dead pixel out of the box.
+

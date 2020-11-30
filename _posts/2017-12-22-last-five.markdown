@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Last Five"
+excerpt: "Inspired by a tweet"
+date: 2017-12-22 11:03:17 -0600
+comments: true
+categories: 
+---
+
+[Pomp said](https://twitter.com/APompliano/status/940257138487824386):
+
+> Look at your last 5 phone calls.  
+> Look at your last 5 text conversations.  
+> Look at the last 5 books you read.  
+> Look at the last 5 events on your calendar.  
+> Look at the last 5 podcasts you listened to.
+> 
+> Are you putting in the work to become the person you want to be?
+
+Given [yesterday's bleak post](/2017/12/21/america/) I figured this might be a good exercise for me.
+
+Last 5 phone calls: I don't even have the phone app on my homescreen, I use it so infrequently. Last 5 calls were all incoming:
+
+* [Pingdom](https://www.pingdom.com/). Our application server at work went down yesterday.
+* Car dealer. Reminding me about my appointment this morning.
+* Therapist. Calling to schedule me.
+* Carissa.
+* Therapist. Ditto except the available times didn't work for me.
+
+Last 5 texts:
+
+* Friend to schedule bike ride.
+* Boss to discuss website outage.
+* Pingdom. They text and call.
+* Brother-in-law's brother sending me a video of my sister operating a [Bobcat](https://www.bobcat.com).
+* Friend to discuss nothing in particular.
+
+Last 5 books: this hasn't changed much since my [last post about the books I was reading](/2017/04/25/currently-reading/), unfortunately. 
+
+* [Saga](https://www.amazon.com/Brian-K-Vaughan/e/B001JP4NLC/ref=sr_ntt_srch_lnk_1?qid=1513964337&sr=8-1)
+* [How to Talk About Videogames](http://bogost.com/books/how-to-talk-about-videogames/)
+* [Little Brother](https://www.amazon.com/Little-Brother-Cory-Doctorow/dp/0765323117)
+* [Y the Last Man](https://www.amazon.com/Brian-K-Vaughan/e/B001JP4NLC/ref=sr_ntt_srch_lnk_1?qid=1513964337&sr=8-1)
+* [Make Something Up: Stories You Can't Unread](https://www.goodreads.com/book/show/22822857-make-something-up)
+
+I'm concurrently reading quite a few books at the moment: [_why's poignant guide to ruby](http://poignant.guide/), [The Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team), [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule), [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games). And there are quite a few in the queue.
+
+Last 5 events on your calendar:
+
+* Call with one of the cofounders of [Plato](https://www.platohq.com/). As an early adopter, they schedule a call with me every so often to learn about my experience and show me potential new features.
+* My car appointment this morning.
+* Bike ride yesterday.
+* Therapy appointment yesterday.
+* Plato call with a mentor Wednesday.
+
+I took Wednesday through Friday off this week, so besides the site outage yesterday it's been a quiet few days.
+
+Last 5 podcasts you listened to:
+
+* [Startup](https://gimletmedia.com/startup/)
+* [Reply All](https://gimletmedia.com/reply-all/)
+* [I Only Listen to the Mountain Goats](http://www.nightvalepresents.com/ionlylistentothemountaingoats)
+* [Love and Radio](http://loveandradio.org/)
+* [Roderick on the Line](http://www.merlinmann.com/roderick/)
+
+I don't know what all this says about me. I don't regret any of the time spent on any of the above, so I guess maybe that's good? (The site outage was unpleasant but since it was unexpected I don't really think about it with regret, just part of life.)
+
+---
+
+[Picard Tips said](https://twitter.com/PicardTips/status/942921536251428864):
+
+> Picard management tip: Remember what you liked to play with as a child. Identify the larger, grown-up versions of those toys at work.
+
+![](/assets/2017/12/joe.jpg)
+
+I most remember [Car Wars](https://en.wikipedia.org/wiki/Car_Wars), [G.I. Joe](https://en.wikipedia.org/wiki/G.I._Joe:_A_Real_American_Hero) and [a video game where you programmed the AI of an autonomous tank](https://en.wikipedia.org/wiki/Omega_(video_game)). So I'm pretty close on that last one. (Insert disclaimer here about the fact all three involve violence of some kind.)
+
+![](/assets/2017/12/OmegaBoxShotAmiga.jpg)
+
+G.I. Joe comic image from [Compulsive Collector](https://flic.kr/p/cr5frQ).
+
+And speaking of G.I. Joe, because it's still awesome years later (NSFW)...
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/z8K08AcVru0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

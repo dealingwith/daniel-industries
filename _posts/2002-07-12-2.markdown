@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>just realized my permalinks don't work</i>
+
+...add it to the list...<s>will notify when fixed</s>...just realized you'd notice pretty easily
+

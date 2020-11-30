@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.kevinsites.net/">kevin sites blog</a> <em>first-person account of a news correspondent's life on the front lines.</em>
+

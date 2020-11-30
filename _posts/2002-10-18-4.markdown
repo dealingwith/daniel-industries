@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.salon.com/news/feature/2002/10/17/zinni/index.html">Salon.com News | "I'm not sure which planet they live on"</a> <i>Hawks in the Bush administration may be making deadly miscalculations on Iraq, says Gen. Anthony Zinni, Bush's Middle East envoy.</i>
+

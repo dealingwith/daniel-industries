@@ -1,0 +1,10 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>That is probably why all art aspires to the condition of wordlessness. When literature works on you, it does so in silence, in your dreams, in your wordless moments. Good words enter you and become moods, become the quiet fabric of your being. Like music, like painting, literature too wants to transcend its primary condition and become something highter. Art wants to move into silence, into the emotional and spiritual conditions of the world. Statues become melodies, melodies become yearnings, yearnings become actions.</i>
+-- Ben Okri, "Beyond Words", A Way of Being Free found on <a href="http://overtherhine.com/home.html">Over the Rhine</a> 
+

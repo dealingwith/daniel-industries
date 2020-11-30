@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'HOS'
+categories:
+ - quotable
+---
+
+_theyblinked_ (dead link)
+
+> so many of the issues that plague the various flavors and builds of the cultural operating systems humans have existed through stem from a useful, sometimes even brilliant, solution being checked into the build to fulfill a short-term need, but over time becoming a real problem as its idiosyncratic origin is obscured by the weight of the wider codebase it now exists within and that casts an aura of giveness over something that was decidedly constructed. as any programmer worth her salt will tell you, it costs orders of magnitude more in effort to fix an issue the later the activity falls along a development timeline. the horrid nature of human operating systems has been that a preponderance of users of any given system are willing to do or support (materially or in silent consent) the most horrific things in the name of defending the current build. so not only is debugging expensive it may demand far more than time and talent from those who would hazard to fix or fork the build.

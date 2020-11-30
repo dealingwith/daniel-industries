@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.20things.org/">20 things. 20 people. 20 days.</a>
+

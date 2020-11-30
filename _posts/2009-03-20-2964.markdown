@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2009-03-20 14:03:00'
+layout: post
+slug: '2964'
+status: publish
+title: '...'
+wordpress_id: '2964'
+categories:
+ - ambition
+ - buzzkill
+ - comics
+ - humanity
+---
+
+[![][1]][1]
+
+[via][2]
+
+   [1]: http://danielsjourney.com/blog/files/2009/03/c.jpg
+
+   [2]: http://branthansen.typepad.com/letters_from_kamp_krusty/2009/03/the-saddest-calvin.html
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://research.yale.edu/lawmeme/modules.php?name=News&file=article&sid=198">LawMeme: Legal Bricolage for a Technological Age - Top Ten New Copyright Crimes</a>
+

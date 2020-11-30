@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2008-11-05 09:42:00'
+layout: post
+slug: change
+status: publish
+title: Change
+wordpress_id: '2844'
+categories:
+ - elsewhere
+ - illustration
+ - imagining
+ - people
+---
+
+[![][1]][2]
+
+   [1]: http://www.patrickmoberg.com/website/images/blog/public/regular/patrickmoberg_blog_208_418px.jpg
+
+   [2]: http://www.patrickmoberg.com/blog/id:420/november-4-2008
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'tweak'
+categories:
+ - design
+---
+
+Getting myself warmed up for what I hope to be a tremendous week of coding, I ever so slightly tweaked DJDC to save bandwidth: I hide the text for any entry older than the last 3 days-of-entries. (Currently, the 3rd day is already "hidden" by default.)
+
+
+
+Much more bandwidth saving stuff and other cool things coming soon.
+

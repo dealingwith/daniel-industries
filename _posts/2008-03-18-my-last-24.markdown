@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2008-03-18 15:33:00'
+layout: post
+slug: my-last-24
+status: publish
+title: My last 24
+wordpress_id: '2543'
+categories:
+ - development
+ - web
+---
+
+1. Run code. Code works. Walk away.
+
+2. Walk back. Run code. Code fails. Work on code. Code fails.
+
+3. Walk away. Do other stuff. Walk back. Repeat 1-3.
+

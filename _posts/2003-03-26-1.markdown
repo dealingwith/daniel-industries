@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.ftrain.com/cgi-bin/l_operation.cgi?num_ops=10">ftrain.com: "american military operation name generating device"</a>
+

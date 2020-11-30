@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.gravattville.com"><img src="http://www.gravattville.com/blogpictures/header2line.jpg" width="400" height="107" border="0"></a>
+
+...just had to snag this image for a day...
+

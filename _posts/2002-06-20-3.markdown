@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<small>We, the publishers of the </small>Rob<small> series, must apologize. One of the disadvantages of this direct publishing technology, SuperBlog++<sup>tm</sup>, is that it has given our editors very little time to correctly and completely assemble the mass of information we received through Tim Sutton's estate. We did, however, do our best, and we considered the risk and relative inconvenience to you far outweighed by the advantage of being able to present this information in as quick a manner as possible. However, we could not foresee the fact that Mr. Sutton's account was in fact cut short, and we are as shocked as you are at the sudden conclusion of his narrative. As more we receive further information from his estate we will most certainly pass it on to you in the shortest amount of time possible. In the meantime, we have received this update on one of the previous posts:</small>
+
+<i><font color="#336699">Even the casting call was like a maze. First, it wasn't publicized in the normal trade papers, websites, or NewsWireless<sup>tm</sup> service. I found out about it, finally, through</i> <a href="advert1/">this ad</a>.</font>
+

@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2008-08-28 17:02:00'
+layout: post
+slug: mp3otd
+status: publish
+title: Mp3otD
+wordpress_id: '2760'
+categories:
+ - mp3 of the day
+ - music
+---
+
+[Jonathan Coulton - Baby Got Back][1]
+
+   [1]: http://www.jonathancoulton.com/mp3/Baby%20Got%20Back.mp3
+

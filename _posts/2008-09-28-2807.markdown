@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-09-28 23:15:00'
+layout: post
+slug: '2807'
+status: publish
+title: '...'
+wordpress_id: '2807'
+categories:
+ - bicycling
+ - minutia
+---
+
+[Got around by bike today][1] and also walked two full trips around the state
+fair. The return trip was in the dark, without lights, and there was a lot
+more zig-zagging and not knowing where I was between point "N" and "R" on that
+map.
+
+   [1]: http://is.gd/3gf6
+

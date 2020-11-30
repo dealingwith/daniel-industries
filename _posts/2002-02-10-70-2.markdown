@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2002-02-10 18:07:00'
+layout: post
+slug: 70-2
+status: publish
+title: '...'
+wordpress_id: '3108'
+categories:
+ - nonlinear
+---
+
+[What Fits, a hypertext novella by Adrienne Eisen][1]
+
+   [1]: http://www.eastgate.com/ReadingRoom/WhatFits/
+
+   
+

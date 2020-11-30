@@ -1,0 +1,39 @@
+---
+author: dealingwith
+date: '2006-11-22 22:30:00'
+layout: post
+slug: mp3s-of-the-day-17
+status: publish
+title: mp3s of the day
+wordpress_id: '1840'
+categories:
+ - mp3 of the day
+ - music
+---
+
+Recently got back into DJ Spooky. From 1998's [Riddim Warfare][1] (which you
+can get for $1 on Amazon):
+
+[Synchronic Disjecta][2]
+
+[Post-Human Sophistry][3]
+
+...
+
+[Zefrank on weirdness][4]
+
+...
+
+[Numb Us][5] by yours truly. A song that isn't making it onto the record.
+
+   [1]: http://www.amazon.com/Riddim-Warfare-Spooky-That-Subliminal/dp/B00000C2BV/sr=8-5/qid=1164255921/ref=pd_bbs_sr_5/103-7751173-0223835?ie=UTF8&s=music
+
+   [2]: http://daniel.iaspiretonothing.com/blog/files/2006/11/DJ%20Spooky%20-%20Riddim%20Warfare%20-%202%20-%20Synchronic%20Disjecta.mp3
+
+   [3]: http://daniel.iaspiretonothing.com/blog/files/2006/11/DJ%20Spooky%20-%20Riddim%20Warfare%20-%206%20-%20Post-Human%20Sophistry.mp3
+
+   [4]:
+http://daniel.iaspiretonothing.com/blog/files/2006/11/zefrank_weird.mp3
+
+   [5]: http://daniel.iaspiretonothing.com/files/06%20demos%203/Daniel%20Miller%20-%20Numb%20Us.mp3
+

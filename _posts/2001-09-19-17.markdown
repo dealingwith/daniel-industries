@@ -1,0 +1,33 @@
+---
+author: dealingwith
+date: '2001-09-19 17:41:00'
+layout: post
+slug: '17'
+status: publish
+title: 'Nonlinear: New storytelling'
+wordpress_id: '17'
+categories:
+ - nonlinear
+---
+
+The trends in storytelling over the last 20-30 years have mirrored to some extent the postmodern shift in culture and philosophy, and I believe that these trends point to a future of increasingly disjointed and non-linear story and informational processes. The purpose of this section is to help you along to the conclusions already drawn out in section 1.
+
+---
+
+[Turbulence](http://turbulence.org/) is a site devoted to web art. It is exploring the idea of story within this context. It is perhaps in the integration of play, storytelling and art where these ideas of non-linear storytelling could be most profoundly realized. And of course those three areas effect every other area of our lives.
+
+---
+
+[Michael Paul Young](http://www.michaelpaulyoung.com/) “Layered Narrative.” Really allows the person experiencing it to create their own stories and meanings.
+
+---
+
+“[The Apartment](http://turbulence.org/project/apartment/).” Explores the relationship between words and space to create new meanings and stories within the space of the Web.
+
+---
+
+[Scott McCloud](http://www.scottmccloud.com) is a comic book writer and illustrator who has really thought about the use of the web as a storytelling medium. He has some very valid and interesting thoughts and comments about the use of the web. While his ideas apply most directly to comics, as much as comics are stories it applies 100% to non-linear story and storytelling in general. His “story machine” invention also makes use of some of the concepts of non-linear story. In fact it is very much like a hand-made version of the desktop software being spec’ed out here, on a very abstract scale.
+
+---
+
+Blogger, et. al. While web logs, or blogs, are linear in their presentation, the entire experience at Blogger is very integrated and in some ways, non-linear. Users can quickly publish web content through Blogger’s intuitive web interface, and the content page is updated. It is perfect for news, or for a project like this one (hosted on a blog!). An expansion on this concept of blogs could easily incorporate non-linear process in a web content management and interactivity system (see 10).

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.cherrybleeds.com/chuck/interview.html">Tony DuShane - Chuck Palahniuk interview - Cherry Bleeds</a>
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.btinternet.com/~smallritual/m114.html">small ritual - searching for small rituals</a>
+

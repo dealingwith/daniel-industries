@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2007-03-08 08:18:00'
+layout: post
+slug: wotd-3
+status: publish
+title: WotD
+wordpress_id: '2054'
+categories:
+ - elsewhere
+ - ia
+ - word of the day
+---
+
+[commingled][1]
+
+Not because it's new, but because it looks and sounds cool. And to point out
+[the source][2], from the amazing, new-to-me [visual complexity][3].
+
+   [1]: http://dictionary.reference.com/search?q=commingled
+
+   [2]: http://www.visualcomplexity.com/vc/project.cfm?id=429
+
+   [3]: http://www.visualcomplexity.com
+

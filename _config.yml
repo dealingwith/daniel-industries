@@ -1,0 +1,27 @@
+# Permalinks
+#
+permalink:           /:year/:month/:day/:title/
+# permalink: pretty
+
+# Setup
+title:               daniel.industries
+tagline:             "seeking, stories, beauty, meaning"
+url:                 http://daniel.industries
+paginate:            10
+baseurl:             ""
+exclude:             []
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+# sass:
+#   sass_dir:          _sass
+#   style:            :compressed
+
+# About/contact
+author:
+  name:              Daniel Miller
+  url:               http://daniel.industries
+  email:             dealingwith@gmail.com
+
+plugins: [jekyll-paginate]

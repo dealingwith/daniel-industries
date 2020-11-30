@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2005-12-28 22:51:00'
+layout: post
+slug: '826'
+status: publish
+title: '...'
+wordpress_id: '826'
+---
+
+_There will be a revolt by the people who use the software (they want simple,
+slim, easy to use tools) against the people who buy the software (they want a
+fat feature list that's dressed to impress)._
+
+[Predicting '06: Enterprise is the new legacy - Signal vs. Noise (by
+37signals)][1]
+
+   [1]: http://37signals.com/svn/archives2/predicting_06_enterprise_is_the_new_legacy.php
+

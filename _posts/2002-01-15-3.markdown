@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://news.morningstar.com/news/MS/Commentary/990917com.html">Morningstar.com: How Do Socially Responsible Funds Stack Up?</a>
+

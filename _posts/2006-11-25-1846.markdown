@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2006-11-25 10:44:00'
+layout: post
+slug: '1846'
+status: publish
+title: '...'
+wordpress_id: '1846'
+categories:
+ - elsewhere
+---
+
+[In Cincinnati, Life Breathes Anew in Riot-Scarred Area][1]. Interesting
+article on the neighborhood that is one of my fav band's namesake.
+
+   [1]: http://www.nytimes.com/2006/11/25/us/25cincy.html?hp&ex=1164517200&en=de4291db05b47f28&ei=5094&partner=homepage
+

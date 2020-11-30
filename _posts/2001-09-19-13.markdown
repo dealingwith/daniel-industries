@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2001-09-19 17:36:00'
+layout: post
+slug: '13'
+status: publish
+title: 'Nonlinear: Majestic'
+wordpress_id: '13'
+categories:
+ - nonlinear
+---
+
+[Majestic](https://www.wikiwand.com/en/Majestic_(video_game)) has obviously already absorbed millions of EA’s money. It is an elaborate online/interactive game, which will have you receiving phone calls, having IM conversations with (obvious) automatic responders, getting email, and finding secret websites, etc. I’m sure the future of the product involves more expansive involvement. While the concept here is great, as is execution from a technical perspective, there are some higher level problems with Majestic that I will point out presently:
+
+First of all, Majestic is too gamey. They have taken full page and double page ads in Maxim, Gear, and Wired, but their main demographic is still game playing teenagers. From a practical side, there is a tremendous amount of software required even to just start the game, and the Majestic websites are very bandwidth-heavy and require relatively advanced computers to handle their graphics, audio and Flash. You must download all the software, including a Majestic desktop GUI application, to begin playing. Software partners of EA include Realnetworks, Winamp, and AOL. The total download time over a ~400K/s DSL line was still 30 minutes to one hour.
+
+Upon commencing game play, you are immediately confronted with this Majestic GUI. Clues are actually sent to you directly through this GUI to “get you started” (I can only assume). Getting to the first milestone is as easy as sitting around and waiting for the “bad guys” to give you a phone call or the “good guys” sending you an IM. The premise and the clues are unrealistic from the start; Majestic has succeeded in integrating my phone with the game, and have written a storyline that uses real places, people, and current events, but not a storyline which is believable or truly integrated with my real life.
+
+Not to mention that the websites, video, and flash are all too much for my slow Windows 98 machine to handle, and my “fast” machine is Windows 2000, which Majestic can’t support. Forget about Linux.
+
+Bottom line: really expensive, expansive game, but not a truly interactive online experience or a real story by any stretch of the imagination.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://movies.go.com/movies/G/guruofsexthe_2001/index.html">The Guru on Movies.com</a> highly recommended!
+

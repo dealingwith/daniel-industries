@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2005-11-20 13:59:00'
+layout: post
+slug: '742'
+status: publish
+title: '...'
+wordpress_id: '742'
+---
+
+_When I'm in my most distractible place I don't chew my thoughts properly. The
+most productive times in my life are the ones where I'm just doing my own
+thing, focused, and trying to solve some problem that I find interesting--when
+I'm narrowly distracted. I've met people who are very into model trains, or
+knitting, or coding games for the Commodore 64, and I feel a real kinship
+because they find the same pleasure in their activity that I do from writing
+and programming.
+
+I'm very paranoid about any metric of productivity. One person's wasted time
+is another person's productivity. For most of my life people saw me doing the
+things I liked to do and said, "you have too much free time on your hands."
+I've decided that when you hear that, it means you're doing something right._
+
+[Guest post: More on distractions, from Paul Ford | 43 Folders][1]
+
+this is a great article. now i must go get narrowly distracted by cleaning.
+
+   [1]: http://www.43folders.com/2005/10/24/paul-ford-distractions/
+

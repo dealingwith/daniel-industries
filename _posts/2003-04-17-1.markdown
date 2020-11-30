@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.commondreams.org/views03/0416-01.htm">transcript of tim robbins speech to the national press club</a>
+

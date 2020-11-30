@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2005-11-17 19:50:00'
+layout: post
+slug: '734'
+status: publish
+title: '...'
+wordpress_id: '734'
+---
+
+_Another implication, if we don't start building context-awareness into
+information systems soon, all of the current concerns about information
+overload could turn from worries about lost productivity, into real concerns
+about serious mental disorders. Data smog-induced schizophrenia could be the
+RSI/carpal tunnel syndrome of the future._
+
+[IFTF's Future Now: The Psychology of Context-Awareness][1]
+
+   [1]: http://future.iftf.org/2005/11/the_psychology_.html
+

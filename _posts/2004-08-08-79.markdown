@@ -1,0 +1,12 @@
+---
+author: dealingwith
+date: '2004-08-08 09:40:00'
+layout: post
+slug: '79'
+status: publish
+title: '...'
+wordpress_id: '79'
+---
+
+Anyone know how to export one's LJ data?
+

@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-03-29 19:29:00'
+layout: post
+slug: '2102'
+status: publish
+title: '...'
+wordpress_id: '2102'
+categories:
+ - comedy
+ - elsewhere
+---
+
+[check step #33][1]
+
+   [1]: http://maps.google.com/maps?f=d&hl=en&saddr=Stanford,+California,+United+States&daddr=KTH-hallen,+Stockholm,+Sweden&ie=UTF8&sll=44.590467,-45.351562
+&sspn=72.777899,141.328125&z=3&ll=48.341646,-52.207031&spn=69.041077,141.32812
+5&om=1
+

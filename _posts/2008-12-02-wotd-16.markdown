@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-12-02 09:01:00'
+layout: post
+slug: wotd-16
+status: publish
+title: WotD
+wordpress_id: '2866'
+categories:
+ - word of the day
+---
+
+[cromulent][1]
+
+[via][2]
+
+   [1]: http://en.wiktionary.org/wiki/cromulent
+
+   [2]: http://www.37signals.com/svn/posts/1441-announcing-our-new-book-deal
+

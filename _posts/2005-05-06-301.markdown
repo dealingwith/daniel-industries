@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-05-06 13:15:00'
+layout: post
+slug: '301'
+status: publish
+title: '...'
+wordpress_id: '301'
+---
+
+evry1 leave their addy so i can [googlesightsee][1] you.
+
+   [1]: http://www.googlesightseeing.com
+

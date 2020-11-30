@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2007-08-16 03:34:00'
+layout: post
+slug: psa-3
+status: publish
+title: PSA
+wordpress_id: '2262'
+---
+
+Since the last couple posts were all serious and stuff, I thought it might
+help to read them [in pirate][1] or [Swedish Chef][2].
+
+   [1]: http://www.thevoicesofmany.com/url.php?voice=pirate&url=http%3A%2F%2Ffeeds.feedburner.com%2F%7Er%2Fdanielsjourney%2F%7E3%2F144043110%2F598347.html
+
+   [2]: http://www.thevoicesofmany.com/url.php?url=http%3A%2F%2Fdealingwith.livejournal.com%2F598617.html&voice=chef
+

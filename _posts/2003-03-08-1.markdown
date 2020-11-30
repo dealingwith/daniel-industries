@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.deadcandance.com/">dead can dance</a> for you youngins, this is like the original sigor ros
+

@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 17:46:00'
+layout: post
+slug: 64-2
+status: publish
+title: '...'
+wordpress_id: '3102'
+categories:
+ - nonlinear
+---
+
+[Welcome to The Terry Southern Website][1]
+
+
+   [1]: http://www.terrysouthern.com/home.htm
+
+   
+

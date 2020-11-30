@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>
+    
+      SWIM Stock-Take Part 1 &middot; daniel.industries
+    
+  </title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
+
+  <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap" rel="stylesheet">
+
+  <style>
+    .quicksand {
+      font-family: sans-serif;
+    }
+
+    h1, h2, h3, h4, h5, h6, header *, .heading-style {
+      font-family: Nunito, sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.8em;
+    }
+    h3 {
+      font-size: 1.6em;
+    }
+    h4 {
+      font-size: 1.4em;
+    }
+    h5 {
+      font-size: 1.2em;
+    }
+    h6 {
+      font-size: 1em;
+    }
+    
+    ::selection {
+        background: yellow;
+        /* WebKit/Blink Browsers */
+    }
+    ::-moz-selection {
+        background: yellow;
+        /* Gecko Browsers */
+    }
+
+    a {
+      color: rgb(1 1 200 / 80%);
+      cursor: pointer;
+      font-weight: 400;
+      text-decoration: none;
+    }
+    a:hover, a:focus {
+      border-bottom: 1px solid rgb(1 1 200 / 80%);
+    }
+    a strong {
+      color: inherit;
+    }
+    a.dead {
+      color: #9ca3af;
+      text-decoration: line-through;
+    }
+    .bg-gray-900 a {
+      color: #9ca3af;
+    }
+    .bg-gray-900 a:hover, .bg-gray-900 a:focus {
+      border-bottom: 1px solid #9ca3af;
+    }
+    
+    .main-content p, .main-content hr, .main-content div, .main-content iframe {
+      margin-bottom: 1em;    
+    }
+    
+    .post-metadata {
+      color: rgba(55,65,81,.6);
+      font-size: .9em;
+    }
+    .bg-gray-900 .post-metadata {
+      color: #9ca3af;
+    }
+    
+    blockquote {
+      border-left: 2px solid #9ca3af;
+      padding-left: 1em;
+    }
+    
+    img {
+      border-radius: 5px;
+    }
+  </style>
+
+</head>
+
+<body class="bg-gray-100 text-gray-700 font-sans quicksand">
+  <div class="p-6 sm:p-10 md:p-16 flex flex-wrap">
+    <div class="w-full md:w-1/2 md:pr-32 order-3 md:order-1">
+  <div class="max-w-md md:float-right md:text-right leading-relaxed tracking-normal md:sticky md:top-0 ">
+    
+      <p class="font-bold mt-9 mb-1">Previous</p>
+      <ul class="flex flex-wrap justify-between flex-col">
+        <li><a href="/2017/12/22/last-five/" class="text-sm">Last Five</a></li>
+      </ul>
+    
+    
+      <p class="font-bold mt-4 mb-1">Next</p>
+      <ul class="flex flex-wrap justify-between flex-col">
+        <li><a href="/2017/12/24/encouragement/" class="text-sm">Encouragement</a></li>
+      </ul>
+    
+  </div>
+</div>
+<div class="w-full md:w-1/2 order-1 md:order-2 main-content">
+  <div class="max-w-md leading-relaxed tracking-normal">
+    <h1 class="font-bold my-0 leading-10">SWIM Stock-Take Part 1</h1>
+    <p class="mb-2 post-metadata">557 words written on <time datetime="2017-12-23T19:13:19-06:00">Sat, Dec 23 2017</time></p>
+
+    <p>If this is a <em><a href="/2017/12/21/america/" title="As I said in this post">career-long project</a></em>, where is it, in the context of the past, present and future?</p>
+
+<h2 id="the-basics">The basics</h2>
+
+<p>SWIM has stood for a few different things throughout its lifetime. It currently doesn’t stand for anything, other than the metaphor of swimming through all of your personal information. If I remember correctly, it once possibly stood for <em>Simple Web-based Information Management</em>. It was also a full-blown web CMS, a few times over.</p>
+
+<p>In short, SWIM is intended to be a tool in the <a href="https://en.wikipedia.org/wiki/Personal_information_management">Personal Information Management</a> space.</p>
+
+<blockquote>
+  <p>Practically, PIM is concerned with how people organize and maintain personal information collections, and methods that can help people in doing so.</p>
+</blockquote>
+
+<p>SWIM was originally inspired by the desire to write hypertext/<a href="https://en.wikipedia.org/wiki/Interactive_fiction" title="Interactive Fiction">IF</a>, create other nonlinear narratives (such as art installations) and develop <a href="https://en.wikipedia.org/wiki/Alternate_reality_game">Alternate Reality Games</a>. I was already a writer and technologist; the combination of the two fields was a natural area of interest.</p>
+
+<p>More recently, I’ve been interested in developing the tool to help with all kinds of writing, and have envisioned it as a tool that could surface all relevant information from a personal corpus, in real-time. It would be really useful for this post, for example, bringing up all my previous posts about SWIM. Preferably, I could dump every last note, image, link, etc. into SWIM and have it search all of that as well.</p>
+
+<p>This is a very old concept. <a href="https://en.wikipedia.org/wiki/Vannevar_Bush">Vannevar Bush</a> imagined something very similar in his <a href="https://en.wikipedia.org/wiki/Memex">Memex</a>:</p>
+
+<blockquote>
+  <p>The memex (originally coined “at random”, though sometimes said to be a portmanteau of “memory” and “index”) is the name of the hypothetical proto-hypertext system that Vannevar Bush described in his 1945 The Atlantic Monthly article “As We May Think”. Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, “mechanized so that it may be consulted with exceeding speed and flexibility.” The memex would provide an “enlarged intimate supplement to one’s memory”. The concept of the memex influenced the development of early hypertext systems (eventually leading to the creation of the World Wide Web) and personal knowledge base software.</p>
+</blockquote>
+
+<p>There are a <em>ton</em> of tools for all the above purposes. I have tried <em>many</em>. I will review some in a follow-up post.</p>
+
+<h2 id="the-beginning">The beginning</h2>
+
+<p><a href="/2001/09/18/4/">My very first blog post ever</a> (using Blogger/Blogspot at the time) was about nonlinear narratives and ARGs.</p>
+
+<p>The <a href="/2001/09/19/5/">very first iteration</a> of the thing that was to become SWIM was just an idea, a PowerPoint presentation. I have no idea if that presentation still exists anymore. In fixing up the original  post, I can see I hosted images of the slides on the server space provided by my ISP at the time (remember when ISPs would give you your own web server space?).</p>
+
+<p>The <a href="/2001/09/19/10/">next exploration</a> was the original brain-dump, inspired by BMW’s <a href="https://en.wikipedia.org/wiki/The_Hire#Contest/game_&amp;_party">online film/ARG series</a>.</p>
+
+<p>I also simultaneously discovered <a href="/2001/09/19/11.html">The Beast ARG</a> and <a href="/2001/09/19/13.html">Magestic</a>; <a href="/2001/09/19/17.html">artists working in nonlinear narrative</a> and tooling around <a href="/2001/09/19/29.html">storyboarding</a> and <a href="/2001/09/19/30.html">business organization</a> and <a href="/2001/09/19/33.html">screenwriting</a>. I had a <a href="/2001/09/19/37/">novel idea for a nonlinear web CMS</a>.</p>
+
+<p>And that’s how this whole obsession got started. Next installment: the various incarnations of SWIM in the 16 years since.</p>
+
+
+  </div>
+</div>
+    <div class="w-full md:w-1/2 md:pr-32 pt-12 md:pt-0 md:sticky md:bottom-0 order-4 md:order-3">
+      <div class="max-w-md md:float-right md:text-right leading-loose tracking-tight md:mb-16">
+        <ul class="flex flex-wrap justify-between flex-row md:flex-col">
+          <li><a href="/" class="nav mx-2 md:mx-0">Home</a></li>
+          <li><a href="/about/" class="nav mx-2 md:mx-0">About</a></li>
+          <li><a href="/music/" class="nav mx-2 md:mx-0">Music</a></li>
+        </ul>
+        <br style="clear:both">
+<footer class="footer">
+  <small><a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons licensed</a> 2001&ndash;<time datetime="2020-11-29T19:42:50-06:00">2020</time>
+  </small>
+</footer>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Pin to top right corner -->
+  <div class="absolute top-0 right-0 h-12 w-18 p-4">
+    <button class="js-change-theme focus:outline-none">🌙</button>
+  </div>
+
+  <script>
+    //Toggle mode
+    const toggle = document.querySelector('.js-change-theme');
+    const body = document.querySelector('body');
+
+    function toggleToDark() {
+      toggle.innerHTML = "☀️";
+      body.classList.remove('text-gray-700');
+      body.classList.add('text-gray-300');
+      body.classList.remove('bg-gray-100');
+      body.classList.add('bg-gray-900');
+      localStorage.setItem('theme', 'dark');
+    }
+
+    function toggleToLight() {
+      toggle.innerHTML = "🌙";
+      body.classList.remove('text-gray-300');
+      body.classList.add('text-gray-700');
+      body.classList.remove('bg-gray-900');
+      body.classList.add('bg-gray-100');
+      localStorage.setItem('theme', 'light');
+    }
+
+    const theme = localStorage.getItem('theme');
+
+    if (theme == "dark") {
+      toggleToDark();
+    } else if (theme == "light") {
+      toggleToLight();
+    }
+
+    toggle.addEventListener('click', () => {
+      if (body.classList.contains('text-gray-700')) {
+        toggleToDark();
+      } else {
+        toggleToLight();
+      }
+    });
+
+  </script>
+
+</body>
+
+</html>

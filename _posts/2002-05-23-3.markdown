@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.thehoneycomb.com/"><img src="http://www.thehoneycomb.com/images/hdrLogo.gif" border="0">
+
+soon i'll get this link on the site perm.</a>
+

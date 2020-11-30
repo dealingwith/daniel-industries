@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2008-03-23 23:23:00'
+layout: post
+slug: '2548'
+status: publish
+title: '...'
+wordpress_id: '2548'
+categories:
+ - dogs
+ - imagining
+ - pavlov
+---
+
+[![][1]][2]
+
+["But I can still hold your dog."][3]
+
+Originally uploaded by [carissabyers][4]
+
+
+   [1]: http://farm3.static.flickr.com/2337/2356248753_d7e7d03422_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/2356248753/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/2356248753/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+

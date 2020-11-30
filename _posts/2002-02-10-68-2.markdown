@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2002-02-10 18:01:00'
+layout: post
+slug: 68-2
+status: publish
+title: '...'
+wordpress_id: '3106'
+categories:
+ - nonlinear
+---
+
+[Eastgate Systems, Inc][1]
+
+
+   [1]: http://www.eastgate.com/index.html
+
+   
+

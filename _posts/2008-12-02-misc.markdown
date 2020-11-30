@@ -1,0 +1,31 @@
+---
+author: dealingwith
+date: '2008-12-02 11:06:00'
+layout: post
+slug: misc
+status: publish
+title: Misc.
+wordpress_id: '2868'
+categories:
+ - blah
+ - development
+ - minutia
+ - productivity
+---
+
+I have many thoughts about: art, technology, psychology. The usual. But no
+time to actual write them down.
+
+The funny thing about programming is that it (almost always, in my experience)
+[works better with someone there & both of you talking most of the time][1],
+and/or [it works better with no one there or talking any of the time][2].This
+of course applies to more domains than just programming. At present, I have
+neither scenario actualized in any working domain. This can lead to
+[frustration][3].
+
+   [1]: http://en.wikipedia.org/wiki/Pair_programming
+
+   [2]: http://gettingreal.37signals.com/ch07_Alone_Time.php
+
+   [3]: http://en.wikipedia.org/wiki/Frustration (an emotional response tocircumstances where one is obstructed from arriving at a personal goal)
+

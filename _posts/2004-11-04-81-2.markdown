@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2004-11-04 00:46:00'
+layout: post
+slug: 81-2
+status: publish
+title: '...'
+wordpress_id: '3115'
+categories:
+ - nonlinear
+---
+
+[Playing with a Full Deck][1]
+
+
+   [1]: http://www.voccoquan.com/firstpub/bifurcated.htm
+
+   
+

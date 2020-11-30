@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-02-25 11:24:00'
+layout: post
+slug: '199'
+status: publish
+title: '...'
+wordpress_id: '199'
+---
+
+[Time to get a life -- pioneer blogger Justin Hall bows out at 31][1]
+
+   [1]: http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/02/20/MNGBKBEJO01.DTL
+

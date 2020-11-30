@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.geocaching.com/">Geocaching - The Official Global GPS Cache Hunt Site</a>
+

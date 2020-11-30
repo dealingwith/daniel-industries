@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-02-20 22:10:00'
+layout: post
+slug: '192'
+status: publish
+title: '...'
+wordpress_id: '192'
+---
+
+check out this really good remix of [blackbird][1]
+
+   [1]: http://www.scissorkick.com/2005/02/banzai-republic-vs-beatles.html
+

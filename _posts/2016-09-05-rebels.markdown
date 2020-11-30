@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Rebels: Episode 1"
+excerpt: '"Any attack made by the Rebels against this station would be a useless gesture."'
+image: "/assets/2016/09/RebelAlliance-Desktop.jpg"
+date: 2016-09-05 00:40:44 -0500
+comments: true
+categories: 
+---
+
+> Any attack made by the Rebels against this station would be a useless gesture.
+
+![](/assets/2016/09/deathstar.jpg)
+
+[Is the Internet Being Ruined?](http://www.wnyc.org/story/internet-being-ruined/)
+
+<iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/640026/&share=1"></iframe>
+
+[Anywhere but Medium](http://scripting.com/liveblog/users/davewiner/2016/01/20/0900.html):
+
+> When you give in to the default, and just go ahead and post to Medium, you're stifling the open web. Not giving it a chance to work its magic, which depends on diversity, not monoculture. 
+
+[Derp](https://hapgood.us/2016/09/01/derp/)
+
+> What the argumentative theory says is most parts of the brain we use to reason were actually developed not to reason but to convince people to cooperate with us.
+
+> This explains why the minute we stake a position we seem incapable of considering counterevidence. Doubt is read as a sign of risk, and plans that look risky don’t get followers.
+
+> ...where I'm going is...social media, combined with accretive identity and a strong rhetorical bent, is quite literally inhibiting our ability to think. When everything we say is position-staking and identity construction we become dumber than my bird.
+
+![](/assets/2016/09/Jakob-Staermose-Star-Wars.jpg)
+
+<span class="small">(Graphic by [Jakob Staermose](https://duckduckgo.com/?q=jakob+staermose+star+wars))</span>
+
+It should be clear if you follow the thread through those three sources above: we are losing the battle for not the just the web, but our own minds and humanity. It sounds hyperbolic, but it's important to at least consider. 
+
+We've traded the open web of ideas, creativity and collaboration for a walled compound where we are trained by specialists on how to think, how to desire. We are [desiring machines](https://en.wikipedia.org/wiki/Anti-Oedipus#Desiring_machines_and_social_production), tuned with algorithms and "[arguments supporting [our] views](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1017&context=goldstone)". We use our hands not to respond with words, but with taps, each recorded and analyzed. [I've said this before]({{ site.base_url }}/2014/02/12/thanks-for-ruining-the-internet.html "It's like a prequel, and it has a prequel")...
+
+> The pirates have taken over the fleet, and those with discipline and old-world skills are hidden away in enclaves, quietly existing on the resources available to them.
+
+Perhaps now that the pirates have taken over the fleet, the old admirals are the new pirates. And here we land on my Star Wars metaphor with full..._force_. 
+
+![](/assets/2016/09/rimshot.gif)
+
+> [Technologies] make good toys, but terrible addictions...These media may be useful to our art--but they must not possess us, nor must they stand between, mediate, or separate us from [ourselves]. We want to control our media, not be Controlled by them. [#](http://hermetic.com/bey/radio_se.html)
+
+So what do we do? I'm notorious for leaving multi-part blog series unfinished, but I will attempt to answer that question in Episode 2.
+
+> And now, your highness, we will discuss the location of your hidden rebel base...

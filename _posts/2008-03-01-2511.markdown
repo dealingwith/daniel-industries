@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2008-03-01 16:57:00'
+layout: post
+slug: '2511'
+status: publish
+title: '...'
+wordpress_id: '2511'
+categories:
+ - mp3 of the day
+ - music
+---
+
+[So Much Silence: Nada Surf on KCRW’s Morning Becomes Eclectic, 2/5/08][1],
+track-by-track
+
+   [1]: http://somuchsilence.com/?p=996#comment-522473
+

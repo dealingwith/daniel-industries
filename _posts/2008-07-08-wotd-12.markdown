@@ -1,0 +1,26 @@
+---
+author: dealingwith
+date: '2008-07-08 13:53:00'
+layout: post
+slug: wotd-12
+status: publish
+title: WotD
+wordpress_id: '2696'
+categories:
+ - development
+ - quotable
+---
+
+> This is really critical to understand about why both of these guys are so
+smart: both of these people put aside dogma and made decisions that were all
+over the map, sometimes pragmatic and hackish, sometimes very rigorous and
+disciplined, depending on their assessment of the particular issue they were
+addressing at the moment. They weren’t subscribing to any particular software
+development philosophy...nor did they just choose the most hyped architecture
+of the day and blindly stick with it, but freely mixed and matched whatever
+they thought was appropriate given their perspective on the situation.
+
+[#][1]
+
+   [1]: http://www.pervasivecode.com/blog/2007/09/23/immature-developer-attitudes-revealed-in-flames-regarding-cdbaby/
+

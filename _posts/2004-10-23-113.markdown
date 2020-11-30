@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2004-10-23 15:58:00'
+layout: post
+slug: '113'
+status: publish
+title: '...'
+wordpress_id: '113'
+---
+
+[http://www.phonelosers.org][1]
+
+[hotel calls][2]
+
+[pizza][3]
+
+[wal mart][4]
+
+etc...
+
+   [1]: http://www.phonelosers.org/index.html
+
+   [2]: http://www.phonelosers.org/hotel_calls.html
+
+   [3]: http://www.phonelosers.org/pizza.html
+
+   [4]: http://www.phonelosers.org/wal-mart/index.html
+

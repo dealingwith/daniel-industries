@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2008-09-16 15:58:00'
+layout: post
+slug: mp3otd-3
+status: publish
+title: mp3otD
+wordpress_id: '2789'
+categories:
+ - mp3 of the day
+---
+
+[Nina Persson - Losing My Religion (REM cover)][1]
+
+   [1]: http://luna.typepad.com/weblog/2008/06/losing-cathexis.html
+

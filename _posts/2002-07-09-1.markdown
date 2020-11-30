@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.lib.utexas.edu/maps/europe/europe_ref01.jpg">12 cities, 16 bids on this map</a>
+

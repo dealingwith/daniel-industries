@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-06-30 23:52:00'
+layout: post
+slug: '406'
+status: publish
+title: '...'
+wordpress_id: '406'
+---
+
+[i will survive!][1]
+
+   [1]: http://amfilms.hash.com/search/entry.php?entry=539
+

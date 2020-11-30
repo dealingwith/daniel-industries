@@ -1,0 +1,26 @@
+---
+layout: post
+title: 'peeves 07-11'
+categories:
+ - minutia
+---
+
+almost all regarding M$:
+
+07. Microsoft. What else do I have to say? I tolerated them when they showed tolerance. That slowed with slimy OEM deals and stopped with XP's licencing schemes.
+
+
+
+08. OEM versions of operating systems. Nowadays, the only OS CD you get with a new computer is the "reinstall everything" system restore CD, which includes a boatload of crap from the manufacturer that I do not want on my machine, and none of the many, many apps that I use everyday. Not to mention it is impossible to install that version of the OS on another machine. But that's piracy you say? Not if I've already installed another fully licenced OS on the first machine. But I am still unable to reuse that OEM OS for another machine.
+
+
+
+09. Windows Media Player. Again, just sucks. Big, ugly and has no features.
+
+
+
+10. Proprietary media software and autorun on CD's with bonus material. Who thought this one up? Every bonus CD has a different "player" they want you to install to see the content? Most of the time that content is in standard types--WAV, MP3, AVI, RAM, SWF--that I can just view on my computer. Just stick them in a folder on the CD and I'll happily go look at them without having the 1000's bogus program installed on my machine.
+
+
+
+11. All HTML tags for creating lists. OL, UL, LI. They all suck. You'll notice I don't use them. It's enough to where, if I get the time, I'm going to create some little JS or PHP function that writes my own DIV tags to create my own indented outlines and lists.

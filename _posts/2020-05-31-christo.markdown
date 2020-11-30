@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Christo"
+excerpt: "Christo obit in the NYT"
+date: 2020-05-31 21:56:38 -0500
+categories: 
+---
+
+![](/assets/2020/05/christo.jpg)
+
+[Christo, Artist Who Wrapped and Festooned on an Epic Scale, Dies at 84](https://www.nytimes.com/2020/05/31/arts/christo-dead.html)
+
+> Again and again, Christo prevailed, through persistence, charm and a childlike belief that eventually everyone would see things the way he did.
+
+> "For me esthetics is everything involved in the process---the workers, the politics, the negotiations, the construction difficulty, the dealings with hundreds of people," he told The New York Times in 1972. “The whole process becomes an esthetic---that’s what I’m interested in, discovering the process. I put myself in dialogue with other people."
+
+> When New York’s parks commissioner at the time, Gordon J. Davis, rejected “The Gates” in 1981, setting forth his reasons in a book-length document, Christo simply incorporated the rebuff into the project. “I find it very inspiring in a way that is like abstract poetry,” he told the College Art Association. “He adds a dimension to the work, no matter what he thinks.”
+
+...
+
+> The next year [1962] Christo staged a brilliant coup de theatre, a work he called “Iron Curtain: Wall of Oil Barrels.” As part of a solo show at the Galerie J in Paris, he blocked off the narrow Rue Visconti for several hours with 204 stacked oil barrels, while his wife kept the police away through a series of diversionary tactics.
+
+...
+
+> Several projects on a grand scale followed in the 1970s. For “Valley Curtain” he strung orange nylon fabric along steel cables over a narrow pass in Rifle, Colo.; a large semicircular opening allowed cars on the state highway below to pass through.
+
+> Fierce winds ripped the curtain to shreds two days later, a setback that Christo shrugged off. “I as an artist have done what I set out to do,” he said. “That the curtain no longer exists only makes it more interesting.”
+
+---
+
+I must watch this now.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/B2oTsdazcrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

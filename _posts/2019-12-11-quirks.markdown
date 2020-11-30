@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Quirks"
+excerpt: 
+date: 2019-12-11 07:06:30 -0600
+comments: true
+categories: 
+---
+
+From the (always entertaining _and_ educational) _Postlight_ podcast, _Track Changes_...
+
+[Going Codeless: Is this the way of the future?](https://postlight.com/trackchanges/podcast/going-codeless-is-this-the-way-of-the-future)
+
+>PF I have a maxim. Nobody believes me when I say it: every bug’s a gift. Like when they complain, that’s a gift...because you literally are learning what they want. You have to stop seeing the software as a reflection of yourself, or of your business or whatever. 
+>
+>RZ Yeah, yeah. 
+>
+>PF And they might not love the heroic narrative that you’ve put forth where you shipped it and good for you. 
+>
+>RZ Let’s replace ‘bug’. Let’s make that a goal of Postlight’s. Let’s call ‘em—
+>
+>PF Opportunities. 
+>
+>RZ No, no, that’s too much [Paul laughs]. Wrinkles. 
+>
+>PF Wrinkles. Ironing out the wrinkles. No, you and I are getting old and that’s not good. 
+>
+>RZ What’s like a charming—that’s charming and eccentric, what’s that word? That trait? 
+>
+>PF Quirk. 
+>
+>RZ Quirks! 
+>
+>PF That’s right. It’s not a bug, it’s a quirk! 
+>
+>RZ We only call ‘em quirks from now on. 
+>
+>PF And we’re gonna stamp it down with a boot of good coding practice. 
+>
+>RZ No boots. 
+>
+>PF That’s the problem is that you have to kill the quirks. 
+>
+>RZ You do have to—
+>
+>PF You have to enhance the quirks, adjust the quirks. 
+>
+>RZ Adjust the quirks! 
+>
+>PF We’re gonna adjust the quirks! We’re not—
+>
+>RZ That’s the most woke software terminology. 
+>
+>PF We’re not gonna fix bugs anymore, we’re gonna adjust quirks! And we’re not—you know, Jira is gonna just become a quirk adjustment tool. [Rich laughs] That is our plan, my friends.

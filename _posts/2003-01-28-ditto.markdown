@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'ditto'
+categories:
+ - design
+---
+
+<a href="http://www.zoneedit.com/">http://www.zoneedit.com/</a>
+

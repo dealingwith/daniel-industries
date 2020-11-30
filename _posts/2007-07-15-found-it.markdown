@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2007-07-15 17:57:00'
+layout: post
+slug: found-it
+status: publish
+title: found it
+wordpress_id: '2229'
+categories:
+ - humanity
+ - lacan
+ - love
+ - quotable
+---
+
+Je t'aime, mais, parce qu'inexplicablement j'aime en toi quelque chose plus
+que toi--l'objet petit a, je te mutile.
+

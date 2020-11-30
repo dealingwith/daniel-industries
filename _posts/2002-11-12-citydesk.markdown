@@ -1,0 +1,16 @@
+---
+layout: post
+title: citydesk
+---
+
+I'm testing out citydesk, a desktop blogging-type cms from fogcreek software. It is about 60 percent of what I have in mind for SWM...but at 80 bucks a pop pretty steep for what you get. I'll be test driving it for a few days anyway tho. If I had to buy something it would still be Radio....but this interface is about 100% easier to navigate than Radio...but this does less for more money (besides that). (Another caveat {sp?}: I don't like full fledged products to be web-based (like Radio is)...but some people do and that's fine. It's just my preference.
+
+I set some goals for SWM and they have been a complete joke. Mentally, I am mostly wasted in anxiety over M (more so than her--but she's mentally wasted from dealing with constant pain). Time-wise, I just have no idea where the time goes, but I can tell you I'm not the most excellent time-manager, and to properly work on coding I really need long periods of total uninterruption. This and a night-owl tendency mean that I normally only get anything done in the one night a week I treat myself to a 2-4am night. "Treat"--yeah, because for the next two days after that I'm wasted. :P I'm pathetic.
+
+The main thing I have been doing this last week, tho, was to research all the other products that are out there. It's amazing how hard it is to actually find them all...this one, from a real company for real money..I thought it would be more present in the marketplace, but it is just not. And I have learned something: Blogger is so popular because it is so damn idiotproof. You don't need to know anything to use it if you set it up on blogspot with a standard template. You can ease yourself into modifying your template or moving off onto your own server. With SWM, those two, at least, will be necessary off the bat. Hopefully down the road we will have partnerships with hosting companies and tons of built in templates for all kinds of content (not just blogs).
+
+However it is apparent that this market is about to become totally saturated...just found iBlog today too, for the Mac (too bad I don't have one so I can't test drive it), also looks similar to this.
+
+So I'm tempering my expectations...and I never had any illusions of building a proper desktop product on my own, I'm dependent on the availability of friends for that...but even with, this is going to be a tough over-sat'd market, and I have no expectations.
+
+All that said, I think I am going to develop the biz from within the non-profit, ala OSAF, but within the artistic support framework that will be the purpose of the foundation in the first place. And we can provide SWM for free to our artists and other non-profits for their info management and web presentation! I still haven't hashed out the details in my head, even, and if anyone has any info/exp in this area please let me know...all I know is I'm trying to figure out new models of doing economy within the existing one, and I think this non-profit-that-also-provides-something for itself model is a decent one. Just don't know if the laws allow for it at all is all...but OSAF is a good model...

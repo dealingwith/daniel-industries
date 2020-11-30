@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<img src="http://danielsjourney.com/images/dwm_americana2.jpg">
+
+<small>changes they are a'comin'
+
+...welcoming your opinions</small>
+

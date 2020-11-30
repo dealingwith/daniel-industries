@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+Bush is also up for the <a href="http://www.guardian.co.uk/comment/story/0,3604,900496,00.html">peace prize</a>
+

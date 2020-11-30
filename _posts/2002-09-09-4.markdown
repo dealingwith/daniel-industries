@@ -1,0 +1,13 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>GB // artifacts</i>
+<div style="background-color: black;">
+<map name="FPMap0">
+<area href="http://www.vaux.net" shape="rect" coords="170, 159, 199, 182"></map><img border="0" src="images/gb02/vaux_text.gif" usemap="#FPMap0" width="200" height="183">
+</div>
+

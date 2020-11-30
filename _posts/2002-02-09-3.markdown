@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://spark-online.com/">*spark-online.com >> version 29.0, FEBRUARY.2002</a>
+

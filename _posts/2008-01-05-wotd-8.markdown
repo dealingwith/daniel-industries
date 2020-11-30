@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-01-05 12:38:00'
+layout: post
+slug: wotd-8
+status: publish
+title: WotD
+wordpress_id: '2434'
+categories:
+ - word of the day
+---
+
+[obstreperous][1]
+
+[via][2]
+
+   [1]: http://dictionary.reference.com/search?q=obstreperous
+
+   [2]: http://speedbird.wordpress.com/2008/01/01/new-day-rising/
+

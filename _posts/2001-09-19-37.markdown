@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2001-09-19 22:25:00'
+layout: post
+slug: '37'
+status: publish
+title: 'Nonlinear: Web content management'
+wordpress_id: '3092'
+categories:
+ - nonlinear
+---
+
+Since this idea was first birthed out of what was essentially a meta-content idea, this application of the theory and software is a natural extension, however practically not one that immediately came to mind.
+
+I have worked with many web content management products, and they all tackle different elements of the problem. (Just look up web content management software on Google.) But it was not until I began a dialog about starting a webzine that the true potential of non-linear content management became apparent. Here were some of my thoughts:
+
+As far as the mag goes, I was thinking in terms of a non-linear blog. A user could respond to any portion of content (which might be images, video, audio, quotes, articles) by selecting that portion of the content and then creating a blog from that section (more on blogs at blogger.com). Imagine the site map would look like a satelite night picture of, say, the US--the major cities would be our content areas, and the web of lights growing out of it would be the interactive pieces contributed by our users. But each piece of content, be it one we provided or a user contributed, would link to those pieces around it in "random" and non-linear ways.

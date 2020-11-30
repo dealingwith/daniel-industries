@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-01-25 10:56:00'
+layout: post
+slug: wotd-2
+status: publish
+title: WotD
+wordpress_id: '1958'
+categories:
+ - word of the day
+---
+
+[Telluric][1]
+
+found in http://dealingwith.livejournal.com/270378.html, read while looking
+for something else i've written.
+
+   [1]: http://dictionary.reference.com/search?q=telluric
+

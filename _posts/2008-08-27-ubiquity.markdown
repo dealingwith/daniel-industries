@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2008-08-27 11:31:00'
+layout: post
+slug: ubiquity
+status: publish
+title: Ubiquity
+wordpress_id: '2758'
+categories:
+ - ui
+ - video
+---
+
+
+[Ubiquity for Firefox][1] from [Aza Raskin][2] on [Vimeo][3].
+
+Came across my desk twice already this morning...I'm thinking this one has
+legs...
+
+   [1]: http://www.vimeo.com/1561578?pg=embed&sec=1561578
+
+   [2]: http://www.vimeo.com/user532161?pg=embed&sec=1561578
+
+   [3]: http://vimeo.com?pg=embed&sec=1561578
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://habbo.com/">Habbo Hotel - Home Page</a>
+Next time you want to chat just email me to meet here.
+

@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-06-21 13:49:00'
+layout: post
+slug: omg-so-sad
+status: publish
+title: OMG SO SAD
+wordpress_id: '56'
+---
+
+[Check this out][1].
+
+   [1]: http://www.antville.org/img/conspir/nooooo!.jpg
+

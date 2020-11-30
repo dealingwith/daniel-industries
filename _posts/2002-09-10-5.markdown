@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://digitalfilmmaker.net/RSarajevo/sarajevo.html"><img src="http://digitalfilmmaker.net/RSarajevo/images/image7KC.JPG" border="1"></a>
+

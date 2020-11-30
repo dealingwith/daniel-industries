@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'changes'
+categories:
+ - minutia
+---
+
+I was going to roll out a (relatively) big site change but time and priorities have dictated a (relatively) small one. What is not immediately obvious:
+
+
+
+01. The <a href="http://creativecommons.org/">creative commons</a> license for this site has changed. More importantly, the license is not for the entire site, only for the blog. I should have made this distinction before but didn't. For what it is worth, the "new" blog license is less restrictive (it can be found by clicking on the little icons to the left). For any other content you have to ask. :) The whole licensing-the-blog thing is pretty sketchy, since most of its contents are not even my original creation and often probably violate someone else's license that I haven't bothered to find. Alas, we work these things out as we go. Just continue to be respectful of others. Play nice. Don't run with scissors. Roll over. <a href="http://overtherhine.com/music/recordings/cd08/cd08e.html">Good dog</a>.
+
+
+
+02. Fonts. I had been talking about it for some time, and finally, I stop controlling your fonts. I was held back by the fact that practically no-one else does so (not specify some font) and that most everybody in the world still has New Times Roman as the default font in their browser. So if you don't <em>like</em> New Times Roman, find your browser settings for fonts (in Internet Explorer it under Tools--Internet Options) and change your default font. Then use the text size option (in IE, View--Text Size) to fine tune your choice. If you want this site the way it was, it would be Verdana and "smaller" (in IE, in Mozilla I think it's 80%). "Wide latin" at the "largest" text size <a href="images/site_in_widelatin.gif">is also an intersting choice for those with visual impairments</a>.
+

@@ -1,0 +1,39 @@
+---
+author: dealingwith
+date: '2005-11-12 12:31:00'
+layout: post
+slug: idolatry
+status: publish
+title: iDolatry
+wordpress_id: '713'
+categories:
+ - ipod
+ - itunes
+ - mp3 the format
+ - podcast
+---
+
+lazyweb: i am beginning to seriously consider an iPod or somesuch, but here
+are my requirements:
+
+- I don't want to have to use any particular software to get stuff on the
+device, especially iTunes. I want to be able to access the device like an
+external harddrive or memory device, but also want to be able to load stuff
+onto it with software that supports RSS enclosures (that's another question:
+which readers {for Win} can do this?).
+
+- I want it (relatively) cheap and simple. I don't need video, or a huge
+amount of storage (a gig would be nice). I don't want it too big, but I don't
+want it so small I lose or break it.
+
+- The battery must not die after a year. Or two. It can start degrading in the
+third year. I'll forgive it that. Then, this battery must be easy to replace.
+
+I think that's about it. Please help!
+
+Update: Just stole the title from [smallritual][1]. Funny, there the iPod
+ownership is a given, even the latest greatest. Priorities I guess. That and
+brand loyalty ;)
+
+   [1]: http://smallritual.blogs.com/small_ritual/2005/11/idolatry.html
+

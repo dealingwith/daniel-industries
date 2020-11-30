@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2004-09-28 23:27:00'
+layout: post
+slug: '96'
+status: publish
+title: '...'
+wordpress_id: '96'
+---
+
+[If all stories were written like science fiction stories][1].
+
+   [1]: http://www.shrovetuesdayobserved.com/flight.html
+

@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2008-05-07 23:27:00'
+layout: post
+slug: '2628'
+status: publish
+title: '...'
+wordpress_id: '2628'
+categories:
+ - bicycling
+---
+
+[Worst Cities For Cycling][1] and I've spent most of my adult life in two out
+of the three. Woot.
+
+   [1]: http://www.bicycling.com/article/0,6610,s-1-18-17082-1,00.html
+

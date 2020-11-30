@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2006-10-03 19:37:00'
+layout: post
+slug: '1724'
+status: publish
+title: '...'
+wordpress_id: '1724'
+categories:
+ - aesthetics
+ - brain
+ - consumption
+ - design
+ - development
+ - environment
+ - geek
+ - get
+---
+
+[Creating Passionate Users: Aerons and Air Hockey... dot com excess or
+essential tools?][1]:
+
+> Don't underestimate the importance of your work environment, and don't be
+quick to consider things like Aerons and office aesthetics and toys wasteful.
+It's just the opposite.
+
+   [1]:
+http://headrush.typepad.com/creating_passionate_users/2006/10/post.html
+

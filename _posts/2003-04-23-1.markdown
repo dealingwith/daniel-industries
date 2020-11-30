@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - elsewhere
+---
+
+<a href="http://www.typepad.com/">typepad</a> MT moves into the turnkey blogging business. Big news.
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<a href="http://www.rejectionline.com/">Welcome to RejectionLine.com</a>
+

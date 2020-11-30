@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-04-10 14:16:00'
+layout: post
+slug: heheh-2
+status: publish
+title: Heheh
+wordpress_id: '2580'
+categories:
+ - art
+---
+
+![][1]
+
+[re][2]
+
+   [1]: http://danielsjourney.com/blog/files/2008/04/chickenartcritic.jpg
+
+   [2]: http://dealingwith.livejournal.com/681283.html
+

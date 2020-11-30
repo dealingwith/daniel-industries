@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Blog"
+date: 2014-01-03 15:50:01 -0600
+comments: true
+categories: [meta, technology, comment]
+---
+
+Blogging--the oldest, most abused topic on all blogs since the 1990's!
+
+In fact, the entire post I was going to write has [already been written by Adactio](http://adactio.com/journal/6620/), who links to, among others, the following:
+
+[Jeffrey Zeldman](http://www.zeldman.com/2013/12/11/this-is-a-website/):
+
+> Yes, recycling other people’s recycling of other people’s recycling of cat gifs is fun and easy on Tumblr. Yes, rubbing out a good bon mot on Twitter can satisfy one’s ego and rekindle a wistful remembrance of meaning. Yes, these things are still fine to do. But they are not all we can do on this web. This is our web. Let us not surrender it so easily to new corporate masters.
+
+[Frank Chimero](http://frankchimero.com/blog/2013/12/homesteading-2014/):
+
+> I can adjust how I look at the newness, change how I interact with these venues, and try to make a quieter, warmer, and slower place for my things. That’s good for the audience (I think), and good for my work and the things I share. You need to build a safe place so people don’t need to be on guard and stingy with their attention. If you can do that, we all get a breather.
+
+> It seems the best way for me to do this is to step out of the stream and “build my own house,” just like those architects. I don’t have to simplify or crop or be pulled out of context (unless I want that), which hopefully produces a fuller picture of who I am, what I like, and what I value. I’m returning to a personal site, which flips everything on its head. Rather than teasing things apart into silos, I can fuse together different kinds of content. Instead of having fewer sections to attend to distracted and busy individuals, I’ll add more (and hopefully introduce some friction, complexity, and depth) to reward those who want to invest their time.
+
+Ok, so *that* was the post I was going to write. Also chiming in are also some "old-school" A-list bloggers like:
+
+[Dave Winer](http://scripting.com/stories/2012/03/16/beforeIUseBranch.html):
+
+> ...view us not as hamsters in a nice fun and colorful and entertaining cage, instead as citizens of the web, sentient and powerful beings who create in a variety of ways that they can enhance by combining it with other people's writing.
+
+[Paul Ford](http://branch.com/b/owning-your-own-words-is-it-important-1#2dr4ucqayjo):
+
+> The web in 2012 is still more like Jenga than LEGOs.
+
+My friend Steve Collins links to [XKCD's take](http://xkcd.com/1305/ "brilliant") and [says](http://smallritual.blogs.com/small_ritual/2013/12/forgotten.html):
+
+> i like the idea that things can exist for an indefinite time in peace outside of mainstream or commercial attention.
+
+Steve still refuses to use capitalization, just like we all did [when we first started blogging 12+ years ago](/2001/09/19/1/). Seeing Steve's blog on *blogs.com* made me all nostalgic for when Ben Trott was *the* rockstar of personal online publishing. Now he's [not even mentioned on the moveable type wikipedia page](http://en.wikipedia.org/wiki/Movable_Type) and hasn't [blogged himself since 2011](http://ben.stupidfool.org/). Instead he [tweets like crazy](https://twitter.com/btrott).
+
+Anyway, even I've [already said](/2013/03/13/the-rumors-of-google-readers-death-have-not-been-greatly-exaggerated/):
+
+> I’ve been feeling a need to get back to the pre-Web-2.0 days of owning my own content.
+
+And so I still do, and half-resolve to. 

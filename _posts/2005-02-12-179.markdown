@@ -1,0 +1,47 @@
+---
+author: dealingwith
+date: '2005-02-12 18:34:00'
+layout: post
+slug: '179'
+status: publish
+title: '...'
+wordpress_id: '179'
+---
+
+Just when I think I'm getting back on my feet something(s) come along and
+shoot me down and the hours fly by and the dog pisses me off.
+
+Yesterday was a great day. But blogs aren't about the great days.
+
+I started getting this cough yesterday that this morning was a full blown
+sickness of some kind. I've been fighting this thing off a few times over the
+course of the last couple months. I don't know if it will last this time or
+not. Really horrible coughing and total lack of energy.
+
+After a very productive day yesterday on SWIM, today was a disaster. A bug
+that exists only on the underDE servers and not my local machine, and behaves
+differently in different situations (i.e. I'm looking right at the database
+and see it's wrong, but certain pages still somehow render the info correctly,
+others do not).
+
+I slept like three hours because of my illness (whatever it is), it's cold and
+rainy and the dog is being an ass and having to spend increasingly long
+amounts of time in his kennel (with door closed), which is only going to make
+the situation worse but I'm way too sick and tired to worry about it.
+
+When I was sleeping I had the weirdest dream. I was at this cool house,
+settling in, cleaning my car in the drive. And this black guy pulls up kinda
+funny in my driveway...oh and I'm floating in the air above the drive at this
+point for some reason...then he asks if I'm so-and-so, and even though it's
+not my name, I know it's me, know there's trouble, lie and say it isn't me,
+and he starts shooting at me and I try like hell to get back to the ground,
+which I guess I do, but then there was no way out of this drive the way it was
+except through this guy's car. Then I woke up.
+
+I'm thinking about making this into some fiction. I thought of the thing after
+I woke up. But I'm stealing one bit from a book I read as a kid.
+
+I'd also love to have that sucker analyzed by a professional.
+
+That means not you.
+

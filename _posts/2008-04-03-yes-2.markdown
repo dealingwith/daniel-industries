@@ -1,0 +1,25 @@
+---
+author: dealingwith
+date: '2008-04-03 14:39:00'
+layout: post
+slug: yes-2
+status: publish
+title: yes.
+wordpress_id: '2569'
+categories:
+ - consumption
+ - elsewhere
+ - imagining
+ - writing
+---
+
+[![][1]][2]
+
+[see also: [the unamerican] 2][3]
+
+   [1]: http://danielsjourney.com/blog/files/2008/04/chickentvads.jpg
+
+   [2]: http://www.savagechickens.com/blog/2008/04/commercial-break.html
+
+   [3]: http://docs.google.com/Doc?id=dfhn8fjc_155fpx43cct
+

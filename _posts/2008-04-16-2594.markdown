@@ -1,0 +1,16 @@
+---
+author: dealingwith
+date: '2008-04-16 18:58:00'
+layout: post
+slug: '2594'
+status: publish
+title: '...'
+wordpress_id: '2594'
+categories:
+ - mp3 of the day
+---
+
+[Index of /mp3][1]
+
+   [1]: http://www.dandeacon.com/mp3/
+

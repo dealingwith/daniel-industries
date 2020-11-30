@@ -1,0 +1,19 @@
+---
+author: dealingwith
+date: '2007-01-01 20:55:00'
+layout: post
+slug: qotd-3
+status: publish
+title: QotD
+wordpress_id: '1910'
+categories:
+ - quotable
+---
+
+> ...narrative; sex; art; listening; purpose; independence; sincerity; the
+cost-benefit analysis...
+
+[#][1]
+
+   [1]: http://cluck1000.livejournal.com/140350.html
+

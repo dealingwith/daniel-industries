@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2007-01-31 13:05:00'
+layout: post
+slug: mp3-of-the-day-22
+status: publish
+title: mp3 of the day
+wordpress_id: '1980'
+categories:
+ - mp3 of the day
+---
+
+[Birdless][1]
+
+[#][2]
+
+this song is laying cognisant in your coffin, the love of your life kissing
+your cold lips one more time. funny, you hadn't seen her in years.
+
+   [1]: http://daniel.iaspiretonothing.com/blog/files/2007/01/The%20Innocence%20Mission%20-%20Birdless.mp3
+
+   [2]: http://www.songmeanings.net/lyric.php?lid=3458764513820543767
+

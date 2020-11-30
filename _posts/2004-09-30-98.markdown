@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2004-09-30 23:38:00'
+layout: post
+slug: '98'
+status: publish
+title: '...'
+wordpress_id: '98'
+---
+
+[![][1]][2]
+
+"Tim Thibodeaux is perched precariously atop' Big Tex' as he prepares the 52
+-foot-tall talking cowboy figure for the opening of the State Fair of Texas in
+Dallas, Monday, Sept. 20, 2004. (AP Photo/Donna McWilliam)"
+
+photo and link thanks to [jwz][3]
+
+   [1]: http://www.jwz.org/images/capt.dn10109201907.state_fair_dn101.jpg
+
+   [2]: http://story.news.yahoo.com/news?tmpl=story2&u=/040920/480/dn10109201907&e=10&ncid=1756
+
+   [3]: http://www.livejournal.com/users/jwz
+

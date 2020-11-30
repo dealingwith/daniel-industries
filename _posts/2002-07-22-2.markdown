@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+Posted a completely beta version of a little digibit I'm doing for a future seven article on the <a href="hatemail.html">installations page</a>.
+

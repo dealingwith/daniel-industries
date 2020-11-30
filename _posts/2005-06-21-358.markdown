@@ -1,0 +1,14 @@
+---
+author: dealingwith
+date: '2005-06-21 23:54:00'
+layout: post
+slug: '358'
+status: publish
+title: '...'
+wordpress_id: '358'
+---
+
+[samuel jackson vs. napoleon dynamite][1]
+
+   [1]: http://svsn.ytmnd.com/
+

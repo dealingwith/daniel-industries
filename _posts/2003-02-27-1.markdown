@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - links
+---
+
+<a href="http://www.nytimes.com/2003/02/26/education/26SHIR.html?ex=1047279738&ei=1&en=37a8bf0bb4ed9b17">sent home from school on Feb. 17 for wearing a T-shirt with a picture of President Bush and the words "International Terrorist."</a>
+

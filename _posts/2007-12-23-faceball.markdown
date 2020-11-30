@@ -1,0 +1,28 @@
+---
+author: dealingwith
+date: '2007-12-23 00:04:00'
+layout: post
+slug: faceball
+status: publish
+title: faceball
+wordpress_id: '2417'
+categories:
+ - imagining
+ - minutia
+---
+
+[![][1]][2]
+
+[Booya!][3]
+
+Originally uploaded by [carissabyers][4]
+
+
+   [1]: http://farm3.static.flickr.com/2059/2130468896_3871608a11_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/2130468896/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/2130468896/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+

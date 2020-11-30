@@ -1,0 +1,23 @@
+---
+author: dealingwith
+date: '2005-11-08 17:57:00'
+layout: post
+slug: '698'
+status: publish
+title: '...'
+wordpress_id: '698'
+---
+
+_Web content is hard. Especially if you want really good Web content.
+
+It's harder than mapping out the information architecture. It's harder than
+the visual design, development or programming. By hard I mean it takes time,
+effort and skill. And lots of it. All three.
+
+It's not all about writing. It's much more than that. It's about writing, and
+editing, and knowing what your readers want_
+
+[blueflavor: the challenge of web content][1]
+
+   [1]: http://blueflavor.com/ed/content/the_challenge_of_web_content.php
+

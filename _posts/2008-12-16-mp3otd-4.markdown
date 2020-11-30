@@ -1,0 +1,20 @@
+---
+author: dealingwith
+date: '2008-12-16 15:04:00'
+layout: post
+slug: mp3otd-4
+status: publish
+title: Mp3otD
+wordpress_id: '2882'
+categories:
+ - mp3 of the day
+---
+
+[Super Jingle Bros][1]
+
+[from][2]
+
+   [1]: http://www.doctoroctoroc.com/8BitJesus/09%20Super%20Jingle%20Bros.mp3
+
+   [2]: http://www.doctoroctoroc.com/video-game-inspired-music/8-bit-jesus-new-christmas-chip-tune-album/
+

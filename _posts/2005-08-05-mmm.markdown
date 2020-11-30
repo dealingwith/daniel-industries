@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2005-08-05 00:09:00'
+layout: post
+slug: mmm
+status: publish
+title: mmm...
+wordpress_id: '468'
+---
+
+![][1]
+
+   [1]:
+http://ellensjourney.org/stranger/archives/images/bascarsijske_noci.jpg
+

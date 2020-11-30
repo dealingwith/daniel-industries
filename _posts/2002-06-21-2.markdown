@@ -1,0 +1,21 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+This is the best bio I've ever seen:
+<blockquote>
+<a href="http://www.kungfugrippe.com">Kung Fu Grippe</a> is a weblog by Merlin Mann. 
+
+As has been widely reported in the popular press, Merlin was born to a humble family of midwestern breakdancers who traded him to a klezmer band for a case of motor oil when they realized what a whiner he was becoming. Merlin quickly escaped the combo by disguising himself as a copy of "Field & Stream" magazine that had been left in a chiropractor's office. His subsequent hardscrabble existence on the mean streets of suburban Cincinnati led one harried case worker to report, "His self-esteem far outstrips any basis in reality, although his skill at the daily 'Jumble' is quite remarkable." 
+
+Merlin's affinity for dice games, starchy foods, and blood sport landed him in a medium-security penitentiary for the better part of the late 1970s, which was just as well since he didn't personally own any fondue forks or earth shoes. Upon his parole, a now heavily-tattooed Merlin attended liberal arts college on a fraudulent one-armed pushup scholarship. His studies, such as they were, concentrated in spastic argument, shoddy inference, and obviously, overwriting. 
+
+Kung Fu Grippe was begun by Merlin when he was advised by his internist to become much more self-absorbed and presumptuous. Ever the sheep, Merlin got to work churning out his undistinguished blend of obvious remarks and tiresome links. Disgusted readers everywhere, though, agree that his half-baked opinions are the most appalling feature of the site. A researcher in Munich reports that in 76% of the instances he observed, Merlin had not even bothered to finish reading his own posts, let alone those of the innocents he so broadly castigates. And therein lies the real appeal. 
+
+Through a series of inexplicable good fortunes, Merlin has never had his ass properly kicked. He can eat his weight in cinnamon, breeds a violent race of super-intelligent snails, and shuns the use of smoke detectors and antibiotics. He lives in an ocean-side community in northern California where he churns butter in a historically-inaccurate production of "Oedipus, the King." 
+
+If you are mean to him, he will cry like an infant with the colic, but if you offer him some gum, he'll follow you home, provided he's allowed unlimited access to a clean restroom. He's very touched that you've read this far.</blockquote>
+

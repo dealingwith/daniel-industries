@@ -1,0 +1,31 @@
+---
+author: dealingwith
+date: '2009-11-11 23:10:00'
+layout: post
+slug: 258-2
+status: publish
+title: '...'
+wordpress_id: '3249'
+categories:
+ - simplicity
+---
+
+> You can try to win a features arms race by offering everything under the
+sun. Or you can just focus on a couple of things and do ‘em really well and
+get people who really love those things to love your product. For little guys,
+that’s a smarter route.
+
+
+When you choose that path, you get clarity. Everything is simpler. It’s
+simpler to explain your product. It’s simpler for people to understand. It’s
+simpler to change it. It’s simpler to maintain it. It’s simpler to start using
+it. The ingredients are simpler. The packaging is simpler. Supporting it is
+simpler. The manual is simpler. Figuring out your message is simpler. And most
+importantly, succeeding is simpler.
+
+[#][1]
+
+   [1]: http://37signals.com/svn/posts/2007-how-chipotle-pinkberry-and-others-win-big-by-doing-just-a-few-things-well
+
+   
+

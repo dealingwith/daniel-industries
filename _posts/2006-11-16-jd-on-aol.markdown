@@ -1,0 +1,21 @@
+---
+author: dealingwith
+date: '2006-11-16 13:21:00'
+layout: post
+slug: jd-on-aol
+status: publish
+title: JD on AOL
+wordpress_id: '1826'
+categories:
+ - elsewhere
+ - music
+ - video
+---
+
+The amazingly genius [Mountain Goats on some new AOL music online show
+thing][1]. Be careful though as the thing has a horrible user experience and
+will send you off into impossible-to-navigate content netherworlds very
+quickly.
+
+   [1]: http://dl.aol.com/index.html?date=2006-11-14&video=1
+

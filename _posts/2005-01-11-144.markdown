@@ -1,0 +1,17 @@
+---
+author: dealingwith
+date: '2005-01-11 02:08:00'
+layout: post
+slug: '144'
+status: publish
+title: '...'
+wordpress_id: '144'
+---
+
+1. Grab the nearest book. 2. Open the book to page 123. 3. Find the fifth
+sentence. 4. Post the text of the sentence in your journal along with these
+instructions. 5. Don't search around and look for the "coolest" book you can
+find. Do what's actually next to you.
+
+_As an aside, let's look at the line when we construct the _Engine_ object._
+

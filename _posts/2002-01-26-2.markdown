@@ -1,0 +1,9 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<img src="http://www-scf.usc.edu/~meyerhof/logo-1.gif">
+

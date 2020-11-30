@@ -1,0 +1,42 @@
+---
+author: dealingwith
+date: '2010-02-20 19:05:00'
+layout: post
+slug: nearness
+status: publish
+title: Nearness
+wordpress_id: '3256'
+categories:
+ - design
+ - mobile
+ - people
+ - social software
+ - software
+ - ux
+ - video
+---
+
+[http://vimeo.com/moogaloop.swf?clip_id=6588461&server=vimeo.com&show_title=1&
+show_byline=0&show_portrait=0&color=ffffff&fullscreen=1][1]
+
+[Nearness][2] from [timo][3] on [Vimeo][4].
+
+Nearness explores interacting without touching.
+
+
+More [here][5] and [here][6].
+
+   [1]: http://vimeo.com/moogaloop.swf?clip_id=6588461&server=vimeo.com&show_title=1&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1
+
+   [2]: http://vimeo.com/6588461
+
+   [3]: http://vimeo.com/timoarnall
+
+   [4]: http://vimeo.com/
+
+   [5]: http://www.nearfield.org/2009/09/nearness
+
+   [6]: http://berglondon.com/blog/2009/09/15/nearness/
+
+   
+

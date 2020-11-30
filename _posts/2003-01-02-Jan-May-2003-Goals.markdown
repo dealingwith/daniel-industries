@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'Jan-May 2003 Goals'
+categories:
+ - minutia
+---
+
+
+
++ Micha on Serialtext and submitted to So New Media
+
+  - edit, add, edit, submit
+
++ At least waiting for IR nonprofit status; i.e. all my work for that done and submitted
+
+  - (ASAP)
+
++ SWM desktop beta released
+
+  - 1.0 released
+
+  - (review 1.0 <a href="./index.php?archive=blog_2002_11_18_new.xml&id_pass=3">release schedule</a>)
+
++ IWS self-sufficient
+
+  - CMS completed and fully implemented - tools and docs to Demitri
+
+  - ecom automation completed and AbleComm doc'd

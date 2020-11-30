@@ -1,0 +1,11 @@
+---
+layout: post
+title: '...'
+categories:
+ - minutia
+---
+
+<i>Balkans.comment.elsewhere</i>
+
+<a href="http://news.bbc.co.uk/2/hi/world/europe/2347643.stm">BBC NEWS | Europe | Bosnians jailed over mosque riots</a>
+

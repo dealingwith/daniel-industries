@@ -1,0 +1,22 @@
+---
+author: dealingwith
+date: '2007-08-13 07:55:00'
+layout: post
+slug: '2259'
+status: publish
+title: '...'
+wordpress_id: '2259'
+categories:
+ - nyc
+ - people
+ - quotable
+---
+
+> City of pedants. People come here because they know better. The myth is that
+they left because they were too big for their small towns but they actually
+came here because they were running out of people to impress.
+
+[The Bike Store][1]
+
+   [1]: http://www.ftrain.com/the-tour-002.html
+

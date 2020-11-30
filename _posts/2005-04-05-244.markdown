@@ -1,0 +1,15 @@
+---
+author: dealingwith
+date: '2005-04-05 12:44:00'
+layout: post
+slug: '244'
+status: publish
+title: '...'
+wordpress_id: '244'
+---
+
+[Verse of the day][1] in RSS. will see if it's going through in order or doing
+the bible russian roulette thing.
+
+   [1]: http://biblegateway.com/
+

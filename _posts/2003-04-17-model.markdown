@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'model'
+categories:
+ - imagining
+---
+
+<img src="images/modeli.jpg" />
+

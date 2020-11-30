@@ -1,0 +1,24 @@
+---
+author: dealingwith
+date: '2005-12-19 12:17:00'
+layout: post
+slug: '806'
+status: publish
+title: '...'
+wordpress_id: '806'
+---
+
+_In this Research Brief, we reviewed the home pages of 10 prominent retailers
+and found that all of them displayed product images that were either non-
+clickable or were clickable but did not lead to a page where the featured
+product could be bought. Even worse, a surprising number of high-profile
+retailers featured products on their homepages that were nowhere to be found
+within their sites._
+
+[37 Signals brief: sites that don't click][1]
+
+....Er, the brief download link is broken. Appears the sites that don't click
+brief don't click....
+
+   [1]: http://www.37signals.com/researchbrief_oct2002.php
+

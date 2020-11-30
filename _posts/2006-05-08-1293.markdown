@@ -1,0 +1,18 @@
+---
+author: dealingwith
+date: '2006-05-08 13:07:00'
+layout: post
+slug: '1293'
+status: publish
+title: '...'
+wordpress_id: '1293'
+categories:
+ - art
+ - elsewhere
+ - imagining
+---
+
+[best. book. title.][1]
+
+   [1]: http://store.iamstillalive.net/store/show/22
+

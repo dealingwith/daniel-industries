@@ -1,0 +1,29 @@
+---
+author: dealingwith
+date: '2008-06-28 14:05:00'
+layout: post
+slug: daniel-4
+status: publish
+title: Daniel
+wordpress_id: '2682'
+categories:
+ - imagining
+ - minutia
+---
+
+[![][1]][2]
+
+[Daniel][3]
+
+Originally uploaded by [carissabyers][4]
+
+I suck at bowling but it sure is fun!
+
+   [1]: http://farm4.static.flickr.com/3219/2613677520_ff63740594_m.jpg
+
+   [2]: http://www.flickr.com/photos/carissabyers/2613677520/ (photo sharing)
+
+   [3]: http://www.flickr.com/photos/carissabyers/2613677520/
+
+   [4]: http://www.flickr.com/people/carissabyers/
+
