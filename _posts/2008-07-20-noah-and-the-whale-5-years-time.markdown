@@ -10,3 +10,4 @@ categories:
  - mp3 of the day
 ---
 
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/DkaIQSMnV-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
