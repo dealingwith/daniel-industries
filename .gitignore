@@ -67,4 +67,5 @@ Rakefile
 
 google*.html
 keybase.txt
-_site
+
+_site/*
