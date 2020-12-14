@@ -24,7 +24,9 @@
 
     h1, h2, h3, h4, h5, h6, header *, .heading-style {
       font-family: Nunito, sans-serif;
+      margin-bottom: 0.5em;
     }
+
     h1 {
       font-size: 2em;
     }
@@ -54,13 +56,15 @@
     }
 
     a {
-      color: rgb(1 1 200 / 80%);
+      color: #0101ac;
       cursor: pointer;
       font-weight: 400;
-      text-decoration: none;
     }
     a:hover, a:focus {
-      border-bottom: 1px solid rgb(1 1 200 / 80%);
+      text-decoration: underline;
+    }
+    .nav a:hover, .nav a:focus {
+      text-decoration: none; 
     }
     a strong {
       color: inherit;
@@ -72,17 +76,35 @@
     .bg-gray-900 a {
       color: #9ca3af;
     }
-    .bg-gray-900 a:hover, .bg-gray-900 a:focus {
+    /*.bg-gray-900 a:hover, .bg-gray-900 a:focus {
       border-bottom: 1px solid #9ca3af;
-    }
+    }*/
     
     .main-content p, .main-content hr, .main-content div, .main-content iframe {
       margin-bottom: 1em;    
+    }
+
+    ul, li {
+      list-style: disc;
+    }
+    .nav ul, .nav li {
+      list-style: none;
+    }
+    li {
+      margin-bottom: 0.5em;
     }
     
     .post-metadata {
       color: rgba(55,65,81,.6);
       font-size: .9em;
+    }
+    .post-metadata a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .post-metadata a:hover {
+      color: #0101ac;
+      text-decoration: underline;
     }
     .bg-gray-900 .post-metadata {
       color: #9ca3af;

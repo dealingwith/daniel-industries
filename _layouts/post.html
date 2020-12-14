@@ -3,15 +3,15 @@ layout: default
 ---
 
 <div class="w-full md:w-1/2 md:pr-32 order-3 md:order-1">
-  <div class="max-w-md md:float-right md:text-right leading-relaxed tracking-normal md:sticky md:top-0 ">
+  <div class="max-w-md md:float-right md:text-right leading-relaxed tracking-normal md:sticky md:top-0 nav">
     {% if page.previous.url %}
-      <p class="font-bold mt-9 mb-1">Previous</p>
+      <p class="font-bold mt-7 mb-2">Previous</p>
       <ul class="flex flex-wrap justify-between flex-col">
         <li><a href="{{page.previous.url}}" class="text-sm">{{ page.previous.title }}</a></li>
       </ul>
     {% endif %}
     {% if page.next.url %}
-      <p class="font-bold mt-4 mb-1">Next</p>
+      <p class="font-bold mt-4 mb-2">Next</p>
       <ul class="flex flex-wrap justify-between flex-col">
         <li><a href="{{page.next.url}}" class="text-sm">{{ page.next.title }}</a></li>
       </ul>
@@ -20,8 +20,14 @@ layout: default
 </div>
 <div class="w-full md:w-1/2 order-1 md:order-2 main-content">
   <div class="max-w-md leading-relaxed tracking-normal">
-    <h1 class="font-bold my-0 leading-10">{{ page.title }}</h1>
-    <p class="mb-2 post-metadata">{{ page.content | number_of_words }} words written on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d %Y" }}</time></p>
+    <h1 class="font-bold my-0 leading-8">{{ page.title }}</h1>
+    <p class="mb-2 post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words written on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d %Y" }}</time></a></p>
+    {% if page.excerpt != "" %}
+      <div class="italic text-sm">
+        {{ page.excerpt }}
+      </div>
+      <hr>
+    {% endif %}
 
     {{ page.content }}
 
