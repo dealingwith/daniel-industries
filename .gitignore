@@ -69,3 +69,5 @@ google*.html
 keybase.txt
 
 _site/*
+
+.rake_tasks~
