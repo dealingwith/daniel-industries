@@ -44,7 +44,7 @@ Nadia Eghbal, in the introduction to her excellent book on open source, _[Workin
 
 > The relationship between platforms and their creators is critical to the discussion of how our online world is changing [p 22]
 
-Her newsletter, [as I've previously mentioned](http://www.daniel.industries/2020/07/27/subscribe-to-monomythical/), is gold. [This issue about the book](https://nayafia.substack.com/p/22-working-in-public):
+Her newsletter, [as I've previously mentioned](/2020/07/27/subscribe-to-monomythical/), is gold. [This issue about the book](https://nayafia.substack.com/p/22-working-in-public):
 
 > Since 2016, however, we are undeniably moving into a second epoch of the social web, one in which “public” no longer equals “participatory.” This shift requires that we refactor our understanding of online communities.
 
