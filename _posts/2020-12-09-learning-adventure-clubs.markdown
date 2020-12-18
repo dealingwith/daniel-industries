@@ -6,9 +6,9 @@ date: 2020-12-09 18:52:50 -0600
 categories: 
 ---
 
-🍿 Today I had the chance to participate in an early iteration of an egghead Course Club. I [once briefly mentioned](/2020/08/18/internet-homesteading-renaissance/) that I was part of an [Adventure Club](https://joelhooks.com/knowledge-adventure-club). That was my first introduction to the concept and was a great success and a lot of fun.
+🐣 Today I had the chance to participate in an early iteration of an egghead Course Club. I [once briefly mentioned](/2020/08/18/internet-homesteading-renaissance/ "The one thing that seems to have sprung out of this post-Facebook/locked-down era is the resurgence of Communities of Practice") that I was part of an [Adventure Club](https://joelhooks.com/knowledge-adventure-club). That was my first introduction to the concept and was a great success and a lot of fun.
 
-🐣 We're beginning to plant the course club seed within our community at [egghead](https://next.egghead.io). Today was a baby step in that direction by way of a course watch party. We watched [WordPress as a Headless Content Management System (CMS) and GraphQL API](https://next.egghead.io/playlists/headless-wordpress-4a14).
+🍿 We're beginning to plant the course club seed within our community at [egghead](https://next.egghead.io). Today was a baby step in that direction by way of a course watch party. We watched [WordPress as a Headless Content Management System (CMS) and GraphQL API](https://next.egghead.io/playlists/headless-wordpress-4a14).
 
 ![](/assets/2020/12/wordpress-course-card.jpg)
 

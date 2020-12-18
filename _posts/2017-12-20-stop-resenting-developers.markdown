@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop resenting developers"
-excerpt: "Musings on why software engineers are othered within the business community"
+excerpt: 
 date: 2017-12-20 09:33:40 -0600
 comments: true
 categories: 
