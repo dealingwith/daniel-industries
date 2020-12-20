@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily Notes"
+title: "Foxhole Notes"
 excerpt: 
 date: 2020-12-18 17:52:09 -0600
 categories: 
