@@ -30,5 +30,5 @@ I'm not exactly public about this aspect of my life (I ticked over five years so
 
 > When our condition is dependent on the actions of another person, when we're in that limbo, that's a tough place to be.
 
-> Meetings like this keep me right sized. (But) by 1:30 I could be out directing traffic.
+> Meetings like this keep me right-sized. (But) by 1:30 I could be out directing traffic.
 
