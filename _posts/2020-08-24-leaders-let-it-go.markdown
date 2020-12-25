@@ -36,9 +36,11 @@ Then I stumbled upon [Stay SaaSy](https://staysaasy.com/) and it was like every 
 
 > To be optimistic...
 
-> * Have a never-ending well of persistence. You might feel like Sisyphus pushing that boulder up the hill day in and day out. Optimistic people understand that most of one’s work life is pushing boulders up hills and have a good attitude about it.  
-* Get over things. If you can’t reset your opinion on people, problems, slights, and all other things to an absolute neutral, you’ll be saddled with a distracting and deteriorating buildup of resentment. Learn to get over things completely.  
-* Commit. If you’re second guessing yourself every step of the way you’ll never be able to sustain optimism. Set some timeframe for re-evaluation--maybe 6 months or a year--and then forget about anything that sounds like “maybe”.
+> Have a never-ending well of persistence. You might feel like Sisyphus pushing that boulder up the hill day in and day out. Optimistic people understand that most of one’s work life is pushing boulders up hills and have a good attitude about it.  
+
+> Get over things. If you can’t reset your opinion on people, problems, slights, and all other things to an absolute neutral, you’ll be saddled with a distracting and deteriorating buildup of resentment. Learn to get over things completely.  
+
+> Commit. If you’re second guessing yourself every step of the way you’ll never be able to sustain optimism. Set some timeframe for re-evaluation--maybe 6 months or a year--and then forget about anything that sounds like “maybe”.
 
 > Optimism isn’t a feeling that puffs your lungs up with rejuvenating life and leads to transcendent moments of inspiration. It’s removing the friction that your ego and backbone want to instinctively introduce when faced with challenges. It’s a way to move forward.
 
