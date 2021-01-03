@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekend in Portland, Part 2"
+title: "Weekend in Portland Part 2"
 excerpt: 
 date: 2020-03-04 22:10:09 -0600
 categories: 
