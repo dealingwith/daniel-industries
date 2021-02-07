@@ -3,7 +3,7 @@ layout: post
 title: "Tweaking the setup"
 excerpt: "Spent tonight tweaking my Ubuntu setup 🤓"
 date: 2020-11-28 23:43:41 -0600
-categories: 
+categories: [linux]
 ---
 
 Via ["Making a 10-year-long MacBook owner switch to Pop OS"](https://www.reddit.com/r/pop_os/comments/k1f4nj/making_a_10yearlong_macbook_owner_switch_to_pop_os/) I discovered [this Pop_OS setup guide](https://github.com/themagicalmammal/howtopopbuntu) from which I stole or was inspired to change some things.
@@ -23,3 +23,9 @@ I installed [Starship](https://starship.rs/).
 I installed FiraCode Nerd Font via [Nerd Fonts](https://www.nerdfonts.com/font-downloads) and am now using it wherever I use monospaced fonts. Not sure about this one.
 
 I changed my theme up to [Skeuos](https://www.gnome-look.org/p/1441725/) as seen in the above screenshots.
+
+---
+
+[previously](http://www.daniel.industries/2020/08/06/linux-setup-update/)
+
+[before that](http://www.daniel.industries/2020/07/11/my-linux-setup/)
