@@ -7,7 +7,6 @@ permalink:           /:year/:month/:day/:title/
 title:               daniel.industries
 tagline:             "seeking, stories, beauty, meaning"
 url:                 http://daniel.industries
-paginate:            10
 baseurl:             ""
 exclude:             []
 
@@ -19,4 +18,4 @@ author:
   url:               http://daniel.industries
   email:             dealingwith@gmail.com
 
-plugins: [jekyll-paginate]
+plugins: []

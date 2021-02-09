@@ -7,7 +7,7 @@ title: Home
   <div class="max-w-md md:float-right md:text-right leading-relaxed tracking-normal md:sticky md:top-0 nav">
     <p class="font-bold mt-7 mb-2">Previous Posts</p>
     <ul class="flex flex-wrap justify-between flex-col">
-      {% for post in paginator.posts offset:1 limit:5 %}
+      {% for post in site.posts offset:1 limit:5 %}
         <li><a href="{{ site.baseurl }}{{ post.url }}" class="text-sm">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
