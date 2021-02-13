@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Ghost Rider"
-date: 2012-08-26 11:58
+date: 2012-09-03 11:58
 comments: true
 categories: [books, quotable]
 ---
 
-![images/books07090402.jpg](images/books07090402.jpg)
+![](/assets/2012/09/books07090402.jpg)
 
 Over the last year or so I've been slowing working my way through Neil Peart's _[Ghost Rider](http://www.amazon.com/Ghost-Rider-Travels-Healing-Road/dp/1550225480/)_, his memoir of a motorcycle journey he took after losing his daughter and wife in a single year. Documenting his 55,000-mile ride through Canada, the United States, Mexico and Belize, Neil does a good job of not only communicating the alien feelings experienced within the depths of loss, but the frustration of having to live in this futile, superficial and mostly pathetic world. As such, he does spend a fair amount of time complaining about Americans, but I was sympathetic to how many things are annoying when you're in the depths of such an experience...
 
