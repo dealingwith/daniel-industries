@@ -4,6 +4,7 @@ title: "Stephen Wolfram: Some Details of My Personal Infrastructure"
 excerpt: "Only SOME details"
 date: 2020-11-30 22:37:11 -0600
 categories: 
+ - productivity
 ---
 
 > I’m a person who’s only satisfied if I feel I’m being productive. I like figuring things out. I like making things. And I want to do as much of that as I can. And part of being able to do that is to have the best personal infrastructure I can. Over the years I’ve been steadily accumulating and implementing “personal infrastructure hacks” for myself. Some of them are, yes, quite nerdy. But they certainly help me be productive...

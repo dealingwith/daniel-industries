@@ -3,7 +3,9 @@ layout: post
 title: "Monomythical Monasteries"
 excerpt: 
 date: 2021-02-08 08:23:32 -0600
-categories: 
+categories:
+ - elsewhere
+ - quotable
 ---
 
 ![](/assets/2021/02/inbox.png)

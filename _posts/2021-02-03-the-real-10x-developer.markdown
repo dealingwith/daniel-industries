@@ -4,6 +4,9 @@ title: "The Real 10x Developer"
 excerpt: 
 date: 2021-02-03 07:12:25 -0600
 categories: 
+ - egghead
+ - elsewhere
+ - quotable
 ---
 
 [![](/assets/2021/02/jason-10x.png)]((https://egghead.io/talks/egghead-what-if-the-real-10x-developer-is-the-friends-we-made-along-the-way))

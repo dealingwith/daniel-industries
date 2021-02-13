@@ -4,6 +4,7 @@ title: "Cal Newport on Productivity Systems"
 excerpt: 
 date: 2020-12-28 22:41:23 -0600
 categories: 
+ - productivity
 ---
 
 From Cal Newport's podcast [episode 53: _Covey's Quads, "Perfect" Productivity Systems, and Reducing Laziness_](https://www.buzzsprout.com/1121972/6823888-ep-53-covey-s-quads-perfect-productivity-systems-and-reducing-laziness), on the futility of perfecting productivity systems. This bit starts at [31:41](https://www.listennotes.com/podcasts/deep-questions/ep-53-coveys-quads-perfect-rjOBPWeMwAH/?t=1901 "Which you can get to directly with this link").

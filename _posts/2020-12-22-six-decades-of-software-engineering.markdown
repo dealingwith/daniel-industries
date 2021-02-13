@@ -4,6 +4,8 @@ title: "Six Decades of Software Engineering"
 excerpt: 
 date: 2020-12-22 23:11:19 -0600
 categories: 
+ - software
+ - development
 ---
 
 [Six Decades of Software Engineering](https://www.infoq.com/presentations/six-decades-software-engineering/)

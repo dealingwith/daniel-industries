@@ -4,6 +4,8 @@ title: "2020 Year in Review Part 1"
 excerpt: 
 date: 2020-12-24 07:59:26 -0600
 categories: 
+ - work
+ - year-in-review
 ---
 
 **The Sale**

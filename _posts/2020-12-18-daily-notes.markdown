@@ -4,6 +4,7 @@ title: "Foxhole Notes"
 excerpt: 
 date: 2020-12-18 17:52:09 -0600
 categories: 
+ - covid
 ---
 
 COVID-19 is completely out of control and no one seems to care. It's pretty easy to see that January 2021 is going to be a very dark month and that it might be 2022 before things return to normal, and by then there could be another coronavirus ravaging humanity. [My April post about numbers](/2020/04/25/numbers/) was so naive about how bad things could get. It could become the 2nd biggest killer of Americans ever, only outdone by the Civil War. How appropriate given the politicization of the whole mess.

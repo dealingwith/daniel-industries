@@ -4,6 +4,8 @@ title: "Learning Adventures"
 excerpt: 
 date: 2020-12-09 18:52:50 -0600
 categories: 
+ - egghead
+ - work
 ---
 
 🐣 Today I had the chance to participate in an early iteration of an egghead Course Club. I [once briefly mentioned](/2020/08/18/internet-homesteading-renaissance/ "The one thing that seems to have sprung out of this post-Facebook/locked-down era is the resurgence of Communities of Practice") that I was part of an [Adventure Club](https://joelhooks.com/knowledge-adventure-club). That was my first introduction to the concept and was a great success and a lot of fun.

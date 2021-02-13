@@ -4,6 +4,7 @@ title: "Google PM on Postlight Podcast"
 excerpt: "Mostly about developing platforms"
 date: 2020-12-05 19:34:51 -0600
 categories: 
+ - product
 ---
 
 [Managing Product in the Matrix: With Google’s Ben Wilson](https://postlight.com/podcast/managing-product-in-the-matrix-with-googles-ben-wilson)

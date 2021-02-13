@@ -3,7 +3,10 @@ layout: post
 title: "2020 Year in Review Part 3"
 excerpt: 
 date: 2021-01-02 11:55:04 -0600
-categories: 
+categories:
+ - egghead
+ - work
+ - year-in-review
 ---
 
 **The Job**
