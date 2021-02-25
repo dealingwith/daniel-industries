@@ -7,6 +7,7 @@ categories:
  - egghead
  - work
  - year-in-review
+ - minutia
 ---
 
 **The Job**

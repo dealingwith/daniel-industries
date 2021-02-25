@@ -5,6 +5,7 @@ excerpt: "I'm finishing this series more out of obligation than interest"
 date: 2021-02-13 00:01:24 -0600
 categories: 
  - year-in-review
+ - minutia
 ---
 
 **The Riding**

@@ -87,18 +87,22 @@
     ul li {
       list-style: disc;
     }
-    .nav ul, .nav li {
-      list-style: none;
-    }
     li {
       margin-bottom: 0.5em;
-    }
-    ul li, ol li {
-      list-style: decimal;
       margin-left: 1em;
+      padding-left: 0.5em;
+    }
+    ol li {
+      list-style: decimal;
     }
     ul, ol {
       margin-bottom: 1em;
+    }
+    li > ul, li > ol {
+      margin: 0.3em 0 0;
+    }
+    .nav ul, .nav li {
+      list-style: none;
     }
     
     .post-metadata {
@@ -106,7 +110,7 @@
       font-size: .9em;
     }
     .post-metadata a {
-      color: inherit;
+      color: rgba(55,65,81,1);
       text-decoration: none;
     }
     .post-metadata a:hover {
