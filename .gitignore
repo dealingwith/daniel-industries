@@ -71,3 +71,4 @@ keybase.txt
 _site/*
 
 .rake_tasks~
+.vscode
