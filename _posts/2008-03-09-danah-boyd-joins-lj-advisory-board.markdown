@@ -7,12 +7,11 @@ status: publish
 title: Danah Boyd joins LJ advisory board
 wordpress_id: '2528'
 categories:
- - brilliant
  - lj
  - social software
 ---
 
-[LiveJournal Advisory Board][1]
+[LiveJournal Advisory Board](http://www.zephoria.org/thoughts/archives/2008/02/28/livejournal_adv.html)
 
 > As the advisory board started coming together, I got even more excited. Brad
 Fitzpatrick, Esther Dyson, Lawrence Lessig... These are all people that I love
@@ -24,7 +23,3 @@ leading the U.S. LJ product team. (Jason and I worked very closely together at
 Blogger/Google and I know that I can trust him to be community-minded.) In
 other words, lots of folks I respect and lots of opportunity for meaningful
 connections between users and the company.
-
-   [1]:
-http://www.zephoria.org/thoughts/archives/2008/02/28/livejournal_adv.html
-
