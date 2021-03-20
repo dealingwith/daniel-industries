@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<div class="w-full md:w-1/3 md:pr-32 order-3 md:order-1">
-  <div class="max-w-md md:float-right md:text-right leading-relaxed tracking-normal md:sticky md:top-0 nav">
+<div class="w-full lg:w-1/3 lg:pr-32 order-3 lg:order-1">
+  <div class="max-w-lg lg:float-right lg:text-right leading-relaxed tracking-normal lg:sticky lg:top-0 nav">
     <p class="font-bold mt-7 mb-2">Previous Posts</p>
     <ul class="flex flex-wrap justify-between flex-col">
       {% for post in site.posts offset:1 limit:5 %}
@@ -15,7 +15,7 @@ title: Home
 </div>
 
 {% assign post = site.posts.first %}
-<div class="w-full md:w-2/3 order-1 md:order-2 main-content md:top-0">
+<div class="w-full lg:w-2/3 order-1 lg:order-2 main-content lg:top-0">
   <div class="max-w-lg leading-relaxed tracking-normal">
     <h1 class="font-bold my-0 leading-8">{{ post.title }}</h1>
     <p class="mb-2 post-metadata"><a href="{{ post.url }}">{{ post.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a></p>
