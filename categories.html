@@ -8,7 +8,7 @@ title: Categories
 <ul>
   {% for category in sorted_cats %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-      <li><a href="#{{ category_name }}" {% if category[1].size > 10 %}class="bold"{% endif %}>{{ category_name }}</a> ({{ category[1].size }})</li>
+      <li style="padding: 3px"><a href="#{{ category_name }}"{% if category[1].size > 10 %} class="long_post"{% endif %}>{{ category_name }}</a> ({{ category[1].size }})</li>
   {% endfor %}
 </ul>
 
@@ -17,7 +17,8 @@ title: Categories
   <h3><a name="{{ category_name }}"></a>{{ category_name }}</a></h3>
   <ul>
     {% for post in site.categories[category_name] %}
-      <li><a class="archive_link" href="{{ post.url }}">{{post.title}}</a></li>
+      {% assign wordcount = post.content | number_of_words %}
+      <li style="padding: 3px"><a{% if wordcount > 300 %} class="long_post"{% endif %} href="{{ post.url }}">{{post.title}}</a> ({{wordcount}})</li>
     {% endfor %}
   </ul>
 {% endfor %}
