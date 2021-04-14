@@ -44,12 +44,6 @@ a {
   cursor: pointer;
   font-weight: 400;
 }
-a:hover, a:focus {
-  text-decoration: underline;
-}
-.nav a:hover, .nav a:focus {
-  text-decoration: none; 
-}
 a strong {
   color: inherit;
 }
@@ -59,6 +53,9 @@ a.dead {
 }
 .bg-gray-900 a {
   color: #9ca3af;
+}
+article a {
+  text-decoration: underline;
 }
 
 .main-content p, .main-content hr, .main-content div, .main-content iframe, .main-content table {
@@ -70,8 +67,9 @@ ul li {
 }
 li {
   margin-bottom: 0.5em;
+}
+article li {
   margin-left: 1em;
-  padding-left: 0.5em;
 }
 ol li {
   list-style: decimal;
