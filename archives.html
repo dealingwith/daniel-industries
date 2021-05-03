@@ -7,13 +7,13 @@ title: Archives
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul></div>{% endunless %}
-    <div style="float:left; width: 400px">
+    <div>
       <h3>{{ currentdate }}</h3>
         <ul>
     {% assign date = currentdate %}
   {% endif %}
     {% assign wordcount = post.content | number_of_words %}
-    <li style="font-size:.9rem; padding:2px">
+    <li>
       <a{% if wordcount > 300 %} class="long_post"{% endif %} href="{{ post.url }}">{{ post.title }}</a> ({{wordcount}})
     </li>
   {% if forloop.last %}</ul></div>{% endif %}
