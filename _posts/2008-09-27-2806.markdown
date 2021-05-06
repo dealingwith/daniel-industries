@@ -3,22 +3,12 @@ author: dealingwith
 date: '2008-09-27 19:02:00'
 layout: post
 slug: '2806'
-status: publish
-title: '...'
-wordpress_id: '2806'
+title: 'Some Bridges Are For Burning'
 categories:
  - local
  - music
  - video
 ---
 
-
-[I Love Math - Some Bridges Are For Burning][1] from [The Dandee][2] on
-[Vimeo][3].
-
-   [1]: http://vimeo.com/1799337?pg=embed&sec=1799337
-
-   [2]: http://vimeo.com/thedandee?pg=embed&sec=1799337
-
-   [3]: http://vimeo.com?pg=embed&sec=1799337
-
+<iframe src="https://player.vimeo.com/video/1799337" width="640" height="483" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/1799337">I  Love Math - Some Bridges Are For Burning</a> from <a href="https://vimeo.com/thedandee">The Dandee</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

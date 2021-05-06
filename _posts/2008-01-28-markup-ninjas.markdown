@@ -13,23 +13,16 @@ categories:
  - imagining
 ---
 
-[![][1]][2]
+![][1]
 
-[][3]
-
-Originally uploaded by [photorealizm][4]
+Photo by [photorealizm][4]
 
 These guys kick some serious ass. Watch out, neterati, Dallas is about to
 stomp right through ya
 
-
-http://markupninjas.com/
+<a class="dead">markupninjas.com</a>
 
    [1]: http://farm3.static.flickr.com/2293/2224339093_1a89f84fda_m.jpg
-
-   [2]: http://www.flickr.com/photos/michaelcummings/2224339093/ (photosharing)
-
-   [3]: http://www.flickr.com/photos/michaelcummings/2224339093/
 
    [4]: http://www.flickr.com/people/michaelcummings/
 

@@ -3,12 +3,7 @@ author: dealingwith
 date: '2006-04-22 21:00:00'
 layout: post
 slug: mp3-of-the-day-12
-status: publish
 title: mp3 of the day
-wordpress_id: '1261'
 ---
 
-[The Choir - Sad Face][1]
-
-   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/04/04%20-%20The%20Choir%20-%20Sad%20Face.mp3
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yph-qkKd7k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
