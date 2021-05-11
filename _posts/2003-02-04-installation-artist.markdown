@@ -5,5 +5,4 @@ categories:
  - minutia
 ---
 
-<img src="images/ch920204i.jpg">
-
+<img src="/assets/2003/02/ch920204i.jpg">
