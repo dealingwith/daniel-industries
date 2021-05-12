@@ -4,12 +4,9 @@ date: '2005-05-21 21:45:00'
 layout: post
 slug: '332'
 status: publish
-title: '...'
-wordpress_id: '332'
+title: 'Quotable (Sarah Hepola)'
+categories:
+ - quotable
 ---
 
-[there's nothing like seeing a Cover Girl model talk about how much she hates
-the way she looks to make you realize we are all, indeed, bananas][1]
-
-   [1]: http://www.sarahhepola.com/
-
+> there's nothing like seeing a Cover Girl model talk about how much she hates the way she looks to make you realize we are all, indeed, bananas. [#](http://www.sarahhepola.com/)
