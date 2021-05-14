@@ -45,7 +45,17 @@ a strong {
 }
 a.dead {
   color: #9ca3af;
-  text-decoration: line-through;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+}
+a.dead::before {
+  content: '';
+  border-bottom: 2px solid #9ca3af;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  top: 50%;
 }
 .bg-gray-900 a {
   color: #9ca3af;

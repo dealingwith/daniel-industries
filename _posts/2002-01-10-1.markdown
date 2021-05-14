@@ -1,9 +1,8 @@
 ---
 layout: post
-title: '...'
+title: 'deviantART'
 categories:
- - minutia
+ - elsewhere
 ---
 
-<a href="http://www.deviantart.com/">deviantART : where ART meets application :: oderint dum metuant</a>
-
+<a href="http://www.deviantart.com/">deviantART</a>

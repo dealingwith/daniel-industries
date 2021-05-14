@@ -7,30 +7,19 @@ categories:
 
 I'm catching up on some of my favorites today. I have a TON of links there that I set really quickly while I'm surfing important sites. Currently, I'm experiencing quite a bit of information overload. You'll see what I mean as I blog these links in an attempt to sort through and organize this stuff.
 
-
-
 Fonts: can't design without them, and the more the better, methinks. A couple weeks ago I found all these sites with tons of free fonts:
 
+<a class="dead">1001 Free Fonts - download free true type fonts</a> -- pretty self-explanatory
 
+<a href="http://www.blambot.com/">Free Comic Fonts</a> -- ditto
 
-<a href ='http://www.1001freefonts.com/main.htm'>1001 Free Fonts - download free true type fonts</a> -- pretty self-explanatory
+<a href="http://www.fontalicious.com/">Fontalicious</a>
 
+<a href="http://www.fonts.com/">Fonts.com</a>
 
+<a href="http://www.chank.com/index.php?PHPSESSID=942364144ae9e9a4e3c186618f1ee123">Chank</a> -- this is a really cool site/artist...definately check out the pictures of their studio.
 
-<a href ='http://www.blambot.com/'>Free Comic Fonts</a> -- ditto
-
-<a href ='http://www.fontalicious.com/'>Fontalicious</a>
-
-<a href ='http://www.fonts.com/'>Fonts.com</a>
-
- 
-
-
-<a href ='http://www.chank.com/index.php?PHPSESSID=942364144ae9e9a4e3c186618f1ee123'>Chank</a> -- this is a really cool site/artist...definately check out the pictures of their studio. <a href="Wired News 'Elvis of Fonts' to Bust Out Rock Star ABCs">There's also this Wired article about him.</a>
-
-
-
-<a href="http://www.mcu.org.uk/articles/accessibletext.html">More about what font to use on your page</a>. I've taken to disabling all font types and sizes in my browser--I see everything in 10pt Verdana. I don't mind Times, but Arial is just stupid.
+<a class="dead">More about what font to use on your page</a>. I've taken to disabling all font types and sizes in my browser--I see everything in 10pt Verdana. I don't mind Times, but Arial is just stupid.
 
 
 
