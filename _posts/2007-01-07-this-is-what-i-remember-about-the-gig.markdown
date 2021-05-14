@@ -7,12 +7,11 @@ status: publish
 title: This is what i remember about the gig
 wordpress_id: '1918'
 categories:
- - johnny citizen
  - music
 ---
 
 I figured it was as good a proving ground as any for my always-reading-the-
-spoken-word-stuff-at-gigs theory. The first piece I read was [this one][1] and
+spoken-word-stuff-at-gigs theory. The first piece I read was <a class="dead">this one</a> and
 when I'm done with any given vignette I throw the paper on the ground. Some
 guy picked it up.
 

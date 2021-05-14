@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://www.btinternet.com/~smallritual/smallfire/vauxpage6.html">Small Fire - Vaux</a>
-
