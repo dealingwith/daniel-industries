@@ -4,24 +4,9 @@ date: '2007-11-13 07:27:00'
 layout: post
 slug: '2363'
 status: publish
-title: '...'
-wordpress_id: '2363'
+title: 'Sure'
 ---
 
-[#][1]
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/az0Vlexcxek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[#][2]
-
-[#][3]
-
-
-...and [Happy Sounding Sad Songs][4] arrives tomorrow.
-
-   [1]: http://halsamples.com/blog/blog.php?ID=817
-
-   [2]: http://finelinelive.com/2007/11/12/sure/
-
-   [3]: http://carissabyers.blogspot.com/2007/11/sure.html
-
-   [4]: http://www.reverbnation.com/johnnycitizen
-
+...and [Happy Sounding Sad Songs](https://danielmiller.bandcamp.com/album/happy-sounding-sad-songs) arrives tomorrow.

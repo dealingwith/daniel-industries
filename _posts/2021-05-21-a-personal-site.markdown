@@ -4,6 +4,8 @@ title: "A Personal Site (again)"
 excerpt: 
 date: 2021-05-21 02:22:11 GMT-5
 categories: 
+ - elsewhere
+ - blogs
 ---
 
 Naz Hamid: [Hi, this is a personal site (again)](https://nazhamid.com/posts/a-personal-site/)

@@ -1,14 +1,10 @@
 ---
 layout: post
-title: 'or nonfiction whatever'
+title: '...or nonfiction, whatever'
 categories:
  - fiction
 ---
 
-integration theory title page and TOC (31 and 72K imgs respectively):
+integration theory title page
 
-<img src="images/IT1.jpg">
-
-
-
-<img src="images/IT2.jpg">
+![](/assets/2003/02/IT2.jpg)

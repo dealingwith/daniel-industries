@@ -7,7 +7,7 @@ comments: true
 categories: 
  - swim
  - nonlinear
- - blog
+ - blogs
  - meta
 ---
 

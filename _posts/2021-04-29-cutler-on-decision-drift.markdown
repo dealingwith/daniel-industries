@@ -4,6 +4,7 @@ title: "Cutler on Decision Drift"
 excerpt: 
 date: 2021-04-29 09:14:37 GMT-5
 categories: 
+ - elsewhere
 ---
 
 [TBM 17/52: Decision Making vs. Decision Understanding](https://cutlefish.substack.com/p/tbm-1752-decision-making-vs-decision)
