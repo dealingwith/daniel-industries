@@ -10,7 +10,7 @@ categories:
  - art
  - comments
  - elsewhere
- - ir
+ - Integration Research
  - local
  - technology
  - web

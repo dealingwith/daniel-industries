@@ -8,7 +8,7 @@ title: Emergent Play Through Music in Lord of the Rings Online
 wordpress_id: '2447'
 categories:
  - art
- - ir
+ - Integration Research
  - music
  - space
 ---

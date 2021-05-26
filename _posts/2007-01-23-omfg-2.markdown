@@ -10,7 +10,7 @@ categories:
  - brilliant
  - information
  - innovation
- - ir
+ - Integration Research
  - ui
  - video
 ---

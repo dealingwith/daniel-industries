@@ -12,7 +12,7 @@ categories:
  - good
  - grief
  - humanity
- - ir
+ - Integration Research
  - music
  - oh the
  - wankers

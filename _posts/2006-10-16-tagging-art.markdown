@@ -15,7 +15,7 @@ categories:
  - ideas
  - information
  - innovation
- - ir
+ - Integration Research
  - personal notes
  - swim
  - technology

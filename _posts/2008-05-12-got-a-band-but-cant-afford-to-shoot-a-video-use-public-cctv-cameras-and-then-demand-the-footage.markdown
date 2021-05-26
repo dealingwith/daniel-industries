@@ -9,7 +9,7 @@ title: Got a band but can't afford to shoot a video? Use public CCTV cameras and
 wordpress_id: '2630'
 categories:
  - brilliant
- - ir
+ - Integration Research
  - music
  - video
 ---

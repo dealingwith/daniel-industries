@@ -16,7 +16,7 @@ categories:
  - corp
  - humanity
  - ideas
- - ir
+ - Integration Research
  - marketing
  - me
  - meh

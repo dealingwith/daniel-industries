@@ -12,7 +12,7 @@ categories:
  - information
  - innovation
  - internets
- - ir
+ - Integration Research
  - technology
  - to checkout
  - ui

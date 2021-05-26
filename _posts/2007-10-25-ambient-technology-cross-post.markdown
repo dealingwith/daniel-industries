@@ -21,7 +21,7 @@ categories:
  - information
  - innovation
  - internets
- - ir
+ - Integration Research
  - meta
  - social software
  - software

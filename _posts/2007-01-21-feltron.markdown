@@ -17,7 +17,7 @@ categories:
  - information
  - innovation
  - internets
- - ir
+ - Integration Research
 ---
 
 [feltron vii][1], [espesh][2] [via][3]

@@ -3,7 +3,7 @@ layout: post
 title: Danah Boyd on cultural sustainability
 categories:
  - consumption
- - ir
+ - Integration Research
 ---
 
 >"cultural sustainability" is about companies whose actions offset the

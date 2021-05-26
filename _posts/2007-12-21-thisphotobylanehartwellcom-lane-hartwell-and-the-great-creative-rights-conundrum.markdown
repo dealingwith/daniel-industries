@@ -12,7 +12,7 @@ categories:
  - dumb
  - elsewhere
  - grief
- - ir
+ - Integration Research
  - meh
  - meme
  - pissing people off

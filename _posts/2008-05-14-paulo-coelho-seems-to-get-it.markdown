@@ -7,7 +7,7 @@ status: publish
 title: Paulo Coelho seems to get it
 wordpress_id: '2633'
 categories:
- - ir
+ - Integration Research
  - people
  - writing
 ---

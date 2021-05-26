@@ -8,7 +8,7 @@ title: mp3 of the day
 wordpress_id: '1424'
 categories:
  - art
- - ir
+ - Integration Research
  - mp3 of the day
  - music
 ---

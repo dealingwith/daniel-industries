@@ -10,7 +10,7 @@ categories:
  - art
  - attention
  - innovation
- - ir
+ - Integration Research
  - technology
  - thoughts
 ---

@@ -12,7 +12,7 @@ categories:
  - elsewhere
  - hakim bey
  - ideas
- - ir
+ - Integration Research
  - quotable
  - thinking
  - thoughts

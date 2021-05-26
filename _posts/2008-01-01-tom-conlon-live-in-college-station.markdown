@@ -7,7 +7,7 @@ status: publish
 title: Tom Conlon - Live in College Station
 wordpress_id: '2427'
 categories:
- - ir
+ - Integration Research
  - local
  - mp3 of the day
  - music

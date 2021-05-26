@@ -14,7 +14,7 @@ categories:
  - brilliant
  - elsewhere
  - ideas
- - ir
+ - Integration Research
  - life
  - living
  - local

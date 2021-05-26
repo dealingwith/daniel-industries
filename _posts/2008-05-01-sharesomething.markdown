@@ -7,7 +7,7 @@ status: publish
 title: sharesomething
 wordpress_id: '2612'
 categories:
- - ir
+ - Integration Research
  - nostalgia
  - social software
 ---

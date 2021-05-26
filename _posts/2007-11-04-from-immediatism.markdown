@@ -13,7 +13,7 @@ categories:
  - consumption
  - humanity
  - ideas
- - ir
+ - Integration Research
  - johnny citizen
  - language
  - relationships

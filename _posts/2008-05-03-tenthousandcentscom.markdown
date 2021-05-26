@@ -9,7 +9,7 @@ wordpress_id: '2620'
 categories:
  - art
  - design
- - ir
+ - Integration Research
 ---
 
 

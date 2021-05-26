@@ -1,17 +1,13 @@
 ---
 layout: post
-title: 'what is IR'
+title: 'what is Integration Research'
 categories:
- - comment
+ - Integration Research
 ---
 
 
-I get a lot of questions now about what IR is. I'm still struggling to put it into terms people can understand w/o a lot of context, so here's something I just thought of:
+I get a lot of questions now about what IR is. I'm still struggling to put it into terms people can understand without a lot of context, so here's something I just thought of:
 
+IR is like if the <a href="http://osafoundation.org/">Open Source Applications Foundation</a>  and <a href="http://rhizome.org/">rhizome.org</a> had a kid that played on the same basketball team as the <a class="dead">Media Lab Europe Human Connectedness research group</a>, <a href="http://turbulence.org/">turbulence.org</a>, and <a href="http://altx.com/home.html">altx.com</a>.
 
-
-IR is like if the <a href="http://osafoundation.org/">Open Source Applications Foundation</a>  and <a href="http://rhizome.org/">rhizome.org</a> had a kid that played on the same basketball team as the <a href="http://www.medialabeurope.org/hc/">Media Lab Europe Human Connectedness research group</a>, <a href="http://turbulence.org/">turbulence.org</a>, and <a href="http://altx.com/home.html">altx.com</a>.
-
-
-
-of course there are many more pointers, but these are a good start.
+...of course there are many more pointers, but these are a good start.

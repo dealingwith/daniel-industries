@@ -14,7 +14,7 @@ categories:
  - imagining
  - information
  - innovation
- - ir
+ - Integration Research
  - jesus
  - language
 ---

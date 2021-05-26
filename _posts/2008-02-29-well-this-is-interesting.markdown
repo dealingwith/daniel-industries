@@ -10,7 +10,7 @@ categories:
  - art
  - hakim bey
  - humanity
- - ir
+ - Integration Research
  - local
  - music
 ---

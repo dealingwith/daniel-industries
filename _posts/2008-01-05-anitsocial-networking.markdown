@@ -7,7 +7,7 @@ status: publish
 title: Anitsocial networking
 wordpress_id: '2433'
 categories:
- - ir
+ - Integration Research
  - meh
  - social software
  - to read

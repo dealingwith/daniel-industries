@@ -17,7 +17,7 @@ categories:
  - ideas
  - information
  - innovation
- - ir
+ - Integration Research
  - writing
 ---
 

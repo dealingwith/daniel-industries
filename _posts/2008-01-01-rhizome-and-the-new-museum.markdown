@@ -9,7 +9,7 @@ wordpress_id: '2426'
 categories:
  - art
  - design
- - ir
+ - Integration Research
  - video
  - web
 ---

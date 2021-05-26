@@ -13,7 +13,7 @@ categories:
  - design
  - development
  - imagining
- - ir
+ - Integration Research
  - sugarfilled
 ---
 
