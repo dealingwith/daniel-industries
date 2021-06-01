@@ -2,18 +2,12 @@
 author: dealingwith
 date: '2002-02-10 17:51:00'
 layout: post
-slug: 65-2
 status: publish
-title: '...'
-wordpress_id: '3103'
+title: 'alt-x'
 categories:
  - nonlinear
 ---
 
 [alt-x][1]
 
-
    [1]: http://www.altx.com/
-
-   
-
