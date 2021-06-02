@@ -1,13 +1,12 @@
 ---
 layout: post
-title: '...'
+title: 'DWM Americana Project'
 categories:
  - minutia
 ---
 
-<img src="http://danielsjourney.com/images/dwm_americana2.jpg">
+![](/assets/2002/06/dwm_americana2.jpg)
 
-<small>changes they are a'comin'
+changes they are a'comin'
 
-...welcoming your opinions</small>
-
+...welcoming your opinions

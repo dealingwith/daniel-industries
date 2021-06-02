@@ -4,17 +4,13 @@ date: '2006-07-12 17:16:00'
 layout: post
 slug: word-of-the-day-29
 status: publish
-title: word of the day
-wordpress_id: '1489'
+title: "Rooned"
 categories:
  - word of the day
 ---
 
-rooned
+> rooned
 
 (aka "ruined")
 
-(via a comment on Peter Peter Hughes'* lj)
-
-* he of Mountain Goats fame
-
+(via a comment on Peter Peter Hughes' lj) (he of Mountain Goats fame)
