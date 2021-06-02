@@ -45,3 +45,13 @@ To use it, you can drag this link to your bookmarks, and click it after loading 
 <a href="javascript:(function()%7Blet%20checkmate%20%3D%20()%20%3D%3E%20%7B%0A%20%20var%20markedCheckbox%20%3D%20document.querySelectorAll('input%5Btype%3D%22checkbox%22%5D%3Achecked')%3B%0A%20%20for%20(var%20checkbox%20of%20markedCheckbox)%20%7B%0A%20%20%20%20checkbox.parentNode.parentNode.parentNode.style.textDecoration%20%3D%20%22line-through%22%3B%0A%20%20%20%20checkbox.parentNode.parentNode.parentNode.style.color%20%3D%20%22lightgray%22%3B%0A%20%20%7D%0A%7D%0Acheckmate()%3B%0Awindow.addEventListener('popstate'%2C%20(event)%20%3D%3E%20%7B%0A%20%20window.setTimeout(checkmate%2C%201000)%0A%7D)%3B%7D)()%3B">Complete Roam Todos</a>
 
 Since Roam never reloads the actual web page, it should work until you reload Roam for whatever reason. I think there is a way to have embedded JavaScript execute in Roam, but I'm pretty sure it would apply to everyone on my team using the same Roam database.
+
+---
+
+Here's another one to hide the bullets next to checkboxes _in the sidebar only_ (I keep my todo list open over there).
+
+```javascript
+document.querySelectorAll("#right-sidebar .rm-query-content div.controls.rm-block__controls").forEach(function(bullet){bullet.style.display = 'none'})
+```
+
+<a href="javascript:(function()%7Bdocument.querySelectorAll(%22%23right-sidebar%20.rm-query-content%20div.controls.rm-block__controls%22).forEach(function(bullet)%7Bbullet.style.display%20%3D%20'none'%7D)%7D)()">Hide Todo Bullets</a>
