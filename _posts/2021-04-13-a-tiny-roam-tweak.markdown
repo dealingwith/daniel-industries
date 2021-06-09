@@ -48,10 +48,18 @@ Since Roam never reloads the actual web page, it should work until you reload Ro
 
 ---
 
-Here's another one to hide the bullets next to checkboxes _in the sidebar only_ (I keep my todo list open over there).
+Here's another one to toggle the bullets next to checkboxes _in the sidebar only_ (I keep my todo list open over there).
 
 ```javascript
-document.querySelectorAll("#right-sidebar .rm-query-content div.controls.rm-block__controls").forEach(function(bullet){bullet.style.display = 'none'})
+document.querySelectorAll("#right-sidebar .rm-query-content div.controls.rm-block__controls").forEach(
+  function(bullet){
+    if (bullet.style.display == 'none') {
+      bullet.style.display = 'flex'
+    } else {
+      bullet.style.display = 'none'
+    }
+  }
+)
 ```
 
-<a href="javascript:(function()%7Bdocument.querySelectorAll(%22%23right-sidebar%20.rm-query-content%20div.controls.rm-block__controls%22).forEach(function(bullet)%7Bbullet.style.display%20%3D%20'none'%7D)%7D)()">Hide Todo Bullets</a>
+<a href="javascript:(function()%7Bdocument.querySelectorAll(%22%23right-sidebar%20.rm-query-content%20div.controls.rm-block__controls%22).forEach(%0A%20%20function(bullet)%7B%0A%20%20%20%20if%20(bullet.style.display%20%3D%3D%20'none')%20%7B%0A%20%20%20%20%20%20bullet.style.display%20%3D%20'flex'%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20bullet.style.display%20%3D%20'none'%0A%20%20%20%20%7D%0A%20%20%7D%0A)%7D)()">Toggle Todo Bullets</a>
