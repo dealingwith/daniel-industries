@@ -3,7 +3,7 @@ layout: post
 title: "There comes a time"
 ---
 
-<p class="media"><iframe width="560" height="315" src="http://www.youtube.com/embed/je337jTjU-A?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/je337jTjU-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > There comes a time you must stay in the moment while your heart is still bleeding
 

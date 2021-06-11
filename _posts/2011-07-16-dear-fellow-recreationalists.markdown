@@ -13,8 +13,6 @@ Runners: while I admit my frustration with your presence and bewilderment at you
 
 Bicyclists with earbuds: there are very few times when earbuds are acceptable, mostly for reasons of your own safety. However, if you are going to be around even just a small number of other cyclists, they are unacceptable. I know music can motivate you to pedal and allow the time to pass with a bit more ease. However if you cannot hear the music in the act of bicycling, then you are missing an essential piece of the cycling aesthetic that is required to truly excel at its execution. 
 
-<iframe src="http://player.vimeo.com/video/22444962?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="499" height="281" frameborder="0" style="margin-bottom:1.5em;"></iframe>
-
 Police officers: if you really cared about safety on the mixed-use trails and roads around White Rock Lake you would institute speed limits and ban earbuds for both runners and cyclists. You would not camp out near stop signs in order to write tickets with as much efficiency and speed as possible. You would also not blow through a stop sign at top speed in order to catch up to and admonish cyclists for rolling through a stop sign at a slow speed.
 
 To those addressed in the above paragraphs, thank you for your consideration of these simple rules. Much like covering your mouth when you cough, not speaking with your mouth full, not staring at strangers, parking between the lines, putting trash in the appropriate receptacles and not talking through a movie or concert, these simple rules can allow us all to coexist in more harmony.

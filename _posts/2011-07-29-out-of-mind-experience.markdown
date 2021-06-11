@@ -19,6 +19,6 @@ Ezra Caldwell* posted an intimate and important** post that I want to both captu
 
 My friend and producer Salim Nourallah has a new record coming out this summer. Be on the lookout for it. This tune crossed my desk about the same time as Ezra's post and seemed to just fit. Had a stressful day today, but it&rsquo;s odd how not-really-stressful &ldquo;normal&rdquo; stress is to me now. Intellectually I know that circumstances are stressful, I even see it written across my friends&rsquo; faces&hellip;but my heart is less troubled. The scale [has been re-calibrated after all](/2011/02/28/I-can-not-go-on/).
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/_rEVko3rHoI?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_rEVko3rHoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p class="postscript">* Who you <a href="/2010/10/24/fast-boy/">will remember from previous posts</a>.<br><br>** &hellip;at least for those who have also experienced traumatic times in their lives; it ties into a lot of things about fear that I have been thinking about lately; about how to deal with the realities of the future given the horrors of the past; about <a href="/2011/02/06/a-black-wave-is-comin/">coping</a> with whatever that traumatic experience did to one's psychology.</p>

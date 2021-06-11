@@ -1,0 +1,26 @@
+---
+layout: default
+title: 2010 Era Archives
+---
+
+<div class="w-full lg:w-1/3 lg:pr-32 order-3 lg:order-1">
+  <div class="max-w-lg lg:float-right lg:text-right leading-relaxed tracking-normal lg:sticky lg:top-0 nav">
+    <p class="font-bold mt-7 mb-2">2010-2011</p>
+  </div>
+</div>
+
+<div class="w-full lg:w-2/3 order-1 lg:order-2 main-content">
+  <div class="max-w-xl leading-relaxed tracking-normal">
+    {% for post in site.posts reversed %}
+      {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+      {% capture month %}{{post.date | date: "%m"}}{% endcapture %}
+      {% if year == "2011" or year == "2010" and month > "08" %}
+            <header>
+              <h1 class="font-bold my-0 leading-8">{{ post.title }}</h1>
+              <p class="mb-2 post-metadata">{{ post.content | number_of_words }} words written on <a href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a>{% if post.categories.size > 0 %} in {% for category in post.categories %}/ <a href="/categories#{{category}}">{{ category }}</a> {% endfor %}{% endif %}</p>
+            </header>
+            <article class="border-b-2 mb-8 pb-6">{{ post.content }}</article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

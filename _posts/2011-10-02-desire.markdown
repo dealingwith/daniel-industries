@@ -3,9 +3,9 @@ layout: post
 title: "So what now? The problem with desire."
 ---
 
-<iframe width="100%" height="315" src="http://www.youtube.com/embed/HWG6VW9pkE4?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HWG6VW9pkE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I now have a series of posts lined up but I'm not sure if I'll finish any of them, so I'm just going to post stuff as it becomes concise enough to post, which means it will probably be out of order and incoherent as a whole. Also please excuse me if on this post and possibly others I'm just re-writing [Pete Rollins](http://peterrollins.net/) in my own words and for my own benefit.
+I now have a series of posts lined up but I'm not sure if I'll finish any of them, so I'm just going to post stuff as it becomes concise enough to post, which means it will probably be out of order and incoherent as a whole. Also please excuse me if on this post and possibly others I'm just re-writing [Pete Rollins](https://peterrollins.com/) in my own words and for my own benefit.
 
 "Wiley Coyote Retires" (which is NSFW unless you work somewhere awesome like Extra Sauce) does a really good job of addressing what happens when one achieves their desire, when their desire is achievable (for example, as we say in the technology startup world, "fuck you money"). Of course those who have had success rarely retire early to their [special island](http://www.youtube.com/watch?v=gqjGPIYJsh0), they usually insert themselves into others' brilliance by becoming an angel investor or venture capitalist or special advisor (which somehow seems like retiring from porn to become a fluffer), or they just go do [the exact same thing over again](http://denniscrowley.com/). 
 
@@ -13,7 +13,7 @@ I now have a series of posts lined up but I'm not sure if I'll finish any of the
 
 Or, as my former business partner Dan and I used to joke, they develop a mandatory coke habit. And the idea that having enough money means a freedom from anxiety about money just isn't true. Besides, where would you be without all that misplaced anxiety? You'd simply misplace it elsewhere. Billionaires and soccer moms and spoiled children are all pretty much the same thing.
 
-<iframe width="100%" height="279" src="http://www.youtube.com/embed/R8vJgYQU_lY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R8vJgYQU_lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pete's answer to this problem is:
 
