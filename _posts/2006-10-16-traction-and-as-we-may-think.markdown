@@ -22,7 +22,6 @@ Can't summarize those links. Have to follow them if you want to follow this thre
 
 I like when people think before they build. I wish Traction success. They very well may be the closest I've seen to getting the Semantic Web, or maybe just what Hypertext has wanted to be all along. I wish they had a more consumer- accessible version or offering so they could get a bit more of a memic foothold in the user-generated content space.
 
-
 Heheh...I said "space." Ding a bell.
 
    [1]: http://traction.tractionsoftware.com/traction
