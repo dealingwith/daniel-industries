@@ -63,3 +63,21 @@ document.querySelectorAll("#right-sidebar .rm-query-content div.controls.rm-bloc
 ```
 
 <a href="javascript:(function()%7Bdocument.querySelectorAll(%22%23right-sidebar%20.rm-query-content%20div.controls.rm-block__controls%22).forEach(%0A%20%20function(bullet)%7B%0A%20%20%20%20if%20(bullet.style.display%20%3D%3D%20'none')%20%7B%0A%20%20%20%20%20%20bullet.style.display%20%3D%20'flex'%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20bullet.style.display%20%3D%20'none'%0A%20%20%20%20%7D%0A%20%20%7D%0A)%7D)()">Toggle Todo Bullets</a>
+
+The problem with that one is new todos will have bullets regardless, so the toggle becoming problemati (some will toggle on, some off). Here's one to remove bullets and keep them removed:
+
+```javascript
+let unbullet = () => {
+  document.querySelectorAll("#right-sidebar .rm-query-content div.controls.rm-block__controls").forEach(
+    function(bullet) {
+      bullet.style.display = 'none'
+    }
+  )
+}
+unbullet();
+window.addEventListener('popstate', (event) => {
+  window.setTimeout(unbullet, 1000)
+});
+```
+
+<a href="javascript:(function()%7Blet%20unbullet%20%3D%20()%20%3D%3E%20%7B%0A%20%20document.querySelectorAll(%22%23right-sidebar%20.rm-query-content%20div.controls.rm-block__controls%22).forEach(%0A%20%20%20%20function(bullet)%20%7B%0A%20%20%20%20%20%20bullet.style.display%20%3D%20'none'%0A%20%20%20%20%7D%0A%20%20)%0A%7D%0Aunbullet()%3B%0Awindow.addEventListener('popstate'%2C%20(event)%20%3D%3E%20%7B%0A%20%20window.setTimeout(unbullet%2C%201000)%0A%7D)%3B%7D)()%3B">Remove Todo Bullets</a>
