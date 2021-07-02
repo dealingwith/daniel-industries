@@ -12,10 +12,7 @@ categories:
 
 [Weekly Review (Harper's Magazine)][1]:
 
-> It was discovered that a woman who paid a South Korean company to create
-five clones of her pitbull Booger was Joyce McKinney, a former Miss Wyoming
-who escaped British authorities in 1977 after abducting a Mormon missionary,
-securing him to a bed with mink-lined handcuffs, and raping him three times.
+> It was discovered that a woman who paid a South Korean company to create five clones of her pitbull Booger was Joyce McKinney, a former Miss Wyoming who escaped British authorities in 1977 after abducting a Mormon missionary, securing him to a bed with mink-lined handcuffs, and raping him three times.
 
 via [@jbenton][2]
 
