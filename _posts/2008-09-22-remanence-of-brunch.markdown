@@ -11,18 +11,4 @@ categories:
  - minutia
 ---
 
-[![][1]][2]
-
-[Remanence of Brunch][3]
-
-Originally uploaded by [carissabyers][4]
-
-
-   [1]: http://farm3.static.flickr.com/2320/2879490056_4b7f7d1f31_m.jpg
-
-   [2]: http://www.flickr.com/photos/carissabyers/2879490056/ (photo sharing)
-
-   [3]: http://www.flickr.com/photos/carissabyers/2879490056/
-
-   [4]: http://www.flickr.com/people/carissabyers/
-
+[![](/assets/2008/09/2879490056_4b7f7d1f31.jpg)](https://www.flickr.com/photos/carissabyers/albums/72157607432766223/with/2879490056/)
