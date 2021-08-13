@@ -6,7 +6,7 @@ date: 2021-04-13 19:42:26 -0500
 categories: 
 ---
 
-<img src="/assets/2021/04/logseq.png" style="float:right; display:inline; width: 50%; margin-left: 7px;">We use [Roam](https://roamresearch.com/) extensively at work, but as I am prone to do, I was [messing with Roam's styles](https://gist.github.com/dealingwith/2619cd51dcd01e062701ae41c73fa5d7) to try to make them more pleasing to my eye. One thing I couldn't style were completed todos. I use the similar OSS tool [Logseq](https://github.com/logseq/logseq) for my personal notes/journalling/capture and I find their handling of todo display much nicer.
+<img src="/assets/2021/04/logseq.png" style="float:right; display:inline; width: 50%; margin-left: 7px;">We use [Roam](https://roamresearch.com/) extensively at work, but as I am prone to do, I was [messing with Roam's styles](https://gist.github.com/dealingwith/2619cd51dcd01e062701ae41c73fa5d7) to try to make them more pleasing to my eye. One thing I couldn't style were completed todos. I use the similar OSS tool [Logseq](https://github.com/logseq/logseq) for my personal notes/journaling/capture and I find their handling of todo display much nicer.
 
 Maybe there's a way to get to the text from the checked input in this Roam HTML, but I couldn't figure it out:
 
@@ -64,7 +64,7 @@ document.querySelectorAll("#right-sidebar .rm-query-content div.controls.rm-bloc
 
 <a href="javascript:(function()%7Bdocument.querySelectorAll(%22%23right-sidebar%20.rm-query-content%20div.controls.rm-block__controls%22).forEach(%0A%20%20function(bullet)%7B%0A%20%20%20%20if%20(bullet.style.display%20%3D%3D%20'none')%20%7B%0A%20%20%20%20%20%20bullet.style.display%20%3D%20'flex'%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20bullet.style.display%20%3D%20'none'%0A%20%20%20%20%7D%0A%20%20%7D%0A)%7D)()">Toggle Todo Bullets</a>
 
-The problem with that one is new todos will have bullets regardless, so the toggle becoming problemati (some will toggle on, some off). Here's one to remove bullets and keep them removed:
+The problem with that one is new todos will have bullets regardless, so the toggle becomes problematic (some will toggle on, some off). Here's one to remove bullets and keep them removed:
 
 ```javascript
 let unbullet = () => {
