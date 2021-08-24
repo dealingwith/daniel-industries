@@ -46,6 +46,28 @@ To use it, you can drag this link to your bookmarks, and click it after loading 
 
 Since Roam never reloads the actual web page, it should work until you reload Roam for whatever reason. I think there is a way to have embedded JavaScript execute in Roam, but I'm pretty sure it would apply to everyone on my team using the same Roam database.
 
+*Here's an updated version* that simply polls every 2 seconds and updates todos. I found that the `popstate` event wasn't firing often with my Roam usage, and the original didn't allow for reformatting unchecked todos back to normal:
+
+```javascript
+let checkmate = () => {
+  let markedCheckbox = document.querySelectorAll('input[type="checkbox"]:checked');
+  for (var checkbox of markedCheckbox) {
+    checkbox.parentNode.parentNode.parentNode.style.textDecoration = "line-through";
+    checkbox.parentNode.parentNode.parentNode.style.color = "lightgray";
+  }
+  let unMarkedCheckbox = document.querySelectorAll('input[type="checkbox"]:not(:checked)')
+  for (var checkbox of unMarkedCheckbox) {
+    checkbox.parentNode.parentNode.parentNode.style.textDecoration = "none";
+    checkbox.parentNode.parentNode.parentNode.style.color = "inherit";
+  }
+}
+setInterval(checkmate, 2000);
+```
+
+Bookmarklet:
+
+<a href="javascript:(function()%7Blet%20checkmate%20%3D%20()%20%3D%3E%20%7Blet%20markedCheckbox%20%3D%20document.querySelectorAll('input%5Btype%3D%22checkbox%22%5D%3Achecked')%3Bfor%20(var%20checkbox%20of%20markedCheckbox)%20%7Bcheckbox.parentNode.parentNode.parentNode.style.textDecoration%20%3D%20%22line-through%22%3Bcheckbox.parentNode.parentNode.parentNode.style.color%20%3D%20%22lightgray%22%3B%7Dlet%20unMarkedCheckbox%20%3D%20document.querySelectorAll('input%5Btype%3D%22checkbox%22%5D%3Anot(%3Achecked)')for%20(var%20checkbox%20of%20unMarkedCheckbox)%20%7Bcheckbox.parentNode.parentNode.parentNode.style.textDecoration%20%3D%20%22none%22%3Bcheckbox.parentNode.parentNode.parentNode.style.color%20%3D%20%22inherit%22%3B%7D%7DsetInterval(checkmate%2C%202000)%7D)()">Complete Roam Todos</a>
+
 ---
 
 Here's another one to toggle the bullets next to checkboxes _in the sidebar only_ (I keep my todo list open over there).
