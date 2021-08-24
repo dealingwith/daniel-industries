@@ -21,25 +21,10 @@ categories:
  - writing
 ---
 
-Amazon's Statistically Improbable Phrases is like spontaneous orgasm for a
-wordofile like myself. [Lots of musing about how Amazon, and to a still lesser
-extent Google, are successfully bridging meatspace with digital knowledge
-stores...and the reasons for their success or failure, and the future of our
-increasingly hyperlinked society.]
+Amazon's Statistically Improbable Phrases is like spontaneous orgasm for a wordofile like myself. [Insert lots of musing about how Amazon, and to a still lesser extent Google, are successfully bridging meatspace with digital knowledge stores...and the reasons for their success or failure, and the future of our increasingly hyperlinked society.]
 
-[Amazon.com: The Death and Life of Great American Cities (Modern Library
-Series)][1]
+[Amazon.com: The Death and Life of Great American Cities (Modern Library Series)][1]
 
-> Statistically Improbable Phrases (SIPs): ([learn more][2]) perpetual slum,
-cataclysmic use, unslumming slum, high ground coverages, planning for
-vitality, secondary diversity, fashionable pocket, mixed primary uses, border
-vacuums, cataclysmic money, involuntary subsidies, street interruptions,
-disorganized complexity, orthodox planning, dwelling densities, incidental
-play, city diversity, primary diversity, sidewalk life, primary mixture,
-visual interruptions, gray belts, net acre, effective district, city public
-life
+<a class="dead">Statistically Improbable Phrases (SIPs)</a>: perpetual slum, cataclysmic use, unslumming slum, high ground coverages, planning for vitality, secondary diversity, fashionable pocket, mixed primary uses, border vacuums, cataclysmic money, involuntary subsidies, street interruptions, disorganized complexity, orthodox planning, dwelling densities, incidental play, city diversity, primary diversity, sidewalk life, primary mixture, visual interruptions, gray belts, net acre, effective district, city public life
 
    [1]: http://www.amazon.com/Death-American-Cities-Modern-Library/dp/0679600477/sr=1-1/qid=1160540778/ref=sr_1_1/002-2815912-5682402?ie=UTF8&s=books
-
-   [2]: http://www.amazon.com/gp/search-inside/sipshelp.html/ref=sib_sip_help/102-3685726-9396143
-

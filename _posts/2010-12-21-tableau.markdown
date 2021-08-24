@@ -18,21 +18,15 @@ categories:
 Via [BERG][1]: "John Kestner’s [Tableau][2] is a nightstand that drops photos
 it 'sees' in its Twitter feed into its drawer, to be discovered by its owner."
 
-<iframe src="http://player.vimeo.com/video/17280777?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/17280777">Tableau: physical email</a> from <a href="http://vimeo.com/jkestner">John Kestner</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
-
-John Kestner is part of the [Information Ecology team at the MIT Media
-Lab][4], so of course I'm going to gush a bit, but check out [some videos
+John Kestner is part of the <a class="dead">Information Ecology team at the MIT Media
+Lab</a>, so of course I'm going to gush a bit, but check out [some videos
 of his other projects][6].
 
-I'm particarly interested in things like the _Daydar personal productivity
-framework_. (dead link)
+I'm particarly interested in things like the <a class="dead">Daydar personal productivity
+framework</a>.
 
    [1]: http://berglondon.com/blog/2010/12/16/thursday-links-a-drawerful-of-photographs-fictional-logos-flashy-advertising-and-space/
 
    [2]: http://johnkestner.com/tableau/
-
-   [3]: http://vimeo.com/moogaloop.swf?clip_id=17280777&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=00ADEF&fullscreen=1&autoplay=0&loop=0
-
-   [4]: http://eco.media.mit.edu/
 
    [6]: http://vimeo.com/jkestner

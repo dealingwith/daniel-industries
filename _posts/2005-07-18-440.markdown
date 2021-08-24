@@ -8,16 +8,13 @@ title: '...'
 wordpress_id: '440'
 ---
 
-[MySpace (Intermix) bought for 580 mil (by Fox)][1]
+<a class="dead">MySpace (Intermix) bought for 580 mil (by Fox)</a>
 
-"But Intermix has also been sued for spreading hidden spyware to the millions
-of people who visit its sites."
+> But Intermix has also been sued for spreading hidden spyware to the millions of people who visit its sites.
 
-37signals' Matt Linderman [says][2]: "Rupert Murdoch’s News Corp., home to
-conservative-friendly Fox News, buys Intermix Media, home to left-leaning
-hipster-haven MySpace. Wackiness ensues!"
+37signals' Matt Linderman [says][2]: 
 
-   [1]: http://www.latimes.com/business/la-071805intermix_lat,0,2217898.story?coll=la-home-headlines
+> Rupert Murdoch’s News Corp., home to conservative-friendly Fox News, buys Intermix Media, home to left-leaning hipster-haven MySpace. Wackiness ensues!
 
    [2]: http://37signals.com/svn/archives2/murdoch_myspace_there_goes_the_neighborhood.php
 
