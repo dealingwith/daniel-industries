@@ -14,5 +14,4 @@ wordpress_id: '643'
 
 [small ritual: why am i scared of revival?][1]
 
-   [1]: http://smallritual.blogs.com/small_ritual/2005/10/why_am_i_scared.html
-
+   [1]: http://www.smallritual.org/section10/blog_10_2005.html#date_241005_1
