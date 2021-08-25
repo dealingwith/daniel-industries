@@ -8,6 +8,5 @@ title: OMG OMG OMG POST 3
 wordpress_id: '25'
 ---
 
-> i'm sure your car and the {} parking lot at night might not be such a bad
-thing if i was there :-)
+> i'm sure your car and the {} parking lot at night might not be such a bad thing if i was there :)
 

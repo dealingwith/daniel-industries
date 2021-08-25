@@ -15,4 +15,3 @@ Mind is one of the, if not THE, most brilliant movie ever. Maybe not the BEST
 movie ever, but definately maybe the most brilliant. I am going to end up
 seeing it at least three times in the theatres, which is, like, a record for
 me.
-

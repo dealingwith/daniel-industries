@@ -13,7 +13,6 @@ cool. The song is the Pet Shop Boys, Being Boring. You won't believe how much
 info there is on this site, it is probably the most comprehensive site I've
 ever seen on anything, and it's on ONE SONG.
 
-[http://www.10yearsofbeingboring.com][1]
+[10yearsofbeingboring.com][1]
 
    [1]: http://www.10yearsofbeingboring.com
-
