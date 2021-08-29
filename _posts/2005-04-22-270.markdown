@@ -4,7 +4,7 @@ date: '2005-04-22 12:01:00'
 layout: post
 slug: '270'
 status: publish
-title: '...'
+title: 'Bruce Mau'
 wordpress_id: '270'
 ---
 

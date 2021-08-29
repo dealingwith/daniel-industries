@@ -11,21 +11,12 @@ categories:
  - quotable
 ---
 
-_I heard guys say they got into rock and roll to pick up women. I didn't get
-into rock to pick up women, but I sure adapted._
+> I heard guys say they got into rock and roll to pick up women. I didn't get into rock to pick up women, but I sure adapted.
 
-– Ted Nugent
+-- Ted Nugent
 
-_One chord is fine. Two chords are pushing it. Three chords and you're into
-jazz._
+> One chord is fine. Two chords are pushing it. Three chords and you're into jazz.
 
-- Lou Reed
+-- Lou Reed
 
-(both via http://rockandrollgeek.podshow.com/) (btw, , i'm downloading a
-couple r'n'r geek shows to burn for ya, one of which has tiny kiss vs. mini
-kiss as a subject matter, something [i just found out about last night via
-this AWESOME daily show segment][1])
-
-   [1]:
-http://www.comedycentral.com/sitewide/media_player/play.jhtml?itemId=68957
-
+(both via Rock and Roll Geek Podcast)

@@ -10,10 +10,4 @@ categories:
  - nonlinear
 ---
 
-[Main Page - ARGFestNYC][1] (a wiki)
-
-
-   [1]: http://argfestnyc.com/wiki/index.php?title=Main_Page
-
-   
-
+<a class="dead">ARGFestNYC</a>

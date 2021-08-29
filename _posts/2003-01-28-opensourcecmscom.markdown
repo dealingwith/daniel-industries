@@ -5,13 +5,8 @@ categories:
  - elsewhere
 ---
 
-<a href="http://www.opensourcecms.com">http://www.opensourcecms.com</a>
+<a href="http://www.opensourcecms.com">opensourcecms.com</a>
 
-
-
-oh yeah. u can preview all the open source CMS's here. definately cool. definately too many out there already! but i have an abundance mentality dmmit!
-
-
+You can preview all the open source CMS's here. Definately cool. Definately too many out there already!
 
 (via kungfugrippe)
-

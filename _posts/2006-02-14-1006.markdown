@@ -4,12 +4,14 @@ date: '2006-02-14 23:50:00'
 layout: post
 slug: '1006'
 status: publish
-title: '...'
+title: 'Mercy Will Prevail'
 wordpress_id: '1006'
 categories:
  - minutia
  - using lyrics to express oneself
 ---
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HSEP4ta4Aws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I wanna swear it’s true but it’s hard to defend it / I know it comes from You
 and I don’t comprehend it / Love never fails / Mercy will prevail / I wanna
@@ -23,7 +25,4 @@ insane / In the eye / In the eye of a hurricane / In the chill of a cruel word
 / In the nest of a wounded bird / In the shadow of doubt / In the smoke / In
 the smoke of a torch blown out / In the flight of a sharp stone
 
-
-
 I just might need to take a break
-

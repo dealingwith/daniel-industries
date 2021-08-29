@@ -11,7 +11,7 @@ categories:
  - mp3 of the day
 ---
 
-![][1]
+![](/assets/2007/12/chickennewyear2.jpg)
 
 Just woke up from a weird dream that I'm unsure has any real meaning, but one
 thing I do know; the transition from 2007 to 2008 has significantly more
@@ -22,20 +22,3 @@ making this somewhat arbitrary moment in personal history a nice marker.
 
 Here's to 2008, and a year of 100% more happy, 100% more productive, 100% more
 content, 100% less depressed, 100% less suicidal.
-
-2007: [Tragic Mirror][2], [John, Let Me Go][3]
-
-2008: [After All][4], [She's Fantastic][5]
-
-   [1]:
-http://daniel.iaspiretonothing.com/blog/files/2007/12/chickennewyear2.jpg
-
-   [2]: http://daniel.iaspiretonothing.com/blog/files/2007/12/5%20-%20Tragic%20Mirror.mp3
-
-   [3]: http://daniel.iaspiretonothing.com/blog/files/2007/12/7%20-%20John,%20Let%20Me%20Go.mp3
-
-   [4]:
-http://daniel.iaspiretonothing.com/blog/files/2007/12/9%20-%20After%20All.mp3
-
-   [5]: http://daniel.iaspiretonothing.com/blog/files/2007/12/10%20-%20She's%20Fantastic.mp3
-
