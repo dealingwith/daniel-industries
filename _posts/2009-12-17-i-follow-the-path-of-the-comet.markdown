@@ -20,8 +20,8 @@ My friend and colleague [Wood Ingham][4] wrote the [most amazing Christmas poem]
 
    [3]: http://en.wikisource.org/wiki/We_Three_Kings_of_Orient_Are
 
-   [4]: http://www.jet-pack.net/?page_id=131
+   [4]: https://www.room207press.com
 
-   [5]: http://www.johnheronproject.com/wp/?p=987
+   [5]: https://www.room207press.com/2016/12/a-letter-from-mr-caspar.html
 
    [7]: http://www.johnheronproject.com/wp/?p=987

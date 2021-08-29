@@ -23,9 +23,6 @@ arranged by The Washington Post as an experiment in context, perception and
 priorities -- as well as an unblinking assessment of public taste: In a banal
 setting at an inconvenient time, would beauty transcend?
 
-CRAzy good article via [boboroshi's twitter][2]
+CRAzy good article via <a class="dead">boboroshi's twitter</a>
 
    [1]: http://www.washingtonpost.com/wp-dyn/content/article/2007/04/04/AR2007040401721.html
-
-   [2]: http://twitter.com/boboroshi
-
