@@ -5,5 +5,4 @@ categories:
  - local
 ---
 
-
-David Hopkins and Ben Bubar now <a href="http://monkhouse.blogspot.com/atom.xml">both</a> <a href="http://www.benbubar.blogspot.com/atom.xml">have</a> Atom feeds. 
+David Hopkins and Ben Bubar now both have Atom feeds. 
