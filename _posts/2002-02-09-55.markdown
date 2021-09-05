@@ -4,50 +4,22 @@ date: '2002-02-09 17:42:00'
 layout: post
 slug: '55'
 status: publish
-title: '...'
-wordpress_id: '3098'
+title: 'Weaving the Web'
 categories:
  - nonlinear
 ---
 
 **14. Weaving the Web**
 
-
 by [Tim Berners-Lee][1]
 
 
-p. 12
+> In an extreme view, the world can be seen as only connections, nothing else. We think of a dictionary as the repository of meaning, but it defines words only in terms of other words. I liked the idea that a piece of information is really defined only by what it's related to, and how it's related. There really is little else to meaning. The structure is everything. There are billions of neurons in our brains, but what are neurons? Just cells. The brain has no knowledge until connections are made between neurons. All that we know, all that we are, comes from the way our neurons are connected.
 
-"In an extreme view, the world can be seen as only connections, nothing else.
-We think of a dictionary as the repository of meaning, but it defines words
-only in terms of other words. I liked the idea that a piece of information is
-really defined only by what it's related to, and how it's related. There
-really is little else to meaning. The structure is everything. There are
-billions of neurons in our brains, but what are neurons? Just cells. The brain
-has no knowledge until connections are made between neurons. All that we know,
-all that we are, comes from the way our neurons are connected."
+p 12
 
+> Ted Nelson, a professional visionary, wrote in 1965 of "Literary Machines," computers that would enable people to write and publish in a new, nonlinear format, which he called hypertext. Hypertext was "nonsequential" text, in which a reader was not constrained to read in any particular order, but could follow links and delve into the original document from a short quotation. Ted described a futuristic project, Xanadu, in which all the world's information could be published in hypertext. For example, if you were reading this book in hypertext, you would be able to follow a link from my reference to Xanadu to further details of that project. In Ted's vision, every quotation would have been a link back to its source, allowing original authors to be compensated by a very small amount each time the quotation was read. He had the dream of a utopian society in which all information could be shared among people who communicated as equals. He struggled for years to find funding for his project, but success eluded him.
 
-p. 5
-
-"Ted Nelson, a professional visionary, wrote in 1965 of "Literary Machines,"
-computers that would enable people to write and publish in a new, nonlinear
-format, which he called hypertext. Hypertext was "nonsequential" text, in
-which a reader was not constrained to read in any particular order, but could
-follow links and delve into the original document from a short quotation. Ted
-described a futuristic project, Xanadu, in which all the world's information
-could be published in hypertext. For example, if you were reading this book in
-hypertext, you would be able to follow a link from my reference to Xanadu to
-further details of that project. In Ted's vision, every quotation would have
-been a link back to its source, allowing original authors to be compensated by
-a very small amount each time the quotation was read. He had the dream of a
-utopian society in which all information could be shared among people who
-communicated as equals. He struggled for years to find funding for his
-project, but success eluded him."
-
-![][2]
+p 5
 
    [1]: http://www.w3.org/People/Berners-Lee/
-
-   [2]:
-
