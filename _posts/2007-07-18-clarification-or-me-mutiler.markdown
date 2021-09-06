@@ -11,20 +11,9 @@ categories:
  - personal notes
 ---
 
-While we do all [enter these delicate transactions with our own stuff][1], the
-nature of that stuff can differ to great degrees. And it seems [that nature is
-the most violent][2] when identity formation is part of that stuff. And the
-mechanisms of both love and hate are identical when identity is on the line,
-i.e. most of the time for most of the population. And the mechanisms of
-identity revolve around the symbolic order, the big Other.
+While we do all [enter these delicate transactions with our own stuff][1], the nature of that stuff can differ to great degrees. And it seems [that nature is the most violent][2] when identity formation is part of that stuff. And the mechanisms of both love and hate are identical when identity is on the line, i.e. most of the time for most of the population. And the mechanisms of identity revolve around the symbolic order, the big Other.
 
-> By uttering [hate] speech, the subject seeks out the Other that would
-confirm his or her identity and grant his or her authority. And paradoxically,
-it is the addressee of this speech who plays the role of the "mediator"
-between the sender and the big Other: by recognizing him- or herself as the
-addressee of the sender's words, he or she actually occupies the place in the
-symbolic structure from which the speaker receives confirmation of his or her
-identity and authority.
+> By uttering [hate] speech, the subject seeks out the Other that would confirm his or her identity and grant his or her authority. And paradoxically, it is the addressee of this speech who plays the role of the "mediator" between the sender and the big Other: by recognizing him- or herself as the addressee of the sender's words, he or she actually occupies the place in the symbolic structure from which the speaker receives confirmation of his or her identity and authority.
 
 [Salecl][3], 121
 
