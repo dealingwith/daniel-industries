@@ -82,7 +82,3 @@ another techy thing we really need in order to achieve <a href="http://integrati
 
 and speaking of sustainability, part of that is subverting existing
 <b> marketing structures</b>, and in thinking of that, and surfing, I realized that this is true: <a href ='http://www.wired.com/news/mac/0,2125,56677,00.html'>Wired News Apple It's All About the Brand</a>.
-
-
-
-
