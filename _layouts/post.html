@@ -24,12 +24,6 @@ layout: default
       <h1 class="font-bold my-0 leading-8">{{ page.title }}</h1>
       <p class="mb-2 post-metadata">{{ page.content | number_of_words }} words written on <a href="{{ page.url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d %Y" }}</time></a>{% if page.categories.size > 0 %} in {% for category in page.categories %}/ <a href="/categories#{{category}}">{{ category }}</a> {% endfor %}{% endif %}</p>
     </header>
-    {% if page.excerpt != "" %}
-      <div class="italic text-sm">
-        {{ page.excerpt }}
-      </div>
-      <hr>
-    {% endif %}
     <article>{{ page.content }}</article>
   </div>
 </div>

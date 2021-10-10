@@ -6,7 +6,7 @@ date: 2021-10-07 10:12:20 GMT-5
 categories: 
 ---
 
-> So if you feel let down, meaningless, somewhat depressed by this whole thing, and you see at the same time you can’t do anything about it. What happens? Why? You’re simply watching what’s happening. You don’t know what’s going to happen next.
+> So if you feel let down, meaningless, somewhat depressed by this whole thing, and you see at the same time you can’t do anything about it...You’re simply watching what’s happening. You don’t know what’s going to happen next.
 
 > And it isn’t just watching something that is formally identified as a depressed state because [there are] a lot of other things going on, too. There is the world around you. There’s your breath. Breathing still, your eyes looking still, your ears hearing still all that’s going on. You don’t know what to make of it anymore. You can’t believe anything about it because you know that it’s all a hoax.
 
