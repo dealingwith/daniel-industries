@@ -30,5 +30,3 @@ The WSL has access to the Windows filesystem (it's technically possible for Wind
 So from there, it was just a matter of installing [Bundler](https://bundler.io/) and running it to install the gems (primarily [Jekyll](https://jekyllrb.com/)) required to generate this site. It runs locally, which means it will probably build fine, now the real test: can I deploy?
 
 \* This did not go entirely smoothly, however, as I had a file with a ? in it, which Windows could not handle. I ended up installing [Git Bash](https://gitforwindows.org/), and generating yet another key for GitHub, although the final fix was to simply get rid of the offending file.
-
-*Update:* Had some issues with rsync on WSL. Testing a fix now.
