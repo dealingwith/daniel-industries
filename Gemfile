@@ -5,3 +5,5 @@ gem "jekyll"
 gem "titleize"
 gem "stringex"
 gem "rake"
+
+gem "webrick", "~> 1.7"
