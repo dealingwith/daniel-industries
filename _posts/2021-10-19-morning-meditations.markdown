@@ -22,4 +22,4 @@ categories:
 
 ---
 
-The bicycle has become my refuge. Most mornings I leave in the pre-dawn twilight of 7 am and ride about 20 miles. When I have the time, I go longer. I weigh < 200 lbs for the first time in over 20 years.
+The bicycle has become my refuge. Most mornings I leave in the pre-dawn twilight of 7 am and ride about 20 miles. When I have the time, I go longer. I weigh 200 lbs for the first time in over 20 years.
