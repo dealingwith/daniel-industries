@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 <img src="{{ site.baseurl }}/assets/page/DSC_4899-copy.jpg" class="profile-pic">
