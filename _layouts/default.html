@@ -47,18 +47,19 @@
     }
 
     const theme = localStorage.getItem('theme');
-    if (window.matchMedia && 
-        window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      toggleToDark();
-      window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener('change', event => {
-          if (event.matches) {
-            toggleToDark();
-          } else {
-            toggleToLight();
-          }
-        });
-    } else if (theme == "dark") {
+    // if (window.matchMedia && 
+    //     window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    //   toggleToDark();
+    //   window.matchMedia('(prefers-color-scheme: dark)')
+    //     .addEventListener('change', event => {
+    //       if (event.matches) {
+    //         toggleToDark();
+    //       } else {
+    //         toggleToLight();
+    //       }
+    //     });
+    // } else 
+    if (theme == "dark") {
       toggleToDark();
     } else if (theme == "light") {
       toggleToLight();

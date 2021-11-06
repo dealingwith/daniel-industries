@@ -4,16 +4,16 @@ layout: default
 
 <div class="w-full lg:w-1/3 lg:pr-32 order-3 lg:order-1">
   <div class="max-w-xl lg:float-right lg:text-right leading-relaxed tracking-normal lg:sticky lg:top-0 nav">
-    {% if page.previous.url %}
-      <p class="font-bold mt-7 mb-2">Previous</p>
-      <ul class="flex flex-wrap justify-between flex-col">
-        <li><a href="{{page.previous.url}}" class="text-sm">{{ page.previous.title }}</a></li>
-      </ul>
-    {% endif %}
     {% if page.next.url %}
       <p class="font-bold mt-4 mb-2">Next</p>
       <ul class="flex flex-wrap justify-between flex-col">
         <li><a href="{{page.next.url}}" class="text-sm">{{ page.next.title }}</a></li>
+      </ul>
+    {% endif %}
+    {% if page.previous.url %}
+      <p class="font-bold mt-7 mb-2">Previous</p>
+      <ul class="flex flex-wrap justify-between flex-col">
+        <li><a href="{{page.previous.url}}" class="text-sm">{{ page.previous.title }}</a></li>
       </ul>
     {% endif %}
   </div>
