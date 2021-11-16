@@ -4,6 +4,7 @@ title: "Confronting the Productivity Dragon"
 excerpt: 
 date: 2021-07-01 04:49:25 GMT-5
 categories: 
+ - cal newport quotes
 ---
 
 I've been listening to a lot of the Cal Newport podcast and "Confronting the Productivity Dragon" has been coming up quite a bit, and I've been relating to this problem (more tasks than could be accomplished in the time available) so I decided to look closer at what he meant. So far it aligns with what I already thought and attempted to practice, the only issue is the capture and reviews take time. 😓

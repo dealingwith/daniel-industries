@@ -4,6 +4,7 @@ title: "Podcast Roundup"
 excerpt: 
 date: 2021-04-17 12:49:56 GMT-5
 categories: 
+ - cal newport quotes
 ---
 
 There have been a lot fewer of these types of posts since the pandemic (and now a remote job) removed my need to drive an hour every day. But my vaccine appointments were two hours away in Paris, TX, so I set my podcasting app to play at 1.2x and cranked through some interesting episodes.

@@ -5,6 +5,7 @@ excerpt: "When I say there has been a lot of talk..."
 date: 2018-04-07 14:17:14 -0500
 comments: true
 categories: 
+ - cal newport quotes
 ---
 
 Here are a few more studious posts about the why of disconnecting from "walled garden" social networks...

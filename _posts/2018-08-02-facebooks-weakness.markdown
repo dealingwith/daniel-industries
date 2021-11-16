@@ -5,6 +5,7 @@ excerpt: "I've thought this many times but Cal Newport puts it well"
 date: 2018-08-02 23:02:00 -0500
 comments: true
 categories: 
+ - cal newport quotes
 ---
 
 [On Facebook’s Unique Weakness](http://calnewport.com/blog/2018/08/01/on-facebooks-unique-weakness/)

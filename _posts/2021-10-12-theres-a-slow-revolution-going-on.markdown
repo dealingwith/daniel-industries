@@ -4,6 +4,7 @@ title: "There's a slow revolution going on"
 excerpt: 
 date: 2021-10-12 20:10:45 -0500
 categories: 
+ - cal newport quotes
 ---
 
 Maybe it's just because I listen to two episodes of Cal Newport's podcast a week, but it feels like there is a zeitgeist around slowing down, a rebellion against what Cal calls "the hyperactive hive mind", a sense that there is a critical mass asking, "Why?" in response to the typical knowledge worker's experience.

@@ -5,6 +5,7 @@ excerpt: '"...almost no organizations support maker schedules"'
 date: 2017-04-06 07:21:59 -0500
 comments: true
 categories: 
+ - cal newport quotes
 ---
 
 > In 2009, tech investor Paul Graham published an influential essay titled "[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)." In this piece, he argued that the best types of schedules for people who makes things are different than the best schedules for those who manage things.

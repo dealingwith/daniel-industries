@@ -4,6 +4,7 @@ title: "B-b-back to Ubuntu"
 excerpt: 
 date: 2021-11-12 11:30:24 -0600
 categories: 
+ - linux
 ---
 
 Previously, in reverse order:
@@ -27,9 +28,24 @@ Then (ominous music) I managed to brick my desktop environment for the first tim
 
 Now I'm suffering under a number of 21.10-specific issues.
 
-- I'm sticking to Firefox for now, but it's slow and a little buggy in it's snap package iteration. And the GNOME Shell extension doesn't work in this snap Firefox version. I don't use that many extensions so it's not quite worth installing them by hand.
+- I'm sticking to Firefox for now, but it's slow and a little buggy in it's snap package iteration. And the GNOME Shell extension doesn't work in this snap Firefox version. I don't use that many extensions so it's not quite worth installing them by hand. Firefox also no longer supports GTK themes.
 - There aren't RVM packages for 21.10, but rbenv worked so I'm on my way to getting this blog building and deploying again. There have been some other packages that are also missing versions of 21.10.
 - I haven't figured out the multiple versions of Java thing again yet.
 - Screen brightness controls still work, though! It's the small things.
 
 And of course there are the general getting-everything-set-up-again hassles, which I enjoy on occassion but not twice in as many months. On top of that, I've been quite ill all week so I haven't had much energy to work on it.
+
+---
+
+Current setup:
+
+- Tweaks. One of the first things I install so I can change caps lock to escape and flip alt and control keys.
+- gnome-sushi for file preview (I had something similar before but I forget what)
+- gpaste for clipboard management (no change here but I don't make it long without a clipboard manager) (UI is a bit messed up on 21.10)
+- Autokey for text completion (no change here but it's behaving oddly on 21.10--I can't seem to set up custom shortcut keys)
+- Zoom, of course, somewhat unfortunately. But it's much more stable now than it used to be.
+- Flameshot for screenshots.
+
+On the short-lived previous setup I'd installed Chrome in order to have a Slack call. I'm still holding out on Chrome (or Chromium, or Brave, or whatever) for now this time around.
+
+Update: Got the version of Java I needed installed.

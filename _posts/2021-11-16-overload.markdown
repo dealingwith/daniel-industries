@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Overload"
+excerpt: 
+date: 2021-11-16 14:13:17 -0600
+categories: 
+ - cal newport quotes
+---
+
+Yet another post where I just quote a ton of Cal Newport, but when I heard him go on a mini-rant about this subject it made me feel much better about my own difficulties juggling the multitude of balls I often find myself attempting to handle. 
+
+[Ep. 144: Is Overload Necessary? ](https://www.listennotes.com/podcasts/deep-questions/ep-144-listener-calls-is-06Q1LtSv5Zx/)
+
+> The dominant way in which work loads are generated in most knowledge work environments today is what we can call a push model. If I have something that I need you to do, or I need your help on, I push it onto your plate, then we expect the individual to just manage all the different stuff on their plate.
+
+> You have all this different stuff on your plate and _do productivity_. Listen to Cal Newport read David Allen, read Stephen Covey, buy a bullet journal, whatever, but you have all this stuff on your plate that different stakeholders, if you'll excuse terrible business jargon, different stakeholders are pushing onto your plate. Your colleagues, your peers, your department chair, the HR department, whatever, and it all kind of comes in on your plate and you try to make sense of it and figure out: What am I working on? What am I working on today? How do I make progress on this? The type of advice I give all the time, especially in these listener calls episodes.
+
+> It's about how to deal with this always growing mountain of stuff on your plate. Now this push model has become so ubiquitous. We just assume this is what it means to work in a semi-autonomous knowledge work setting. How else would you work? You might say if someone needs something from me, they tell me, and then I try to figure it out.
+
+> I think we need to acknowledge the issues with this approach. I think we all have felt this is an approach that is not actually super compatible with the way the human brain functions, having that much stuff on your plate. And by that much stuff, I'm talking about most people in a non entry-level knowledge work position probably have way too much that has been pushed onto their plate, and they could never even really conceivably think about how they're going to get it done. It's not, you know, the farmer that has six things that need to get done this week. It's way more than you can ever imagine getting done.
+
+> You're always sort of in a crisis mode. This is where people end up because there is no governing on how much can come onto your plate. Anyone can push. So of course, people are just going to keep pushing, pushing, pushing. It's unlikely that they're going to push the exact amount of work that you have time to handle.
+
+> The human brain does not like having more obligations than it can easily understand how they're going to be executed. So we're in a constant state of persistent low grade anxiety and stress because our brain hates this idea that we have more on our plate than we know how to handle. We're not a piece of factory equipment, where our to-do list is like a hopper full of parts and they just come one by one and we assemble things, and so it doesn't really matter how full the hopper is--we're just assembling whatever's in front of us right now. Filling the hopper to the top in a machine context might be fine.
+
+> But in the human context, it doesn't work that way because there's a cost to everything that's on the plate, not just the general stress we just talked about, but there is a specific overhead cost. Once something is on your plate, it takes up a little bit of cognitive energy just to think about it and worry about it. So you don't forget. 
+
+> And it usually has some sort of actual concrete overhead that it requires, even if it's just reassuring people. "Sorry, I'll get to this." "Yeah, yeah. I'm on it." Or you do one of those fake ping pong, email questions. So you can think to yourself, temporarily, this is off my plate.
+
+> So this is a non-trivial amount of cognitive overhead and actual work you have to do, persistently for everything that's on your plate. So when you get too much stuff on your plate, when too much stuff has been pushed onto your plate, _the overhead cost alone eats up all your resources. You have used up so much mental energy trying to juggle, you have very little left to actually do work._
+
+> \[Making\] sure that progress is being made on these things \[means there is\] no time left for anything else to happen.
+
+> So, again, it's very different than a piece of machinery where the hopper \[being\] full or twice as full makes no difference, it falls out in front of the machine at a constant rate. It's not the case for humans. We have to pay for every single part that sits there in their hopper, waiting for us to execute. So the push model is very stressful and it's very inefficient because the overhead of having too many things means you have very little time left for the things you actually want to.
+
+(All emphasis and editorial insertions are mine.)
+
+He then goes on to propose a _pull_ model. (I recommend listening to the entire segment, as transcribed speech doesn't work as well as written words.) He even makes mention of the agile software processes of kanban and sprints. He doesn't say "[backlog](/2021/01/26/in-defense-of-the-backlog/)", but it sounds to me that the stack of work one would pull from is more or less that.
+
+Except I've managed my own work like that for years. When it's just me and I'm not collaborating with anyone else, the sheer volume of work in the backlog becomes demotivating. The time involved in sorting through and prioritizing is daunting and hard to find while still rushing to get the last batch done.
+
+When collaborating with others, I've experienced that problem--"We never finish a sprint"...or, if the group decides to forego sprints or other regular ceremonies, there of often the issues Cal mentioned of communicating progress. Have we agreed on where and how to document progress so that everyone can be clear on what's happening? 
+
+From [justinjackson.ca/nobacklogs](https://justinjackson.ca/nobacklogs):
+
+> Jason Fried: "We don't believe in backlogs. When you have backlogs, they make you feel guilty. It's a constant reminder of 'this is all the shit I haven't gotten to.' It's very unnerving and stressful."
+
+Agreed! However:
+
+> Jon Buda: "So if there is no backlog...You obviously have ideas that are floating around in your head. How do you decide which ideas to pursue? Is it a matter of just seeing which ideas stick around long enough that they're worth pursuing?"
+
+> Jason Fried: "Yes."
+
+My hesitation is when "ideas that are floating around in your head" are actually that hopper full of stuff pushed to you by others or simply by virtue of your collected responsibilities. Without the [processes](/2021/10/28/process-people/) or ceremonies that establish agreement, things often change within [a cycle](/2021/10/12/theres-a-slow-revolution-going-on/ "while executing, one must stay focused, not allowing additional work to seep into the cycle"). Instead of agreeing that a new thing has to go into a backlog until agreed upon, it just goes into an individual's hopper.
+
+This can all combine with the optimism and people-pleasing status quo of modern knowledge work contexts into a fairly toxic soup. There's still a missing piece here, and I'm still hunting for its precise definition...
