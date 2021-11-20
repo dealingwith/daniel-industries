@@ -48,4 +48,15 @@ Current setup:
 
 On the short-lived previous setup I'd installed Chrome in order to have a Slack call. I'm still holding out on Chrome (or Chromium, or Brave, or whatever) for now this time around.
 
-Update: Got the version of Java I needed installed.
+---
+
+Updates: 
+
+* Got the version of Java I needed installed.
+* Switched to Chrome, darn it. Everything works just a bit better.
+* Switched from gpaste to [Diodon](https://wiki.ubuntu.com/Diodon)
+* Switched back to the default Yaru theme
+* Turned off the Tweaks setting that suspends the laptop when the lid is closed. Suspend still does not work properly.
+* Installed [Font Manager](https://github.com/FontManager/font-manager)
+* Switched from Autokey to [espanso](https://espanso.org/)
+* Installed [ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) color theme for VS Code and am using the "[mirage](https://github.com/ayu-theme/vscode-ayu#mirage)" variant for now.
