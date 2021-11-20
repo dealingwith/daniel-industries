@@ -28,8 +28,8 @@ Then (ominous music) I managed to brick my desktop environment for the first tim
 
 Now I'm suffering under a number of 21.10-specific issues.
 
-- I'm sticking to Firefox for now, but it's slow and a little buggy in it's snap package iteration. And the GNOME Shell extension doesn't work in this snap Firefox version. I don't use that many extensions so it's not quite worth installing them by hand. Firefox also no longer supports GTK themes.
-- There aren't RVM packages for 21.10, but rbenv worked so I'm on my way to getting this blog building and deploying again. There have been some other packages that are also missing versions of 21.10.
+- I'm sticking to Firefox for now, but it's slow and a little buggy in it's snap package iteration. And the GNOME Shell extension doesn't work in this version. I don't use that many extensions so it's not quite worth installing them by hand. Firefox also no longer supports GTK themes.
+- There aren't RVM packages for 21.10, but rbenv worked so I'm on my way to getting this blog building and deploying again. There have been some other packages that are also missing versions for 21.10.
 - I haven't figured out the multiple versions of Java thing again yet.
 - Screen brightness controls still work, though! It's the small things.
 

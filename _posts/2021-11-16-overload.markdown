@@ -13,7 +13,7 @@ Yet another post where I just quote a ton of Cal Newport, but when I heard him g
 
 > The dominant way in which work loads are generated in most knowledge work environments today is what we can call a push model. If I have something that I need you to do, or I need your help on, I push it onto your plate, then we expect the individual to just manage all the different stuff on their plate.
 
-> You have all this different stuff on your plate and _do productivity_. Listen to Cal Newport read David Allen, read Stephen Covey, buy a bullet journal, whatever, but you have all this stuff on your plate that different stakeholders, if you'll excuse terrible business jargon, different stakeholders are pushing onto your plate. Your colleagues, your peers, your department chair, the HR department, whatever, and it all kind of comes in on your plate and you try to make sense of it and figure out: What am I working on? What am I working on today? How do I make progress on this? The type of advice I give all the time, especially in these listener calls episodes.
+> You have all this different stuff on your plate and _do productivity_. Listen to Cal Newport, read David Allen, read Stephen Covey, buy a bullet journal, whatever, but you have all this stuff on your plate that different stakeholders, if you'll excuse terrible business jargon, different stakeholders are pushing onto your plate. Your colleagues, your peers, your department chair, the HR department, whatever, and it all kind of comes in on your plate and you try to make sense of it and figure out: What am I working on? What am I working on today? How do I make progress on this? The type of advice I give all the time, especially in these listener calls episodes.
 
 > It's about how to deal with this always growing mountain of stuff on your plate. Now this push model has become so ubiquitous. We just assume this is what it means to work in a semi-autonomous knowledge work setting. How else would you work? You might say if someone needs something from me, they tell me, and then I try to figure it out.
 
@@ -39,7 +39,7 @@ He then goes on to propose a _pull_ model. (I recommend listening to the entire 
 
 Except I've managed my own work like that for years. When it's just me and I'm not collaborating with anyone else, the sheer volume of work in the backlog becomes demotivating. The time involved in sorting through and prioritizing is daunting and hard to find while still rushing to get the last batch done.
 
-When collaborating with others, I've experienced that problem--"We never finish a sprint"...or, if the group decides to forego sprints or other regular ceremonies, there of often the issues Cal mentioned of communicating progress. Have we agreed on where and how to document progress so that everyone can be clear on what's happening? 
+When collaborating with others, I've experienced that problem--"We never finish a sprint"...or, if the group decides to forego sprints or other regular ceremonies, there are often the issues Cal mentioned of communicating progress. Have we agreed on where and how to document progress so that everyone can be clear on what's happening? 
 
 From [justinjackson.ca/nobacklogs](https://justinjackson.ca/nobacklogs):
 

@@ -14,7 +14,7 @@ I am running a proper programming camp for kids in July. I'm squeezing this in a
 
 > Minecraft offers nearly unlimited adventures. You can learn how to gather and combine elements to create new objects. You can work your way up from building a dirt hut to survive your first night to building great palaces and castles. You can defend yourself against the creatures of the night. You can even program robots to automate some of the more tiresome work involved in advancing throughout the game.
 
-> Even then, some of our students find themselves at the edge of what the world of Minecraft can offer. They want more. They've tasted what is possible through the power of code and know that they could apply that power in their real-life as well.
+> Even then, some of our students find themselves at the edge of what the world of Minecraft can offer. They want more. They've tasted what is possible through the power of code and know that they could apply that power in their real life as well.
 
 > That is why we've developed Computer Programming Adventure camps. Through this series of camps, kids will learn how to program in Ruby--a modern, accessible, powerful programming language--and eventually build their own application. It might be a website or just a simple tool to do something cool on the computer or make their life easier. The point is, they will know that they can use their computer to explore lands even vaster than Minecraft (or Fortnite, or Roblox).
 
