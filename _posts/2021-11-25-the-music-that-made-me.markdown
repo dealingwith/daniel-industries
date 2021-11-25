@@ -49,7 +49,9 @@ Musically Rush is divisive, but no one can deny that they were one of the most t
 
 _Circle Slide_ starts off with the title track, which starts off with a tight drum roll followed by a strum of the guitar with that glorious Choir guitar tone. There's no record that better represents that guitar tone than this one. The reverb-heavy drums, saxophone, and guitars create a dreamy bed for Derri Daugherty's gentle voice.
 
-> Imagine one perfect circle / Above the stratosphere / Where lovers hide away / And children cheer / Because the ground has melted / Where the devil stood / Never mind the carnival in your own neighborhood
+> _Imagine one perfect circle / Above the stratosphere / Where lovers hide away / And children cheer / Because the ground has melted / Where the devil stood / Never mind the carnival in your own neighborhood_
+
+> It’s like settling into a deep dream, where everything occurs in soft focus..It’s haunting and beautiful, like slipping into a warm bath, eyes closed, heart settled...And then in the second verse, the carnival shuts down, and the fantasy collapses. -- [An Atheist's Guide to Christian Rock](https://jedwardkeyes.tumblr.com/post/133596742215/the-choir-circle-slide-myrrhepic-records)
 
 Steve Hindalong is a very musical drummer. His parts are intentional, thought out, in service to the song. He was probably the first such drummer I had heard.
 
