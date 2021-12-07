@@ -13,11 +13,11 @@ Previously, in reverse order:
 - [Linux Setup Update](/2020/08/06/linux-setup-update/)
 - [My Linux Setup](/2020/07/11/my-linux-setup/)
 
-In the most recent post above ends with, "I’m back on Ubuntu–a story for a different post..." In fact, I'm now on a second install of Ubuntu since then, still suffering a little bit but staying the course for now, so I'm going to take some notes here for my future self or anyone who stumbles across them and might find them useful.
+The most recent post above ends with, "I’m back on Ubuntu–a story for a different post..." In fact, I'm now on a second install of Ubuntu since then, still suffering a little bit but staying the course for now, so I'm going to take some notes here for my future self or anyone who stumbles across them and might find them useful.
 
 I reinstalled Ubuntu as a dual-boot with Windows just in case I wanted/needed anything on Windows, and to continue to hold out for Windows 11 (which I can now upgrade to but have not yet). But I didn't only install Ubuntu because I was having trouble getting a sane development environment set up; I also just don't like the Windows user experience.
 
-At first I decided to try [Pop!_OS](https://pop.system76.com/), which I have been keeping an eye on since right about the time it was first released. I created a boot USB and boot to it, but its installer doesn't support automatic dual-boot. I think it can be done, but at the time I preferred more efficiency and hand-holding so I immediately went back to Ubuntu, whose installer I knew could set me up a dual-boot situation automatically via the installer.
+At first I decided to try [Pop!_OS](https://pop.system76.com/), which I have been keeping an eye on since right about the time it was first released. I created a boot USB and boot to it, but its installer doesn't support automatic dual-boot. I think it can be done, but at the time I preferred more efficiency and hand-holding so I immediately went back to Ubuntu, whose installer I knew could set me up a dual-boot situation automatically.
 
 I decided to go with the most recent release of Ubuntu which at the time was 21.04. It installed easily and I was on my way. I slowly got all the things installed and set up and was a relatively happy camper. I had done a "minimal" install and as such it hadn't installed any drivers for my NVIDIA GPU, but everything I needed to run was doing fine with the integrated Intel graphics (maybe better). The screen brightness controls even worked, which was not my experience with 20.04 (or it was the GPU drivers, I may never know).
 

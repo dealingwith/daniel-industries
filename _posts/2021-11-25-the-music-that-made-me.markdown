@@ -21,7 +21,7 @@ Of course, Phil Collins began his music career as a drummer. And he's always bee
 
 It wasn't just the grooves on those two tunes, though. The guitar riff at the beginning of _Like China_ and the intentional accent on the vocal and the guitar effects on the solo felt like another world to me. _Do You Know, Do You Care?_ is better and angrier than _In The Air Tonight_ ever was. _The West Side_, the instrumental, from this era when pop artists put instrumentals on their records. I miss that era.
 
-I would later get into more Genesis, Brand X, and other projects involving Chester Thompson (Phil's touring drummer, who performed a drum clinic at my high school) like Fire Merchants. But it was Hello I Must Be Going that got me going down that road to begin with. My appreciation for Phil's solo catalog ended with 1989's _...But Seriously_, but those first four records have probably had more musical influence on me than any other such collection of work.
+I would later get into more Genesis, Brand X, and other projects involving Chester Thompson (Phil's touring drummer, who performed a drum clinic at my high school) like Fire Merchants. But it was _Hello I Must Be Going_ that got me going down that road to begin with. My appreciation for Phil's solo catalog ended with 1989's _...But Seriously_, but those first four records have probably had more musical influence on me than any other such collection of work.
 
 **Rush, _Exit...Stage Left_**
 
