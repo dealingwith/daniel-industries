@@ -18,4 +18,5 @@ author:
   url:               http://daniel.industries
   email:             dealingwith@gmail.com
 
-plugins: []
+plugins:
+  - jekyll-postcss
