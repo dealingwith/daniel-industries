@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Florida"
+excerpt: 
+date: 2021-12-31 23:40:26 -0600
+categories: 
+---
+
+![](/assets/2021/12/florida1.jpg)
