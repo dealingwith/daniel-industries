@@ -3,7 +3,7 @@ layout: post
 title: "It's ok to be sad, part 3"
 date: 2016-02-17 23:42:27 -0600
 comments: true
-categories: 
+categories: its-ok-to-be-sad
 ---
 
 ## On Joy and Sorrow

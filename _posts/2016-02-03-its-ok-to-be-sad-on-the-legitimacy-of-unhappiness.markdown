@@ -20,7 +20,7 @@ I very recently returned to [Man's Search for Meaning](https://en.wikipedia.org/
 
 > This ultimate meaning necessarily exceeds and surpasses the finite intellectual capacities of man; in logotherapy, we speak in this context of a super-meaning. What is demanded of man is not, as some existential philosophers teach, to endure the meaninglessness of life, but rather to bear his incapacity to grasp its unconditional meaningfulness in rational terms. _Logos_ is deeper than logic.
 
-I [have written about](/2010/09/05/why/) [potential meanings](http://for-m.net/), I have wrestled with what could have justified her loss. But the thing I have never done is believe that such a meaning could exist outside of my understanding. Not just outside of my understanding, but outside my potential for understanding.
+I [have written about](/2010/09/05/why/) [potential meanings](https://danielmiller.bandcamp.com/album/form), I have wrestled with what could have justified her loss. But the thing I have never done is believe that such a meaning could exist outside of my understanding. Not just outside of my understanding, but outside my potential for understanding.
 
 Frankl differentiated his from other psychotherapies through this _will to meaning_ as a primary motivator of human behavior; in contrast to Freud's _will to pleasure_ or Nietzsche's _will to power_.
 

@@ -9,13 +9,13 @@ I've been resonating with [Hugh](http://www.gapingvoid.com)'s thoughts on creati
 
 I wrote in my personal journal:
 
-> Calling is the only word that transcends this modern / postmodern/ postwhateverthefuck boundary. It is the only word that wields power, that trumps the suspicion, denies the doubt, buries the naysayers. But why must we trump their words and attitudes anyway?
+> _Calling_ is the only word that transcends this modern / postmodern / postwhateverthefuck boundary. It is the only word that wields power, that trumps the suspicion, denies the doubt, buries the naysayers. But why must we trump their words and attitudes anyway?
 
 Dan Hughes has also been writing about calling:
 
 > Calling makes a demand for what cannot be adequately proffered to an audience: your life.
 
-<a name="riddell"></a> I've been re-reading Mike Riddell's <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0829814566/qid=1092629692/sr=8-8/ref=sr_8_xs_ap_i8_xgl14/102-9126044-0387335?v=glance&s=books&n=507846">Sacred Journey</a> for the third time:
+I've been re-reading Mike Riddell's [Sacred Journey](https://books.google.com/books?id=3G2pAwAAQBAJ) for the third time:
 
 > The way forward almost always lies through hardship rather than around it. It is unfortunate that so much of the message given by our contemporary Western societies seems to suggest otherwise. We are constantly being sold the line that success in life consists in accumulating and protecting. The art of leaving requires exactly the opposite: releasing and emptying. It is something which is best learned by navigating the experience.
 

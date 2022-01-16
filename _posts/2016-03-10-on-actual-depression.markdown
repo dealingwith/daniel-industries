@@ -3,7 +3,7 @@ layout: post
 title: "It's ok to be sad, part 4: on actual depression"
 date: 2016-03-10 22:51:55 -0600
 comments: true
-categories: 
+categories: its-ok-to-be-sad
 ---
 
 ![Had I slept?](/assets/2016/03/wake_up.gif)

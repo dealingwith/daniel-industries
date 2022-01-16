@@ -11,7 +11,7 @@ categories:
 
 those who want to keep up know where to look
 
-From <a href="https://en.wikipedia.org/wiki/Mike_Riddell">Riddell</a>'s <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0829814566/qid=1121279099/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/102-5131049-5514530?v=glance&s=books&n=507846">Sacred Journey</a>:
+From <a href="https://en.wikipedia.org/wiki/Mike_Riddell">Riddell</a>'s <a href="https://books.google.com/books?id=3G2pAwAAQBAJ">Sacred Journey</a>:
 
 > At the heart of evil is the proclivity for deception. The essence of evil is to deceive, distort and confuse. It prospers by imitating that which is good and true, only to invade and colonise it with death.
 
