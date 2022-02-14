@@ -11,9 +11,10 @@ categories:
  - video
 ---
 
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/b9N3yj3gOck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Draplin on Why America is F**ked][1], "...graphically, at least."
 
 Lots of f-bombs. NSFW w/o headphones.
 
-   [1]: http://www.youtube.com/watch?v=YALJMbC1GLc
-
+   [1]: https://www.youtube.com/watch?v=b9N3yj3gOck
