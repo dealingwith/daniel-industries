@@ -1,15 +1,15 @@
 ---
-layout: page
+layout: index
 ---
 
-<img src="{{ site.baseurl }}/assets/page/DSC_4899-copy.jpg" class="profile-pic">
+[About](/about)
 
-## Product-focused technology leader
+[Blog](/blog)
 
-With over 20 years of [experience](https://www.linkedin.com/in/dealingwith) in technology and entrepreneurship, I help companies ship software that delivers real value to customers. 
+[Music](/music)
 
-Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Milo and stepdad of Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and stories. Cyclist. Indieweb advocate.
+[LinkedIn](https://www.linkedin.com/in/dealingwith/)
 
----
+[Minecraft U](https://minecraftu.org/)
 
-The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet. There's not at present a coherent way to navigate specific types of content, and I consider that a feature, not a bug.
+[Chiasmx](https://chiasmx.com/)
