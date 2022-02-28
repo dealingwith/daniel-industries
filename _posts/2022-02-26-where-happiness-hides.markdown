@@ -6,7 +6,7 @@ date: 2022-02-26 22:54:04 -0600
 categories: 
 ---
 
-[You 2.0 Where Happiness Hides](https://hiddenbrain.org/podcast/where-happiness-hides/)
+[You 2.0: Where Happiness Hides](https://hiddenbrain.org/podcast/where-happiness-hides/)
 
 Sonja Lyubomirsky on the Hidden Brain podcast.
 

@@ -8,6 +8,8 @@ categories:
  - nostalgia
 ---
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3592029913/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3056850703/transparent=true/" seamless><a href="https://jumpstartrecords.bandcamp.com/album/midnight-radio-volume-1">Midnight Radio, Volume 1 by Dave&#39;s Big Deluxe</a></iframe>
+
 One of my favorite things to do late at night is to be randomly sent down a musical rabbit hole, popping out into Wonderland where everything is weird and the animals talk. I've never really done drugs. Instead, I have music.
 
 I particularly like music's ability to transport me back in time. In an unlikely string of events this evening, I was taken back to 1993.
