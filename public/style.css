@@ -65,6 +65,10 @@ article a {
   margin-bottom: 1em;    
 }
 
+hr {
+  border-top: 2px solid #9ca3af;
+}
+
 ul li {
   list-style: disc;
 }
