@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I’m still grateful it lives on through the people who won’t let it go"
+title: "I'm still grateful it lives on through the people who won't let it go"
 excerpt: 
 date: 2022-04-15 18:01:21 -0500
 categories:
