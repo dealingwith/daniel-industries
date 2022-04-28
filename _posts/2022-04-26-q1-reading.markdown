@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Q1 Reading"
+excerpt: 
+date: 2022-04-26 20:28:47 -0500
+categories: 
+---
+
+**Books I've read, listened to on audiobook, or started this year, with very short reviews**
+
+_Dopamine Nation_. Hardcover. Strong recommend. Explains a lot of our behaviors.
+
+_The Goal_. Audiobook. Strong recommend for those in any kind of systematic production business. About manufacturing but applies to a lot of industries. Also helpful, as someone who already does Lean in a business context, to understand its roots.
+
+_Deep Work_. Kindle. Strong recommend. I was already a Cal Newport devotee based on his podcast and blog, but somehow had yet to read any of his books.
+
+_The Lean Startup_. Audiobook. I've studied Lean principles for a long time, so there wasn't much new in this book, but like Deep Work, I felt like I needed to read some source material.
+
+_The Second Mountain_. Hardcover. Skip it. The concept is good, the execution of the writing is so bad it's exhausting.
+
+_The Hard Thing About Hard Things_. Audiobook. Skip it. More of a pissing contest than anything.
+
+**Books I started but do not plan on finishing**
+
+_Designing Your Life_. Kindle. Good, but very specific to times of transition. I got bogged down in the chapter exercises at the one where the reader was instructed to assemble a support group around themselves.
+
+_Effortless_. Audiobook. Super meh. I don't get Greg McKeown's popularity. He's just regurgitating.
+
+_Breathing Under Water: Spirituality and the Twelve Steps_. Paperback. I'm a Richard Rohr fan, and I did read most of this book, and it was ok, but it was more Christian concepts than 12-Step concepts and not as practical as I had hoped.
+
+**Books I'm currently reading**
+
+_Why’s (Poignant) Guide to Ruby_. Working through it with a coworker who wants to learn how to code.
+
+_The Phoenix Project_ (for the 2nd time, and I'm actually done with the actual book but am not done with the afterward, which is comprised of a good chunk of the DevOps Handbook).
+
+_The Left Hand of Darkness_
+
+_Meditations_. I just read a couple of paragraphs every morning.
+
+_A Philosophy of Software Design_
