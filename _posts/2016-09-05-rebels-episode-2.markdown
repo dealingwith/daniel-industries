@@ -7,9 +7,9 @@ comments: true
 categories: 
 ---
 
-#### _What to do if you would like to join the fight for a better internet_
+_What to do if you would like to join the fight for a better internet_
 
-## Quit Facebook
+**Quit Facebook**
 
 This is the big one. Besides the post from yesterday, reading [hapgood](https://hapgood.us/) on a regular basis will help one understand why, at least on philosophical, sociological and psychological levels. [The Garden and the Stream](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) is particularly important.
 
@@ -25,13 +25,11 @@ This is the big one. Besides the post from yesterday, reading [hapgood](https://
 
 > This is not meant to be a moral panic about technology, Facebook, whatever. But the tech you choose has consequences, and right now it seems to me the mix veers so far towards accretive identity-building that we are losing at least some of our capability to think about thoughts too nascent or controversial to post to our wall.
 
-### Quit all social media
+**Quit all social media**
 
 The advanced course. Not for the feint of heart.
 
----
-
-## Start a blog
+**Start a blog**
 
 Not for others, but for yourself.
 
@@ -39,16 +37,14 @@ Creating content on the internet and actually owning all of that content and ret
 
 It used to be that the things we wrote in journals, the photographs we took, they would stack up on the shelf or accumulate in a box. House fires were the biggest threat against these artifacts of a working mind. Now the best worst-case is neglecting to pay a bill to some hosting provider. Most people are just throwing their best work to the _feeds_, street preachers on a corner with a million other street preachers.
 
-### Find an oblique hobby
+**Find an oblique hobby**
 
 The term _oblique_ I am borrowing directly from Brian Eno and Peter Schmidt's [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies), a card set where "each card offers a challenging constraint intended to help artists break creative blocks by encouraging lateral thinking." The same could be said for any activity that allows the brain to think about the things around it in a different way than it is normally accustomed. If you are a coder, pick up an artistic hobby. If you are an artist, start coding. Play obscure games like [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress) or even less obscure games like Minecraft or chess. If you write non-fiction, write a role-playing game or [nonlinear fiction](https://en.wikipedia.org/wiki/Nonlinear_narrative). If you play in a punk band, score a science fiction film. If you are an entrepreneur, volunteer. If you're an athiest, go to church. If you're of a certain faith, read some books by athiest intellectuals. 
 
 ![](/assets/2016/09/oblique.png)
 
-This will also give you something to blog about. 
+This will also give you something to blog about.
 
----
-
-## Use the force
+**Use the force**
 
 In order to care about your _horizon for meaningful impact in the world_, you need to care about meaning; in order to care about meaning you need to pause; in order to pause you need to develop some kind of contemplative practice. I am not great at this; therefore I leave my comments to those observations.

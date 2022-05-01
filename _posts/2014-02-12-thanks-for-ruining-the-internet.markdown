@@ -48,10 +48,6 @@ That's not all. All this data they're collecting about you is driving product de
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0Or1f_RxKQ" frameborder="0" allowfullscreen></iframe>
-
----
-
 Without strong leadership steering these ships, we're destined to continue down the path of deprivation. The pirates have taken over the fleet, and those with discipline and old-world skills are hidden away in enclaves, quietly existing on the resources available to them. The point is: We have a surplus of knowledge and a paucity of wisdom (a notable exception being Stewart Butterfield's <a href="https://medium.com/p/4c59524d650d">leadership of Slack</a>). Perhaps this is not a new problem.
 
 ---

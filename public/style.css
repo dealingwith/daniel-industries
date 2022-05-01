@@ -60,6 +60,9 @@ a.dead {
 article a {
   text-decoration: underline;
 }
+a.reversefootnote {
+  text-decoration: none;
+}
 
 .main-content p, .main-content hr, .main-content div, .main-content iframe, .main-content table {
   margin-bottom: 1em;    
