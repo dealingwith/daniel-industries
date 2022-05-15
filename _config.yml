@@ -22,5 +22,5 @@ plugins:
   - jekyll-postcss
 
 collections:
-  writing:
+  writings:
     output: true

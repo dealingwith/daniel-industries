@@ -133,6 +133,26 @@ pre {
   font-style: italic;
 }
 
+.writing-index-container {
+  padding: 10px 10px 0; 
+  border: 1px solid #9ca3af; 
+  box-shadow: 1px 1px 3px #c5c9d0;
+}
+
+.writing-index-title {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.writing-index-category {
+  float: right;
+  color: #9ca3af;
+}
+
+.writing-index-excerpt {
+  font-style: italic;
+}
+
 /* code colors */
 .highlight pre { background-color: #272822; }
 .highlight .hll { background-color: #272822; }
