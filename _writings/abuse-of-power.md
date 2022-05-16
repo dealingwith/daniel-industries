@@ -1,6 +1,7 @@
 ---
 title: Abuse of Power
 category: Fiction
+subcategory: POSEUR
 layout: writing
 excerpt: The next morning his dad was sitting at the small kitchen table huddled over his coffee, hands shaking, bags under his eyes. He motioned Andy over. Andy's heart raced as he took each fearful step. As he got closer, his father picked up a pocket knife off the table and held it out to Andy. "Happy birthday, buddy, it's time you learned how to use one of these," he said, and Andy took it.
 ---

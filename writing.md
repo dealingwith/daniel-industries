@@ -1,11 +1,16 @@
 ---
-layout: page
+layout: default-index
 title: "Writing"
 date: 2022-05-14 07:09
 ---
 
-{% for piece in site.writings %}
-  <div class="writing-index-container">
+{% assign sorted_array = site.writings | sort: "category" %}
+{% assign previous_subcategory = "foo" %}
+{% for piece in sorted_array %}
+  <div class="item main-content">
+    <div class="writing-index-category">
+      {{ piece.subcategory }}
+    </div>
     <div class="writing-index-category">
       {{ piece.category }}
     </div>
