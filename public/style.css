@@ -14,13 +14,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
   letter-spacing: 0.03rem;
-  line-height: 2rem;
+  line-height: 2.4rem;
   margin: 0 10px 1rem 0;
   padding: 10px 10px 0 0;
 }
 
 header * {
-  font-family: 'Merriweather', serif;
   letter-spacing: 0.03rem;
   line-height: 2rem;
 }
@@ -121,6 +120,7 @@ blockquote {
 
 img {
   border-radius: 5px;
+  max-width: 100%;
 }
 
 pre {
@@ -150,14 +150,12 @@ pre {
   align-content: start
 }
 .item {
-  border: 1px solid #98A89F;
-  box-shadow: 1px 1px 2px #d7dad8;
+  border: 3px solid #98A89F;
   border-radius: 10px;
   flex: 0 0 auto;
   margin: 10px;
   padding: 10px 10px 0;
 }
-
 .writing-index-title a {
   font-weight: bold;
 }
@@ -175,7 +173,6 @@ pre {
 }
 .writing-index-excerpt {
   font-size: 0.8rem;
-  /* font-style: italic; */
   line-height: 1.1rem;
   max-width: 250px;
 }

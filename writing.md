@@ -27,9 +27,11 @@ date: 2022-05-14 07:09
 {% assign sorted_array = site.writings | sort: "category" %}
 {% for piece in sorted_array %}
   <div class="item {{ piece.subcategory }} {{ piece.category }}">
-    <div class="writing-index-category">
-      {{ piece.subcategory }}
-    </div>
+    {% if piece.subcategory %}
+      <div class="writing-index-category">
+        {{ piece.subcategory }}
+      </div>
+    {% endif %}
     <div class="writing-index-category">
       {{ piece.category }}
     </div>
@@ -38,6 +40,9 @@ date: 2022-05-14 07:09
         <a href="{{ piece.url }}" class="writing-link">{{ piece.title }}</a>
       </span>
     </div>
+    {% if piece.pubdate %}
+      <p class="post-metadata" style="font-size: 0.8rem; margin-top: 0">{{ piece.pubdate }} / {{ piece.content | number_of_words }} words</p>
+    {% endif %}
     <p class="writing-index-excerpt"><a href="{{ piece.url }}" class="writing-link">{{ piece.excerpt }}</a></p>
   </div>
 {% endfor %}

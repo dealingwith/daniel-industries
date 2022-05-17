@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Uses"
-date: 2022-04-25 07:09
+pubdate: "2022"
 ---
 
 This site is built using the [Jekyll Ruby-based static site generator](https://jekyllrb.com/) and has been for the last decade or so. Prior to that, many Content Management Systems were used, including a home-spun PHP-based CMS called [SWIM](https://daniel.industries/2017/12/26/swim-stock-take-part-2/). It started its life in 2001 on [Blogger](https://www.blogger.com/).

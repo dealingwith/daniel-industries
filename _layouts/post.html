@@ -10,10 +10,11 @@ layout: page
 <hr>
 <div>
   {% if page.previous.url %}
-    <p style="float: left; width: 50%">Previous: <a href="{{page.previous.url}}">{{ page.previous.title }}</a></p>
+    <p style="float: left; width: 50%; margin-top: 0">Previous: <a href="{{page.previous.url}}">{{ page.previous.title }}</a></p>
   {% endif %}
   {% if page.next.url %}
-    <p style="float: right; width: 50%; text-align: right;">Next: <a href="{{page.next.url}}">{{ page.next.title }}</a></p>
+    <p style="float: right; width: 50%; text-align: right; margin-top: 0">Next: <a href="{{page.next.url}}">{{ page.next.title }}</a></p>
   {% endif %}
+  <p style="text-align: right; font-size: 0.8rem;"><a href="/archives/">archives</a></p>
 </div>
 <div style="clear: both;"></div>

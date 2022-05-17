@@ -3,6 +3,7 @@ title: Christmas 2001
 category: Fiction
 subcategory: Christian
 layout: page
+pubdate: "2001"
 excerpt: I remember Mary and Joseph. They were a nice couple. It took Joseph forever to finally pop the question.
 ---
 
