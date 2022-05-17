@@ -150,8 +150,8 @@ pre {
   align-content: start
 }
 .item {
-  background-color: #fff;
-  border: 2px solid #98A89F;
+  border: 1px solid #98A89F;
+  box-shadow: 1px 1px 2px #d7dad8;
   border-radius: 10px;
   flex: 0 0 auto;
   margin: 10px;
@@ -161,31 +161,32 @@ pre {
 .writing-index-title a {
   font-weight: bold;
 }
-
 .writing-link {
   text-decoration: none;
 }
-
 .writing-index-category {
   background-color: #edebe3;
-  border: 2px solid #C3C9BE;
+  border: 1px solid #C3C9BE;
   border-radius: 5px;
   float: right;
   font-size: 0.8rem;
   margin-right: 4px;
-  padding: 0px 6px;
+  padding: 0px 4px;
 }
-
 .writing-index-excerpt {
-  font-size: 0.9rem;
-  font-style: italic;
-  max-width: 275px;
+  font-size: 0.8rem;
+  /* font-style: italic; */
+  line-height: 1.1rem;
+  max-width: 250px;
+}
+.writing-index-excerpt a {
+  border-bottom: 0px;
 }
 
 .menu {
-  position: fixed;
-  top: 10px;
-  right: 10px;
+  position: absolute;
+  top: 0px;
+  right: 20px;
 }
 .menu ul {
   list-style: none;

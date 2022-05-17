@@ -3,10 +3,30 @@ layout: default-index
 title: "Writing"
 date: 2022-05-14 07:09
 ---
+<script>
+  function showHide(classname) {
+    document.querySelectorAll(".item." + classname).forEach(function(el) {
+      el.style.display = "block";
+    });
+    document.querySelectorAll(".item:not(." + classname + ")").forEach(function(el) {
+      el.style.display = "none";
+    });
+  }
+  function showAll() {
+    document.querySelectorAll(".item").forEach(function(el) {
+      el.style.display = "block";
+    });
+  }
+</script>
+<div style="width: 100%; margin-bottom: 2rem">
+  <a href="#" onclick="showHide('Fiction')">Fiction</a> /
+  <a href="#" onclick="showHide('Nonfiction')">Nonfiction</a> /
+  <a href="#" onclick="showAll()">All</a>
+</div>
 
 {% assign sorted_array = site.writings | sort: "category" %}
 {% for piece in sorted_array %}
-  <div class="item main-content">
+  <div class="item {{ piece.subcategory }} {{ piece.category }}">
     <div class="writing-index-category">
       {{ piece.subcategory }}
     </div>
