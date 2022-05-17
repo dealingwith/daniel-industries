@@ -44,15 +44,15 @@ h6 {
   font-size: 1em;
 }
 
-/* ::selection {
-    background: antiquewhite;
+::selection {
+    background: rgb(174, 174, 0);
 }
 ::-moz-selection {
-    background: antiquewhite;
-} */
+    background: rgb(174, 174, 0);
+}
 
 a {
-  border-bottom: 2px solid rgb(174, 174, 0);
+  border-bottom: 1px solid rgb(174, 174, 0);
   color: #2E4057;
   text-decoration: none;
 }

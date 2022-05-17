@@ -7,6 +7,10 @@ pubdate: "WIP"
 excerpt: The central street of the east district was slick like a runny nose on a toddler.
 ---
 
+_This is a work in progress_
+
+---
+
 The central street of the east district was slick like a runny nose on a toddler.
 
 "I'm not high," Tris heard someone think, as he glided down the sidewalk, through the crowds streaming out of the clubs. "You're not high. Dammit, focus," he heard the same voice think. It was the desperate thoughts of a clubber out too long. The clubs of the east district were for professional clubbers; these kids could go a week without sleep, days without food.
