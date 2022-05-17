@@ -5,7 +5,6 @@ date: 2022-05-14 07:09
 ---
 
 {% assign sorted_array = site.writings | sort: "category" %}
-{% assign previous_subcategory = "foo" %}
 {% for piece in sorted_array %}
   <div class="item main-content">
     <div class="writing-index-category">
@@ -15,10 +14,10 @@ date: 2022-05-14 07:09
       {{ piece.category }}
     </div>
     <div>
-      <a href="{{ piece.url }}" class="writing-index-title">
-        {{ piece.title }}
-      </a>
+      <span class="writing-index-title">
+        <a href="{{ piece.url }}" class="writing-link">{{ piece.title }}</a>
+      </span>
     </div>
-    <p class="writing-index-excerpt">{{ piece.excerpt }}</p>
+    <p class="writing-index-excerpt"><a href="{{ piece.url }}" class="writing-link">{{ piece.excerpt }}</a></p>
   </div>
 {% endfor %}

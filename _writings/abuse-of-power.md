@@ -2,8 +2,8 @@
 title: Abuse of Power
 category: Fiction
 subcategory: POSEUR
-layout: writing
-excerpt: The next morning his dad was sitting at the small kitchen table huddled over his coffee, hands shaking, bags under his eyes. He motioned Andy over. Andy's heart raced as he took each fearful step. As he got closer, his father picked up a pocket knife off the table and held it out to Andy. "Happy birthday, buddy, it's time you learned how to use one of these," he said, and Andy took it.
+layout: page
+excerpt: The next morning his dad was sitting at the small kitchen table huddled over his coffee, hands shaking, bags under his eyes. He motioned Andy over. Andy's heart raced as he took each fearful step. As he got closer, his father picked up a pocket knife off the table and held it out to Andy.
 ---
 
 For his fifth birthday, Andy's dad hit him twice. The belt coming down with a snap across the fat over his gluteal muscles, then the words, "This is life. It's just life," then a second snap. Andy held back tears until he was allowed to go back to his room. He laid in his bed, in the dark, and cried softly so no one would hear. Not his father, not his mother, not his brother. He laid there and prayed to be taken far away, to not feel lonely, for the stinging on his ass to stop.

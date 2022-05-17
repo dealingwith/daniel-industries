@@ -2,7 +2,7 @@
 title: East District
 category: Fiction
 subcategory: POSEUR
-layout: writing
+layout: page
 excerpt: The central street of the east district was slick like a runny nose on a toddler.
 ---
 

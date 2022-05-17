@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include default-head.html %}
+{% include head.html %}
 
 <body>
   <h1>{{ page.title }}</h1>
   <div class="container">
     {{ content }}
   </div>
-  <div class="menu">
-    <ul>
-      <li><a href="/about" class="nav mx-2 lg:mx-0 text-sm">About</a></li>
-      <li><a href="/blog" class="nav mx-2 lg:mx-0 text-sm">Blog</a></li>
-      <li><a href="/music" class="nav mx-2 lg:mx-0 text-sm">Music</a></li>
-    </ul>
-  </div>
+  {% include menu.html %}
 </body>
 
 </html>

@@ -1,8 +1,8 @@
 ---
-title: This is a test
+title: This is a test with a longer title like this
 category: Nonfiction
 subcategory: TEST
-layout: writing
+layout: page
 excerpt: This is a test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ---
 

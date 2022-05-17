@@ -1,32 +1,21 @@
 ---
-layout: default
-title: Home
+layout: page
 ---
 
-<div class="w-full lg:w-1/3 lg:pr-32 order-3 lg:order-1">
-  <div class="max-w-lg lg:float-right lg:text-right leading-relaxed tracking-normal lg:sticky lg:top-0 nav">
-    <p class="font-bold mt-7 mb-2">Previous Posts</p>
-    <ul class="flex flex-wrap justify-between flex-col">
-      {% for post in site.posts offset:1 limit:5 %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}" class="text-sm">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-
 {% assign post = site.posts.first %}
-<div class="w-full lg:w-2/3 order-1 lg:order-2 main-content lg:top-0">
-  <div class="max-w-lg leading-relaxed tracking-normal">
-    <header>
-      <h1 class="font-bold my-0 leading-8">{{ post.title }}</h1>
-      <p class="mb-2 post-metadata"><a href="{{ post.url }}">{{ post.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a></p>
-    </header>
-    {% if post.excerpt != "" %}
-      <div class="italic text-sm">
-        {{ post.excerpt }}
-      </div>
-      <hr>
-    {% endif %}
-    <article>{{ post.content }}</article>
-  </div>
+<div>
+  <header>
+    <h1>{{ post.title }}</h1>
+    <p class="post-metadata"><a href="{{ post.url }}">{{ post.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a></p>
+  </header>
+  <article>{{ post.content }}</article>
+</div>
+<hr>
+<div>
+  <h4>Previous Posts</h4>
+  <ul style="padding-left: 0;">
+    {% for post in site.posts offset:1 limit:5 %}
+      <li style="list-style: none;"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </div>
