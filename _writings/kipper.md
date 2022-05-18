@@ -2,7 +2,7 @@
 title: Kipper Vam Beethoven
 category: Fiction
 subcategory: POSEUR
-layout: page
+layout: writing-page
 pubdate: "2020"
 excerpt: No one considers the downside of being immortal.
 ---

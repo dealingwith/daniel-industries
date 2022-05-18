@@ -2,7 +2,7 @@
 title: Abuse of Power
 category: Fiction
 subcategory: POSEUR
-layout: page
+layout: writing-page
 pubdate: "2020"
 excerpt: The next morning his dad was sitting at the small kitchen table huddled over his coffee, hands shaking, bags under his eyes. He motioned Andy over. Andy's heart raced as he took each fearful step. As he got closer, his father picked up a pocket knife off the table and held it out to Andy.
 ---

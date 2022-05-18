@@ -2,7 +2,7 @@
 title: Funhouse of Music
 category: Fiction
 subcategory: POSEUR
-layout: page
+layout: writing-page
 pubdate: "2020"
 excerpt: The house was crooked. Its paint, whatever was left of it, was of mysterious original coloration. The entire thing was made of wood, wood that creaked underfoot, creaked in the wind, creaked when the sounds and reverberations came from within it.
 ---

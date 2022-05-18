@@ -2,7 +2,7 @@
 title: The Island
 category: Fiction
 subcategory: POSEUR
-layout: page
+layout: writing-page
 pubdate: "2020"
 excerpt: Naomi's small house held mostly paper. Books lined the walls and stood in piles in the corners and by chairs. Papers lined the desk and the floor around the desk. The desk itself, a metal desk from the 50s, took up an entire quadrant of the main living area.
 ---

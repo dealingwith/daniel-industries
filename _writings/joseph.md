@@ -2,7 +2,7 @@
 title: Joseph and the Poets
 category: Fiction
 subcategory: POSEUR
-layout: page
+layout: writing-page
 pubdate: "2020"
 excerpt: '"The roold breaks erryone," he said.'
 ---

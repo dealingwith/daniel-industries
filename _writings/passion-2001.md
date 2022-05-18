@@ -2,7 +2,7 @@
 title: Passion 2001
 category: Fiction
 subcategory: Christian
-layout: page
+layout: writing-page
 pubdate: "2001"
 excerpt: Jesus came to town with a small band of devotees, after making a pilgrimous journey from Vegas.
 ---

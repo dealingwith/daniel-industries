@@ -2,7 +2,7 @@
 title: Resonant Girl
 category: Fiction
 subcategory: POSEUR
-layout: page
+layout: writing-page
 pubdate: "2004"
 excerpt: Skate’s body resonated. Whenever music played, her whole body vibrated like a giant organic subwoofer. When a car drove by, buzzing a bass line for the whole neighborhood to enjoy, Skate would rattle more than their rear windshield.
 ---

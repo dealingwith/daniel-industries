@@ -24,7 +24,7 @@ date: 2022-05-14 07:09
   <a href="#" onclick="showAll()">All</a>
 </div>
 
-{% assign sorted_array = site.writings | sort: "category" %}
+{% assign sorted_array = site.writings | sort: "subcategory" %}
 {% for piece in sorted_array %}
   <div class="item {{ piece.subcategory }} {{ piece.category }}">
     {% if piece.subcategory %}
@@ -35,13 +35,11 @@ date: 2022-05-14 07:09
     <div class="writing-index-category">
       {{ piece.category }}
     </div>
-    <div>
-      <span class="writing-index-title">
-        <a href="{{ piece.url }}" class="writing-link">{{ piece.title }}</a>
-      </span>
+    <div class="writing-index-title">
+      <a href="{{ piece.url }}" class="writing-link">{{ piece.title }}</a>
     </div>
     {% if piece.pubdate %}
-      <p class="post-metadata" style="font-size: 0.8rem; margin-top: 0">{{ piece.pubdate }} / {{ piece.content | number_of_words }} words</p>
+      <p class="post-metadata">{{ piece.pubdate }} / {{ piece.content | number_of_words }} words</p>
     {% endif %}
     <p class="writing-index-excerpt"><a href="{{ piece.url }}" class="writing-link">{{ piece.excerpt }}</a></p>
   </div>

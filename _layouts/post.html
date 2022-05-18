@@ -5,7 +5,9 @@ layout: page
   <header>
     <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d %Y" }}</time></a></p>
   </header>
-  <article>{{ content }}</article>
+  <article>
+    {{ content }}
+  </article>
 </div>
 <hr>
 <div>

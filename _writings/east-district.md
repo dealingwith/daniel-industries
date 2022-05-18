@@ -2,13 +2,9 @@
 title: East District
 category: Fiction
 subcategory: POSEUR
-layout: page
-pubdate: "WIP"
+layout: writing-page
+pubdate: "Work in Progress"
 excerpt: The central street of the east district was slick like a runny nose on a toddler.
----
-
-_This is a work in progress_
-
 ---
 
 The central street of the east district was slick like a runny nose on a toddler.
