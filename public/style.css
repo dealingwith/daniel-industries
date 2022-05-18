@@ -1,22 +1,20 @@
 ---
 ---
-/* @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
 @import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import "public/modern-normalize.min.css";
 
 :root {
   --bg: #fbf7f0;
-  --bg2: #fff6e7;
   --text: #1d1d1d;
   --green: #515f00;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: #fbf7f0;
-    --green: #fff6e7;
-    --bg: #1d1d1d;
-    --bg2: #515f00;
+    --bg: #262626;
+    --text: #fcf7ed;
+    --green: #f0fff0;
   }
 }
 
@@ -65,9 +63,12 @@ h6 {
 }
 
 a {
-  border-bottom: 1px solid var(--green);
+  /* border-bottom: 1px solid var(--green); */
+  color: var(--green);
+  /* text-decoration: none; */
+}
+a:visited {
   color: var(--text);
-  text-decoration: none;
 }
 a strong {
   color: inherit;
@@ -105,23 +106,21 @@ hr {
   border-top: 2px solid var(--green);
 }
 
-ul li {
-  list-style: disc;
+ul, ol {
+  margin-bottom: 1rem;
+  padding-left: 1.1rem;
 }
 li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.5rem;
 }
-article li {
-  margin-left: 1em;
+ul li {
+  list-style: disc;
 }
 ol li {
   list-style: decimal;
 }
-ul, ol {
-  margin-bottom: 1em;
-}
 li > ul, li > ol {
-  margin: 0.3em 0 0;
+  margin: 0.3rem 0 0;
 }
 
 .post-metadata {
@@ -172,7 +171,6 @@ pre {
   align-content: start
 }
 .item {
-  background-color: var(--bg2);
   border: 3px solid var(--green);
   border-radius: 10px;
   flex: 0 0 auto;
