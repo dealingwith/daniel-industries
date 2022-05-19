@@ -18,7 +18,7 @@ date: 2022-05-14 07:09
     });
   }
 </script>
-<div style="width: 100%; margin-bottom: 2rem">
+<div style="width: 100%; margin-bottom: 2rem; margin-top: -1rem">
   <a href="#" onclick="showHide('Fiction')">Fiction</a> /
   <a href="#" onclick="showHide('Nonfiction')">Nonfiction</a> /
   <a href="#" onclick="showAll()">All</a>
