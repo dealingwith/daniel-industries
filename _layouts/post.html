@@ -1,29 +1,23 @@
 ---
-layout: default
+layout: page
 ---
-
-<div class="w-full lg:w-1/3 lg:pr-32 order-3 lg:order-1">
-  <div class="max-w-xl lg:float-right lg:text-right leading-relaxed tracking-normal lg:sticky lg:top-0 nav">
-    {% if page.next.url %}
-      <p class="font-bold mt-4 mb-2">Next</p>
-      <ul class="flex flex-wrap justify-between flex-col">
-        <li><a href="{{page.next.url}}" class="text-sm">{{ page.next.title }}</a></li>
-      </ul>
-    {% endif %}
-    {% if page.previous.url %}
-      <p class="font-bold mt-7 mb-2">Previous</p>
-      <ul class="flex flex-wrap justify-between flex-col">
-        <li><a href="{{page.previous.url}}" class="text-sm">{{ page.previous.title }}</a></li>
-      </ul>
-    {% endif %}
-  </div>
+<div>
+  <header>
+    <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d %Y" }}</time></a></p>
+  </header>
+  <article>
+    {{ content }}
+  </article>
 </div>
-<div class="w-full lg:w-2/3 order-1 lg:order-2 main-content">
-  <div class="max-w-xl leading-relaxed tracking-normal">
-    <header>
-      <h1 class="font-bold my-0 leading-8">{{ page.title }}</h1>
-      <p class="mb-2 post-metadata">{{ page.content | number_of_words }} words written on <a href="{{ page.url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d, %Y" }}</time></a>{% if page.categories.size > 0 %} {% for category in page.categories %}/ <a href="/categories#{{category}}">{{ category }}</a> {% endfor %}{% endif %}</p>
-    </header>
-    <article>{{ page.content }}</article>
-  </div>
+<hr style="clear: both">
+<div>
+  {% if page.previous.url %}
+    <p style="float: left; width: 50%; margin-top: 0">Previous: <a href="{{page.previous.url}}">{{ page.previous.title }}</a></p>
+  {% endif %}
+  {% if page.next.url %}
+    <p style="float: right; width: 50%; text-align: right; margin-top: 0">Next: <a href="{{page.next.url}}">{{ page.next.title }}</a></p>
+  {% endif %}
+  <hr style="clear: both">
+  <p style="text-align: right; font-size: 0.8rem;"><a href="/archives/">archives</a></p>
 </div>
+<div style="clear: both;"></div>

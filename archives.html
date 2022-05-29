@@ -9,7 +9,7 @@ title: Archives
     {% unless forloop.first %}</ul></div>{% endunless %}
     <div>
       <h3>{{ currentdate }}</h3>
-        <ul>
+        <ul style="padding-left:0">
     {% assign date = currentdate %}
   {% endif %}
     {% assign wordcount = post.content | number_of_words %}

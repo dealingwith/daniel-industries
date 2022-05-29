@@ -1,12 +1,42 @@
 ---
 ---
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
 
-h1, h2, h3, h4, h5, h6, header *, .heading-style {
-  font-family: Nunito, sans-serif;
-  margin-bottom: 0.5em;
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "public/modern-normalize.min.css";
+
+:root {
+  --bg: #fbf7f0;
+  --text: #1d1d1d;
+  --green: #515f00;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #262626;
+    --text: #fcf7ed;
+    --green: #f0fff0;
+  }
+}
+
+body {
+  font-family: -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5em;
+  padding: 1rem;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Gentium Book Basic', serif;
+  letter-spacing: 0.03rem;
+  line-height: 2.4rem;
+  margin: 0 10px 1rem 0;
+  padding: 10px 10px 0 0;
+}
+
+header * {
+  letter-spacing: 0.03rem;
+  line-height: 2rem;
 }
 
 h1 {
@@ -29,22 +59,16 @@ h6 {
 }
 
 ::selection {
-    background: antiquewhite;
-}
-::-moz-selection {
-    background: antiquewhite;
-}
-.bg-gray-900 ::selection {
-  color: rgb(17, 24, 39);
-}
-.bg-gray-900 ::-moz-selection {
-  color: rgb(17, 24, 39);
+  background: pink;
 }
 
 a {
-  color: #0101ac;
-  cursor: pointer;
-  font-weight: 400;
+  /* border-bottom: 1px solid var(--green); */
+  color: var(--green);
+  /* text-decoration: none; */
+}
+a:visited {
+  color: var(--text);
 }
 a strong {
   color: inherit;
@@ -54,14 +78,24 @@ a.dead {
   text-decoration: line-through;
 }
 
-.bg-gray-900 a {
-  color: #9ca3af;
-}
-article a {
-  text-decoration: underline;
+.writing article {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 1.3em;
+  line-height: 1.6em;
 }
 a.reversefootnote {
   text-decoration: none;
+}
+
+.main-content {
+  margin: 2rem auto;
+  width: 525px; 
+}
+@media screen and (max-width: 600px) {
+  .main-content {
+    margin: 3rem auto;
+    width: 100%;
+  }
 }
 
 .main-content p, .main-content hr, .main-content div, .main-content iframe, .main-content table {
@@ -69,50 +103,45 @@ a.reversefootnote {
 }
 
 hr {
-  border-top: 2px solid #9ca3af;
+  border-top: 2px solid var(--green);
 }
 
-ul li {
-  list-style: disc;
+ul, ol {
+  margin-bottom: 1rem;
+  padding-left: 1.1rem;
 }
 li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.5rem;
 }
-article li {
-  margin-left: 1em;
+ul li {
+  list-style: disc;
 }
 ol li {
   list-style: decimal;
 }
-ul, ol {
-  margin-bottom: 1em;
-}
 li > ul, li > ol {
-  margin: 0.3em 0 0;
-}
-.nav ul, .nav li {
-  list-style: none;
+  margin: 0.3rem 0 0;
 }
 
 .post-metadata {
-  color: rgba(55,65,81,.6);
+  color: var(--green);
+  margin-top: -1rem;
 }
 .post-metadata a {
   color: inherit;
   text-decoration: none;
 }
-.bg-gray-900 .post-metadata {
-  color: #9ca3af;
-}
 
 blockquote {
-  border-left: 2px solid #9ca3af;
+  border-left: 2px solid var(--green);
   margin-bottom: 1em;
+  margin-left: 0;
   padding-left: 1em;
 }
 
 img {
   border-radius: 5px;
+  max-width: 100%;
 }
 
 pre {
@@ -131,6 +160,82 @@ pre {
 
 .postscript {
   font-style: italic;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: start;
+  align-items: auto;
+  align-content: start
+}
+.item {
+  border: 3px solid var(--green);
+  border-radius: 10px;
+  flex: 0 0 auto;
+  margin: 10px;
+  padding: 10px 10px 0;
+}
+.item .post-metadata {
+  font-size: 0.8rem;
+  margin-top: 0px;
+}
+.writing-index-title {
+  line-height: 1.2rem;
+}
+.writing-index-title a {
+  font-weight: bold;
+}
+.writing-link {
+  text-decoration: none;
+}
+.writing-index-category {
+  background-color: var(--bg);
+  border: 1px solid var(--green);
+  border-radius: 5px;
+  float: right;
+  font-size: 0.7rem;
+  line-height: 1.4rem;
+  margin: 0 4px;
+  padding: 0px 6px;
+}
+.writing-index-excerpt {
+  font-size: 0.9rem;
+  line-height: 1.5em;
+  max-width: 300px;
+}
+.writing-index-excerpt a {
+  border-bottom: 0px;
+}
+.main-content.writing {
+  width: 650px;
+}
+@media screen and (max-width: 700px) {
+  .main-content.writing {
+    width: 100%;
+  }
+}
+
+.menu {
+  font-size: 0.9rem;
+  position: absolute;
+  right: 20px;
+  top: 0px;
+}
+.menu ul {
+  list-style: none;
+}
+.menu ul li {
+  list-style: none;
+  margin: 0;
+  display: inline;
+}
+.menu a {
+  text-decoration: none;
+}
+.menu li:not(:last-child)::after {
+  content: " /";
 }
 
 /* code colors */
