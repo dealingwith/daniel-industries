@@ -26,8 +26,6 @@ First, Cory Doctorow, in an interview at the Kelowna Public Library with the CBC
 
 > We are now living through a moment that illustrates a lot of the failure modes that we've papered over and insisted could be dealt with when the moment came. This is the moment, and it appears the way we deal with them is by dismantling those old systems...
 
-[I cropped the original audio, for context on the above](/assets/2020/03/Canada_Reads_Kelowna_Doctorow_Penton-crop.mp3).
-
 [Here's Cory's original post on craphound.com](https://craphound.com/podcast/2020/03/06/audio-from-the-kelowna-canada-reads-event-with-sarah-penton) with has a link to the entire interview.
 
 ---
@@ -50,7 +48,7 @@ Second, Venkatesh Rao of the incredible blog [Ribbonfarm](https://www.ribbonfarm
 
 Lastly, [Illusion Of Control](http://www.recoveringleadership.com/?p=1016) by my cousin Thomas Hill:
 
-> The way the world around us works is also complex and, in many (or most) cases, hidden from our view. One of the character qualities we emphasize is humility, which is simply acknowledging that other people have a significant, even if unseen, impact on my success. Humility is like an antidote to illusion of control bias. Additionally, since much of what happens to us is influenced by other people, humility increases the likelihood that people will use their influence for our benefit.  
+> The way the world around us works is also complex and, in many (or most) cases, hidden from our view. One of the character qualities we emphasize is humility, which is simply acknowledging that other people have a significant, even if unseen, impact on my success. Humility is like an antidote to the illusion of control bias. Additionally, since much of what happens to us is influenced by other people, humility increases the likelihood that people will use their influence for our benefit.
 
 > Interestingly, we are often the humblest when we are in crisis. Times of crisis are the best opportunities we have to break through the veil of our bias and understand how out of control we really are. Crisis is also where we are most likely to learn the value of community. We tend to not realize how much we need each other, until we do. While crisis is difficult and can be costly in many ways, it is also valuable as a grounding event.
 
