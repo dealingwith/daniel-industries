@@ -10,8 +10,6 @@ url:                 https://daniel.industries/
 baseurl:             ""
 exclude:             []
 
-excerpt_separator: ""
-
 # About/contact
 author:
   name:              Daniel Miller

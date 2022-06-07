@@ -3,13 +3,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  {% capture post_first_image %}
-    {% assign hero_image = page.content | match_regex: '<img .*?src="([^"]+)"' %}
-    {% if hero_image == nil %}
-      {% assign hero_image = "/assets/page/DSC_4899-copy.jpg" %}
-    {% endif %}
-    {% assign hero_image = hero_image | prepend: site.url %}
-  {% endcapture %}
+  {% assign hero_image = page.content | match_regex: '<img .*?src="([^"]+)"' %}
+  {% if hero_image == nil %}
+    {% assign hero_image = "/assets/page/DSC_4899-copy.jpg" %}
+  {% endif %}
+  {% assign hero_image = hero_image | prepend: site.url %}
 
   {% capture title %}
     {% if page.title %}
@@ -21,13 +19,14 @@
 
   {% capture description %}
     {% if page.excerpt %}
-      {{ page.excerpt }}
+      {{ page.excerpt | strip_html | escape }}
     {% else %}
       {{ site.tagline }}
     {% endif %}
   {% endcapture %}
   
   <title>{{ title }} &middot; {{ site.title }}</title>
+  <meta name="description" content="{{ description | strip }}">
   <meta property="og:title" content="{{ title | strip }}" />
   <meta property="og:description" content="{{ description | strip }}" />
   <meta property="og:image" content="https://img.snaplink.dev/59d2d71912/?title={{ title | strip | url_encode }}&excerpt={{ description | strip | url_encode }}&image={{ hero_image | url_encode }}&w=1200&h=630" />
