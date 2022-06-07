@@ -6,7 +6,7 @@ permalink:           /:year/:month/:day/:title/
 # Setup
 title:               daniel.industries
 tagline:             "seeking, stories, beauty, meaning"
-url:                 http://daniel.industries
+url:                 https://daniel.industries/
 baseurl:             ""
 exclude:             []
 
@@ -20,6 +20,7 @@ author:
 
 plugins:
   - jekyll-postcss
+  - match_regex
 
 collections:
   writings:
