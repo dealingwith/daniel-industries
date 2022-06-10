@@ -42,6 +42,7 @@ GEM
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    match_regex (0.1.0)
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -68,10 +69,11 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-postcss
+  match_regex
   rake
   stringex
   titleize
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.29
+   2.3.9

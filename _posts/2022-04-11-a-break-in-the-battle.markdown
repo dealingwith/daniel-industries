@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Break in the Battle"
-excerpt: 
+excerpt: Last night we went to see A Break in the Battle, a covers project by Salim Nourallah, Chris Holt, and Paul Averitt
 date: 2022-04-11 07:16:09 -0500
 categories: 
 ---

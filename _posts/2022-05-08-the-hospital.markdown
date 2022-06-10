@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Hospital"
-excerpt: 
 date: 2022-05-08 10:18:31 -0500
 categories: 
 ---

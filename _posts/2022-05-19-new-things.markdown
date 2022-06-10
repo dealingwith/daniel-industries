@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Things"
-excerpt: 
+excerpt: "It has been a bit of a long road recovering from the hospital visit."
 date: 2022-05-19 22:49:28 -0500
 categories: 
 ---
