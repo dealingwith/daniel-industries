@@ -73,3 +73,4 @@ _site/*
 .rake_tasks~
 .vscode
 .DS_Store
+/node_modules/
