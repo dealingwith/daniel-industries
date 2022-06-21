@@ -3,7 +3,7 @@ layout: page
 ---
 <div>
   <header>
-    <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d %Y" }}</time></a></p>
+    <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words written on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %-d %Y" }}</time></a>{% if page.categories.size > 0 %} {% for category in page.categories %}/ <a href="/categories#{{category}}">{{ category }}</a> {% endfor %}{% endif %}</p>
   </header>
   <article>
     {{ content }}
