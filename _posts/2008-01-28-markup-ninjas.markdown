@@ -22,7 +22,7 @@ stomp right through ya
 
 <a class="dead">markupninjas.com</a>
 
-   [1]: http://farm3.static.flickr.com/2293/2224339093_1a89f84fda_m.jpg
+   [1]: /assets/2008/01/2224339093_b5c08439ef_o.jpeg
 
    [4]: http://www.flickr.com/people/michaelcummings/
 

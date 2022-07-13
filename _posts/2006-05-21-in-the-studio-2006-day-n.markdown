@@ -11,17 +11,13 @@ categories:
  - music
 ---
 
-[If you have the older mp3 of Sucker for Love replace it with this one][1]
-...mixed properly...
+If you have the older mp3 of [Sucker for Love](https://danielmiller.bandcamp.com/track/sucker-for-love) replace it with this one
 
 and...
 
-[Painful Tired][2]:
+[Painful Tired](https://danielmiller.bandcamp.com/track/painful-tired)
 
-Me -- acoustic guitar, drums, vocals Salim -- keyboards, bass, vocals Rip --
-keyboards John -- electric guitars
-
-   [1]: http://iaspiretonothing.com/daniel/blog/files/2006/05/Daniel%20Miller%20-%20unreleased%20-%201%20-%20Sucker%20for%20Love.mp3
-
-   [2]: http://iaspiretonothing.com/daniel/blog/files/2006/05/Daniel%20Miller%20-%20unreleased%20-%202%20-%20Painful%20Tired.mp3
-
+Me -- acoustic guitar, drums, vocals  
+Salim -- keyboards, bass, vocals  
+Rip -- keyboards  
+John -- electric guitars
