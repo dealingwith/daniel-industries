@@ -5,15 +5,8 @@ layout: post
 slug: '270'
 status: publish
 title: 'Bruce Mau'
-wordpress_id: '270'
 ---
 
-On the occasion of having read yet another fawning blowjob for Bruce Mau
-(“that sound you hear is the knees of designers hitting the floor as they
-genuflect before the great man”) and his “Incomplete Manifesto for Growth,”
-there’s no time like the present for:
+On the occasion of having read yet another fawning blowjob for Bruce Mau (“that sound you hear is the knees of designers hitting the floor as they genuflect before the great man”) and his “Incomplete Manifesto for Growth,” there’s no time like the present for:
 
-[An Annotated Manifesto for Growth][1]
-
-   [1]: http://textism.com/maunifesto/
-
+<a class="dead">An Annotated Manifesto for Growth</a>

@@ -102,6 +102,10 @@ a.reversefootnote {
   margin-bottom: 1em;    
 }
 
+.main-content h1 {
+  line-height: 2rem;
+}
+
 hr {
   border-top: 2px solid var(--green);
 }
@@ -125,10 +129,12 @@ li > ul, li > ol {
 
 .post-metadata {
   color: var(--green);
+  line-height: 0.5rem;
   margin-top: -1rem;
 }
 .post-metadata a {
   color: inherit;
+  line-height: inherit;
   text-decoration: none;
 }
 
