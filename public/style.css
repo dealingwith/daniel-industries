@@ -97,11 +97,9 @@ a.reversefootnote {
     width: 100%;
   }
 }
-
 .main-content p, .main-content hr, .main-content div, .main-content iframe, .main-content table {
   margin-bottom: 1em;    
 }
-
 .main-content h1 {
   line-height: 2rem;
 }
@@ -233,15 +231,32 @@ pre {
   list-style: none;
 }
 .menu ul li {
+  display: inline;
   list-style: none;
   margin: 0;
-  display: inline;
 }
 .menu a {
   text-decoration: none;
 }
-.menu li:not(:last-child)::after {
-  content: " /";
+.menu a:hover {
+  text-decoration: underline;
+}
+.index .menu li {
+  display: block;
+  text-align: right;
+}
+.menu .only-index {
+  display: none;
+}
+.index .menu .only-index {
+  display: block;
+}
+
+.index-footer {
+  font-size: 0.9rem;
+  position: absolute; 
+  bottom: 10px; 
+  right: 20px; 
 }
 
 /* code colors */
