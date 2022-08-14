@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Heroics"
+excerpt: 
+date: 2022-08-13 21:21:36 -0500
+categories: 
+ - elsewhere
+ - quotable
+---
+
+> Heroics are an immune response, not a strategy.
+
+[@foxinthewaves](https://twitter.com/foxinthewaves/status/1553246361071497216)
