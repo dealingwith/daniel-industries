@@ -4,7 +4,9 @@ title: "When I blog about hip hop"
 excerpt: "...you know it must be something special."
 date: 2016-08-28 12:56:20 -0500
 comments: true
-categories: music, elsewhere
+categories: 
+ - music
+ - elsewhere
 ---
 
 So I had _heard_ of [Listener](http://iamlistener.com/) before my friend and general artist-trickster-social-funambulist [Hal Samples](http://halsamples.com/) started bumming around with [Christin Nelson](http://christinnelson.com/ "Who at the time was part of Listener"), whose record [Red Moon Rising](https://christinnelson.bandcamp.com/album/red-moon-rising "Which I described by starting 'Are you walking into a dusty west Texas town with one hand resting on the butt of your revolver and the other hand resting on the butt of an amazonian woman?'") I immediately fell in love with. Christin recently directed a video for [Krum & Rob Viktum](https://rappersiknow.bandcamp.com/album/bare-knuckle-gospel), which you should watch:
