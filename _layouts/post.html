@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div>
-  <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words from <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if page.categories.size > 0 %} in {% for category in page.categories %}<a href="/categories#{{category}}">{{ category }}</a> / {% endfor %}{% endif %}</p>
+  <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if page.categories.size > 0 %} in {% for category in page.categories %} <small>#</small><a href="/categories#{{category}}">{{ category }}</a>{% endfor %}{% endif %}</p>
   <article>
     {{ content }}
   </article>
@@ -16,7 +16,6 @@ layout: page
   {% if page.next.url %}
     <p style="float: right; width: 50%; text-align: right; margin-top: 0">Next: <a href="{{page.next.url}}">{{ page.next.title }}</a></p>
   {% endif %}
-  <hr style="clear: both">
-  <p style="text-align: right; font-size: 0.8rem;"><a href="/archives/">archives</a></p>
+  <p style="text-align: right; font-size: 0.8rem; clear: both"><a href="/archives/">archives</a></p>
 </div>
 <div style="clear: both;"></div>

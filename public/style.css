@@ -8,6 +8,8 @@
   --bg: #fbf7f0;
   --text: #1d1d1d;
   --green: #515f00;
+  --grey: #9e9e9e;
+  --pink: #ffd5dc;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,14 +31,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Gentium Book Basic', serif;
   letter-spacing: 0.03rem;
-  line-height: 2.4rem;
-  margin: 0 10px 1rem 0;
+  line-height: 1.7rem;
+  margin: 0 10px 1.1rem 0;
   padding: 10px 10px 0 0;
-}
-
-header * {
-  letter-spacing: 0.03rem;
-  line-height: 2rem;
 }
 
 h1 {
@@ -59,13 +56,13 @@ h6 {
 }
 
 ::selection {
-  background: pink;
+  background: var(--pink);
 }
 
 a {
-  /* border-bottom: 1px solid var(--green); */
+  border-bottom: 1px solid var(--green);
   color: var(--green);
-  /* text-decoration: none; */
+  text-decoration: none;
 }
 a:visited {
   color: var(--text);
@@ -97,15 +94,12 @@ a.reversefootnote {
     width: 100%;
   }
 }
-.main-content p, .main-content hr, .main-content div, .main-content iframe, .main-content table {
+.main-content p, .main-content div, .main-content iframe, .main-content table {
   margin-bottom: 1em;    
-}
-.main-content h1 {
-  line-height: 2rem;
 }
 
 hr {
-  border-top: 2px solid var(--green);
+  border-top: 1px solid var(--green);
 }
 
 ul, ol {
@@ -126,18 +120,22 @@ li > ul, li > ol {
 }
 
 .post-metadata {
-  color: var(--green);
-  line-height: 0.5rem;
-  /* margin-top: -1rem; */
+  color: var(--grey);
+  line-height: 1rem;
+  margin-top: -0.8rem;
 }
-.post-metadata a {
+header a, .post-metadata a {
+  border: none;
   color: inherit;
-  line-height: inherit;
   text-decoration: none;
+}
+a:hover {
+  background-color: var(--pink);
+  border: none;
 }
 
 blockquote {
-  border-left: 2px solid var(--green);
+  border-left: 1px solid var(--green);
   margin-bottom: 1em;
   margin-left: 0;
   padding-left: 1em;
@@ -185,13 +183,13 @@ pre {
   font-size: 0.8rem;
   margin-top: 0px;
 }
-.writing-index-title {
-  line-height: 1.2rem;
-}
 .writing-index-title a {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 .writing-link {
+  border: none;
   text-decoration: none;
 }
 .writing-index-category {
@@ -236,10 +234,8 @@ pre {
   margin: 0;
 }
 .menu a {
+  border: none;
   text-decoration: none;
-}
-.menu a:hover {
-  text-decoration: underline;
 }
 .index .menu li {
   display: block;
