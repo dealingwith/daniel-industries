@@ -11,35 +11,23 @@ categories:
  - design
 ---
 
-[![][1]][2]
+![](/assets/2009/02/2316153679_76c7427a45_h.jpeg)
 
 [significant whitespace][3]
 
 Originally uploaded by [shaderlab][4]
 
-
-
-[![][5]][6]
+![](/assets/2009/02/2412265287_4025cac556_h.jpeg)
 
 [significant whitespace][7]
 
 Originally uploaded by [shaderlab][4]
 
-
-
 Go check out all of it...
-
-   [1]: http://farm4.static.flickr.com/3287/2316153679_2e1c8cf947_m.jpg
-
-   [2]: http://www.flickr.com/photos/shaderlab/2316153679/ (photo sharing)
 
    [3]: http://www.flickr.com/photos/shaderlab/2316153679/
 
    [4]: http://www.flickr.com/people/shaderlab/
-
-   [5]: http://farm3.static.flickr.com/2110/2412265287_33e6a58b4b_m.jpg
-
-   [6]: http://www.flickr.com/photos/shaderlab/2412265287/ (photo sharing)
 
    [7]: http://www.flickr.com/photos/shaderlab/2412265287/
 

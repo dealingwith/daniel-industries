@@ -14,18 +14,12 @@ categories:
  - work
 ---
 
-[![][1]][2]
+![](/assets/2009/01/3240249714_41f7dcba23_h.jpeg)
 
 [Penn at work][3]
 
 Originally uploaded by [carissabyers][4]
 
-
-   [1]: http://farm4.static.flickr.com/3076/3240249714_fc29f92ac5_m.jpg
-
-   [2]: http://www.flickr.com/photos/carissabyers/3240249714/ (photo sharing)
-
    [3]: http://www.flickr.com/photos/carissabyers/3240249714/
 
    [4]: http://www.flickr.com/people/carissabyers/
-
