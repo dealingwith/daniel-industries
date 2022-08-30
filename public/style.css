@@ -64,6 +64,10 @@ a {
   color: var(--green);
   text-decoration: none;
 }
+a:hover {
+  background-color: var(--pink);
+  border: none;
+}
 a:visited {
   color: var(--text);
 }
@@ -71,8 +75,12 @@ a strong {
   color: inherit;
 }
 a.dead {
-  color: #9ca3af;
+  border: none;
+  color: var(--grey);
   text-decoration: line-through;
+}
+a.dead:hover {
+  background-color: var(--grey);
 }
 
 .writing article {
@@ -128,10 +136,6 @@ header a, .post-metadata a {
   border: none;
   color: inherit;
   text-decoration: none;
-}
-a:hover {
-  background-color: var(--pink);
-  border: none;
 }
 
 blockquote {

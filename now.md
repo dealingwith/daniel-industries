@@ -15,3 +15,5 @@ I'm still in Dallas. I landed for a quick life break in 2004 and have been stuck
 |Computers|MacOS, Ubuntu|
 |Domains|9|
 |Guitars|4|
+
+<small><a href="https://nownownow.com/p/9MCz">my page on nownownow</a></small>

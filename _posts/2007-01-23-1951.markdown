@@ -4,7 +4,7 @@ date: '2007-01-23 00:42:00'
 layout: post
 slug: '1951'
 status: publish
-title: '...'
+title: 'Brick Testament'
 wordpress_id: '1951'
 categories:
  - brilliant
@@ -24,6 +24,4 @@ something since I've been to bricktestament
 
    [2]: http://www.thebricktestament.com/the_law/
 
-   [3]:
-http://www.thebricktestament.com/the_law/sexual_discharges/lv15_16a.html
-
+   [3]: https://thebricktestament.com/the_law/sexual_discharges/lv15_16a.html
