@@ -27,7 +27,7 @@ Work on Minecraft U some more.
 
 There's a block party on our block. Go participate. The kids are having fun. So many kids.
 
-Work until midnight. Can't sleep. Bing Netflix until 4am. Damn insomnia. 
+Work until midnight. Can't sleep. Binge Netflix until 4am. Damn insomnia. 
 
 ---
 

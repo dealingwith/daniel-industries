@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-[Let’s Talk Like We Used To](https://www.raptitude.com/2019/07/lets-talk-like-we-used-to/#comments)
+[Let’s Talk Like We Used To](https://www.raptitude.com/2019/07/lets-talk-like-we-used-to)
 
 >...the internet itself has also changed. As one astute [tweet](https://twitter.com/badnetworker/status/1133363823728091136) put it, "1999: there are thousands of websites, all hyperlinked together. 2019: there are four websites, each filled with screenshots of the other three.""
 
