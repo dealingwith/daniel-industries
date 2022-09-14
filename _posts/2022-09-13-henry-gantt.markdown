@@ -2,8 +2,36 @@
 layout: post
 title: "Henry Gantt"
 excerpt: 
-date: 2022-09-01 08:35:33 -0500
+date: 2022-09-13 08:35:33 -0500
 categories: 
+---
+
+Gantt charts are a lagging indicator of dysfunction, specifically a lack of trust within an organization. When used as a planning tool, they're fine. When used as a tool for "accountability", they become the proverbial canary in your software coalmine.
+
+---
+
+[TBM 39B/52: Crawl, Walk, Run, and the Fragility of Frameworks](https://cutlefish.substack.com/p/tbm-39b52-crawl-walk-run-and-the)
+
+> It is natural, in this situation, to opt to deploy a framework. But not just any framework. You want a framework that describes what people should do when they should do it, and how they should do it. Why? Process conformance is your only lever. That way, you can tell your customer that they "didn't do it" when things go wrong. The framework is entirely artificial. No healthy and experienced team works this way or learns this way. But the framework provides a level of control, marketability, legitimacy, and deniable culpability.
+
+> Most frameworks don't come with a warning label like:
+
+> > This framework is synthetic. It was designed to be "foolproof" and adoptable under less-than-ideal conditions. Under different conditions, your team could learn much faster, so don't infantilize your team. Doing this framework "well" is not a prerequisite for doing well. 
+
+> No. Sadly, most frameworks evolve a narrative that comes something like this:
+
+> > You need to crawl, walk, and run. You need to do this framework precisely as prescribed to get better. If it isn't working for you, it is your fault, not the framework's fault. If anything, this framework will EXPOSE the problems in your company. Any criticism of the framework is null and void. 
+
+> The most harmful byproduct is that:
+
+> Companies perceive the challenge as one of adopting the framework instead of creating conditions similar to healthy companies (or other learning situations). They blame their teams for being slow to figure the framework out when things aren't working. Frameworks become their crutch.
+
+> Instead of introspection, a leader will likely buy into the whole story of their team being babies learning how to walk. The irony is that it is the leader who needs to improve.
+
+> We start to believe the frameworks represent the ideal instead of being wholly artificial "hacks" for less-than-optimal situations.
+
+> Be skeptical of frameworks. And be skeptical of explanations like “crawl, walk, run” that infantilize people and don’t describe healthy adult learning environments.
+
 ---
 
 [TBM 38/52: Navigating the Product Leadership Fog](https://cutlefish.substack.com/p/tbm-3852-navigating-the-product-leadership):
@@ -77,9 +105,9 @@ Applicable laws:
 
 From _The ‘awful idea of accountability’: inscribing people into the measurement of objects_ (which I'm working on archiving [here](/the-awful-idea-of-accountability))
 
-> Accountability is more than, indeed systematically different from, responsibility. The latter entails, literally, being liable to answer for duties defined as yours. Responsibility implies stewardship, the proper conserving and use of those things charged to you, whether by an owner, a sovereign, or a metaphysical authority such as God, orthe people. Responsibility entails the discharge of one’s charge: it demands a reckoning, and in that sense an accounting for how you have conserved and used the things with which you have been charged (whether they be goods, money or powers). Its technical accounting form is therefore the ancient charge/discharge system of stewardship, which can be found as far back as ancient Egypt (Ezzamel, 1994).
+> Accountability is more than, indeed systematically different from, responsibility. The latter entails, literally, being liable to answer for duties defined as yours. Responsibility implies stewardship, the proper conserving and use of those things charged to you, whether by an owner, a sovereign, or a metaphysical authority such as God, orthe people. Responsibility entails the discharge of one’s charge: it demands a reckoning, and in that sense an accounting for how you have conserved and used the things with which you have been charged (whether they be goods, money or powers). Its technical accounting form is therefore the ancient charge/discharge system of stewardship, which can be found as far back as ancient Egypt.
 
-> Accountability, on the other hand, is in its operation and scope more totaland insistent. Not only are duties specified, but the means of evaluating the level of their performance is already prescribed, in implicit or explicit norms, standards and targets of performance; wherefore surveillance over and judgement of performance isvastly widened and deepened. One is no longer just a steward of goods, monies or powers, answerable for past performance and present circumstance. Accountability ranges more freely over space and time, focusing as much on future potential as on past accomplishment, connecting and consolidating performance reports to plans and forecasts. As it does so, accountability in all its processes engages the self more insistently in.the successful accomplishment of what is demanded over time and space. 
+> Accountability, on the other hand, is in its operation and scope more totaland insistent. Not only are duties specified, but the means of evaluating the level of their performance is already prescribed, in implicit or explicit norms, standards and targets of performance; wherefore surveillance over and judgement of performance isvastly widened and deepened. One is no longer just a steward of goods, monies or powers, answerable for past performance and present circumstance. Accountability ranges more freely over space and time, focusing as much on future potential as on past accomplishment, connecting and consolidating performance reports to plans and forecasts. As it does so, accountability in all its processes engages the self more insistently in the successful accomplishment of what is demanded over time and space. 
 
 > The difference, one might say, is that with accountability there is no longer a simple relay of charge and discharge. Its reach runs both vertically and horizontally, up hierarchies and across boundaries: its presence is more extensive and continuous. For example, in the modernist accounting world, this reach operates through the linked apparatuses of management accounting, financial reporting and auditing, in all their variants. Accountability therefore subsumes much that goes under the label of responsibility, but goes further. If responsibility entails being answerable to questions, then accountability does not so much dispense with questions as provide implicit answers to questions not-yet-dreamt-of. The constant mutual implication of standard, actual and forecast measures of performance means that what is currently invisible may subsequently become visible. Not only new targets but new kinds of targets may at any moment get constructed out of the debris of past success and failure. The ‘awful idea of accountability’ as one of the first recorded usages of that term, around 1800, presciently names it, is therefore a system threatening continual potential failure, even for those who are consistently successful.
 
