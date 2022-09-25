@@ -1,0 +1,77 @@
+---
+layout: post
+title: "Roadmaps"
+excerpt: 
+date: 2022-09-17 07:37:19 -0500
+categories: 
+---
+
+> If roadmaps are paved from the future back to the present, they show us the systems and sequences of dependencies needed to bring a future to life.
+
+> If they are paved from the present into the future, they are usually scattered vectors based on requests and impulse.
+
+@[evanlapointe](https://twitter.com/evanlapointe/status/1570451465327738880)
+
+---
+
+This led me to read more of Evan LaPointe's twitter. I'm not a twitter user, but his tweets are particularly wise.
+
+I liked [this thread](https://twitter.com/evanlapointe/status/1570449766819172353). I've reformatted it a little bit while also taking the liberty[^1] of capturing it all here:
+
+> Mission, vision, values are not culture. They are an inspiring brochure. Here is what real culture is, in simple terms:
+
+> Culture has a pretty straightforward definition: it's about the beliefs and customs of a group of people. Beliefs and customs aren't what we pretend we are. They are what we actually, observably are. It's fine to aspire to improve culture, but it's not fine to ignore reality.
+
+> Every company on earth has 5 fundamental beliefs and customs, whether they intend to or not. These form naturally, even if the brochure says something different.
+
+> 1\. Purpose  
+
+> The fundamental belief everyone walks into work with is a conscious or subconscious understanding of purpose. This drives every single conversation, decision, perspective, and assumption the person has, all day long. Here is where purpose can go wrong:
+
+> There's a gravitational pull for many people when it comes to purpose. This pull defaults people to 3 implied purposes. They will discuss, decide, share, and assume based on this default assumption.
+
+> Default purpose 1: Profit
+
+> This is when a person thinks every decision should maximize profit. While this may seem sensible at first, it'll become really obvious how stupid and self-harming this default assumption is as we look at other purposes.
+
+> Default purpose 2: Career  
+
+> This is when a person drives decisions, discussion, and assumptions based on the belief everyone is doing what is in their own personal best interest. They assume work is a giant game that everyone is playing, and they have to play it just as well.
+
+> Default purpose 3: Status Quo or Easy Work  
+
+> This is when a person assumes the business is attempting to preserve the status quo and do today what we did yesterday. If we must change or do something outside of norms, we choose the easy way of doing it to preserve resources, energy
+
+> Each of these default purposes is rooted in a fundamental assumption that must be interrupted. While it is true that many people (particularly those high in compassion, intellect, and creativity) will default to a more robust purpose, over 50% of people will default to 1, 2, 3. We interrupt that default purpose by stating our purpose. Some do that through mission or vision. But this is ineffective for two reasons.  
+
+> First, mission and vision are an attempt at theater. Think about movies, poetry, music. How much is good? Not much. Not many teams and people are talented enough to write a hit mission statement or clear vision. Sorry, it's just true. No different than film, theater, music, art, literature. It takes immense talent to write a hit. And your HR team isn't Robert Frost.
+
+> Second, mission and vision are both descriptions of supply, not demand. They describe, from the 1st person perspective, what the business wants to produce, achieve, and see the world turn into. But maybe nobody cares. Business isn't about supply. It's about demand. So the first part of culture needs to be intentional, 3rd person, not theatrical, and describe demand accurately.  
+
+> Here, try this idea on for size: your company plays a role in the world. Role is simply asking: Why is the world glad we exist? Answer that question and you have your business's purpose. Easy mode = on. And now, conversations can/will be steered by this role, not by simple profit, self interest, status quo, easiness, or diverse perspectives of purpose.
+
+> Try asking your team this question in your next staff meeting. You don't need to be a CEO. You can ask this as a manager, director, VP, whatever. Ask it. Think you're fine with mission and vision? Cool. I won't try to talk you out of that, or your rotary telephone.
+
+> 2\. Culture has beliefs and customs about Value Creation
+
+> Value creation is asking: when we fulfill our role, what does the customer/world actually get? What tangible and/or intangible outcomes occur? Your current beliefs and customs can easily be seen in your priorities. Simple as that. Ask the team: what value does the world get when we perform our role? Be precise and aligned in your language.
+
+> 3\. Culture has beliefs and customs about Quality.
+
+> It's super obvious what the team believes today is an acceptable level of quality. And it's usually WAY too low, especially if they are defaulting to purpose 1 (profit), 2 (self), or 3 (status quo / easy).
+
+> 4\. Culture has beliefs and customs about Decision Intelligence.
+
+> It's also super obvious what people believe is an acceptable level of knowledge, data, discussion, and competence as we head into a decision. Teams can index too high or too low on this.
+
+> 5\. And culture has beliefs and customs around Interpersonal Dynamics.
+
+> Lastly, it's super obvious what people believe is an acceptable way to open and have conversations with each other. It's super obvious if people are cooperative or hostile. Intellectuals or apes. Fun/serious.
+
+> You build an incredible culture for your team by analyzing these 5 and then getting intentional about them. Left unsaid, these 5 things drift into chaotic fractals of personal perspective. Everyone has a personal view on these 5 beliefs and customs, so if you're not unifying them intentionally, you'll be fighting the natural forces that come from inevitable differences in perspective, especially if those differences start at purpose.
+
+Evan LaPointe has founded [CORE](https://www.core-sciences.com/), which looks like a potentially better Predictive Index. Keeping my eyes on this space.
+
+---
+
+[^1]: ...because Twitter is a transitory source and untrustworthy archive. If he puts this on his own site I will update this post accordingly.
