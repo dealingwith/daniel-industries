@@ -2,33 +2,19 @@
 author: dealingwith
 date: '2009-09-11 18:00:00'
 layout: post
-slug: brunch
-status: publish
 title: Brunch
-wordpress_id: '3039'
 categories:
  - minutia
 ---
 
-I've had a ton of blog entries stuck in my head and unable to make their way
-into any of my various publishing systems...something about having a baby and
-working for a startup. And getting old. But [Carissa][1]'s [take on our brunch
-last weekend was perfect][2]:![][3]
+I've had a ton of blog entries stuck in my head and unable to make their way into any of my various publishing systems...something about having a baby and working for a startup. And getting old. But [Carissa][1]'s [take on our brunch last weekend was perfect][2]:
 
-> This is time frame in most of my friend's lives where we're all settling
-into this world we created. We're settling in to our ideas and our beliefs and
-how it's all panning out. We're settling into our mates or what we want out of
-a mate and understanding more about what was so totally wrong with that last
-boy/girl friend. We're nestled in with sticky-faced children. We pride
-ourselves more on our practical functionality and less on our storebought
-fronts. We're not so swept away by the masses, trends or media and can focus
-on the big and small pictures individually. When we gather around food and
-beverage we can connect things from all over and we suddenly need to take care
-of one another.
+![][3]
+
+> This is time frame in most of my friend's lives where we're all settling into this world we created. We're settling in to our ideas and our beliefs and how it's all panning out. We're settling into our mates or what we want out of a mate and understanding more about what was so totally wrong with that last boy/girl friend. We're nestled in with sticky-faced children. We pride ourselves more on our practical functionality and less on our storebought fronts. We're not so swept away by the masses, trends or media and can focus on the big and small pictures individually. When we gather around food and beverage we can connect things from all over and we suddenly need to take care of one another.
 
    [1]: http://carissabyers.com
 
    [2]: http://carissabyers.blogspot.com/2009/09/brunch.html
 
    [3]: http://farm4.static.flickr.com/3499/3895108003_d3cf600b61_m.jpg
-
