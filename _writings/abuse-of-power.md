@@ -31,7 +31,7 @@ Andy's face wouldn't start really swelling until about the third period. He wet 
 
 ---
 
-As he sat in his car listening to the phone ring Andy felt the cold winter air sting against his face as the wind blew through the open window. The ringing stopped with a click, then, "Peaceful Cleaning, how can I help you?" 
+As he sat in his car listening to the phone ring Andy felt the cold winter air sting against his face as the wind blew through the open window. The ringing stopped with a click, then, "Peaceful Cleaning, how can I help you?"
 
 "Uh, yeah. I have a house that needs...cleaning?"
 
@@ -331,7 +331,7 @@ Andy got the job. In college, he had written an entire web search engine in just
 
 "I need to remember all this shit," Andy said with disgust as he settled down with the company wiki that night and checked out the repository for that product. And he did. He'd later wonder to himself why he'd never tried that in college. The answer was he had never thought to. He'd never needed to.
 
-"I need Omaha to not be boring," Andy quietly said as he boarded the flight. And it wasn't to be.
+"I need Omaha to not be boring," Andy quietly said as he boarded the flight.
 
 "I need these customers to be cool," he said in the Uber from the airport.
 
@@ -460,4 +460,3 @@ The entire process was stressful and time-consuming. But it was his process. It 
 That Thanksgiving Andy sat alone in his apartment with nothing to do and no one to call. He felt a little bit sad. He felt more than a little bit lonely.
 
 But he was free.
-
