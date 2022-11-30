@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-Check the <b>multitude</b> of updates all down this page... and if u haven't noticed yet there's also something that's been updated along the right -->
-

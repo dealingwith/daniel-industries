@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Hope"
+excerpt:
+date: 2022-11-29 21:35:04 -0600
+categories:
+---
+
+Of all the memorable things he's written or said, my favorite of Cory Doctorow's is:
+
+> Hope is like why you tread water when your ship sinks. Even though you know that in most cases you have no chance of being picked up, everyone who was ever picked up tread water until rescue arrived. And so it's this necessary but insufficient precondition for a better future. Hope doesn't require that you know how you get from A to Z. Hope only requires that you know what your next step is.
+
+I like it so much that I [include it in my values document](https://github.com/dealingwith/values/blob/master/values.md#hope-and-abundance).
+
+I'm reading _Walkaway_ right now and recently arrived at the portion of the book where he restates this idea:
+
+> So what we’re doing, Gretyl, is exercising hope. It’s all you can do when the situation calls for pessimism. Most people who hope have their hopes dashed. That’s realism, but everyone whose hopes weren’t dashed started off by having hope. Hope’s the price of admission. It’s still a lotto with shitty odds, but at least it’s our lotto. Treading water in default thinking you might become a zotta is playing a lotto you can’t win, and whose winners—the zottas—get to keep winning at your expense because you keep playing. Hope’s what we’re doing. Performing hope, treading water in open ocean with no rescue in sight.”
+
+---
+
+_Little side note: There are 356 instances of the word "hope" on this site._

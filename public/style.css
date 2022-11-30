@@ -37,10 +37,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.8em;
+  line-height: 1.9em;
 }
 h2 {
-  font-size: 1.8em;
+  font-size: 1.7em;
 }
 h3 {
   font-size: 1.6em;
@@ -91,7 +92,7 @@ a.dead:hover {
 
 .main-content {
   margin: 2rem auto;
-  width: 525px; 
+  width: 525px;
 }
 @media screen and (max-width: 600px) {
   .main-content {
@@ -100,7 +101,7 @@ a.dead:hover {
   }
 }
 .main-content p, .main-content div, .main-content iframe, .main-content table {
-  margin-bottom: 1em;    
+  margin-bottom: 1em;
 }
 
 hr {
@@ -251,9 +252,9 @@ pre {
 
 .index-footer {
   font-size: 0.9rem;
-  position: absolute; 
-  bottom: 10px; 
-  right: 20px; 
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
 }
 
 table {

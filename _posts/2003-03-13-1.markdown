@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - links
----
-
-<a href="http://www.cnn.com/2003/TRAVEL/DESTINATIONS/03/12/discovering.bratislava.ap/">cnn.com - slovakia: bratislava's charm offensive</a> terrible title, great article (thanks Scott)
-
