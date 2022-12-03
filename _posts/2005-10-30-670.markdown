@@ -2,21 +2,10 @@
 author: dealingwith
 date: '2005-10-30 23:08:00'
 layout: post
-slug: '670'
 status: publish
-title: '...'
-wordpress_id: '671'
+title: 'Do things by not trying to make yourself do them'
 ---
 
-_Focusing on something for 5 minutes, much less for an entire month, is
-difficult though. I'm just not very good at motivating myself about some
-things--it's almost easier to find a way to trick myself into believing that I
-don't need to be motivated. Do things by not trying to make yourself do them--
-do them the Tyler Durden way, while you're not paying attention, while you're
-sleeping._
+_Focusing on something for 5 minutes, much less for an entire month, is difficult, though. I'm just not very good at motivating myself about some things--it's almost easier to find a way to trick myself into believing that I don't need to be motivated. Do things by not trying to make yourself do them-- do them the Tyler Durden way, while you're not paying attention, while you're sleeping._
 
-[National Self Improvement Month on focus on deliberate self-improvement for
-one month on 43 Things][1]
-
-   [1]: http://www.43things.com/entries/view/306762
-
+<a class="dead">National Self Improvement Month on focus on deliberate self-improvement for one month on 43 Things</a>

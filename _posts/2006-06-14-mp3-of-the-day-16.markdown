@@ -2,30 +2,13 @@
 author: dealingwith
 date: '2006-06-14 07:47:00'
 layout: post
-slug: mp3-of-the-day-16
 status: publish
-title: mp3 of the day
-wordpress_id: '1399'
+title: The Binet-Simon Test by Miranda July
 categories:
  - miranda july
  - mp3 of the day
 ---
 
-[![][1]][2]As some of you might remember, I'm [slightly obsessed with Miranda
-July][3] ATM. I bought one of her CD's -- I figured I am planning on doing
-spoken word stuff, so it was also good reference. It is amazing and weird at
-the same time. I will let you judge for yourself with this the first track of
-5 interweaving stories on [this record][2].
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=938361086/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mirandajuly.bandcamp.com/album/the-binet-simon-test">The Binet-Simon Test by Miranda July</a></iframe>
 
-[Medical Wonder][4]
-
-   [1]: http://images.amazon.com/images/P/B0000064AD.01._SCTHUMBZZZ_.jpg
-
-   [2]: http://www.amazon.com/gp/product/B0000064AD/sr=8-4/qid=1150289047/ref=pd_bbs_4/104-6781323-7043960?%5Fencoding=UTF8
-
-   [3]: http://dealingwith.livejournal.com/354682.html
-
-   [4]:
-http://iaspiretonothing.com/daniel/blog/files/2006/06/Miranda%20July%20-%20The
-%20Binet-Simon%20Test%20-%201%20-%20Medical%20Wonder.mp3
-
+As some of you might remember, I'm slightly obsessed with Miranda July ATM. I bought one of her CD's---I figured I am planning on doing spoken word stuff, so it was also good reference. It is amazing and weird at the same time. I will let you judge for yourself with this the first track of 5 interweaving stories on this record.

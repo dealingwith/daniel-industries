@@ -31,14 +31,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Gentium Book Basic', serif;
   letter-spacing: 0.03rem;
-  line-height: 1.7rem;
+  line-height: initial;
   margin: 0 10px 1.1rem 0;
   padding: 10px 10px 0 0;
 }
 
 h1 {
   font-size: 1.8em;
-  line-height: 1.9em;
 }
 h2 {
   font-size: 1.7em;
