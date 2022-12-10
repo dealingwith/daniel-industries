@@ -4,9 +4,7 @@ layout: page
 
 <div>
   <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if page.categories.size > 0 %} in {% for category in page.categories %} <small>#</small><a href="/categories#{{category}}">{{ category }}</a>{% endfor %}{% endif %}</p>
-  <article>
-    {{ content }}
-  </article>
+  {{ content }}
 </div>
 <hr style="clear: both">
 <div>

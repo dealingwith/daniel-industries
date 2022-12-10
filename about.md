@@ -7,10 +7,8 @@ With over 20 years of [experience](https://www.linkedin.com/in/dealingwith) in t
 
 Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Milo and stepdad of Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and [stories](/writing). Cyclist. Indieweb advocate.
 
----
-
 The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet. There's not at present a coherent way to navigate specific types of content, and I consider that a feature, not a bug.
 
-There is now a [uses](/uses) page for those who want even more details.
-
 [Follow me on Mastodon](https://fo.llow.social/u/dealingwith@indieweb.social)
+
+See also: [uses](/uses) and [now](/now)
