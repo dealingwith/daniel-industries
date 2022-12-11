@@ -4,7 +4,7 @@ title: "The history of Javascript"
 excerpt: "Is such a nostalgic trip for me, and helps me understand my own career path"
 date: 2019-07-13 09:35:06 -0500
 comments: true
-categories: 
+categories:
 ---
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sh6lK57Cuk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,9 +15,9 @@ In 1999 I transitioned out of a brief post-college career in the duel part-time 
 
 I survived the first throes of the dot-com bust, which reached its tentacles into all areas of technology, even enterprise middleware. About the time I was finally let go from that company, I was getting much more into web technologies, and landed a series of freelance gigs building sites in ColdFusion and PHP. These "dark ages" for the web were actually a bright spot for me, as I learned about all things web in a relatively low-pressure environment. I started blogging, got heavily into XML due to my experience with it during my enterprise software days and its relevance in things like RSS and OWL...I even built my own CMS (as you do) using a custom flat-file XML storage format (used at the time to publish this very blog--the technological history of this blog is another interesting story suitable for a separate post).
 
-I freelanced for many years, navigating a number of personal whitewaters and landing in Dallas, where I began exercising my entrepreneurial inclinations. Said CMS was re-written in PHP with a MySQL database. After a number of failed business ventures, from all of which I learned a great deal, it was time to get back into the full-time job market. I spent an unproductive year attempting to re-integrate into the Microsoft stack I had learned at that first job. Then I got a job as a front-end engineer at a small educational software company that had a 10-year-old Java application that used XML as its data transfer layer. XML! In 2008! I discovered ActionScript, which, as the video mentioned, actually held all the promise of ECMAScript without all the baggage and nonsense of JavaScript. History would conspire against me, however, something I even mention on my LinkedIn:
+I freelanced for many years, navigating a number of personal whitewaters and landing in Dallas, where I began exercising my entrepreneurial inclinations. Said CMS was re-written in PHP with a MySQL database. After a number of failed business ventures, from all of which I learned a great deal, it was time to get back into the full-time job market. I spent an unproductive year attempting to re-integrate into the Microsoft stack I had learned at that first job. Then I got a job as a front-end engineer at a small education software company that had a 10-year-old Java application that used XML as its data transfer layer. XML! In 2008! I discovered ActionScript, which, as the video mentioned, actually held all the promise of ECMAScript without all the baggage and nonsense of JavaScript. History would conspire against me, however, something I even mention on my LinkedIn:
 
-> I was responsible for choosing and implementing a new front-end framework and unfortunately, I chose Flex...
+> I was responsible for choosing and implementing a new front-end framework and unfortunately, I chose [Flex](https://en.wikipedia.org/wiki/Apache_Flex)...
 
 Fortunately, another life-changing opportunity came my way by way of my lesser music career. Some members of an Albuquerque band I knew by way of the Dallas music scene were part of a startup and needed a front-end developer with some design chops. I joined and dove straight into the deep end of modern JavaScript. Or, what was modern JavaScript in 2009. ColdFusion, PHP, and .NET were in the rear-view mirror and I was officially a specialized front-end engineer.
 
