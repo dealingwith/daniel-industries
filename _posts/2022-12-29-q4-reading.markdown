@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Q4 Reading"
+excerpt:
+date: 2022-12-29 09:04:58 -0600
+categories:
+---
+
+**Q4 Books**
+
+A weak end to the year in the reading department. Only finished two audiobooks:
+
+*The Storyteller* by Dave Grohl. Audiobook.
+
+*Lurking: How a Person Became a User* by [Joanne McNeil](https://joannemcneil.com/). Audiobook. This is an incredible book. I have a digital copy still checked out of the library, and I would quote some of my highlights but there are too many! I would consider this a mandatory read for anyone working on the web.
+
+_Still_ working on: *Walkaway*, *Tragic Design*, *Anything You Want*, and started *Working Effectively with Legacy Code*. I'd hoped to use some of my time off for the holidays to catch up but so far I've spent that time with family or chipping away at my massive backlog of personal administrative tasks.
