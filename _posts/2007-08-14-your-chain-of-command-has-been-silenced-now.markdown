@@ -4,19 +4,13 @@ date: '2007-08-14 03:07:00'
 layout: post
 slug: your-chain-of-command-has-been-silenced-now
 status: publish
-title: your chain of command has been silenced now.
+title: your chain of command has been silenced now
 wordpress_id: '2522'
 categories:
  - fiction
 ---
 
-[![][1]][2]
-
-[Dancers Like to Hack into the Botryoidal System][3]
-
-Originally uploaded by [º• Indie Ingénue •º][4]
-
-> and all those birds would have sung to your beautiful heart anyhow.
+> and all those birds would have sung to your beautiful heart anyhow
 
 Dallas, I drove by your house tonight; for the first time in so long. You
 know, for the first days and weeks I had to drive around. I could not bear the
@@ -39,15 +33,6 @@ list. And it will be the most difficult piece of art I ever create.
 I saw nothing had changed. I hope for all of our sakes that appearances, and
 my heart, are so very deceiving.
 
-> i'll never be free if i'm not free now.
+> i'll never be free if i'm not free now
 
-i never was free, what are you talking about?
-
-   [1]: http://farm1.static.flickr.com/148/336954222_5753ca4bbd_m.jpg
-
-   [2]: http://www.flickr.com/photos/indie_ingenue/336954222/ (photo sharing)
-
-   [3]: http://www.flickr.com/photos/indie_ingenue/336954222/
-
-   [4]: http://www.flickr.com/people/indie_ingenue/
-
+> i never was free, what are you talking about?

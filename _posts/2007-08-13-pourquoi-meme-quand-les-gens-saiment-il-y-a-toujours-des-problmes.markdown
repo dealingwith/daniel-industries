@@ -16,4 +16,4 @@ _Je ne t'aime plus_ (Oh how I wish it were true. I don't think he means it when 
 
 _Mentira_ (Indeed.)
 
-(Title of this post not from either of these, but rather from _La Vie a Deux_, which you will just have to go get your own self.) (_Esperanza_ is also very good.)
+(Title of this post not from either of these, but rather from _La Vie a Deux_) (The record _Esperanza_ is also very good.)

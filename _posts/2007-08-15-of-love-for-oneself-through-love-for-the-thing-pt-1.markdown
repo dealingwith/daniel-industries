@@ -29,7 +29,7 @@ Easier is the qualitative measure. I know it has to do with the motivations of t
 
 The qualitative measure of the thing is what motivations are communicated. The thing is for the "greater good." It is "non-profit." Not just those either, but how self-referential the thing is. You should support the thing because it is good. What is the good of the thing? The good of the thing is that it is good.
 
-(I started [a non-profit](/2016/03/15/goodbye-integration-research/). What I am talking about is not specific to non- profits, again just in case you were wondering. I have soul searched on my motivations in that project and have determined we were not in the same category as what I'm trying to get my head around. But when something annoys one so much, one must consider the fact that it is because it is exposing ugly things in one's own life, and so I must follow that piece of this thread.)
+(I started [a non-profit](/2016/03/15/goodbye-integration-research/). What I am talking about is not specific to non-profits, again just in case you were wondering. I have soul searched on my motivations in that project and have determined we were not in the same category as what I'm trying to get my head around. But when something annoys one so much, one must consider the fact that it is because it is exposing ugly things in one's own life, and so I must follow that piece of this thread.)
 
 The qualitative measuring can be done semantically. I think it is something like the difference between, "I have these gifts and these passions, and am using them within the context of this good thing" and "I am doing this good thing so as to validate my gifts and passions."
 
