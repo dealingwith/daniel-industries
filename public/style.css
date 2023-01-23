@@ -66,7 +66,7 @@ h6 {
 a {
   color: var(--green);
   text-decoration: none;
-  border-bottom: 1px solid var(--green);
+  border-bottom: 1px solid var(--lightgreen);
 }
 a:hover {
   color: var(--text);
@@ -117,7 +117,10 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 hr {
-  border-top: 1px solid var(--green);
+  background-color: var(--lightgreen);
+  border: none;
+  color: var(--lightgreen);
+  height: 1px;
 }
 
 ul, ol {
@@ -288,7 +291,7 @@ tr {
 }
 
 td, th {
-  border: 1px solid var(--green);
+  border: 1px solid var(--lightgreen);
   padding: 6px 13px;
 }
 

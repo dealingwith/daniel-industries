@@ -65,7 +65,7 @@ If we are lucky enough to not experience loss in this way, it will, regardless, 
 
 We will have to be creative to survive this thing, both physically and emotionally. If you have the education and skills to be on the front lines of the physical fight, go with our support and desperate blessings. If, like me, you are left only with these frail words, do your best. This is not normal, and nor will be our worst reactions to it, and nor can be our best reactions to it.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kGRCzfWa1_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/kGRCzfWa1_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >And with all your grief in my arms  
 >I will labor by singing light

@@ -12,15 +12,15 @@ Yesterday I said:
 
 Sure enough, as I gave up on the news late last night and slumped onto the couch, I turned to Lowland Hum and Denison Witmer on YouTube to minister to my soul. First, Denison:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6OuuSc12qMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/6OuuSc12qMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yof38fNFn6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/yof38fNFn6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Lowland Hum got their own post on here last month](2020/02/08/lowland-hum/). Here are more from them for good measure.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AjOW05WuElQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/AjOW05WuElQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yfmZON5bstY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/yfmZON5bstY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >We imagined ourselves tiny in your hand  
 >Climbing the terrain of your soft skin  
