@@ -121,6 +121,7 @@ hr {
   border: none;
   color: var(--lightgreen);
   height: 1px;
+  width: 80%;
 }
 
 ul, ol {
