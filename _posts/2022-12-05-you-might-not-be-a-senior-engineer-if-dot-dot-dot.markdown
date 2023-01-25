@@ -20,7 +20,7 @@ You might want to reconsider your "senior" title if...
 
 ...you commit to the main branch with impunity
 
-...you don't see other engineer's inability to run your application in a local development environment consistently and without significant issues as a red flag. "It works on my machine," should never be uttered by a senior engineer.
+...you don't see other engineers' inability to run your application in a local development environment consistently and without significant issues as a red flag. "It works on my machine," should never be uttered by a senior engineer.
 
 ...you delete or comment out existing tests, or consistently fail to write new tests
 

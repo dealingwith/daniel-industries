@@ -28,8 +28,13 @@ body {
   color: var(--text);
   font-family: -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5em;
-  /* padding: 1rem; */
   text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 1.1em;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
