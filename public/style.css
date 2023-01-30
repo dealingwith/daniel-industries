@@ -26,14 +26,13 @@
 body {
   background-color: var(--bg);
   color: var(--text);
-  font-family: -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5em;
-  text-rendering: optimizeLegibility;
+  font-size: 1.1em;
 }
 
 @media screen and (max-width: 600px) {
   body {
-    font-size: 1.1em;
+    font-size: 1.2em;
   }
 }
 
@@ -70,8 +69,8 @@ h6 {
 
 a {
   color: var(--green);
-  text-decoration: none;
-  border-bottom: 1px solid var(--lightgreen);
+  /* text-decoration: none;
+  border-bottom: 1px solid var(--lightgreen); */
 }
 a:hover {
   color: var(--text);
@@ -296,10 +295,10 @@ tr {
   border-bottom: 1px solid var(--green);
 }
 
-td, th {
+/* td, th {
   border: 1px solid var(--lightgreen);
   padding: 6px 13px;
-}
+} */
 
 blockquote.callout {
   background-color: var(--text);

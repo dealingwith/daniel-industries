@@ -6,7 +6,13 @@ layout: page
   <p class="post-metadata"><a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if page.categories.size > 0 %} in {% for category in page.categories %} <small>#</small><a href="/categories#{{category}}">{{ category }}</a>{% endfor %}{% endif %}</p>
   {{ content }}
 </div>
+
 <hr style="clear: both; margin-bottom: 1em">
+
+{{ page.url | backlink }}
+
+<hr style="margin-bottom: 1em">
+
 <div>
   {% if page.previous.url %}
     <p style="float: left; width: 50%; margin-top: 0">Previous: <a href="{{page.previous.url}}">{{ page.previous.title }}</a></p>
