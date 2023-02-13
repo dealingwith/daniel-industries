@@ -264,9 +264,9 @@ pre {
 .menu .only-index {
   display: none;
 }
-/* .index .menu .only-index {
+.index .menu .only-index {
   display: block;
-} */
+}
 .menu a {
   border-bottom: 0px;
 }
