@@ -14,101 +14,43 @@ categories:
 
 (repost, now with more video)
 
-
 **[Updates][1]**
 
+SXSW inspired a lot of cognitive dissonance. I'm not even sure I can get it all out into words. It's clear in my brain. I don't have a lot of time for really cohesive blogging anymore, but I'll try.
 
-SXSW inspired a lot of cognitive dissonance. I'm not even sure I can get it
-all out into words. It's clear in my brain. I don't have a lot of time for
-really cohesive blogging anymore, but I'll try.
+Part of that dissonance might be related to that last thing. There were a _lot_ people at SXSW with _plenty_ of time to _blog_ about a _lot_ of things and have _very important_ thoughts. And by "very important" I mean asinine and pathetic. [That combined with a huge emphasis on panels and "core conversations" inspired a lot of hate][2].
 
+[![][3]][4]
 
-Part of that dissonance might be related to that last thing. There were a
-_lot_ people at SXSW with _plenty_ of time to _blog_ about a _lot_ of things
-and have _very important_ thoughts. And by "very important" I mean asinine and
-pathetic. [That combined with a huge emphasis on panels and "core
-conversations" inspired a lot of hate][2].
+At the same time, I was again _really_ inspired by SXSW this year. If there was one overriding theme to the entire event, it was this: **Things suck, but you're awesome**. Most presentations (and yes I tried to stick to the proper presentations) ended with some variant of [this][5] (and [Kathy Sierra][6]'s really did).
 
+[![][7]][8]
 
-[![][3]][4]At the same time, I was again _really_ inspired by SXSW this year.
-If there was one overriding theme to the entire event, it was this: **Things
-suck, but you're awesome**. Most presentations (and yes I tried to stick to
-the proper presentations) ended with some variant of [this][5] (and [Kathy
-Sierra][6]'s really did).
+Saturday I mostly played in the Lego pit and hit up [BarCamp][9], but I did make it to [Designing the Future of The New York Times][10], which I went to, of course, because of the brilliant [Khoi Vinh][11], but found myself far more impressed with his colleague [Tom Bodkin][12] ([here's his bio w/ pic on the SX site][13]). His years of experience in a much richer design process and culture spoke rather profoundly, I thought, to a room full of mostly design hacks (myself, of course, included).
 
+[![][14]][15]
 
-[![][7]][8]Saturday I mostly played in the Lego pit and hit up [BarCamp][9],
-but I did make it to [Designing the Future of The New York Times][10], which I
-went to, of course, because of the brilliant [Khoi Vinh][11], but found myself
-far more impressed with his colleague [Tom Bodkin][12] ([here's his bio w/ pic
-on the SX site][13]). His years of experience in a much richer design process
-and culture spoke rather profoundly, I thought, to a room full of mostly
-design hacks (myself, of course, included).
+My first two panels talks on Sunday were _excellent_. First was [Being a UX Team of One][16] by [Leah Buley][17], which was totally humbling and inspiring at the same time. Lots of great stuff that I _want_ to do but am _not_ doing yet in my UX practice. [She has a few preso's up already on slideshare][18], including this same one given last year. The second was [Jared Spool's talk][19]. I've seen Jared speak before so I knew it was going to be good. It was. Apparently other people knew it was going to be good too. About two rows in front of me was a who's who of web design.
 
+Somehow I missed [this][20] on Sunday, which was dumb of me. After giving the keynote a miss to go visit [Mellow Johnny's][21] with [Jay][22] I wandering in and out of sessions until stumbling into [Gary Vaynerchuk][23]'s Q&A in the big room. I was so glad I did. My opinion of him did a 180. Previously, I wasn't a fan (go [here][24] to decide for yourself). But seeing him speak live to that audience I realized, _he's a motivational speaker_, and my kind of motivational speaker at that: a no bullshit one. Plus he could get Eeyore excited about life.
 
-[![][14]][15]My first two panels talks on Sunday were _excellent_. First was
-[Being a UX Team of One][16] by [Leah Buley][17], which was totally humbling
-and inspiring at the same time. Lots of great stuff that I _want_ to do but am
-_not_ doing yet in my UX practice. [She has a few preso's up already on
-slideshare][18], including this same one given last year. The second was
-[Jared Spool's talk][19]. I've seen Jared speak before so I knew it was going
-to be good. It was. Apparently other people knew it was going to be good too.
-About two rows in front of me was a who's who of web design.
+[![][25]][26]
 
+Monday there was some more good stuff going on, but all I really cared about was the [Bruce Sterling session][27]. I did go to [Presenting Straight to the Brain][28], which was good, Kathy's stuff particularly. I have strong opinions about that stuff, though, and I can't believe no-one is poo-pooing panels and telling people to emulate rockstars. Mid-day I got to hang out with @[thedandee][29] some more which was a good thing. Eating, as well, since I hadn't eaten in about 24 hours. After lunch we both went to the aforementioned and inspiring [talk][30] by Kathy. Then, Bruce. He was awesome.
 
-Somehow I missed [this][20] on Sunday, which was dumb of me. After giving the
-keynote a miss to go visit [Mellow Johnny's][21] with [Jay][22] I wandering in
-and out of sessions until stumbling into [Gary Vaynerchuk][23]'s Q&A in the
-big room. I was so glad I did. My opinion of him did a 180. Previously, I
-wasn't a fan (go [here][24] to decide for yourself). But seeing him speak live
-to that audience I realized, _he's a motivational speaker_, and my kind of
-motivational speaker at that: a no bullshit one. Plus he could get Eeyore
-excited about life.
+I'll be [huffduffing][31] all [the talks I went to plus all the ones I wished I'd gone to][32], for those who want to catch/keep up but want a filter. I'll probably fill in some gabs with quick vid or pic posts here as well.
 
-
-[![][25]][26]Monday there was some more good stuff going on, but all I really
-cared about was the [Bruce Sterling session][27]. I did go to [Presenting
-Straight to the Brain][28], which was good, Kathy's stuff particularly. I have
-strong opinions about that stuff, though, and I can't believe no-one is poo-
-pooing panels and telling people to emulate rockstars. Mid-day I got to hang
-out with @[thedandee][29] some more which was a good thing. Eating, as well,
-since I hadn't eaten in about 24 hours. After lunch we both went to the
-aforementioned and inspiring [talk][30] by Kathy. Then, Bruce. He was awesome.
-
-
-I'll be [huffduffing][31] all [the talks I went to plus all the ones I wished
-I'd gone to][32], for those who want to catch/keep up but want a filter. I'll
-probably fill in some gabs with quick vid or pic posts here as well.
-
-
-**Update 1**: [Leah Buley has posted the presentation as well as the design
-templates she showed off in said presentation][33].
-
+**Update 1**: [Leah Buley has posted the presentation as well as the design templates she showed off in said presentation][33].
 
 **Update 2**:
 
 [![][34]][35]
 
+**Update 3**: [Khoi Vihn's SX recap][36]. And Mike D, from the comments: "Jared Spool? Fantastic. I’d rather watch him talk about peeling carrots for an hour than listen to five social media consultants introduce themselves for a half hour and then open up Q & A."
 
-**Update 3**: [Khoi Vihn's SX recap][36]. And Mike D, from the comments:
-"Jared Spool? Fantastic. I’d rather watch him talk about peeling carrots for
-an hour than listen to five social media consultants introduce themselves for
-a half hour and then open up Q & A."
+And finally, the most interesting bit, [Carissa][37]'s take on the weekend.
 
-
-And finally, the most interesting bit, [Carissa][37]'s take on the weekend:
-
-
-[http://vimeo.com/moogaloop.swf?clip_id=3757109&server=vimeo.com&show_title=1&
-show_byline=1&show_portrait=1&color=dd4499&fullscreen=1][38]
-
-
-[Oh and have I failed to mention my new record that you can download for
-free?][39]
-
-
-[http://bandcamp.com/EmbeddedPlayer.swf/album=709791986/size=venti/bgcol=FFFFF
-F/linkcol=4285BB/][40]
+Oh and have I failed to mention my new record that you can download for free?
 
    [1]: #sxswupdates
 
@@ -184,9 +126,4 @@ F/linkcol=4285BB/][40]
 
    [37]: http://carissabyers.blogspot.com/
 
-   [38]: http://vimeo.com/moogaloop.swf?clip_id=3757109&server=vimeo.com&show_title=1&show_byline=1&show_portrait=1&color=dd4499&fullscreen=1
-
    [39]: http://danielmiller.bandcamp.com/
-
-   [40]: http://bandcamp.com/EmbeddedPlayer.swf/album=709791986/size=venti/bgcol=FFFFFF/linkcol=4285BB/
-

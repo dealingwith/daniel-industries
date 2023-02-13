@@ -20,7 +20,6 @@ Originally uploaded by [carissabyers][4]
 
 A fedora, Danelectro, and gazoo.
 
-
 [more pics here][5]
 
    [1]: http://farm3.static.flickr.com/2288/2187196316_33b57c1093_m.jpg
@@ -32,4 +31,3 @@ A fedora, Danelectro, and gazoo.
    [4]: http://www.flickr.com/people/carissabyers/
 
    [5]: http://flickr.com/photos/carissabyers/sets/72157603697991591/
-

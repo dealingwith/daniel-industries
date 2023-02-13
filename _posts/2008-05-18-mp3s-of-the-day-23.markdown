@@ -1,19 +1,24 @@
 ---
-author: dealingwith
 date: '2008-05-18 16:52:00'
 layout: post
 slug: mp3s-of-the-day-23
-status: publish
-title: mp3s of the day
-wordpress_id: '2642'
+title: Happy Mix
 categories:
  - mp3 of the day
 ---
 
-The [Happy Mix][1] originally made for [someone][2]. A 46M ZIP file which
-includes the cover image/tracklisting.
+The _Happy Mix_ originally made for [someone][2].
 
-   [1]: http://danielsjourney.com/blog/files/2008/05/Happy.zip
+1. Martin Sexton, _Happy_
+1. The Choir, _Wide-Eyed Wonder_
+1. The Choir, _Happy Fool_
+1. Chuck Prophet, _Bring on the Love_
+1. Josh Joplin Group, _Happy at Last_
+1. Legendary Chrystal Chandelier, _Everybody is Happy_
+1. Over the Rhine, _Happy and Free_
+1. Boards of Canada, _Happy Cycling_
+1. Linford Detweiler, _He was Happy_
+1. Michael Miller, _Some Happy_
+1. The Innocence Mission, _Happy, the End_
 
    [2]: http://twitter.com/carissa/statuses/814320411
-

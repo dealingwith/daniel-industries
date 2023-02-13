@@ -11,20 +11,20 @@ The house was crooked. Its paint, whatever was left of it, was of mysterious ori
 
 Mary’s music lessons were in this house. Mary learned piano from Jonas. Jonas had gone to a local but prestigious school for jazz performance, moved to New York City, gained some significant fame, disappeared, and reappeared back here in his hometown, in this house.
 
-There were instruments strewn all across the residence’s main rooms–the stand-up piano, of course, where Mary played her lessons–but also guitars hung all over the walls, there was a drum set in the corner, a box of percussion, and various specifically ethnically-infused stringed instruments.
+There were instruments strewn all across the residence’s main rooms–the stand-up piano, of course, where Mary had her lessons–but also guitars hung all over the walls, there was a drum set in the corner, a box of percussion, and various specifically ethnically-infused stringed instruments.
 
-It was like the entire earth under that house had cracked. Mary remembers the giant but smooth oscillation in the road just prior to arriving. In the back seat of her mother’s 1977 Cadillac Sedan de Ville, the pothole-bump combo sent Mary well off the seat, the suspension not recovering until they had made the left into the small gravel driveway, Mary having been bounced across the seat to the passenger-side door. She would snatch her music from beside her and stumble unsteadily into the funhouse of music.
+It was like the entire earth under that house had cracked. Mary remembers the giant but smooth oscillation in the road just prior to arriving. In the back seat of her mother’s 1977 Cadillac Sedan de Ville, the pothole-bump combo sent Mary well off the seat, the suspension not recovering until they had made the left onto the small gravel driveway, Mary having been bounced across the seat to the passenger-side door. She would snatch her music from beside her and stumble unsteadily into the funhouse of music.
 
 Mary was a good student and a quick study, but one day she just wasn’t feeling it. Her dad was long gone, her mother was busy with work and her various boyfriends, and Mary just hadn’t practiced as much as she should have. She sat at the piano in the funhouse and made mistake after mistake. No energy flowed through her fingers. Jonas saw she was on the verge of tears.
 
 “Somedays, you just aren’t feeling it,” he said. “And that’s ok. There are usually a lot of reasons you might not be feeling it that day, usually more than one reason at a time. And the thing to do is not to just plow through, although the goal is to get through. The thing to do is take one step back and repeat that last step. Let’s play last week’s lesson.”
 
-He flipped the lesson book back a page, the page with last week’s date, and a big checkmark on it. Wordlessly, she began to play. The notes came much more easily. By the end of the piece her hands were moving freely again and the tears welled up in her eyes had dried.
+He flipped the lesson book back a page, the page with last week’s date and a big checkmark on it. Wordlessly, she began to play. The notes came much more easily. By the end of the piece her hands were moving freely again and the tears that had welled up in her eyes had dried.
 
 > Not everyone can carry the weight of the world  
 > Talk about the passion
 
-“Some days it’s more important to be true to yourself than others. But on those days it’s of the utmost importance. If you need to sing, sing. If you need to play, play. If you need to, walk through the woods, write a poem, sit quietly, read a book, watch a matinee.”
+“Some days it’s more important to be true to yourself than to others. But on those days it’s of the utmost importance. If you need to sing, sing. If you need to play, play. If you need to, walk through the woods, write a poem, sit quietly, read a book, watch a matinee.”
 
 > Try to win and suit your needs  
 > Speak out sometimes but try to win  
@@ -46,16 +46,18 @@ She couldn’t really tell what the picture was on the cover. She didn’t reall
 > Buy the sky and sell the sky  
 > And tell the sky, and tell the sky  
 > Don’t fall on me  
-> Fall on me
+> Fall on 
 
-Three years later and Mary had asked for a Walkman for her birthday and bought Life’s Rich Pageant on cassette. She listened to it nonstop. The tape grew worn and warped the sound so she saved up and bought another copy.
+---
+
+Three years later Mary had asked for a Walkman for her birthday and bought _Life’s Rich Pageant_ on cassette. She listened to it nonstop. The tape grew worn and warped the sound so she saved up and bought another copy.
 
 > Buy the sky and sell the sky  
 > And lift your arms up to the sky
 
-She was ten and Jonas had her playing Beethoven piano sonatas, and after her practice sessions, she would learn Cuyahoga by ear, belting out the chorus as loud as she could.
+She was ten and Jonas had her playing Beethoven piano sonatas, and after her practice sessions, she would learn _Cuyahoga_ by ear, belting out the chorus as loud as she could.
 
-She saved up some more and bought Reckoning and Fables of the Reconstruction. She drew the I.R.S. Man logo and Blu-tacked it to the wall in her bedroom. Her next tape purchase was Special Beat Service by the English Beat. She dyed her brown hair black and begged her mother for a pair of Dr. Martens. Her mother would not acquiesce. The hair was quite enough, her mother would say.
+She saved up some more and bought _Reckoning_ and _Fables of the Reconstruction_. She drew the I.R.S. Man logo and Blu-tacked it to the wall in her bedroom. Her next tape purchase was _Special Beat Service_ by the English Beat. She dyed her brown hair black and begged her mother for a pair of Dr. Martens. Her mother would not acquiesce. The hair was quite enough, her mother would say.
 
 “Can I see that?” Mary asked towards the end of one of her lessons as she pointed to the Fender Jazzmaster Bass on the wall.
 
@@ -64,21 +66,21 @@ She saved up some more and bought Reckoning and Fables of the Reconstruction. Sh
 > I am Superman  
 > And I can do anything
 
-Jonas pulled the bass from the wall, picked up a quarter-inch cable, plugged the cable into the guitar and a nearby amp, and flipped on the amp. It warmed up and hummed with potential energy. He slapped a string and a big tone came forth. He handed the instrument to Mary. It was the size of her torso. She rested it carefully on her leg and wrapped her arm around it. She held down a string and plucked. Then she played the bass line to Superman by ear. First slowly, then faster and with more confidence. Jonas stood, mouth agape.
+Jonas pulled the bass from the wall, picked up a quarter-inch cable, plugged the cable into the guitar and a nearby amp, and flipped on the amp. It warmed up and hummed with potential energy. He slapped a string and a big tone came forth. He handed the instrument to Mary. It was the size of her torso. She rested it carefully on her leg and wrapped her arm around it. She held down a string and plucked. Then she played the bass line to _Superman_ by ear. First slowly, then faster and with more confidence. Jonas stood, mouth agape.
 
-She sat there for a few seconds and then played Fall On Me. Then Cuyahoga. Then Save It for Later. Jonas continued in his speechlessness. She handed the bass back and he took it.
+She sat there for a few seconds and then played _Fall On Me_. Then _Cuyahoga_. Then _Save It for Later_. Jonas continued in his speechlessness. She handed the bass back and he took it.
 
 “Mary, that was amazing,” was all he could say.
 
 “Thanks,” was all she could say.
 
-When her mother came back to pick her up, Mary went straight to the car as she always did, but her mother stayed on the porch of the house talking with Jonas. Finally, she came back to the car, and after backing out of the driveway and getting down the street, said, “Jonas says you have a real talent for the bass guitar.”
+When her mother came back and knocked on the door, Mary went straight to the car as she always did, but her mother stayed on the porch of the house talking with Jonas. Finally, she came back to the car, and after backing out of the driveway and getting down the street, said, “Jonas says you have a real talent for the bass guitar.”
 
 “I guess,” said Mary.
 
 “Interesting,” said her mother.
 
-At her next practice, Jonas had Mary ran through her piano material very quickly, then instead of giving her more to work on he said, “I want you to play the bass again.”
+At her next practice, Jonas had Mary run through her piano material very quickly, then instead of giving her more to work on he said, “I want you to play the bass again.”
 
 “Ok,” she said. He pulled the same Fender Jazzmaster off the wall and handed it to her.
 
@@ -92,13 +94,13 @@ At her next practice, Jonas had Mary ran through her piano material very quickly
 
 “Yes, and the English Beat.”
 
-Mary proceeded to play Save It for Later, here and there adding flourishes to the steady bass line.
+Mary proceeded to play _Save It for Later_, here and there adding flourishes to the steady bass line.
 
 Jonas picked up an electric guitar and began strumming without even plugging into an amp. He had a giant smile on his face. It inspired a smirk from Mary.
 
-“I want to give you another record,” he said after they finished the tune. He walked behind the piano to a series of milk crates laying on the floor. He flicked through the records inside the first crate and pulled out This Year’s Model by Elvis Costello and the Attractions. He handed it to Mary triumphantly.
+“I want to give you another record,” he said after they finished the tune. He walked behind the piano to a series of milk crates laying on the floor. He flicked through the records inside the first crate and pulled out _This Year’s Model_ by Elvis Costello and the Attractions. He handed it to Mary triumphantly.
 
-“Next week, we’re going to play Pump It Up from this record, ok?”
+“Next week, we’re going to play _Pump It Up_ from this record, ok?”
 
 “Ok,” she replied with a small shrug. “What about my piano?”
 
@@ -106,9 +108,9 @@ Jonas picked up an electric guitar and began strumming without even plugging int
 
 ---
 
-The next week Mary played Pump It Up perfectly, as Jonas played guitar and sang. When she burst forth with the opening line, his insides flew. He smiled uncontrollably.
+The next week Mary played _Pump It Up_ perfectly, as Jonas played guitar and sang. When she burst forth with the opening line, his insides flew. He smiled uncontrollably.
 
-Jonas had a P.A. system set up in the house this time. “Let’s play Save It for Later again,” he suggested as he flipped it on. They broke into the tune and he did his best English accent singing.
+Jonas had a P.A. system set up in the house this time. “Let’s play _Save It for Later_ again,” he suggested as he flipped it on. They broke into the tune and he did his best English accent singing.
 
 “Ok, we’d better practice some piano now or your mother will kill me,” he said after they finished. For some reason Mary conjured a vision of her mom climbing out of the Cadillac sedan, brandishing a large pistol, taking aim at Jonas. It was comical and she laughed out loud just a little as she moved to the piano bench.
 
@@ -154,7 +156,7 @@ Her hands continued to disobey. They were rocks, ice cubes. She started to becom
 
 "Let's get through your piano music really quick and then practice those tunes again."
 
-When they had run through Mary's piano lesson material, Jonas broke out the guitar and bass and plugged them in. He counted off Pump It Up and they both played the song perfectly. Jonas smiled and when they had played the last note puzzled out loud, "I wonder what happened at Gilley's? You can play it perfectly here." Jonas thought silently for a moment. "I'm going to see if your mom will let you come to our next practice."
+When they had run through Mary's piano lesson material, Jonas broke out the guitar and bass and plugged them in. He counted off _Pump It Up_ and they both played the song perfectly. Jonas smiled and when they had played the last note puzzled out loud, "I wonder what happened at Gilley's? You can play it perfectly here." Jonas thought silently for a moment. "I'm going to see if your mom will let you come to our next practice."
 
 ---
 
@@ -162,15 +164,15 @@ When they had run through Mary's piano lesson material, Jonas broke out the guit
 
 His bandmate looked confused, shrugged, and put the cigarette out in the large glass ashtray on the floor. Jonas grabbed the ashtray and hid it on a ledge around the corner. Mary's mother didn't accompany her to the door, so the urgency was a little unnecessary, other than for not contributing to the delinquency of a minor.
 
-They started with Save It for Later and Mary played it perfectly. The three of them were so tight, it sounded like they'd played together for years. Jonas's bandmate looked at him in disbelief, and Jonas looked back at him as if to say, "I told you!"
+They started with _Save It for Later_ and Mary played it perfectly. The three of them were so tight, it sounded like they'd played together for years. Jonas's bandmate looked at him in disbelief, and Jonas looked back at him as if to say, "I told you!"
 
 "That was really good, Mary."
 
-They moved onto Pump It Up and it was the same. Both songs she had been completely unable to play at the gig, she now played not only correctly, but flawlessly, with feeling and a level of mastery with the instrument well beyond what could be possible at her age.
+They moved onto _Pump It Up_ and it was the same. Both songs she had been completely unable to play at the gig, she now played not only correctly, but flawlessly, with feeling and a level of mastery with the instrument well beyond what could be possible at her age.
 
-Jonas had an idea. "We're going to play a different tune now." He counted off (What's So Funny 'Bout) Peace, Love, and Understanding, and the three of them played it like they were in The Attractions. Jonas even sounded a lot like Elvis Costello.
+Jonas had an idea. "We're going to play a different tune now." He counted off _(What's So Funny 'Bout) Peace, Love, and Understanding_, and the three of them played it like they were in The Attractions. Jonas even sounded a lot like Elvis Costello.
 
-Next, they played Accidents Will Happen. Then Cruel to Be Kind by Nick Lowe. Burning Down the House and Once in a Lifetime by Talking Heads. Despite having seen this several times previously, Jonas was in complete shock. No matter what they threw at her, she played it perfectly the first time. His bandmate was more skeptical. “I want to try something,” he said, and stepped out from behind the keyboard, grabbing a tambourine. “Follow me. Bring the guitars.”
+Next, they played _Accidents Will Happen_. Then _Cruel to Be Kind_ by Nick Lowe. _Burning Down the House_ and _Once in a Lifetime_ by Talking Heads. Despite having seen this several times previously, Jonas was in complete shock. No matter what they threw at her, she played it perfectly the first time. His bandmate was more skeptical. “I want to try something,” he said, and stepped out from behind the keyboard, grabbing a tambourine. “Follow me. Bring the guitars.”
 
 He walked out the front door and Jonas and Mary looked at each other, shrugged like they were in a comedic sitcom, and followed. He started to tap out the eighth-note beat of Once in a Lifetime on the tambourine, announced which tune it was, and counted off. Jonas caught on immediately and started strumming the chords. Mary just stood there, the bass now hanging low from the thick strap. Jonas saw her sudden hesitation and started singing the vocal melody loudly.
 
@@ -229,9 +231,9 @@ Jonas had a degree in music and knew the tune and had played it a hundred times 
 
 “What do you want to play?”
 
-“Do you know Driver 8 by R.E.M?”
+“Do you know _Driver 8_ by R.E.M?”
 
-“We don’t, but we can figure it out really quick. I think I have the record.” He dug through his record crates and soon found Fables Of The Reconstruction, putting it on the turntable and setting the needle on track three. He turned the volume up and listened to the opening riff. “Oh, yes, I remember!” he exclaimed, grabbing the guitar back from his bandmate and playing along to the recording. He gave Mary a nod. She pounded the drums like some kind of combination of Bill Berry and Buddy Rich.
+“We don’t, but we can figure it out really quick. I think I have the record.” He dug through his record crates and soon found _Fables Of The Reconstruction_, putting it on the turntable and setting the needle on track three. He turned the volume up and listened to the opening riff. “Oh, yes, I remember!” he exclaimed, grabbing the guitar back from his bandmate and playing along to the recording. He gave Mary a nod. She pounded the drums like some kind of combination of Bill Berry and Buddy Rich.
 
 As they played along, Jonas’s bandmate shouted at him over the music, “She’s better at the drums than you are!”
 
@@ -239,7 +241,7 @@ As they played along, Jonas’s bandmate shouted at him over the music, “She�
 
 When they had finished, Jonas put his guitar down. “I have an idea.” He practically skipped down the hall, ducking into one of the rooms. He returned shortly with a sitar. “Try this!”
 
-He instructed Mary on how to sit and placed the instrument in front of her. He picked up an acoustic guitar and began playing Norwegian Wood. Her sitar technique was flawless.
+He instructed Mary on how to sit and placed the instrument in front of her. He picked up an acoustic guitar and began playing _Norwegian Wood_. Her sitar technique was flawless.
 
 “Dude, we still don’t know why this didn’t work for years with her piano lessons,” Jonas observed again.
 
@@ -265,7 +267,7 @@ Jonas had played classical duets with Mary before, but decided to humor his band
 
 “Ok, dude, what Sinatra do we know?”
 
-“Fly Me to the Moon?”
+“_Fly Me to the Moon?_”
 
 “Ok. Mary, you get back on bass--you haven’t missed yet on bass,” Jonas said and picked up a guitar as Dude scooted the keyboards back to where they would face Jonas.
 
@@ -288,7 +290,7 @@ About that time, Mary’s mom returned to pick her up from what she thought was 
 
 “Just tell her the truth, this house is haunted,” suggested Dude. He was entertaining himself nonstop at this point.
 
-Jonas walked with Mary out to the car. Her mom rolled down the window and Jonas leaned over to talk into the driver-side window. Mary’s mom looked at him with a look that for the first time made him think maybe there was more at work here than just Mary’s freak talent for new wave and rock.
+Jonas walked with Mary out to the car. Her mom rolled down the window and Jonas leaned over to talk into the driver-side window. Mary’s mom looked at him with a look that for the first time made him think maybe there was more at work here than just Mary’s freak talent for new wave and college rock.
 
 “Well, if she wants to keep practicing with us, we’d love to have her.”
 
@@ -306,7 +308,7 @@ Jonas walked back into the house. “Dude, I think Mary’s mom is into me.”
 
 ---
 
-Zombie by The Cranberries was playing loudly on the home stereo. Parents were gone for the weekend, so teenagers had gathered, and Mary’s best friend had dragged her there. They stood with red Solo cups in hand, some disgusting combination of fruit punch and rum swirling in them, and their heads in it.
+_Zombie_ by The Cranberries was playing loudly on the home stereo. Parents were gone for the weekend, so teenagers had gathered, and Mary’s best friend had dragged her there. They stood with red Solo cups in hand, some disgusting combination of fruit punch and rum swirling in them, and their heads in it.
 
 “My brother just walked in,” Mary’s friend said casually as she looked towards the front door. Said brother was older, in college, and was one of those cool, paternalistic older brothers. He wasn’t there to monitor or mock. He just happened to have some friends there, too. He spotted his sister and walked over.
 
@@ -355,7 +357,7 @@ Another tune was on by then.
 
 “What is this? What was he talking about? Dish now, or I’ll just find out from him later.”
 
-Mary sighed. She didn’t want to stroll down this particular memory lane, nor did she want to give too much detail about the how or why of those shows in that house. “Yeah, I played some house shows with some older guys when I was ten.”
+Mary sighed. She didn’t want to stroll down this particular memory lane, nor did she want to give too much detail about the how or why of the shows in that house. “Yeah, I played some house shows with some older guys when I was ten.”
 
 “What?!”
 
@@ -391,15 +393,15 @@ Funhouse of Music
 “I like it,” Mary said. Jonas just raised one eyebrow.
 When Mary returned for their first rehearsal Jonas immediately inquired about the records.
 
-“I liked them all,” she replied, “But I want to play these too,” and held out two tapes: The Police’s Ghost in the Machine and Friend Or Foe by Adam Ant.
+“I liked them all,” she replied, “But I want to play these too,” and held out two tapes: The Police’s _Ghost in the Machine_ and _Friend Or Foe_ by Adam Ant.
 
 “Which tracks?”
 
-“Goody Two Shoes...”
+“_Goody Two Shoes_...”
 
 “Of course,” he cut her off.
 
-“...and Every Little Thing She Does is Magic.”
+“...and _Every Little Thing She Does is Magic_.”
 
 “Naturally. Any more?”
 
@@ -437,9 +439,9 @@ At nine o’clock people were still arriving, but as soon as they got out of the
 
 People danced, they sang along, they patted Mary on the back, they held their hands up for high-fives, which Mary could connect with in-between notes. She started to lose herself in the music, her head bouncing to the beat while her hands danced across the fretboard of the Jazzmaster bass. The entire band was so in the zone that they forgot to switch up instruments. They just went from one song to the next.
 
-Close to ten, Joe pounded out the tom beat to Goody Two Shoes. Dude punched out the horn part on the keyboard. The gathered crowd began to jump up and down, and the old wood floor bounced. It was like the entire house moved to the groove. Walls swayed to and fro. The roof expanded with every punch from the keyboard-trumpet, now turned up as loud as it would go through the small P.A.
+Close to ten, Joe pounded out the tom beat to _Goody Two Shoes_. Dude punched out the horn part on the keyboard. The gathered crowd began to jump up and down, and the old wood floor bounced. It was like the entire house moved to the groove. Walls swayed to and fro. The roof expanded with every punch from the keyboard-trumpet, now turned up as loud as it would go through the small P.A.
 
-After the last note of Goody Two Shoes, Jonas immediately broke into Rock Lobster. The jumping only intensified. A woman Mary didn’t know rushed up to the microphone to sing backup. Her voice was incredible. Another joined. Her voice was not. But it didn’t matter. Soon the entire populace of the house was singing along. After they had played what felt like forever, Jonas started to crouch down and play more quietly. Joe, Dude, and Mary followed his lead. Jonas finally stopped playing and pulled the electric guitar off over his head. Dude and Joe continued to softly pound out the beat, and Mary did the same. Jonas pulled a metal hollow-body acoustic off the wall and rejoined his bandmates. They got louder and louder, and Jonas repeated the final verse to a crescendo. By the time he was shouting, “Here comes a bikini whale!” he was leading a procession out the door, all chanting “Rock lobster!” Joe picked his floor tom off the floor and just started pounding it, a few people behind Jonas.
+After the last note of _Goody Two Shoes_, Jonas immediately broke into _Rock Lobster_. The jumping only intensified. A woman Mary didn’t know rushed up to the microphone to sing backup. Her voice was incredible. Another joined. Her voice was not. But it didn’t matter. Soon the entire populace of the house was singing along. After they had played what felt like forever, Jonas started to crouch down and play more quietly. Joe, Dude, and Mary followed his lead. Jonas finally stopped playing and pulled the electric guitar off over his head. Dude and Joe continued to softly pound out the beat, and Mary did the same. Jonas pulled a metal hollow-body acoustic off the wall and rejoined his bandmates. They got louder and louder, and Jonas repeated the final verse to a crescendo. By the time he was shouting, “Here comes a bikini whale!” he was leading a procession out the door, all chanting “Rock lobster!” Joe picked his floor tom off the floor and just started pounding it, a few people behind Jonas.
 
 Mary’s euphoria was replaced by fear as she noticed the entire party was moving outdoors. Dude stopped playing and stepped around his keyboard. He grabbed a tambourine and a large gourd shaker. He smiled, handed the gourd to Mary, and started shaking the tambourine and following the crowd. Mary’s smile returned and she shook the gourd with exuberance.
 
@@ -479,9 +481,9 @@ The next house show was soon scheduled for the following month. Word had spread 
 
 That winter was the most magical of Mary’s life and would remain so for many years to come. The nights were cool, sometimes even cold, but the house remained a sauna on those house show nights. Mary would step outside during breaks and the cold air hitting her sweaty face intensified the sense of electricity in the air. Those first two shows led to four more, one every month on a random Friday night. Winter gave way to spring, and Mary would never forget which R.E.M. t-shirt she wore to that sixth show because it was the worst day of her life.
 
-The show went on as usual. They’d added some new material to their set. New songs they were getting into as well as crowd requests. A too-fast and energetic version of Shock the Monkey by Peter Gabriel; The Logical Song by Supertramp; Mr. Blue Sky by ELO; an entire mini-set of The Clash: London Calling, Rock the Casbah, and Should I Stay or Should I Go; another mini-set of Bowie: Young Americans, Let’s Dance, and Modern Love; My Sweet Lord by George Harrison, which Jonas saved for after Mary’s mom arrived one night and she seemed to appreciate it.
+The show went on as usual. They’d added some new material to their set. New songs they were getting into as well as crowd requests. A too-fast and energetic version of _Shock the Monkey_ by Peter Gabriel; _The Logical Song_ by Supertramp; _Mr. Blue Sky_ by ELO; an entire mini-set of The Clash: _London Calling_, _Rock the Casbah_, and _Should I Stay or Should I Go_; another mini-set of Bowie: _Young Americans_, _Let’s Dance_, and _Modern Love_; _My Sweet Lord_ by George Harrison, which Jonas saved for after Mary’s mom arrived one night and she seemed to appreciate it.
 
-That night they finished with Rock Lobster again. After the house had stopped shaking, a number of seconds after they’d played the final note, Jonas put his hand in the air and spoke into the microphone. “Hey, everybody, I have some sad news.” He paused while people quieted down. There were a number of concerned looks, including Mary’s, which was mixed with confusion.
+That night they finished with _Rock Lobster_ again. After the house had stopped shaking, a number of seconds after they’d played the final note, Jonas put his hand in the air and spoke into the microphone. “Hey, everybody, I have some sad news.” He paused while people quieted down. There were a number of concerned looks, including Mary’s, which was mixed with confusion.
 
 “Our landlord is kicking us out,” was met with some boos and a small chorus of “What?” 
 
@@ -505,12 +507,12 @@ Mary started to compose herself, motivated by a desire to not embarrass herself 
 
 “Sure.” The reply came with a smile. They both cared about this special girl.
 
-Mary went to the bathroom to blow her nose and splash some water on her face. When she walked back out into the main room, Jonas was holding the Jazzmaster out, and the crowd had parted, leaving a path to the piano bench. She took the bass, walked the bench, and sat, one leg over the other. Jonas fiddled with his mic stand for a second and looked at Mary. “Let’s go,” she said and smiled. He smiled back and said, “Don’t Let Me Down.” They’d never played many Beatles songs, and certainly not that one. Mary plucked a couple of notes, leaving out any she wasn’t sure of, and then felt that familiar force move through her arms and into her hands. 
+Mary went to the bathroom to blow her nose and splash some water on her face. When she walked back out into the main room, Jonas was holding the Jazzmaster out, and the crowd had parted, leaving a path to the piano bench. She took the bass, walked the bench, and sat, one leg over the other. Jonas fiddled with his mic stand for a second and looked at Mary. “Let’s go,” she said and smiled. He smiled back and said, “_Don’t Let Me Down_.” They’d never played many Beatles songs, and certainly not that one. Mary plucked a couple of notes, leaving out any she wasn’t sure of, and then felt that familiar force move through her arms and into her hands. 
 
-As promised, they played some quieter songs, some deeper cuts. They ended with (Don’t Go Back To) Rockville, not one of Mary’s favorite R.E.M. tracks but her favorite off of Reckoning. The entire room would sing the chorus, leaving the last line--”And waste another year”--to Jonas, after which he would fumble through the short guitar lead. He was good but not as good as Mary. At least not in that house.
+As promised, they played some quieter songs, some deeper cuts. They ended with _(Don’t Go Back To) Rockville_, not one of Mary’s favorite R.E.M. tracks but her favorite off of _Reckoning_. The entire room would sing the chorus, leaving the last line--”And waste another year”--to Jonas, after which he would fumble through the short guitar lead. He was good but not as good as Mary. At least not in that house.
 
-I know it might sound strange but I believe
-You'll be coming back before too long
+> I know it might sound strange but I believe  
+> You'll be coming back before too long
 
 Every few days for the next month, Mary would ride her bike over to the Funhouse of Music. It took her about half an hour on her old banana-seat cruiser. If it looked like Jonas was home, she’d knock on the door. A couple of times he was, and he and his roommate let Mary hang out while they hung out talking, slowly packed away their things, or leisurely jammed on guitars. It felt like they were the last few kids to be picked up from summer camp. Then one day the U-Haul was out front, and they were loading furniture and boxes into it. Jonas was busy but saw Mary sitting on her bicycle out in the street and waved. She waved back, then turned the bicycle and rode away.
 

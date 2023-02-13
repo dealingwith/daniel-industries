@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-17 22:03:00'
 layout: post
 slug: penn-and-papa-bears-house
-status: publish
 title: Penn and Papa Bear's house
-wordpress_id: '2596'
 categories:
  - attention
  - imagining
@@ -18,9 +15,7 @@ categories:
 
 Originally uploaded by [carissabyers][4]
 
-I don't often get to blog about the important stuff. It's hard to put words
-around the important stuff in the time alloted for a blog post.
-
+I don't often get to blog about the important stuff. It's hard to put words around the important stuff in the time alloted for a blog post.
 
 But to say: modern architecture on cliffs in California is important stuff.
 
@@ -31,4 +26,3 @@ But to say: modern architecture on cliffs in California is important stuff.
    [3]: http://www.flickr.com/photos/carissabyers/2421543282/
 
    [4]: http://www.flickr.com/people/carissabyers/
-

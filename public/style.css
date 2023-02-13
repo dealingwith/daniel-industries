@@ -39,7 +39,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--serif);
   letter-spacing: 0.03rem;
-  line-height: initial;
+  /* line-height: initial; */
   margin: 0 10px 1.1rem 0;
   padding: 10px 10px 0 0;
 }
@@ -107,8 +107,8 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   border-width: 0 1px;
   margin: 0 auto;
   min-height: 100vh;
-  padding: 2rem;
-  width: 600px;
+  padding: 3rem;
+  width: 650px;
 }
 @media screen and (max-width: 600px) {
   .main-content {
@@ -130,7 +130,7 @@ hr {
 
 ul, ol {
   margin-bottom: 1rem;
-  padding-left: 1.1rem;
+  padding-left: 0;
 }
 li {
   margin-bottom: 0.5rem;
@@ -147,6 +147,7 @@ li > ul, li > ol {
 
 .post-metadata {
   color: var(--grey);
+  font-size: 0.9rem;
   line-height: 1rem;
   margin-top: -0.8rem;
 }
@@ -155,6 +156,10 @@ header a, .post-metadata a {
   border: none;
   color: inherit;
   text-decoration: none;
+}
+
+.post-metadata a:hover {
+  background-color: var(--pink);
 }
 
 blockquote {
@@ -203,7 +208,6 @@ pre {
   padding: 10px 10px 0;
 }
 .item .post-metadata {
-  font-size: 0.8rem;
   margin-top: 0px;
 }
 .writing-index-title a {
@@ -252,20 +256,17 @@ pre {
   padding: 0;
 }
 .menu ul li {
-  display: inline;
+  display: block;
   list-style: none;
   margin: 0;
-}
-.index .menu li {
-  display: block;
   text-align: left;
 }
 .menu .only-index {
   display: none;
 }
-.index .menu .only-index {
+/* .index .menu .only-index {
   display: block;
-}
+} */
 .menu a {
   border-bottom: 0px;
 }
@@ -282,6 +283,12 @@ pre {
 .footer {
   font-size: 0.8rem;
   text-align: right;
+}
+
+.blog_nav p {
+  line-height: 1.4rem;
+  margin-top: 0;
+  width: 50%;
 }
 
 table {
