@@ -3,18 +3,14 @@ layout: post
 title: 'notes on integration research informational flash movies'
 categories:
  - minutia
+ - Integration Research
 ---
-
 
 Need to jot this down and no better place than here (unfortunately, really):
 
-
-
 3 movies.
 
-
-
-1. intro to the problem
+**intro to the problem**
 
 music: polyphonic spree? (find out how much)
 
@@ -28,10 +24,6 @@ figure gets to the top, start with salaries/positions of top artists and industr
 
 ...maybe two threads to this movie, that one would have been from the artist's perspective...maybe another from the consumer's perspective...then bring them together at the end...allow user choice at beggining as to which to watch first...oooo
 
+**the one i wrote, steve, jonny, and joel about.** based on slides.
 
-
-2. the one i wrote, steve, jonny, and joel about. based on slides.
-
-
-
-3. need to find notes for this one...written down on plane back from dallas, somewhere...
+**need to find notes for this one**...written down on plane back from dallas, somewhere...
