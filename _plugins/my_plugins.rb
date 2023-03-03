@@ -1,18 +1,19 @@
-require "titleize"
-
-Jekyll::Hooks.register :posts, :pre_render do |post|
-  post.data["title"].titleize!
+def titleize(string)
+  nocap = ['a', 'an', 'the', 'and', 'as', 'if', 'at', 'but', 'by', 'for', 'from', 'in', 'into', 'like', 'near', 'now', 'that', 'nor', 'of', 'off', 'on', 'once', 'onto', 'or', 'over', 'past', 'so', 'than', 'till', 'to', 'up', 'upon', 'with', 'when', 'yet']
+  
+  array = string.split(" ").map do |word|
+    if (word != word.upcase && (word == string.split(" ").first || !nocap.include?(word)))
+      word.capitalize
+    else
+      word
+    end
+  end
+  array.join(" ")
 end
 
-# Jekyll::Hooks.register :posts, :pre_render do |post|
-#   post.data["related_posts"] ||= []
-#   site = @context.registers[:site]
-#   site.posts.each do |p|
-#     if p.content =~ /#{page.url}/i
-#       post.data["related_posts"] << p
-#     end
-#   end
-# end
+Jekyll::Hooks.register :posts, :pre_render do |post|
+  post.data["title"] = titleize(post.data["title"])
+end
 
 module Jekyll
   module Backlinks
@@ -21,7 +22,7 @@ module Jekyll
       site = @context.registers[:site]
       site.posts.docs.each do |post|
         if post&.content&.include? input
-          backlinks << "<a href=\"#{post.url}\">#{post.data['title'].titleize!}</a>"
+          backlinks << "<a href=\"#{post.url}\">#{titleize(post.data['title'])}</a>"
         end
       end
       if (backlinks.length > 0)

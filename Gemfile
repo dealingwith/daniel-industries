@@ -2,7 +2,6 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "titleize"
 gem "stringex"
 gem "rake"
 gem "match_regex"

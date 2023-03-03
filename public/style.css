@@ -261,6 +261,9 @@ pre {
 .menu .only-index {
   display: none;
 }
+.index .menu ul li{
+  display: block;
+}
 .index .menu .only-index {
   display: block;
 }
