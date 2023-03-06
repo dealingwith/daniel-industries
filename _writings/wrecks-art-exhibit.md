@@ -41,7 +41,7 @@ excerpt: ...what is the deal with art? Why does it elicit such strong opinion, p
 
 <small style="font-style: italic">Here's another one from The Guardian, which I will not include here because it is the same content, but again will commend the Guardian for keeping alive for this long: <a href="https://www.theguardian.com/world/2004/jan/18/israel.artsnews">Ambassador, you're really spoiling our party</a>.</small>
 
-<small style="font-style: italic">Here is the third major outlet that covered the event, the New York Times, now behind a paywal: <a href="https://www.nytimes.com/2004/01/18/world/israel-diplomat-defends-attack-on-bomber-art-in-stockholm.html">Israel Diplomat Defends Attack On Bomber Art In Stockholm</a></small>
+<small style="font-style: italic">Here is the third major outlet that covered the event, the New York Times, now behind a paywal: <a href="https://www.nytimes.com/2004/01/18/world/israel-diplomat-defends-attack-on-bomber-art-in-stockholm.html">Israel Diplomat Defends Attack On Bomber Art In Stockholm</a>.</small>
 
 ---
 

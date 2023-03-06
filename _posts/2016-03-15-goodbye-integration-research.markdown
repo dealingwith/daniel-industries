@@ -30,7 +30,7 @@ As for the "creation and dissemination" aspects of our activities, the market ha
 
 ---
 
-I still feel like IR could have been a longer-lasting enterprise had I remained focused on it (as opposed to also starting an art gallery and a web design shop), not been in the throes of divorce and not bothered with the nonprofit aspect of it. It was a very different time and there was no startup ecosystem in Dallas. Even the [valley](https://en.wikipedia.org/wiki/Silicon_Valley) was relatively quiet then, licking its wounds from the [dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) collapse and leaving the interesting startup work to [the Canadians](https://en.wikipedia.org/wiki/Ludicorp).
+I still feel like IR could have been a longer-lasting enterprise had I remained focused on it (as opposed to also starting an art gallery and a web design shop), not been in the throes of divorce, and not bothered with the nonprofit aspect of it. It was a very different time and there was no startup ecosystem in Dallas. Even the [valley](https://en.wikipedia.org/wiki/Silicon_Valley) was relatively quiet then, licking its wounds from the [dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) collapse and leaving the interesting startup work to [the Canadians](https://en.wikipedia.org/wiki/Ludicorp).
 
 ---
 
