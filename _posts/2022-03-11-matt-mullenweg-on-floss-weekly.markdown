@@ -15,6 +15,5 @@ categories:
 I was active in the blogging and CMS world when Matt Mullenweg [forked b2 and created WordPress](https://en.wikipedia.org/wiki/WordPress#History). In fact, [I was developing my own blogging/CMS software at the time](/2017/12/26/swim-stock-take-part-2/). So it's been with great interest and a bit of jealously that I've watched Matt become successful, famous, and weathly. I'm old enough now to be fairly philisophical about it, I'm well aware of my own shortcomings and past missteps. But I still find a few things interesting.
 
 * Matt is clearly an intelligent, kind, and well-spoken human, as evidenced in this podcast episode.
-* WordPress' acquisition of various "old" tech and what that indicates about Matt's ethos and busines strategy.
+* WordPress' acquisition of various "old" tech and what that indicates about Matt's ethos and business strategy.
 * I've tried to use WordPress a number of times over the years, including since they introduced their new editor _Gutenberg_. I've never found it particularly intuitive or easy to set up or use, and that is despite my web host having a turn-key WordPress installation solution.
-

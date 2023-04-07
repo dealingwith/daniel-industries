@@ -12,6 +12,6 @@ categories:
 
 > I don’t want to give away the plot at all, but to tug your appetite I’ll just say this: one kid talks to his dead brother in ActionScript. More to come.
 
-I'm reading *_why's poignant guide*. The first time I didn't pay much attention if I'm being honest. Because I'm a contrarian and never timing things correctly when Ruby was all the rage I was deep into Javascript. Now that Javascript is all the rage, I'm deep into Ruby.
+I'm reading *_why's poignant guide*. The first time I didn't pay much attention, if I'm being honest. Because I'm a contrarian and never time things correctly, when Ruby was all the rage I was deep into Javascript. Now that Javascript is all the rage, I'm deep into Ruby.
 
 Anyway, I was most certainly alive and deep into the web when Flash and ActionScript were things of significance. So the above bit made me chuckle. And nostalgic. 
