@@ -5,26 +5,32 @@ layout: post
 slug: links-mp3s-of-the-day
 status: publish
 title: links + mp3s of the day
-wordpress_id: '2153'
 categories:
  - meh
  - mp3 of the day
 ---
 
-[A Softer World][1] [Overheard][2]
+> More than your smiling face and genial manner; more than your opinions and sometimes witty observations; more then even your adequate lawn care skills--she needs you so she can reject you. If she had no one close to her to shut down and ignore at crucial moments, or whenever the mood strikes her, she'ld be lost.
 
-[Salim Nourallah - The Ones Who Hurt Us][3] [Greg Laswell - Worthwhile][4]
-[Greg Laswell - High and Low][5] [Greg Laswell - Same As You][6]
+> I'm her antipode?
 
-   [1]: http://www.asofterworld.com/soft_may11_2007.htm
+> 'You don't know what you're talking about.' ... She may not know what's going on, but once you put your two cents in, she's at least sure it can't be that.
+
+> Love is strange.
+
+-- [Overheard Starbuck][2]
+
+---
+
+[A Softer World][1]
+
+---
+
+Salim Nourallah - _The Ones Who Hurt Us_ 
+Greg Laswell - _Worthwhile_
+Greg Laswell - _High and Low_
+Greg Laswell - _Same As You_
+
+   [1]: http://www.asofterworld.com/
 
    [2]: http://overheardstarbuck.blogspot.com/2007/05/more-than-your-smiling-face-and-genial.html
-
-   [3]: http://daniel.iaspiretonothing.com/blog/files/2007/05/Salim%20Nourallah%20-%20Polaroid%20-%208%20-%20The%20Ones%20Who%20Hurt%20Us.mp3
-
-   [4]: http://daniel.iaspiretonothing.com/blog/files/2007/05/Greg%20Laswell%20-%20Through%20Toledo%20-%203%20-%20Worthwhile.mp3
-
-   [5]: http://daniel.iaspiretonothing.com/blog/files/2007/05/Greg%20Laswell%20-%20Through%20Toledo%20-%205%20-%20High%20And%20Low.mp3
-
-   [6]: http://daniel.iaspiretonothing.com/blog/files/2007/05/Greg%20Laswell%20-%20Through%20Toledo%20-%206%20-%20Same%20As%20You.mp3
-

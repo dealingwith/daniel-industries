@@ -6,6 +6,6 @@ comments: true
 categories: [social, video]
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/mhPjrlPOTG8?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/mhPjrlPOTG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 It's not a big secret that I'm a huge Jonathan Harris fanboy. This video is pretty spot-on.

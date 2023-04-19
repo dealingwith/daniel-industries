@@ -5,7 +5,6 @@ layout: post
 slug: feltron
 status: publish
 title: feltron
-wordpress_id: '1946'
 categories:
  - art
  - brilliant
@@ -20,11 +19,8 @@ categories:
  - Integration Research
 ---
 
-[feltron vii][1], [espesh][2] [via][3]
+[feltron][1], [via][2]
 
-   [1]: http://www.feltron.com/index.html
+   [1]: http://www.feltron.com/
 
-   [2]: http://www.feltron.com/06report_index.html
-
-   [3]: http://www.subtraction.com/archives/2007/0119_optimizing_f.php
-
+   [2]: https://www.subtraction.com/2008/01/17/feltron-2007/
