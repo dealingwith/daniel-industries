@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://sonewmedia.com/catalog/index.pl/productDetail?product=2002_sfstories">So New Media: Books By Web Writers</a> San Francisco Stories by Derek M. Powazek
-
