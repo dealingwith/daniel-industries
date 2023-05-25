@@ -10,7 +10,7 @@
       <p class="post-metadata">{{ page.pubdate }} / {{ page.content | number_of_words }} words</p>
     {% endif %}
     <article>
-      {{ content | markdownify }}
+      {{ content }}
     </article>
   </div>
   {% include menu.html %}
