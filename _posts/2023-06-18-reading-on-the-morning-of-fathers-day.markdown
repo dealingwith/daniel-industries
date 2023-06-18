@@ -21,12 +21,6 @@ It’s Father’s Day. I’m up before everyone else, of course. Except Milo. Mi
 
 I'd already [tooted about](https://indieweb.social/@dealingwith/110545033889502925/) Joey Comoeau when one of his Patreon posts landed in my inbox and floored me.
 
-> Joey Comeau.  
-> Remember asofterworld.com?  
-> For $1, I'm getting multiple small exquisitely written windows into the beautiful mess of humanity.  
-> [patreon.com/joeycomeau](https://patreon.com/joeycomeau)  
-> Their books are also so good.
-
 Then I opened _The Dryad's Crown_ by [David Hopkins](https://thatdavidhopkins.com/), the advanced copy of the finished novel I was able to request as a member of his [Patreon](https://www.patreon.com/davidhopkins/posts), and maybe because I'm a friend. David is the reason I'm in Dallas. He edited a small online alternative Christian publication and published some of my work there. Through that, I met some other Christian refugees in the Dallas area and I caught a plane here shortly before leaving for Bosnia. We went to [Lower Greenville](https://en.wikipedia.org/wiki/Lower_Greenville%2C_Dallas) and ate and drank together, and I bummed Camel cigarettes from David's wife Melissa. They've been divorced for a long time now, their daughter must be an adult now, she's Penn's age or maybe a little bit older. David is remarried and has another daughter, Lucy's age. I don't know what Melissa is up to.
 
 ![](/assets/2023/06/DSCN0628.JPG)
@@ -39,7 +33,7 @@ I took this photo, too. Melissa was a photographer and worked in a photography s
 
 The fact that these photos are so blurry places them in that time before digital photography became actually tenable. A time so brief that it doesn't register as an era that can be identified. They don't feel retro, like a Polaroid or a slide or a black-and-white print, they're just blurry.
 
-I've already read about the first half of _The Dryad's Crown_ when David released it in small novella-sized pieces. I'd bought them all but hadn't ~~found~~ made the time to read the last few. Now I have the entire novel in its entirety and as I started back at the beginning just now it was familiar but I've forgotten the important parts and so it's familiar yet new, by which I mean nearly perfect for my old brain.
+I'd already read about the first half of _The Dryad's Crown_ when David released it in small novella-sized pieces. I'd bought them all but hadn't ~~found~~ made the time to read the last few. Now I have the novel in its entirety and as I started back at the beginning just now it was familiar but I've forgotten the important parts and so it's familiar yet new, by which I mean nearly perfect for my old brain.
 
 David's way with words and with storytelling is subtly exquisite. He slips exposition and details of his worlds into half of a sentence in a fight scene. Gender and sexuality in _The Dryad's Crown_ are fluid and natural in a way I wish our own world could grasp. I'm re-reading the introduction of one of the main antagonists in the story, and he writes her so that you immediately like her. She's not an antagonist yet, but I'm already a little bit afraid of her.
 
@@ -47,7 +41,7 @@ I put on headphones and alt-tabbed over to Spotify. Last night the children want
 
 I want to write more but to write more I have to read more, and my reading habit decayed throughout 2022 until it has been nearly nonexistent in 2023. I read some of _Daily Rituals: How Artists Work_. I've borrowed it two or three times from the library, reading through a couple of its short chapters during breaks at work. I started a lot of books that sit in my Notion "Reading List" database under the "Started" column, little reminders that I either can't or won't make time for this important activity. There are 15 items in that column.
 
-I did listen to the audiobook of _Surrender_ by Bono. It was good. There was a section devoted to his collaboration with Bill Carter, which reminded me of my brief interaction with Bill before moving to Sarajevo. I went back and read the few blog posts I'd written about that, reminded me of [how it came to be](/2008/08/12/bill-carter-introduced-me/). Reminding me of meeting musicians in Sarajevo, musicians who survived the siege. There is a new documentary out about all of that, and Bill is involved. It's a new version of _Miss Sarajevo_, but produced by Matt Damon and directed by someone else. It's only out in the festival circuit. I watched [the trailer on YouTube](https://youtu.be/rYXhA6AtXrM). My friend from the rock club, the one Bill introduced me to, shows up in the trailer for a split second. I wonder if he's still alive. I can't remember his name.
+I did listen to the audiobook of _Surrender_ by Bono. It was good. There was a section devoted to his collaboration with Bill Carter, which reminded me of my brief interaction with Bill before moving to Sarajevo. I went back and read the few blog posts I'd written about that, reminding me of [how it came to be](/2008/08/12/bill-carter-introduced-me/). Reminding me of meeting musicians in Sarajevo, musicians who survived the siege. There is a new documentary out about all of that, and Bill is involved. It's a new version of _Miss Sarajevo_, but produced by Matt Damon and directed by someone else. It's only out in the festival circuit. I watched [the trailer on YouTube](https://youtu.be/rYXhA6AtXrM). My friend from the rock club, the one Bill introduced me to, shows up in the trailer for a split second. I wonder if he's still alive. I can't remember his name.
 
 I finished _Walkaway_ by Cory Doctorow. It's excellent, if a bit slow now and again. I intended to write an entire blog post about it. That was months ago.
 
