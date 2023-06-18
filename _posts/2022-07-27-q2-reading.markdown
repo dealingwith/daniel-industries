@@ -4,6 +4,7 @@ title: "Q2 Reading"
 excerpt: 
 date: 2022-07-27 22:13:53 -0500
 categories: 
+ - reading
 ---
 
 **Books I've read, listened to on audiobook, or started in Q2, with very short reviews**

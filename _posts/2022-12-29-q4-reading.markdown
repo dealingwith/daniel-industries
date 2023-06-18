@@ -4,6 +4,7 @@ title: "Q4 Reading"
 excerpt:
 date: 2022-12-29 09:04:58 -0600
 categories:
+ - reading
 ---
 
 **Q4 Books**

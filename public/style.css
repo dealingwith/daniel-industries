@@ -92,6 +92,9 @@ a.dead {
 a.dead:hover {
   background-color: var(--grey);
 }
+del {
+  color: var(--grey);
+}
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   border: none;
   color: var(--text);
