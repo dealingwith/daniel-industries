@@ -35,7 +35,7 @@ The fact that these photos are so blurry places them in that time before digital
 
 I'd already read about the first half of _The Dryad's Crown_ when David released it in small novella-sized pieces. I'd bought them all but hadn't ~~found~~ made the time to read the last few. Now I have the novel in its entirety and as I started back at the beginning just now it was familiar but I've forgotten the important parts and so it's familiar yet new, by which I mean nearly perfect for my old brain.
 
-David's way with words and with storytelling is subtly exquisite. He slips exposition and details of his worlds into half of a sentence in a fight scene. Gender and sexuality in _The Dryad's Crown_ are fluid and natural in a way I wish our own world could grasp. I'm re-reading the introduction of one of the main antagonists in the story, and he writes her so that you immediately like her. She's not an antagonist yet, but I'm already a little bit afraid of her.
+David's way with words and storytelling is subtly exquisite. He slips exposition and details of his worlds into half of a sentence in a fight scene. Gender and sexuality in _The Dryad's Crown_ are fluid and natural in a way I wish our own world could grasp. I'm re-reading the introduction of one of the main antagonists in the story, and he writes her so that you immediately like her. She's not an antagonist yet, but I'm already a little bit afraid of her.
 
 I put on headphones and alt-tabbed over to Spotify. Last night the children wanted to night swim and so the last thing I had searched for was _Nightswimming_ by REM. I noticed Soccer Mommy also had a song titled "night swimming" on her excellent _color theory_ record, so I put the whole record on.
 
