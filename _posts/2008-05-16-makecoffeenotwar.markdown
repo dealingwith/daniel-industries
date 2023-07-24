@@ -8,7 +8,7 @@ categories:
  - imagining
 ---
 
-![](/assets/2008/05/MAKECOFFEENOTWAR.jpg)
+![]({{site.url}}/assets/2008/05/MAKECOFFEENOTWAR.jpg)
 
 [From weapons of war to great coffee][5]
 

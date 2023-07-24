@@ -3,6 +3,6 @@ layout: post
 title: "New Day"
 ---
 
-Yesterday improved. My meeting went really well and then I took the opportunity to visit my new friend Gerhard in [Roanoke](http://maps.google.com/maps?q=Roanoke,+tx). Gerhard is the person I vaguely mentioned [in the footnote of this post](/2011/08/03/get-over-yourself/) and the story is long and important and I don't want to do it injustice so I'm not going to attempt to tell it right now. 
+Yesterday improved. My meeting went really well and then I took the opportunity to visit my new friend Gerhard in [Roanoke](http://maps.google.com/maps?q=Roanoke,+tx). Gerhard is the person I vaguely mentioned [in the footnote of this post]({{site.url}}/2011/08/03/get-over-yourself/) and the story is long and important and I don't want to do it injustice so I'm not going to attempt to tell it right now. 
 
 Had a cigar, talked about life, ate too much, drank delicious German beer. Soul restorage. 

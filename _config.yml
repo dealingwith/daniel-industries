@@ -4,17 +4,17 @@ permalink:           /:year/:month/:day/:title/
 # permalink: pretty
 
 # Setup
-title:               daniel.industries
+title:               "daniel.industries"
 tagline:             "seeking, stories, beauty, meaning"
-url:                 https://daniel.industries/
+url:                 "https://daniel.industries"
 baseurl:             ""
 exclude:             []
 
 # About/contact
 author:
-  name:              Daniel Miller
-  url:               http://daniel.industries
-  email:             dealingwith@gmail.com
+  name:              "Daniel Miller"
+  url:               "http://daniel.industries"
+  email:             "dealingwith@gmail.com"
 
 plugins:
   - match_regex

@@ -6,9 +6,9 @@ date: 2020-10-06 17:42:10 -0500
 categories: 
 ---
 
-![](/assets/2020/10/657466.jpg)
+![]({{site.url}}/assets/2020/10/657466.jpg)
 
-![](/assets/2020/10/2020-10-06-18-04-14.png)
+![]({{site.url}}/assets/2020/10/2020-10-06-18-04-14.png)
 
 > They are, of course, the opening words in Tim Krabbé’s _The Rider_, the cycling memoir masquerading as novel, originally published in the Netherlands in 1978. They perfectly set the tone for the book itself: laconic, filled with diary-like, banal observations, but then subtly exploding into terse kernels of truth, pathos, and caustic humor.
 

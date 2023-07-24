@@ -9,7 +9,7 @@ categories:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3029524987/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2434452066/transparent=true/" seamless><a href="http://ibuiltthesky.bandcamp.com/album/the-sky-is-not-the-limit-2">The Sky Is Not The Limit by I Built The Sky</a></iframe>
 
-[I Built the Sky](https://www.ibuiltthesky.com/) reminds me of a heavier Covet, [who I mentioned last year](/2019/02/04/covet/). They're from Australia. The track above from not their newest record is the one I'm totally obsessed with at the moment. The drums sound fantastic and as a drummer first (songwriter second), I enjoy music where the drums can be in service of the music but still shred.
+[I Built the Sky](https://www.ibuiltthesky.com/) reminds me of a heavier Covet, [who I mentioned last year]({{site.url}}/2019/02/04/covet/). They're from Australia. The track above from not their newest record is the one I'm totally obsessed with at the moment. The drums sound fantastic and as a drummer first (songwriter second), I enjoy music where the drums can be in service of the music but still shred.
 
 Here is a big rock video from them:
 

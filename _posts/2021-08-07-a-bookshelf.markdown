@@ -6,7 +6,7 @@ date: 2021-08-07 08:57:25 GMT-5
 categories: 
 ---
 
-![](/assets/2021/08/bookshelf.jpg)
+![]({{site.url}}/assets/2021/08/bookshelf.jpg)
 
 Moving was a chance to cull and consolidate my physical library. This is it in its entirety now. I probably got rid of 25% of what I had. I did no organization. Just getting stuff out of boxes and into places they can belong for now.
 

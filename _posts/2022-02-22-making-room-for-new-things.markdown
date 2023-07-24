@@ -10,4 +10,4 @@ categories:
 
 A great, short post by John Cutler. He introduces a new (at least to me) matrix not unlike the Eisenhower matrix...but fails to have an illustration of it in its entirety, so I created this one for my future reference:
 
-![](/assets/2022/02/Making Room For New Things.png)
+![]({{site.url}}/assets/2022/02/Making Room For New Things.png)

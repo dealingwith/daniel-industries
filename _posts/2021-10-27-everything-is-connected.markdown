@@ -28,7 +28,7 @@ Or her *[Hello from down here](https://haleynahman.substack.com/p/67-hello-from-
 
 > There are so many traceable examples of this failure in modern society that are compelling to think about, but I’ve been mulling over where this fail pattern shows up for us as individuals who seek out order as a means to improve ourselves and our lives. Game plans, bullet journals, healthy habits, 10-step programs, pedometers, morning routines, diets, perfectly blocked-out calendars. It’s not that these tools never work; it’s that their primary role is to ease our discomfort with the unavoidable entropy of existence, rather than address the entropy itself.
 
-It's all going somewhere, although I'm not sure I'll be able to put it into words I'm happy with...the above relates to the [illegibility](/2021/09/24/lower-your-standards/) that Venkatesh Rao was referring to (I'm pleased to have that new word to describe this state of being). We're looking for solutions to age-old problems and continue to hold out hope that someone will construct some tooling or system that solves for them.
+It's all going somewhere, although I'm not sure I'll be able to put it into words I'm happy with...the above relates to the [illegibility]({{site.url}}/2021/09/24/lower-your-standards/) that Venkatesh Rao was referring to (I'm pleased to have that new word to describe this state of being). We're looking for solutions to age-old problems and continue to hold out hope that someone will construct some tooling or system that solves for them.
 
 ---
 

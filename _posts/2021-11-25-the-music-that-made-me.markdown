@@ -11,7 +11,7 @@ In which I attempt to distill the music of my most formative years down to five 
 
 **Phil Collins, _Hello I Must Be Going_**
 
-![](/assets/2021/11/phil.jpg)
+![]({{site.url}}/assets/2021/11/phil.jpg)
 
 _Hello I Must Be Going_ was not my first Phil Collins record (and in the mid-80's records were "tapes"), however, one of my first tapes was a Phil Collins record: his third, _No Jacket Required_ (which does contain a couple of my favorite tracks of all time, _Take Me Home_ and _Inside Out_).
 
@@ -25,7 +25,7 @@ I would later get into more Genesis, Brand X, and other projects involving Chest
 
 **Rush, _Exit...Stage Left_**
 
-![](/assets/2021/11/exitstageleft.jpg)
+![]({{site.url}}/assets/2021/11/exitstageleft.jpg)
 
 You can't be a drummer and not like Rush. I should rephrase: I'm sure there are drummers out there who don't like Rush, I just haven't met any yet. 
 
@@ -43,7 +43,7 @@ Musically Rush is divisive, but no one can deny that they were one of the most t
 
 **The Choir, _Circle Slide_**
 
-![](/assets/2021/11/choir.jpg)
+![]({{site.url}}/assets/2021/11/choir.jpg)
 
 > _Circle Slide_ is the sixth studio album from Christian alternative rock band The Choir, released in 1990.
 
@@ -63,7 +63,7 @@ The final track, _Restore My Soul_, bookends the record perfectly. Again with th
 
 **Sting, _The Soul Cages_**
 
-![](/assets/2021/11/soul-cages.jpg)
+![]({{site.url}}/assets/2021/11/soul-cages.jpg)
 
 I hesitated to include this one, as Sting is even more divisive than Phil Collins or Rush, and I became disinterested in his music after _Brand New Day_ (and even that's a stretch). But recently watching [Rick Beato's interview with Sting](https://www.youtube.com/watch?v=efRQh2vspVc), in which Sting _and_ Dominic Miller name _Soul Cages_ as their favorite of his catalog, I feel like this deserves its place on this list.
 
@@ -73,7 +73,7 @@ This is Hugh Padgham's second appearance as producer in this short list.
 
 **Henryk Górecki, _Symphony No. 3_**
 
-![](/assets/2021/11/gorecki.jpg)
+![]({{site.url}}/assets/2021/11/gorecki.jpg)
 
 > The Symphony No. 3, Op. 36, also known as the Symphony of Sorrowful Songs (Polish: Symfonia pieśni żałosnych), is a symphony in three movements composed by Henryk Górecki in Katowice, Poland, between October and December 1976. -- [wikipedia](https://en.wikipedia.org/wiki/Symphony_No._3_(G%C3%B3recki))
 

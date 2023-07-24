@@ -62,4 +62,4 @@ Lastly, [Illusion Of Control](http://www.recoveringleadership.com/?p=1016) by my
 
 As a postscript, I'll end with this [Poorly Drawn Lines](http://www.poorlydrawnlines.com/) cartoon.
 
-![](/assets/2020/03/pdl.png)
+![]({{site.url}}/assets/2020/03/pdl.png)

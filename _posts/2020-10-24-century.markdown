@@ -6,7 +6,7 @@ date: 2020-10-24 23:39:25 -0500
 categories: 
 ---
 
-[![](/assets/2020/10/strava8614156335213838786.jpg)](https://www.strava.com/activities/4238673542)
+[![]({{site.url}}/assets/2020/10/strava8614156335213838786.jpg)](https://www.strava.com/activities/4238673542)
 
 When the pandemic hit our shores and my employer, like many, sent us all home to work, I started riding more. I normally do ride more in the summer after the kids are out of school, but with the kids home from school as well, the earlier-in-the-year-than-normal schedule change opened up a lot more riding opportunities. I think I've ridden more in 2020 than I have since Milo was born.
 

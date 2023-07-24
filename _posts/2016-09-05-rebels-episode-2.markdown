@@ -41,7 +41,7 @@ It used to be that the things we wrote in journals, the photographs we took, the
 
 The term _oblique_ I am borrowing directly from Brian Eno and Peter Schmidt's [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies), a card set where "each card offers a challenging constraint intended to help artists break creative blocks by encouraging lateral thinking." The same could be said for any activity that allows the brain to think about the things around it in a different way than it is normally accustomed. If you are a coder, pick up an artistic hobby. If you are an artist, start coding. Play obscure games like [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress) or even less obscure games like Minecraft or chess. If you write non-fiction, write a role-playing game or [nonlinear fiction](https://en.wikipedia.org/wiki/Nonlinear_narrative). If you play in a punk band, score a science fiction film. If you are an entrepreneur, volunteer. If you're an athiest, go to church. If you're of a certain faith, read some books by athiest intellectuals. 
 
-![](/assets/2016/09/oblique.png)
+![]({{site.url}}/assets/2016/09/oblique.png)
 
 This will also give you something to blog about.
 

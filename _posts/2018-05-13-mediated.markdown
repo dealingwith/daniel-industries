@@ -41,13 +41,13 @@ Because if we're creators at our core, what does that mean for our technologies,
 
 Because it is hard to know sometimes which tech is bringing us together and which is really separating us...
 
-[The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy](/2010/11/29/connected/)
+[The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy]({{site.url}}/2010/11/29/connected/)
 
 > As discourteous as people can be, the machines are worse, they are just too dumb to understand. In a previous age the machines didn’t talk. Now they chatter on like children unaware of their words.
 
 And perhaps one of these technological "revolutions" will announce the second coming...
 
-[The Antipocalypse](/assets/page/writing/The-Antipocalypse.pdf)
+[The Antipocalypse]({{site.url}}/assets/page/writing/The-Antipocalypse.pdf)
 
 > "Post-apocalyptic? It’s been so anti-climactic,
 though. What happened to the skies on fire,
@@ -72,5 +72,3 @@ So with so many things--AI, society, art, philosophy, spirituality, technology--
 
 > We used to make websites because it was fun and at a point we lost the way. 
 We need to make dumb shit! Make useless stuff; make the web fun again!
-
-

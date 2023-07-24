@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-![Beauty](/assets/2015/12/lucy_mirror.jpg)
+![Beauty]({{site.url}}/assets/2015/12/lucy_mirror.jpg)
 
 When I look at this photo I don't see a girl growing up too fast, trained to accept outward standards of beauty.
 

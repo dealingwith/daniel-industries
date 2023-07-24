@@ -29,7 +29,7 @@ Last night I had a spike in energy and a lull in the coughing from about 7-9pm a
 
 The cough seems _slightly_ more "productive" today, but I'm very skeptical at this point in terms of holding out any hope for a rapid recovery. I feel old and afflicted. I better understand how people can die from stuff like this. Lung shit is no joke. 
 
-![](/assets/2018/11/habits.png "Habit tracking is a joke")
+![]({{site.url}}/assets/2018/11/habits.png "Habit tracking is a joke")
 
 I'm missing my favorite season of the year, which is very short in Texas. My body feels like it's withering away from lack of activity. (Except my abs which are sore as hell from all the coughing.) I'm taking _so many_ pills every day. I'm quarantined from the rest of my family. 
 

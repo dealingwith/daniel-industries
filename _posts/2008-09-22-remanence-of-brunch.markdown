@@ -11,4 +11,4 @@ categories:
  - minutia
 ---
 
-[![](/assets/2008/09/2879490056_4b7f7d1f31.jpg)](https://www.flickr.com/photos/carissabyers/albums/72157607432766223/with/2879490056/)
+[![]({{site.url}}/assets/2008/09/2879490056_4b7f7d1f31.jpg)](https://www.flickr.com/photos/carissabyers/albums/72157607432766223/with/2879490056/)

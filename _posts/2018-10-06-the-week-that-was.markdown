@@ -8,7 +8,7 @@ categories:
   - minutia
 ---
 
-![](/assets/2018/10/Screenshot-2018-10-06-09.22.22.png)
+![]({{site.url}}/assets/2018/10/Screenshot-2018-10-06-09.22.22.png)
 
 It was a rough week for my habits, self-care (I always feel like I should put that phrase in scare quotes, I wonder what that says about me), and otherwise making sure I don't burn to a crisp and end up drunk in a gutter.
 

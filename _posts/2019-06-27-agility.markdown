@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-I've been struggling with communicating my thoughts and attitudes around [Agile](https://en.wikipedia.org/wiki/Agile_software_development) within the organizations and contexts in which I've found myself. See ["Product Camp"](/2018/03/11/product-camp/ "As long as agile remains a series of processes and not a set of principles, it will be a religion without a higher power."). "Kanban is not Agile," "We need a real scrum master," and "How do you do backlog grooming" are all statements I've heard in the last few years that have caused me to internally roll my eyes.
+I've been struggling with communicating my thoughts and attitudes around [Agile](https://en.wikipedia.org/wiki/Agile_software_development) within the organizations and contexts in which I've found myself. See ["Product Camp"]({{site.url}}/2018/03/11/product-camp/ "As long as agile remains a series of processes and not a set of principles, it will be a religion without a higher power."). "Kanban is not Agile," "We need a real scrum master," and "How do you do backlog grooming" are all statements I've heard in the last few years that have caused me to internally roll my eyes.
 
 My position is that Agile is a set of principles, not processes, but it's hard to get this to hit home with anyone. People just want processes that fix their pains. They don't want to actually change their thinking.
 
@@ -15,5 +15,4 @@ So when I read [this email](https://mailchi.mp/gothelf/services-1185141?e=c52028
 
 >When a project is declared an "Agile project" it is presumed the team will work in sprints, use some kind of board to track their work, have a scrum master and deliver shippable increments every two weeks. While I don’t disagree that this could be a productive process for a team, it is simply one permutation of agility. Instead of fixating on the specific recipe for how the team will work, I recommended to my new friend that teams should adopt the principles of agility. Agility, as I’ve noted here many times before, is, to quote the agile manifesto, responding to change over following a plan. Truly agile teams enjoy the ability, desire and safety to respond to change over following a plan. 
 
-![](/assets/2019/06/508e81fc-ab40-446f-8f15-23f685c0c714.jpeg)
-
+![]({{site.url}}/assets/2019/06/508e81fc-ab40-446f-8f15-23f685c0c714.jpeg)

@@ -6,9 +6,9 @@ date: 2020-07-26 23:50:46 -0500
 categories: 
 ---
 
-![](/assets/2020/07/covid-graph.png)
+![]({{site.url}}/assets/2020/07/covid-graph.png)
 
-We'll be over 150,000 deaths tomorrow, which is [more United States citizens than died in World War I, or in the Korean War and the Vietnam War combined](/2020/04/25/numbers/).
+We'll be over 150,000 deaths tomorrow, which is [more United States citizens than died in World War I, or in the Korean War and the Vietnam War combined]({{site.url}}/2020/04/25/numbers/).
 
 It feels very much like people just gave up. They were sick of being cooped up at home. They were terrified of what was happening with the economy. So they just said, "F--k it," and went to the bar. Grandma will have to fend for herself.
 

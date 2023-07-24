@@ -65,4 +65,4 @@ This method resulted in no slowdown of build time. It takes about 30 seconds to 
 
 Not particularly flexible, but it gets the job done. Refinements forthcoming. But as I had yet to find any reasonable backlinks solution for Jekyll, I thought I would post about it in the meantime.
 
-An example of a post with backlinks would [this one](/2022/05/08/the-hospital/).
+An example of a post with backlinks would [this one]({{site.url}}/2022/05/08/the-hospital/).

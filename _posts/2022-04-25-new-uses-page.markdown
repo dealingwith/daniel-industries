@@ -6,4 +6,4 @@ date: 2022-04-25 07:52:59 -0500
 categories: 
 ---
 
-I added a new [uses](/uses) page to the site. For the nerds.
+I added a new [uses]({{site.url}}/uses) page to the site. For the nerds.

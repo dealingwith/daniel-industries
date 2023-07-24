@@ -28,7 +28,7 @@ categories:
 
 [The Best of the Spring Classics](https://www.rapha.cc/us/en_US/stories/best-of-spring-classics). (Since we don't actually get to enjoy any classic bike races...something I haven't complained about publically yet but I do miss dearly.)
 
-![](/assets/2020/04/Hinault_Bernard_4_OFS.jpg)
+![]({{site.url}}/assets/2020/04/Hinault_Bernard_4_OFS.jpg)
 
 >*1980 Liège-Bastogne-Liège*
 
@@ -46,6 +46,6 @@ Also on YouTube: [Irish People Try Krispy Kreme Donuts For The First Time](https
 
 ---
 
-![](/assets/2020/04/evgeny-dvoretckiy-3.jpg)
+![]({{site.url}}/assets/2020/04/evgeny-dvoretckiy-3.jpg)
 
 _[Post-Apocalypse](https://www.artstation.com/artwork/8l9kvq)_, by [Evgeny Dvoretckiy](https://www.artstation.com/evgenydvoretckiy)

@@ -16,4 +16,4 @@ categories:
 
 ---
 
-Just yesterday I was explaining the etymology of my online handle (dealingwith), which itself has its origin in a [different name, which is a phrase](/music/#dealing-with-madness), which has its own etymology. 
+Just yesterday I was explaining the etymology of my online handle (dealingwith), which itself has its origin in a [different name, which is a phrase]({{site.url}}/music/#dealing-with-madness), which has its own etymology. 

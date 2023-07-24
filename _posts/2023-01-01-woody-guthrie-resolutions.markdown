@@ -6,7 +6,7 @@ date: 2023-01-01 18:27:34 -0600
 categories:
 ---
 
-![](/assets/2023/01/woody-guthrie-resolutions.png)
+![]({{site.url}}/assets/2023/01/woody-guthrie-resolutions.png)
 
 [Woody Guthrie's 1943 New Years Rulin’s](https://www.openculture.com/2020/01/woody-guthrie-creates-a-doodle-filled-list-of-new-years-resolutions.html)
 

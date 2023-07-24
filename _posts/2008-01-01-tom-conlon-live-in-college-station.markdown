@@ -13,7 +13,7 @@ categories:
  - music
 ---
 
-![](/assets/2008/01/1673965217_fd3e816a9d_h.jpg)
+![]({{site.url}}/assets/2008/01/1673965217_fd3e816a9d_h.jpg)
 
 Board recording + editing by yours truly. Feel free to leave comments if something sounds off. Every track was leveled differently, both in the original off the board (Tom is a very dynamic player -- two tracks-- _Resisting_ and (I think) _Little World_--were clipped on the original, and their quality suffers accordingly) and within the editing software. Anything done in the latter environment can be changed. Also, the first 11 tracks were compressed differently than the last 7. I may update with a consistent bitrate/compression codec. Finally, I cut out some extra noise in between some of the tracks, and did fade ins and fade outs where I deemed it appropriate. I tried to get the whole show to run together seamlessly without any excess, but let me know if something sounds awry.
 

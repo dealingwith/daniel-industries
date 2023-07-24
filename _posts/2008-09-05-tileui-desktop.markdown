@@ -24,7 +24,7 @@ This video (http://www.youtube.com/watch?v=Kz5RzBS7) shows an AIR app that
 does pretty much the same thing. (The sound is really bad but you don't really
 need it.)
 
-The crazy thing is this is built in AIR (/Flex). Having worked with Flex for a
+The crazy thing is this is built in AIR ({{site.url}}/Flex). Having worked with Flex for a
 couple months now I can tell you that this is _sick_.
 
 This morning I was about ready to give up on Flex, and I am only trying to do
@@ -47,4 +47,3 @@ Sadly, this tileUI thing was built over a year ago and was never released. The
 person who built it has been working on some of those other sick Flex apps I
 mentioned above, apps that also happened to pay him...handsomely, we
 presume...
-

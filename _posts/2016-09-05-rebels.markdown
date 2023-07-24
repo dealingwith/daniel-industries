@@ -22,13 +22,13 @@ categories:
 
 > ...where I'm going is...social media, combined with accretive identity and a strong rhetorical bent, is quite literally inhibiting our ability to think. When everything we say is position-staking and identity construction we become dumber than my bird.
 
-![](/assets/2016/09/Jakob-Staermose-Star-Wars.jpg)
+![]({{site.url}}/assets/2016/09/Jakob-Staermose-Star-Wars.jpg)
 
 <span class="small">(Graphic by [Jakob Staermose](https://duckduckgo.com/?q=jakob+staermose+star+wars))</span>
 
 It should be clear if you follow the thread through those three sources above: we are losing the battle for not the just the web, but our own minds and humanity. It sounds hyperbolic, but it's important to at least consider. 
 
-We've traded the open web of ideas, creativity and collaboration for a walled compound where we are trained by specialists on how to think, how to desire. We are [desiring machines](https://en.wikipedia.org/wiki/Anti-Oedipus#Desiring_machines_and_social_production), tuned with algorithms and "[arguments supporting [our] views](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1017&context=goldstone)". We use our hands not to respond with words, but with taps, each recorded and analyzed. [I've said this before](/2014/02/12/thanks-for-ruining-the-internet/ "It's like a prequel, and it has a prequel")...
+We've traded the open web of ideas, creativity and collaboration for a walled compound where we are trained by specialists on how to think, how to desire. We are [desiring machines](https://en.wikipedia.org/wiki/Anti-Oedipus#Desiring_machines_and_social_production), tuned with algorithms and "[arguments supporting [our] views](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1017&context=goldstone)". We use our hands not to respond with words, but with taps, each recorded and analyzed. [I've said this before]({{site.url}}/2014/02/12/thanks-for-ruining-the-internet/ "It's like a prequel, and it has a prequel")...
 
 > The pirates have taken over the fleet, and those with discipline and old-world skills are hidden away in enclaves, quietly existing on the resources available to them.
 

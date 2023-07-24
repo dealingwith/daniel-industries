@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2016/10/cory.jpg)
+![]({{site.url}}/assets/2016/10/cory.jpg)
 
 [Cory Doctorow on The Changelog](https://changelog.com/podcast/221)
 

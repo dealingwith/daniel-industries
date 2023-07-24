@@ -6,7 +6,7 @@ date: 2022-04-10 06:49:15 -0500
 categories: 
 ---
 
-![](/assets/2022/04/HampstenClimbPink.CV_.jpg)
+![]({{site.url}}/assets/2022/04/HampstenClimbPink.CV_.jpg)
 
 [Andy Hampsten and Marginal Gains](https://silca.cc/blogs/marginalgains/andy-hampsten-and-marginal-gains)
 

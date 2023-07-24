@@ -21,7 +21,7 @@ In case you didn't already know, I covered Boards of Canada for the opening trac
 
 I recently found this photo of The Beaten Sea playing at the [Winspear](https://en.wikipedia.org/wiki/Margot_and_Bill_Winspear_Opera_House), [Jamie Wilson](http://jamiewilson.io/) pausing to sing just for Margot. She was transfixed. 
 
-![](/assets/2017/09/beaten_sea-margot.jpg)
+![]({{site.url}}/assets/2017/09/beaten_sea-margot.jpg)
 
 ---
 

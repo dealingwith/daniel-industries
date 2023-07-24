@@ -17,7 +17,7 @@ categories:
 > 
 > Are you putting in the work to become the person you want to be?
 
-Given [yesterday's bleak post](/2017/12/21/america/) I figured this might be a good exercise for me.
+Given [yesterday's bleak post]({{site.url}}/2017/12/21/america/) I figured this might be a good exercise for me.
 
 Last 5 phone calls: I don't even have the phone app on my homescreen, I use it so infrequently. Last 5 calls were all incoming:
 
@@ -35,7 +35,7 @@ Last 5 texts:
 * Brother-in-law's brother sending me a video of my sister operating a [Bobcat](https://www.bobcat.com).
 * Friend to discuss nothing in particular.
 
-Last 5 books: this hasn't changed much since my [last post about the books I was reading](/2017/04/25/currently-reading/), unfortunately. 
+Last 5 books: this hasn't changed much since my [last post about the books I was reading]({{site.url}}/2017/04/25/currently-reading/), unfortunately. 
 
 * [Saga](https://www.amazon.com/Brian-K-Vaughan/e/B001JP4NLC/ref=sr_ntt_srch_lnk_1?qid=1513964337&sr=8-1)
 * [How to Talk About Videogames](http://bogost.com/books/how-to-talk-about-videogames/)
@@ -71,11 +71,11 @@ I don't know what all this says about me. I don't regret any of the time spent o
 
 > Picard management tip: Remember what you liked to play with as a child. Identify the larger, grown-up versions of those toys at work.
 
-![](/assets/2017/12/joe.jpg)
+![]({{site.url}}/assets/2017/12/joe.jpg)
 
 I most remember [Car Wars](https://en.wikipedia.org/wiki/Car_Wars), [G.I. Joe](https://en.wikipedia.org/wiki/G.I._Joe:_A_Real_American_Hero) and [a video game where you programmed the AI of an autonomous tank](https://en.wikipedia.org/wiki/Omega_(video_game)). So I'm pretty close on that last one. (Insert disclaimer here about the fact all three involve violence of some kind.)
 
-![](/assets/2017/12/OmegaBoxShotAmiga.jpg)
+![]({{site.url}}/assets/2017/12/OmegaBoxShotAmiga.jpg)
 
 G.I. Joe comic image from [Compulsive Collector](https://flic.kr/p/cr5frQ).
 

@@ -13,11 +13,11 @@ Catch up on sleep. So sleep deprived. Wake up late Saturday morning. It's pourin
 
 Milo has a soccer game. It's indoors, on a YMCA basketball court. It's their last game of the season. The rain is letting up as we arrive. The YMCA pre-k referees vary greatly in their level of engagement with the game they are officiating. This one is the best so far. They keep the game moving. There is a lot of scoring. He high fives the entire team every time they score.
 
-![](/assets/2019/05/milo_soccer1.jpg)
+![]({{site.url}}/assets/2019/05/milo_soccer1.jpg)
 
 Milo loves soccer so much, but he tends to keep his distance from the ball.
 
-![](/assets/2019/05/milo_soccer2.jpg)
+![]({{site.url}}/assets/2019/05/milo_soccer2.jpg)
 
 Milo scores his first goal of the season. The ball comes to him and he kicks it and it goes in the goal. The crowd of parents goes wild. He talks about it for at least a day and a half.
 
@@ -46,6 +46,3 @@ Sleep in again. Work on Minecraft U some more. Family goes to the big park downt
 ---
 
 Read and work until midnight. Again. Can't sleep. Again.
-
-
-

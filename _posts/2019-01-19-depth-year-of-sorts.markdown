@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-In [my last post](/2019/01/13/web-log/) I mentioned I was considering making 2019 a [depth year](https://www.raptitude.com/2017/12/go-deeper-not-wider/):
+In [my last post]({{site.url}}/2019/01/13/web-log/) I mentioned I was considering making 2019 a [depth year](https://www.raptitude.com/2017/12/go-deeper-not-wider/):
 
 >...take a whole year in which you don’t start anything new or acquire any new possessions you don’t need.
 

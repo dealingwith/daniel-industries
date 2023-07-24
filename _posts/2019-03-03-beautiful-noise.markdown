@@ -15,7 +15,7 @@ Lucy, 7, is playing the piano. Right now she plays _7 Years_ and the beginning o
 
 Milo, 4, is playing the drums. He would play my drum pad when that was the only thing to hit in the house. Then we got him a kid drum kit for Christmas. Then we were given an old electric drum kit. His internal metronome is pretty on point, and he understands quarter and eighth notes and how to play a 2-4 beat.
 
-![](/assets/2019/03/milo-electronicdrums.jpg)
+![]({{site.url}}/assets/2019/03/milo-electronicdrums.jpg)
 
 I've played drums since the 3rd grade. Prior to that, I would set up various things in the house as makeshift kits. So I'm pretty proud of my 4-year-old son's interest in and aptitude with the drums.
 
@@ -23,7 +23,7 @@ I've played drums since the 3rd grade. Prior to that, I would set up various thi
 
 Two weeks ago was Penn's high school band's big fundraising concert at Dallas' Granada Theater. I did [the website](http://woodrowphonic.com/) for the event, which featured East Dallas' own Tim Delaughter of Tripping Daisy and The Polyphonic Spree. It was a great show and a great time and a moment of local unity around the arts.
 
-![](/assets/2019/03/bw0000.jpg)
+![]({{site.url}}/assets/2019/03/bw0000.jpg)
 
 (photo by [Carissa](https://carissabyers.com/))
 

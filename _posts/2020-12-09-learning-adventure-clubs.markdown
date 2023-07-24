@@ -8,11 +8,11 @@ categories:
  - work
 ---
 
-🐣 Today I had the chance to participate in an early iteration of an egghead Course Club. I [once briefly mentioned](/2020/08/18/internet-homesteading-renaissance/ "The one thing that seems to have sprung out of this post-Facebook/locked-down era is the resurgence of Communities of Practice") that I was part of an [Adventure Club](https://joelhooks.com/knowledge-adventure-club). That was my first introduction to the concept and was a great success and a lot of fun.
+🐣 Today I had the chance to participate in an early iteration of an egghead Course Club. I [once briefly mentioned]({{site.url}}/2020/08/18/internet-homesteading-renaissance/ "The one thing that seems to have sprung out of this post-Facebook/locked-down era is the resurgence of Communities of Practice") that I was part of an [Adventure Club](https://joelhooks.com/knowledge-adventure-club). That was my first introduction to the concept and was a great success and a lot of fun.
 
 🍿 We're beginning to plant the course club seed within our community at [egghead](https://next.egghead.io). Today was a baby step in that direction by way of a course watch party. We watched [WordPress as a Headless Content Management System (CMS) and GraphQL API](https://next.egghead.io/playlists/headless-wordpress-4a14).
 
-![](/assets/2020/12/wordpress-course-card.jpg)
+![]({{site.url}}/assets/2020/12/wordpress-course-card.jpg)
 
 🤩 I need to preface my review of this experience by pointing out that the author of the course, [Kevin Cunningham](https://twitter.com/dolearning), was present. This made a tremendous impact on the efficacy of the session, and for obvious reasons, not every egghead course club will enjoy the privilege of having the course creator present. Many might, however, especially as we continue to test and refine the format. Kevin, besides having a delightful accent (if you pronounce _poor_ as "pur", your accent qualifies as delightful), is a career educator. It never ceases to amaze me what a difference it makes when the author or instructor has experience in education. Their ability to explain concepts to learners in a way they can understand is like magic.
 

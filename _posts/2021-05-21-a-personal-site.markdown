@@ -24,4 +24,4 @@ Naz Hamid: [Hi, this is a personal site (again)](https://nazhamid.com/posts/a-pe
 
 To which I thought, "There's a current blog revival?" Naz is one of the original a-list web design people I've followed since what feels like forever. I found the above validating of my twenty years maintaining this site.
 
-[![](/assets/2021/05/RSSbeliev800_1024x1024.png)](https://store.dieselsweeties.com/products/i-want-to-believe-in-rss-enamel-pin)
+[![]({{site.url}}/assets/2021/05/RSSbeliev800_1024x1024.png)](https://store.dieselsweeties.com/products/i-want-to-believe-in-rss-enamel-pin)

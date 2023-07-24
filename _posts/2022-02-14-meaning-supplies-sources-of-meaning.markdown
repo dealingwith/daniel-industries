@@ -6,8 +6,8 @@ date: 2022-02-14 20:06:01 -0600
 categories: 
 ---
 
-![](/assets/2022/02/meaning-supplies.png)
+![]({{site.url}}/assets/2022/02/meaning-supplies.png)
 
 [Sources of Meaning](https://meaning.supplies/meaning)
 
-[Previously](/2021/03/06/meaning-supplies/)
+[Previously]({{site.url}}/2021/03/06/meaning-supplies/)

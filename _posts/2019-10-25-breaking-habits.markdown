@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2019/10/everyday.png)
+![]({{site.url}}/assets/2019/10/everyday.png)
 
 The above is from my [everyday](http://everyday.app) account, which I use to track habits. After a really strong week last week, things have fallen apart this week (the above is about three weeks, note the big hole on the right-hand side), and this post is me just making note of that and maybe thinking a little bit about why (because I'm not sure why).
 

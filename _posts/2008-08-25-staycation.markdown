@@ -12,6 +12,6 @@ categories:
  - minutia
 ---
 
-![huge](/assets/2008/08/huge.jpg)
+![huge]({{site.url}}/assets/2008/08/huge.jpg)
 
-![giggle](/assets/2008/08/giggle.jpg)
+![giggle]({{site.url}}/assets/2008/08/giggle.jpg)

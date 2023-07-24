@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-[![](/assets/2019/09/Screenshot2019-09-18.png)](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/ckeditor/2018/04/24/cormac-sfi.pdf)
+[![]({{site.url}}/assets/2019/09/Screenshot2019-09-18.png)](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/ckeditor/2018/04/24/cormac-sfi.pdf)
 
 > We always court a high risk of failure.
 

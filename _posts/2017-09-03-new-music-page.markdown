@@ -7,4 +7,4 @@ comments: true
 categories: 
 ---
 
-For the last few years, I've simply used my Bandcamp page as my music hub. But there are a few other projects I've been involved in. So I created a proper [music page](/music/).
+For the last few years, I've simply used my Bandcamp page as my music hub. But there are a few other projects I've been involved in. So I created a proper [music page]({{site.url}}/music/).

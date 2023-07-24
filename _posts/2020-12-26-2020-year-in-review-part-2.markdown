@@ -24,12 +24,12 @@ By being remote, we were able to have campers from all over the country. In fact
 
 Running camps on our own allowed us to continue offering camps throughout the entire summer. Hockaday's program only goes through July. And this winter we have run a special winter camp, designed by our instructors, and it has gone very well despite having 11 kids present. The camp is focused on building, and our instructors are teaching different architectural styles as well as the basics of how to simply make things look nice in Minecraft, which is much harder than you might think.
 
-![](/assets/2020/12/2020-12-23_22.07.18.png)
+![]({{site.url}}/assets/2020/12/2020-12-23_22.07.18.png)
 
-![](/assets/2020/12/2020-12-24_03.12.49.png)
+![]({{site.url}}/assets/2020/12/2020-12-24_03.12.49.png)
 
-![](/assets/2020/12/2020-12-24_03.15.46.png)
+![]({{site.url}}/assets/2020/12/2020-12-24_03.15.46.png)
 
-![](/assets/2020/12/2020-12-26_08.47.34.png)
+![]({{site.url}}/assets/2020/12/2020-12-26_08.47.34.png)
 
 I had unreasonable expectations going into this pivot, but I adjusted those expectations very quickly once we got started. We ended up breaking even for the year. Not great, but also not terrible. We certainly learned a lot.

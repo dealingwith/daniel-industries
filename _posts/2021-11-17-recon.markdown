@@ -12,7 +12,7 @@ Last month I had the pleasure of attending the [RECON21](https://thekimmellfdn.c
 
 The conference was a single-day, single-track conference with five speakers and a speaker panel. There were about 100 attendees. There was also an acapella group to entertain us between speakers, and if a speaker had a book, it was given out to attendees for free. A stack of books is the best swag bag possible.
 
-![](/assets/2021/10/RECON-resized000.jpg)
+![]({{site.url}}/assets/2021/10/RECON-resized000.jpg)
 
 First up was Dr. Nathan Mellor, CEO of [Strata Leadership](https://strataleadership.com/). The title of his talk was _Change your mind, change your life._ 
 
@@ -34,7 +34,7 @@ My takeaway was this: Leadership requires a growth mindset, a growth mindset req
 
 You can find Nathan's other talks, including his multiple TEDx talks, on YouTube.
 
-![](/assets/2021/10/RECON-resized001.jpg)
+![]({{site.url}}/assets/2021/10/RECON-resized001.jpg)
 
 Next up was Thomas Hill III, my cousin and founder of the Kimmell Foundation. His talk, _Identity or Alibi? Cultural Figs Don’t Grow On Thistle Leaders_, was a call for leaders to not only see the inherent value in everyone they lead (the core message of the foundation) but to take responsibility as leaders to create a culture that embodies that value. He largely drew from his own story and experience, which you can read about in [his book](https://thekimmellfdn.com/resources/book-recommendations/). A recent post on his blog discusses the same topics:
 
@@ -44,11 +44,11 @@ Next up was Thomas Hill III, my cousin and founder of the Kimmell Foundation. Hi
  
 -- _[The Substance of Life](https://thekimmellfdn.org/2021/10/25/the-substance-of-life/)_
 
-![](/assets/2021/10/RECON-resized002.jpg)
+![]({{site.url}}/assets/2021/10/RECON-resized002.jpg)
 
 Third was [AmyK](https://amyk.com/) with _The Power of Profitable Conversations_. She moved fast through a lot of material and was given more time than anyone else. As such, it would be difficult to succinctly summarize her talk, but it was the most tactical of all the talks which I appreciated. I like a mix of inspirational, strategic, and tactical content. You can get the "cheat sheet" version of her slides by signing up to her email list [on her website](https://ignite.amyk.com/prepplanner).
 
-![](/assets/2021/10/RECON-resized003.jpg)
+![]({{site.url}}/assets/2021/10/RECON-resized003.jpg)
 
 Skipping ahead, the last talk of the day was from [Wayland Cubit](https://twitter.com/WCubit), a police lieutenant and master mentor. He stole the show when he invited one of his mentees on stage to share his story. There were tears. Such an authentic and emotional voice was just the thing to end the day with.
 

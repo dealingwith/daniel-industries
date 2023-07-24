@@ -26,7 +26,7 @@ Mommy doesn't want to play.
 
 "Mr. Elephant will play!" Lucy is a problem solver.
 
-![](/assets/2020/07/IMG_20200731_122553.jpg)
+![]({{site.url}}/assets/2020/07/IMG_20200731_122553.jpg)
 
 ### After dark, I sit at my computer
 

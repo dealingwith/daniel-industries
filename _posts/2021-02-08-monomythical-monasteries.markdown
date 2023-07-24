@@ -8,9 +8,9 @@ categories:
  - quotable
 ---
 
-![](/assets/2021/02/inbox.png)
+![]({{site.url}}/assets/2021/02/inbox.png)
 
-Speaking of [things just now crossing my desk](/2021/02/06/stanzas-concerning-an-ecstasy-experienced-in-high-contemplation/), last night I declared a day of jubilee on my (personal) email, which involved deleting a lot of good email newsletters that I had every intention of reading. That left the _really_ good email newsletters, which I either read or snoozed until this morning. This resulted in an issue of [Monomythical](https://nayafia.substack.com/) from September floating to the top.
+Speaking of [things just now crossing my desk]({{site.url}}/2021/02/06/stanzas-concerning-an-ecstasy-experienced-in-high-contemplation/), last night I declared a day of jubilee on my (personal) email, which involved deleting a lot of good email newsletters that I had every intention of reading. That left the _really_ good email newsletters, which I either read or snoozed until this morning. This resulted in an issue of [Monomythical](https://nayafia.substack.com/) from September floating to the top.
 
 [Monasteries](https://nayafia.substack.com/p/24-monasteries):
 

@@ -8,7 +8,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2018/02/lincoln-bio.jpg)
+![]({{site.url}}/assets/2018/02/lincoln-bio.jpg)
 
 One of the side-effects of having children is only catching about four movies a year, and then only movies that are six years old. Last night I watched Spielberg's [Lincoln](http://www.imdb.com/title/tt0443272/), which I've wanted to watch since it came out.
 

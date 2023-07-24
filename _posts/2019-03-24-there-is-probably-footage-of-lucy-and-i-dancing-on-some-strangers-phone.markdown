@@ -9,7 +9,7 @@ categories:
 
 ...and that's ok because we were **killing** it on the dancefloor last night at our first daddy-daughter dance!
 
-![](/assets/2019/03/lucy_sasa.jpg)
+![]({{site.url}}/assets/2019/03/lucy_sasa.jpg)
 
 This girl is **fierce**.
 

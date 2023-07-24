@@ -7,6 +7,6 @@ comments: true
 categories: 
 ---
 
-![](/assets/2019/06/DSC_0609.jpg)
+![]({{site.url}}/assets/2019/06/DSC_0609.jpg)
 
-![](/assets/2019/06/DSC_0760.jpg)
+![]({{site.url}}/assets/2019/06/DSC_0760.jpg)

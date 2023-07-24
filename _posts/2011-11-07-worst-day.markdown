@@ -3,7 +3,7 @@ layout: post
 title: Worst/Best Day...
 ---
 
-Today I took a Red Cross CPR class. I knew it was going to bring up a lot of shit, but I had no idea how much, how consistently and how specifically. I've been having a much harder time with my thoughts lately ([as I just mentioned](/2011/10/28/dread/))--but today was like being the loser in a heavyweight [boxing match](/2010/11/15/how-it-is-these-days/).
+Today I took a Red Cross CPR class. I knew it was going to bring up a lot of shit, but I had no idea how much, how consistently and how specifically. I've been having a much harder time with my thoughts lately ([as I just mentioned]({{site.url}}/2011/10/28/dread/))--but today was like being the loser in a heavyweight [boxing match]({{site.url}}/2010/11/15/how-it-is-these-days/).
 
 ---
 
@@ -17,5 +17,4 @@ Real legacy, there again. Being meaningful.
 
 ---
 
-Now I'm once again listening to [Paul Slaven's record "Alphabet Girls"](http://www.cdbaby.com/cd/paulslavens), which [I have mentioned before](/2011/07/20/lucy/) and which I don't listen to often enough, but when I do am struck with how such beauty can exist in this world and be so overlooked.
-
+Now I'm once again listening to [Paul Slaven's record "Alphabet Girls"](http://www.cdbaby.com/cd/paulslavens), which [I have mentioned before]({{site.url}}/2011/07/20/lucy/) and which I don't listen to often enough, but when I do am struck with how such beauty can exist in this world and be so overlooked.

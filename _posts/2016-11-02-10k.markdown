@@ -8,8 +8,8 @@ comments: true
 categories: 
 ---
 
-![](/assets/2016/11/10k.png)
+![]({{site.url}}/assets/2016/11/10k.png)
 
-Originally for a competition to make a functional web site/application in under 10k, I made this experimental thing that I can't really describe in words. (I never did submit it to the competition.) It's called [Ransom Note From Space](/10k/). I suppose you could call it art. I like playing around with code to make random stuff, with the hope that it will randomly create some kind of tiny narrative or meaning. At some point I'll go back through the old copies of this site and compile all the little things like this that I have done over the years.
+Originally for a competition to make a functional web site/application in under 10k, I made this experimental thing that I can't really describe in words. (I never did submit it to the competition.) It's called [Ransom Note From Space]({{site.url}}/10k/). I suppose you could call it art. I like playing around with code to make random stuff, with the hope that it will randomly create some kind of tiny narrative or meaning. At some point I'll go back through the old copies of this site and compile all the little things like this that I have done over the years.
 
 [You can view the code here](https://github.com/dealingwith/10k-comp) (it's a lot of javascript).

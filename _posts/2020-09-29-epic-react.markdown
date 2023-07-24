@@ -6,13 +6,13 @@ date: 2020-09-29 22:16:54 -0500
 categories: 
 ---
 
-[![](/assets/2020/09/42x.png)](https://epicreact.dev/)
+[![]({{site.url}}/assets/2020/09/42x.png)](https://epicreact.dev/)
 
 I'll try to keep the preamble brief, but earlier in the year I was approached to join [egghead](https://egghead.io/). I've known [Joel](https://joelhooks.com/) for over a decade and I was chuffed to potentially have an opportunity to work with him again. In June that opportunity became reality. [Epic React](https://epicreact.dev/) had been a topic of conversation since those earlier-in-the-year conversations. It was already a huge project then. By June it was in full swing. By the time I'd found my feet in early August, it was clear that helping get this thing across the finish line would be a good use of my time.
 
 This post is about the team that made this happen. I'm honored to have been able to work on this with them. The unity of a team getting a large product released into the world is always something I enjoy experiencing and continue to be amazed by.
 
-![](/assets/2020/09/IKHv3h9W.png)
+![]({{site.url}}/assets/2020/09/IKHv3h9W.png)
 
 ## The Author
 

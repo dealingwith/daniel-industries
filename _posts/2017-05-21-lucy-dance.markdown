@@ -8,4 +8,4 @@ comments: true
 categories: 
 ---
 
-![](/assets/2017/05/DSC_9890.jpg)
+![]({{site.url}}/assets/2017/05/DSC_9890.jpg)

@@ -35,7 +35,7 @@ Yet another post where I just quote a ton of Cal Newport, but when I heard him g
 
 (All emphasis and editorial insertions are mine.)
 
-He then goes on to propose a _pull_ model. (I recommend listening to the entire segment, as transcribed speech doesn't work as well as written words.) He even makes mention of the agile software processes of kanban and sprints. He doesn't say "[backlog](/2021/01/26/in-defense-of-the-backlog/)", but it sounds to me that the stack of work one would pull from is more or less that.
+He then goes on to propose a _pull_ model. (I recommend listening to the entire segment, as transcribed speech doesn't work as well as written words.) He even makes mention of the agile software processes of kanban and sprints. He doesn't say "[backlog]({{site.url}}/2021/01/26/in-defense-of-the-backlog/)", but it sounds to me that the stack of work one would pull from is more or less that.
 
 Except I've managed my own work like that for years. When it's just me and I'm not collaborating with anyone else, the sheer volume of work in the backlog becomes demotivating. The time involved in sorting through and prioritizing is daunting and hard to find while still rushing to get the last batch done.
 
@@ -51,6 +51,6 @@ Agreed! However:
 
 > Jason Fried: "Yes."
 
-My hesitation is when "ideas that are floating around in your head" are actually that hopper full of stuff pushed to you by others or simply by virtue of your collected responsibilities. Without the [processes](/2021/10/28/process-people/) or ceremonies that establish agreement, things often change within [a cycle](/2021/10/12/theres-a-slow-revolution-going-on/ "while executing, one must stay focused, not allowing additional work to seep into the cycle"). Instead of agreeing that a new thing has to go into a backlog until agreed upon, it just goes into an individual's hopper.
+My hesitation is when "ideas that are floating around in your head" are actually that hopper full of stuff pushed to you by others or simply by virtue of your collected responsibilities. Without the [processes]({{site.url}}/2021/10/28/process-people/) or ceremonies that establish agreement, things often change within [a cycle]({{site.url}}/2021/10/12/theres-a-slow-revolution-going-on/ "while executing, one must stay focused, not allowing additional work to seep into the cycle"). Instead of agreeing that a new thing has to go into a backlog until agreed upon, it just goes into an individual's hopper.
 
 This can all combine with the optimism and people-pleasing status quo of modern knowledge work contexts into a fairly toxic soup. There's still a missing piece here, and I'm still hunting for its precise definition...

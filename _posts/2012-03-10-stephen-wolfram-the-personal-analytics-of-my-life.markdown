@@ -6,7 +6,7 @@ comments: true
 categories: [nonlinear, data]
 ---
 
-![{quote}Here's a plot with a dot showing the time of each of the third of a million emails I've sent since 1989](/files/2012/03/outgoing-mail-diurnal-image.png)
+![{quote}Here's a plot with a dot showing the time of each of the third of a million emails I've sent since 1989]({{site.url}}/files/2012/03/outgoing-mail-diurnal-image.png)
 
 > [I have what is probably one of the world's largest collections of personal data](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/).
 

@@ -91,4 +91,4 @@ Milo has a lot of phrases I love. Everything in the future is "next week". But m
 
 This picture of Lucy right after she died the ends of her hair pink:
 
-![](/assets/2019/04/lucy.jpg)
+![]({{site.url}}/assets/2019/04/lucy.jpg)

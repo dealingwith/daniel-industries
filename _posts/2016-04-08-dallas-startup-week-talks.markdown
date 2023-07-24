@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![Dallas Startup Week logo](/assets/2016/04/dsw_dallas_logo.png "Dallas Startup Week logo")
+![Dallas Startup Week logo]({{site.url}}/assets/2016/04/dsw_dallas_logo.png "Dallas Startup Week logo")
 
 I am participating in a panel and a talk during Dallas Startup Week next week, both on Wednesday. First, the talk:
 
@@ -23,7 +23,7 @@ From the talk description:
 
 I will be presenting alongside Modern Message's senior developer, [Sean Linsley](https://twitter.com/seanlinsley), who I have had the pleasure of working with for over two and a half years. We will explain why a solid software development process is important and describe Modern Message's own methodology for shipping great product. The talk is 1pm on the **70th** Floor of the Bank of America building, 901 Main St, Dallas.
 
-![Sean and Daniel](/assets/2016/04/sean-daniel-1.jpg "Sean and Daniel")
+![Sean and Daniel]({{site.url}}/assets/2016/04/sean-daniel-1.jpg "Sean and Daniel")
 
 ---
 

@@ -6,7 +6,7 @@ comments: true
 categories: [elsewhere, tornados]
 ---
 
-![/files/2012/04/dylan_tornado_aftermath.jpeg](/files/2012/04/dylan_tornado_aftermath.jpeg)
+![/files/2012/04/dylan_tornado_aftermath.jpeg]({{site.url}}/files/2012/04/dylan_tornado_aftermath.jpeg)
 
 [Aftermath](http://www.dylanhollingsworth.com/Blog/post/2012/04/05/Aftermath.aspx):
 

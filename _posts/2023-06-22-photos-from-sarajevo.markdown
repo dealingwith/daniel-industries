@@ -6,11 +6,11 @@ date: 2023-06-22 22:10:07 -0500
 categories: 
 ---
 
-[Last post](/2023/06/18/reading-on-the-morning-of-fathers-day/) I mentioned the small digital camera I carried around c. 2003. These were two of the first photos I took upon arrival at our apartment in central Sarajevo that summer. The first is a hand-stitched panorama from the apartment's front window. The second is from a back window. Those are bullet holes from the siege snipers.
+[Last post]({{site.url}}/2023/06/18/reading-on-the-morning-of-fathers-day/) I mentioned the small digital camera I carried around c. 2003. These were two of the first photos I took upon arrival at our apartment in central Sarajevo that summer. The first is a hand-stitched panorama from the apartment's front window. The second is from a back window. Those are bullet holes from the siege snipers.
 
-[![](/assets/2023/06/panarama1.jpg)](/assets/2023/06/panarama1.jpg)
+[![]({{site.url}}/assets/2023/06/panarama1.jpg)]({{site.url}}/assets/2023/06/panarama1.jpg)
 
-![](/assets/2023/06/DSCN0732.JPG)
+![]({{site.url}}/assets/2023/06/DSCN0732.JPG)
 
 ---
 

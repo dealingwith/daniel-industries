@@ -18,7 +18,7 @@ _Embrace hypertext!_ 🙀
 
 My first thought when I started reading this post was, "Remember when hypertext--as executed via HTML on the World Wide Web--was the amazing, _accessible to the mainstream_, thing that was going to--and did--revolutionize modern information exchange?" We could _view source_ and copy paste and learn how to markup links and create gloriously ugly pages. (And 20 years later be CTOs!)
 
-![](/assets/2020/08/djdj-c-2002.png)
+![]({{site.url}}/assets/2020/08/djdj-c-2002.png)
 
 _danielsjourney, c. 2002. Looks kind of like Notion._ 😂
 

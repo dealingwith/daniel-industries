@@ -14,7 +14,7 @@ categories:
 
 > I certainly understand the attraction of scaling with process, and the hunger for a framework or some form of “recipe for success” at scale.  But that’s just not the reality in good companies.  The truth is that product leadership is hard
 
-It's nice when a distinguished product thinker like Marty Cagan expresses similar feelings to those I [wrote in 2018](/2018/03/11/product-camp/):
+It's nice when a distinguished product thinker like Marty Cagan expresses similar feelings to those I [wrote in 2018]({{site.url}}/2018/03/11/product-camp/):
 
 > As a practice, product management...is highly contextual...It’s hard to accomplish in a small company. As long as agile remains a series of processes and not a set of principles, it will be a religion without a higher power.
 

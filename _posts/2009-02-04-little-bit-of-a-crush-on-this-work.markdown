@@ -11,13 +11,13 @@ categories:
  - design
 ---
 
-![](/assets/2009/02/2316153679_76c7427a45_h.jpeg)
+![]({{site.url}}/assets/2009/02/2316153679_76c7427a45_h.jpeg)
 
 [significant whitespace][3]
 
 Originally uploaded by [shaderlab][4]
 
-![](/assets/2009/02/2412265287_4025cac556_h.jpeg)
+![]({{site.url}}/assets/2009/02/2412265287_4025cac556_h.jpeg)
 
 [significant whitespace][7]
 
@@ -32,4 +32,3 @@ Go check out all of it...
    [7]: http://www.flickr.com/photos/shaderlab/2412265287/
 
    
-

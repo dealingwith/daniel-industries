@@ -38,7 +38,7 @@ As Twitter crashes and burns, it's a good time to pull these two articles out of
 
 Previously, here:
 
-[Thanks for Ruining the Internet](/2014/02/12/thanks-for-ruining-the-internet/) (2014)
+[Thanks for Ruining the Internet]({{site.url}}/2014/02/12/thanks-for-ruining-the-internet/) (2014)
 
-[Rebels: Episode 1](/2016/09/05/rebels/) and
+[Rebels: Episode 1]({{site.url}}/2016/09/05/rebels/) and
 [Rebels: Episode 2](https://daniel.industries/2016/09/05/rebels-episode-2/) (2016)

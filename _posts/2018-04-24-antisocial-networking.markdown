@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-I noticed [this post from 2008](/2008/01/05/anitsocial-networking/) the other day, and the original post it links to was so far ahead of its time it is almost unbelievable. [Adam Greenfield](https://www.wikiwand.com/en/Adam_Greenfield) is apparently [full-time book writing](https://www.amazon.com/Adam-Greenfield/e/B001H6SA1C/ref=sr_ntt_srch_lnk_1) these days, but his blog was one of the bests back in the day. From the [original post](https://speedbird.wordpress.com/2007/12/09/antisocial-networking/):
+I noticed [this post from 2008]({{site.url}}/2008/01/05/anitsocial-networking/) the other day, and the original post it links to was so far ahead of its time it is almost unbelievable. [Adam Greenfield](https://www.wikiwand.com/en/Adam_Greenfield) is apparently [full-time book writing](https://www.amazon.com/Adam-Greenfield/e/B001H6SA1C/ref=sr_ntt_srch_lnk_1) these days, but his blog was one of the bests back in the day. From the [original post](https://speedbird.wordpress.com/2007/12/09/antisocial-networking/):
 
 > For all of these reasons, I believe that technically-mediated social networking at any level beyond very simple, local applications is fundamentally, and probably persistently, a bad idea. From where I stand, the only sane response is to keep our conceptions of friendship and affinity from being polluted by technical metaphors and constraints to begin with.
 

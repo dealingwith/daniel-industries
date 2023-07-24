@@ -8,4 +8,4 @@ categories:
   - minutia
 ---
 
-![](/assets/2018/12/DSC_0660.jpg)
+![]({{site.url}}/assets/2018/12/DSC_0660.jpg)

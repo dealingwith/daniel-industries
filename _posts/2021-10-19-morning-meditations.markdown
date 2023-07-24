@@ -6,7 +6,7 @@ date: 2021-10-19 10:57:42 -0500
 categories: 
 ---
 
-![](/assets/2021/10/sunrise.jpg)
+![]({{site.url}}/assets/2021/10/sunrise.jpg)
 
 <small>Photo by Paul Klitzke</small>
 

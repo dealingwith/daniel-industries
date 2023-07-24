@@ -9,16 +9,16 @@ categories:
 
 Last Monday was my birthday and Carissa surprised me with an awesome time.
 
-![](/assets/2019/03/birthday/DSC_7092.jpg)
+![]({{site.url}}/assets/2019/03/birthday/DSC_7092.jpg)
 
-![](/assets/2019/03/birthday/DSC_7145.jpg)
+![]({{site.url}}/assets/2019/03/birthday/DSC_7145.jpg)
 
-![](/assets/2019/03/birthday/DSC_7203.jpg)
+![]({{site.url}}/assets/2019/03/birthday/DSC_7203.jpg)
 
-![](/assets/2019/03/birthday/DSC_7290-2.jpg)
+![]({{site.url}}/assets/2019/03/birthday/DSC_7290-2.jpg)
 
-![](/assets/2019/03/birthday/DSC_7343.jpg)
+![]({{site.url}}/assets/2019/03/birthday/DSC_7343.jpg)
 
-![](/assets/2019/03/birthday/DSC_7438.jpg)
+![]({{site.url}}/assets/2019/03/birthday/DSC_7438.jpg)
 
-![](/assets/2019/03/birthday/DSC_7472.jpg)
+![]({{site.url}}/assets/2019/03/birthday/DSC_7472.jpg)

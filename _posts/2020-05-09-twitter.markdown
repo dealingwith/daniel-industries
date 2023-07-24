@@ -24,4 +24,4 @@ The final reason would be to have _actual meaningful interactions_, but as far a
 
 ---
 
-Reference: [Where Do You Get Information When Twitter Is Gone?](/2018/04/15/where-do-you-get-information-when-twitter-is-gone/) // [Where Do You Go When Facebook Is Gone?](/2018/04/06/where-do-you-go-when-facebook-is-gone/)
+Reference: [Where Do You Get Information When Twitter Is Gone?]({{site.url}}/2018/04/15/where-do-you-get-information-when-twitter-is-gone/) // [Where Do You Go When Facebook Is Gone?]({{site.url}}/2018/04/06/where-do-you-go-when-facebook-is-gone/)

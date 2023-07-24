@@ -7,22 +7,22 @@ comments: true
 categories: 
 ---
 
-![](/assets/2018/09/soccer.jpg)
+![]({{site.url}}/assets/2018/09/soccer.jpg)
 
 Milo played his first soccer game in the rain yesterday.
 
-![](/assets/2018/09/minecraft.jpg)
+![]({{site.url}}/assets/2018/09/minecraft.jpg)
 
 Settled into Minecraft. They call me for help a lot less these days.
 
-![](/assets/2018/09/lunch.jpg)
+![]({{site.url}}/assets/2018/09/lunch.jpg)
 
 I've had a lot of father-son lunches with this guy lately.
 
-![](/assets/2018/09/facebook.jpg)
+![]({{site.url}}/assets/2018/09/facebook.jpg)
 
 Found this in a notebook.
 
-![](/assets/2018/09/programming.jpg)
+![]({{site.url}}/assets/2018/09/programming.jpg)
 
 Found this on the internet.

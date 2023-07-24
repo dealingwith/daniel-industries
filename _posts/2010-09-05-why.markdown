@@ -3,7 +3,7 @@ layout: post
 title: Why? Part 1 of &#x221e;
 ---
 
-![](/assets/2010/09/3578702739_b7f460533f.jpg)
+![]({{site.url}}/assets/2010/09/3578702739_b7f460533f.jpg)
 <span class="small">photo by [Beni Ishaque Luthor](http://www.flickr.com/photos/b3ni/3578702739/)</span>
 
 I do a lot of rationalization, as it is our species' only real tool for negotiating life. All the rationalizations are inadequate, of course, but I thought I would start by describing my most frequent: that she was too perfect. 
@@ -20,4 +20,4 @@ There's a new voice in my head now. It speaks really infrequently, but maybe tha
 
 It's hers. She calls me daddy.
 
-<span class="small">* Jesus and his fucking need for an [All Star Band](/2007/12/13/2403/).</span>
+<span class="small">* Jesus and his fucking need for an [All Star Band]({{site.url}}/2007/12/13/2403/).</span>

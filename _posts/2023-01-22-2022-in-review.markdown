@@ -6,7 +6,7 @@ date: 2023-01-22 07:36:41 -0600
 categories:
 ---
 
-It's not great when the most significant event of one's year is a [multi-day hospital stay involving a lot of bleeding out of one's bowels](/2022/05/08/the-hospital/). (Or when you're writing your year-in-review in late January of the following year.)
+It's not great when the most significant event of one's year is a [multi-day hospital stay involving a lot of bleeding out of one's bowels]({{site.url}}/2022/05/08/the-hospital/). (Or when you're writing your year-in-review in late January of the following year.)
 
 I'm just now realizing I didn't write one of these for 2021. That year did not end well either.
 
@@ -14,7 +14,7 @@ Most of 2022 was routine, or living vicariously through my family's more signifi
 
 Accomplishments all belonged to others---Penn graduated from high school and started college and had a successful first semester at Arkansas. The other children continued to grow and do the things that 11-and-8-year-olds do. Carissa took additionial trips to Fayetteville with Penn. Carissa and Lucy had a girls trip to Galveston.
 
-|[![](/assets/2023/01/penn_grad2.jpeg)](/assets/2023/01/penn_grad2.jpeg)|[![](/assets/2023/01/penn_grad1.jpeg)](/assets/2023/01/penn_grad1.jpeg)|
+|[![]({{site.url}}/assets/2023/01/penn_grad2.jpeg)]({{site.url}}/assets/2023/01/penn_grad2.jpeg)|[![]({{site.url}}/assets/2023/01/penn_grad1.jpeg)]({{site.url}}/assets/2023/01/penn_grad1.jpeg)|
 
 ---
 
@@ -22,9 +22,9 @@ A 13-year-old in California (who I have never met IRL, and am keeping anonymous 
 
 My bicycling was consistent but slightly less milage total, mostly due to the aforementioned hospital stay and resulting fallout. My longest ride was on December 31st, at 75 miles. I bought a new bike in the spring, nicer than any bike I've ever owned, but spent the entire year trying to get it dialed in, finally getting it there by year's end. I did have many adventures around Dallas on my bike, and many good conversations.
 
-|[![](/assets/2023/01/strava5601118177420965774_smaller.jpg)](/assets/2023/01/strava5601118177420965774_smaller.jpg)|[![](/assets/2023/01/original_32ddd2b9-e6c0-4988-981d-88b153d90e7f_PXL_20220820_143542056_smaller.jpg)](/assets/2023/01/original_32ddd2b9-e6c0-4988-981d-88b153d90e7f_PXL_20220820_143542056_smaller.jpg)|
+|[![]({{site.url}}/assets/2023/01/strava5601118177420965774_smaller.jpg)]({{site.url}}/assets/2023/01/strava5601118177420965774_smaller.jpg)|[![]({{site.url}}/assets/2023/01/original_32ddd2b9-e6c0-4988-981d-88b153d90e7f_PXL_20220820_143542056_smaller.jpg)]({{site.url}}/assets/2023/01/original_32ddd2b9-e6c0-4988-981d-88b153d90e7f_PXL_20220820_143542056_smaller.jpg)|
 
-![](/assets/2023/01/Milage_vs_Year.png)
+![]({{site.url}}/assets/2023/01/Milage_vs_Year.png)
 
 Friendships grew. A highlight was organizing a birthday bicycle taco tour for a friend. I became more involved in my church.
 

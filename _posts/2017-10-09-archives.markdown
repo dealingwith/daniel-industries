@@ -8,7 +8,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2017/10/archives.png)
+![]({{site.url}}/assets/2017/10/archives.png)
 
 I made an archives page. Lots of posts. Lots of broken links. Lots of broken dreams. Lots of messed up content.
 

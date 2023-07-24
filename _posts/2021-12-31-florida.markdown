@@ -8,4 +8,4 @@ categories:
  - imagining
 ---
 
-![](/assets/2021/12/florida1.jpg)
+![]({{site.url}}/assets/2021/12/florida1.jpg)

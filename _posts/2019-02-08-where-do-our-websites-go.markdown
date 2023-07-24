@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-My friend-on-the-internet Jordon Cooper [died last year](https://www.cbc.ca/news/canada/saskatoon/a-legacy-of-words-saskatoon-writer-jordon-cooper-dies-of-cancer-1.4594602). ([I blogged about his passing](/2018/04/22/jordon-cooper-you-will-be-missed/).)
+My friend-on-the-internet Jordon Cooper [died last year](https://www.cbc.ca/news/canada/saskatoon/a-legacy-of-words-saskatoon-writer-jordon-cooper-dies-of-cancer-1.4594602). ([I blogged about his passing]({{site.url}}/2018/04/22/jordon-cooper-you-will-be-missed/).)
 
 Today a new article from his website appeared in my RSS reader ([Feedbin](https://feedbin.com/), if you must know). I assumed perhaps his wife Wendy was writing on his site, much like [Ezra](http://www.teachingcancertocry.com/)'s wife Hillary does [every year](http://www.teachingcancertocry.com/45/). It was not that. Jordon's domain registration must have expired, and a different Jordon Cooper picked it up. He's also a Canadian, but the similarities end there.
 

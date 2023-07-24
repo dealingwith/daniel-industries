@@ -11,21 +11,21 @@ categories:
 
 Summertime is hot, but I have more time...
 
-![](/assets/2019/06/IMG_20190615_102239.jpg)
+![]({{site.url}}/assets/2019/06/IMG_20190615_102239.jpg)
 
-![](/assets/2019/06/IMG_20190615_101934.jpg)
+![]({{site.url}}/assets/2019/06/IMG_20190615_101934.jpg)
 
 I enjoy riding my bike a lot! I really do. I just suck at selfies.
 
 ---
 
-![](/assets/2019/06/56ec6930239983.561a0da7eac3d.jpg)
+![]({{site.url}}/assets/2019/06/56ec6930239983.561a0da7eac3d.jpg)
 
 Just look at these paintings by [Elicia Edijanto](https://www.behance.net/eliciaedijanto) from Jakarta, Indonesia.
 
 ---
 
-![](/assets/2019/06/untitled-6229-3.jpg)
+![]({{site.url}}/assets/2019/06/untitled-6229-3.jpg)
 
 [Thereabouts](http://www.thereabouts.com.au/) make amazing films about epic bike rides, like this one.
 

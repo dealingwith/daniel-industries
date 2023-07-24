@@ -9,9 +9,9 @@ categories:
 
 I'm normally not a fan of Halloween, but...
 
-![](/assets/2019/11/milo_bigfoot.jpg)
+![]({{site.url}}/assets/2019/11/milo_bigfoot.jpg)
 
-![](/assets/2019/11/daniel_bigfoot.jpg)
+![]({{site.url}}/assets/2019/11/daniel_bigfoot.jpg)
 
 Milo is really into bigfoot. He constantly asks the rest of us if we believe bigfoot is real and then explains to us why bigfoot is real. Thus, he wanted to be bigfoot for Halloween. The night after I heard about that I suggested I go as bigfoot as well so we could be father and son bigfoot. So I did a little online shopping here and there and settled on a costume off Amazon. It arrived and thankfully fit. I surprised the kids with it the day it arrived. Milo pointed at me and said "I know it's daddy! I know it's daddy!" Later he would explain that he knew it wasn't bigfoot because bigfoot wouldn't just be in our house, he'd have to come in the front door. I should have come through the front door.
 

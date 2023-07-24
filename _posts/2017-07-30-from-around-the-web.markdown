@@ -13,7 +13,7 @@ I get all my good stuff from [Labnotes](https://labnotes.org/)
 
 "[Sounds about right.](https://twitter.com/theemilykey/status/890254833705295872)"
 
-![](/assets/2017/07/sounds-about-right.jpg)
+![]({{site.url}}/assets/2017/07/sounds-about-right.jpg)
 
 ---
 

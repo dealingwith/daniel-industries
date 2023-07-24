@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-One thing I do when I'm [feeling down or unmotivated](/2017/07/22/summertime-blues/), as a form of digital sock drawer organizing, is tweak the design of something, often times this blog. 
+One thing I do when I'm [feeling down or unmotivated]({{site.url}}/2017/07/22/summertime-blues/), as a form of digital sock drawer organizing, is tweak the design of something, often times this blog. 
 
 The journey of this "redesign" over the course of 2&ndash;3 hours last night is so typical. I had grand designs to facelift the entire thing with something more evocative. I was inspired to go dark after spending some time on [overtherhine.com](http://overtherhine.com/) (_Ohio_ has been [reissued as a double LP on vinyl](http://stores.portmerch.com/overtherhine/featured-products/ohio-2lp.html) and it is hard to resist the impulse buy). I dreamed of [animated smoke effects](https://codepen.io/teolitto/pen/KwOVvL). I thought about dark textures and [forked a promising CodePen](https://codepen.io/dealingwith/pen/KvPJja). I entertained the idea of going [way over the top](https://codepen.io/maicodes/pen/RPeMYj) with the dot grid animation. Then I perused [jekyllthemes.org](http://jekyllthemes.org/) for a while, finding myself always drawn to the most minimal of themes. I had been entertaining adopting the [Hyde](http://hyde.getpoole.com/) theme outright, so I gave that a shot. The results weren't as great as I had hoped for. 
 

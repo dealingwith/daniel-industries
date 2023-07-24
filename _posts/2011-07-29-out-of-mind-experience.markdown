@@ -17,7 +17,7 @@ Ezra Caldwell* posted an intimate and important** post that I want to both captu
 
 <hr>
 
-My friend and producer Salim Nourallah has a new record coming out this summer. Be on the lookout for it. This tune crossed my desk about the same time as Ezra's post and seemed to just fit. Had a stressful day today, but it&rsquo;s odd how not-really-stressful &ldquo;normal&rdquo; stress is to me now. Intellectually I know that circumstances are stressful, I even see it written across my friends&rsquo; faces&hellip;but my heart is less troubled. The scale [has been re-calibrated after all](/2011/02/28/I-can-not-go-on/).
+My friend and producer Salim Nourallah has a new record coming out this summer. Be on the lookout for it. This tune crossed my desk about the same time as Ezra's post and seemed to just fit. Had a stressful day today, but it&rsquo;s odd how not-really-stressful &ldquo;normal&rdquo; stress is to me now. Intellectually I know that circumstances are stressful, I even see it written across my friends&rsquo; faces&hellip;but my heart is less troubled. The scale [has been re-calibrated after all]({{site.url}}/2011/02/28/I-can-not-go-on/).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_rEVko3rHoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

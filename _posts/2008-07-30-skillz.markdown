@@ -11,4 +11,4 @@ categories:
  - minutia
 ---
 
-![](/assets/2008/07/2717957119_3039670f63_c.jpg)
+![]({{site.url}}/assets/2008/07/2717957119_3039670f63_c.jpg)

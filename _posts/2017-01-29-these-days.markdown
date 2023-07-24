@@ -21,13 +21,13 @@ Regardless, it was a refreshing dose of what I think church _should_ be, as well
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1607945823/size=small/bgcol=ffffff/linkcol=0687f5/track=3071323481/transparent=true/"></iframe>
 
-[As I shared last week](/2017/01/24/a-crisis-of-faith-in-myself/ "The world is becoming an increasingly hostile place and more and more it seems that all there is to do is stand back and watch"), it has become hard to process everything that is happening in our world today, particularly in this country, as the tyrannical promises of the individual our electoral college voted into the presidency come to pass. It is hard to know what to do.
+[As I shared last week]({{site.url}}/2017/01/24/a-crisis-of-faith-in-myself/ "The world is becoming an increasingly hostile place and more and more it seems that all there is to do is stand back and watch"), it has become hard to process everything that is happening in our world today, particularly in this country, as the tyrannical promises of the individual our electoral college voted into the presidency come to pass. It is hard to know what to do.
 
-![](/assets/2017/01/vis_car_road.gif)
+![]({{site.url}}/assets/2017/01/vis_car_road.gif)
 
 Times like these awaken an oft-dormant spirituality within me, and I've been listening to and even playing more music lately. A friend wrote me today, "praying for a miracle in DC too," and that feels both appropriate and underwhelming. In 2002 I attended the anti-war protests and it felt...powerful. Today I'm just trying to keep my head above water with work and paperwork and kids' activities and commitments I've made to others...
 
-![](/assets/2017/01/peaceflag01.curves.jpg)
+![]({{site.url}}/assets/2017/01/peaceflag01.curves.jpg)
 
 I read something most mornings as part of the start of my day, sort of as a meditation:
 

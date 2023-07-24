@@ -7,13 +7,13 @@ comments: true
 categories: 
 ---
 
-The internet has been bestowing its blessings to me, in the few moments I've had at my computer these last few days. Sometimes, the internet is just a series of banal dead-ends--especially true if one's starting point is social media. Other times, it's a seemingly endless series of amazingly interesting rabbit holes--more often true when starting with a well [curated email newsletter](/2018/04/15/where-do-you-get-information-when-twitter-is-gone/) or simply a really smart person's website.
+The internet has been bestowing its blessings to me, in the few moments I've had at my computer these last few days. Sometimes, the internet is just a series of banal dead-ends--especially true if one's starting point is social media. Other times, it's a seemingly endless series of amazingly interesting rabbit holes--more often true when starting with a well [curated email newsletter]({{site.url}}/2018/04/15/where-do-you-get-information-when-twitter-is-gone/) or simply a really smart person's website.
 
 I used to have time to follow rabbit holes more thoroughly. I used to be single and live by myself and was often marginally employed. Now any moment at home at the computer is at high risk of being interrupted by children playing piano or drums, or demands to play Minecraft on my computer, or requests for help with any number of things, or just normal family events and outings. These days away from the office, the email has come in faster than I can process it, frustrating my goal to get to inbox zero before I have to return to the working world tomorrow. (And really, I have to get a head start today.)
 
 The same goes for my todo list.
 
-This holiday I've prioritized [reconnecting with my family](/2018/12/29/life/), which if I'm solving for [freedom](/2018/12/30/freedom/) from regret, is likely the correct decision.
+This holiday I've prioritized [reconnecting with my family]({{site.url}}/2018/12/29/life/), which if I'm solving for [freedom]({{site.url}}/2018/12/30/freedom/) from regret, is likely the correct decision.
 
 ---
 
@@ -44,4 +44,3 @@ If you enjoyed the above, then you might be interested in taking the entire year
 ---
 
 Should you decide to follow that last link, you might need some good focus-inducing music. Try: [Below (Original Soundtrack)](https://jimguthrie.bandcamp.com/album/below-original-soundtrack) by Jim Guthrie.
-

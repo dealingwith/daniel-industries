@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2016/05/mr-rogers.jpg)
+![]({{site.url}}/assets/2016/05/mr-rogers.jpg)
 
 Do you frequently find yourself to be the only rational actor in the world? Are you repeatedly proven correct in your opinions and assumptions? Are you the only intellectually rigorous person in the organizations in which you participate? When you find yourself violating the principles and rules you yourself established, is it always for obviously well founded reasons?
 

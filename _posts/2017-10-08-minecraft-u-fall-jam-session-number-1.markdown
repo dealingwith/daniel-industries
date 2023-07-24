@@ -9,10 +9,10 @@ categories:
 
 Lucy came as a TA.
 
-![](/assets/2017/10/mcu-jam-1.jpg)
+![]({{site.url}}/assets/2017/10/mcu-jam-1.jpg)
 
-![](/assets/2017/10/mcu-jam-2.jpg)
+![]({{site.url}}/assets/2017/10/mcu-jam-2.jpg)
 
 Of course, for lunch afterwards Lucy wanted to go to McDonalds. 
 
-![](/assets/2017/10/mcdonalds.jpg)
+![]({{site.url}}/assets/2017/10/mcdonalds.jpg)

@@ -10,13 +10,13 @@ categories:
 - social software
 ---
 
-![Cow Clicker Wired Article Screenshot](/assets/2012/01/cow.jpg)
+![Cow Clicker Wired Article Screenshot]({{site.url}}/assets/2012/01/cow.jpg)
 
 > "Hi Ian," writes one. "I've noticed that the Cowpocalypse has happened and users have to pay to see their cow. Do you have a goal or timeframe of when this will be set back to normal?"
 
 > "There's no way to pay to see your cow," replied the designer. "The cows got raptured."
 
-[I've written about Ian Bogost before](/2011/04/15/shit-crayons/), and recently two excellent articles recapping the history of his Cow Clicker Facebook game crossed by desk ([via Marco](http://www.marco.org/)).
+[I've written about Ian Bogost before]({{site.url}}/2011/04/15/shit-crayons/), and recently two excellent articles recapping the history of his Cow Clicker Facebook game crossed by desk ([via Marco](http://www.marco.org/)).
 
 [The Life-Changing $20 Rightward-Facing Cow](http://kotaku.com/5846080/the-life+changing-20-rightward+facing-cow)
 

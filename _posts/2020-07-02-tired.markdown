@@ -6,7 +6,7 @@ date: 2020-07-02 21:09:04 -0500
 categories: 
 ---
 
-![](/assets/2020/07/strava.png)
+![]({{site.url}}/assets/2020/07/strava.png)
 
 June was a rough month in the energy department. It always is, but this time it was worse than normal. Every ride since June 6th has been a struggle. I thought it was because that was a 50+ mile ride on the first day of very hot weather. I thought it was because of the consistently hot weather. I thought it was sleep deprivation from waking up at 6 am every day to ride before the weather got too hot.
 
@@ -22,6 +22,6 @@ I'm still just forming hypotheses, but perhaps whatever causes my body to be pro
 
 So I'm going to skip the zinc supplement, drink less electrolyte drink mix, and take a few more iron supplements over the next week (washed down with orange juice--vitamin C increases iron absorption) and see how I do. Maybe I'll try eating more spinach salads, too.
 
-![](/assets/2020/07/popeye-spinach-en.jpg)
+![]({{site.url}}/assets/2020/07/popeye-spinach-en.jpg)
 
 [#](https://culture.pl/en/article/popeye-polish-roots-fiegel)

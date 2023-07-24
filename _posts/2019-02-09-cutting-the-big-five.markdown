@@ -41,9 +41,9 @@ And this heartbreaking bit:
 
 > "Please, Tech Companies, I implore you: If your algorithms are smart enough to realize that I was pregnant, or that I’ve given birth, then surely they can be smart enough to realize that my baby died, and advertise to me accordingly--or maybe, just maybe, not at all," she wrote in yet another reminder that privacy invasions have real harms.
 
-This, of course, reminds me of my own post, [The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy](/2010/11/29/connected/), which I wrote **eight years ago** and was picked up by NPR at the time (but has since become a dead link).
+This, of course, reminds me of my own post, [The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy]({{site.url}}/2010/11/29/connected/), which I wrote **eight years ago** and was picked up by NPR at the time (but has since become a dead link).
 
-I quit Facebook and Twitter (I still have a "fake" Facebook account in order to do my job, and [Minecraft U still has a Twitter account I administer](https://twitter.com/official_mcu)) three years ago. I'm now on Mastodon, almost out of principle--I don't _really_ care about the content or the interactions, I just want an alternative to exist for those who do. I have felt very little pain--sure, I lost touch with some people, but they were people I wasn't in touch with prior to using Facebook. Every seemingly meaningful interaction facilitated by these social networks turned out to be not so meaningful. [I wrote about this as well](/2018/04/06/where-do-you-go-when-facebook-is-gone/). In fact, my favorite alternative to social networks I didn't mention in that post: I have a Trello board (called "Networking"...I need a better name) with cards for each person I want to keep in touch with, and I cycle through them, emailing, texting, calling, and setting up coffee meetings.
+I quit Facebook and Twitter (I still have a "fake" Facebook account in order to do my job, and [Minecraft U still has a Twitter account I administer](https://twitter.com/official_mcu)) three years ago. I'm now on Mastodon, almost out of principle--I don't _really_ care about the content or the interactions, I just want an alternative to exist for those who do. I have felt very little pain--sure, I lost touch with some people, but they were people I wasn't in touch with prior to using Facebook. Every seemingly meaningful interaction facilitated by these social networks turned out to be not so meaningful. [I wrote about this as well]({{site.url}}/2018/04/06/where-do-you-go-when-facebook-is-gone/). In fact, my favorite alternative to social networks I didn't mention in that post: I have a Trello board (called "Networking"...I need a better name) with cards for each person I want to keep in touch with, and I cycle through them, emailing, texting, calling, and setting up coffee meetings.
 
 But I still use Gmail and Google Calendar, Chrome, Apple computers, an Android phone, YouTube...the list goes on, and the list of services I use hosted on either AWS or Google Cloud is probably too long to even begin to compile. 
 
@@ -56,4 +56,4 @@ PS: [This tweet](https://twitter.com/ryanhuber/status/1093665718464327680) someh
 > Dear Mr Bezos,
 > I'm just gonna leave this here...
 
-![](/assets/2019/02/Dy17JwBVYAAJADj.jpg "The National Enquirer is hosted on AWS")
+![]({{site.url}}/assets/2019/02/Dy17JwBVYAAJADj.jpg "The National Enquirer is hosted on AWS")

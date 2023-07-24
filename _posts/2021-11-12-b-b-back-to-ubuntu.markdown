@@ -9,9 +9,9 @@ categories:
 
 Previously, in reverse order:
 
-- [Getting This Running on Windows](/2021/10/09/getting-this-running-on-windows/)
-- [Linux Setup Update](/2020/08/06/linux-setup-update/)
-- [My Linux Setup](/2020/07/11/my-linux-setup/)
+- [Getting This Running on Windows]({{site.url}}/2021/10/09/getting-this-running-on-windows/)
+- [Linux Setup Update]({{site.url}}/2020/08/06/linux-setup-update/)
+- [My Linux Setup]({{site.url}}/2020/07/11/my-linux-setup/)
 
 The most recent post above ends with, "I’m back on Ubuntu–a story for a different post..." In fact, I'm now on a second install of Ubuntu since then, still suffering a little bit but staying the course for now, so I'm going to take some notes here for my future self or anyone who stumbles across them and might find them useful.
 

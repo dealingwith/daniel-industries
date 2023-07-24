@@ -12,7 +12,7 @@ categories:
  - music
 ---
 
-[![](/assets/2008/08/dylan.jpg)](http://www.flickr.com/photos/wadegriffith/1185207162/)
+[![]({{site.url}}/assets/2008/08/dylan.jpg)](http://www.flickr.com/photos/wadegriffith/1185207162/)
 
 Yesterday afternoon I went in to [the office][5], ostensively to _do_ some work after an admittedly less-than-productive (in terms of deliverables) week.
 

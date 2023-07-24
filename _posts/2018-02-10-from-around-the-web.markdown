@@ -23,6 +23,6 @@ One of the coolest North Texas startups, lead by Marshall Culpepper, local [hack
 
 I didn't expect this podcast to be as good as it is.
 
-[![](/assets/2018/02/unsure.png)](http://www.poorlydrawnlines.com/comic/unsure/)
+[![]({{site.url}}/assets/2018/02/unsure.png)](http://www.poorlydrawnlines.com/comic/unsure/)
 
 ...Poorly Drawn Lines is consistently my favoirite comic on the internet or otherwise.

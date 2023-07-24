@@ -10,15 +10,15 @@ Via ["Making a 10-year-long MacBook owner switch to Pop OS"](https://www.reddit.
 
 First and foremost I finally got PulseEffects equalizer working thanks to their [audio tools](https://github.com/themagicalmammal/howtopopbuntu#audio-tools) section and [this post](https://ubuntu-mate.community/t/pulse-effects-equaliser-not-working-in-20-04lts/21929)! On the Mac, I used [Boom](https://www.globaldelight.com/boom/) and it was towards the top of the list of things I missed. I like this PulseEffects equalizer better.
 
-![](/assets/2020/11/pulse-equalizer.png)
+![]({{site.url}}/assets/2020/11/pulse-equalizer.png)
 
 I installed a few more Gnome extensions but ended up only using _dynamic panel transparency_.
 
-![](/assets/2020/11/tweaks-with-panel.png)
+![]({{site.url}}/assets/2020/11/tweaks-with-panel.png)
 
 I installed [Starship](https://starship.rs/).
 
-![](/assets/2020/11/terminal-with-starship.png)
+![]({{site.url}}/assets/2020/11/terminal-with-starship.png)
 
 I installed FiraCode Nerd Font via [Nerd Fonts](https://www.nerdfonts.com/font-downloads) and am now using it wherever I use monospaced fonts. Not sure about this one.
 

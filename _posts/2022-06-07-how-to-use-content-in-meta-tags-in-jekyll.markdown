@@ -5,7 +5,7 @@ date: 2022-06-07 07:41:07 -0500
 categories: 
 ---
 
-![](/assets/2022/06/carbon.png)
+![]({{site.url}}/assets/2022/06/carbon.png)
 
 Stack Overflow: [In Jekyll How do I grab a post's first image?](https://stackoverflow.com/questions/25463865/in-jekyll-how-do-i-grab-a-posts-first-image) A lot of different answers to this one, but I went with an answer that was not the "accepted" answer: [installing a Liquid regex gem/plugin](https://stackoverflow.com/a/40860579/5221). I only had one improvement. Here are the steps and final code I landed with:
 

@@ -42,7 +42,7 @@ One of my reports at the job I just left after seven years called me a "philosop
 
 ---
 
-My final [daily post title](/2020/06/19/web-log/ "At new job we write daily summaries of what we worked on. Starting on day two, I started titling my posts") this week was:
+My final [daily post title]({{site.url}}/2020/06/19/web-log/ "At new job we write daily summaries of what we worked on. Starting on day two, I started titling my posts") this week was:
 
 > No Stone Left Unturned
 
@@ -50,12 +50,12 @@ This is what I wrote:
 
 To someone this week, I described my last job--at least what it had become--as a batting cage.
 
-![](/assets/2020/06/batting.gif)
+![]({{site.url}}/assets/2020/06/batting.gif)
 
 ...from meeting to meeting, email to email, Slack ping to Slack ping...
 
 This week felt more like a walk along a stony beach...where each stone was its own little world.
 
-![](/assets/2020/06/stones.jpg)
+![]({{site.url}}/assets/2020/06/stones.jpg)
 
 I'm reminded of the concept of [Shoshin](https://en.wikipedia.org/wiki/Shoshin), the "beginner's mind", "an attitude of openness, eagerness, and lack of preconceptions when studying a subject." I think I will try to focus on better adopting a posture of shoshin. 

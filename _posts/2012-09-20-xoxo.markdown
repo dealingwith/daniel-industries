@@ -7,13 +7,13 @@ categories: [tech, minutia]
 
 Last weekend I attended the internet lovefest known as [XOXO](http://xoxofest.com/).
 
-![/images/xoxo0.jpg](/images/xoxo0.jpg)
+![/images/xoxo0.jpg]({{site.url}}/images/xoxo0.jpg)
 
 A lot has been said already about XOXO. [Here is every tweet posted during XOXO](http://recollect.com/xoxo/timeline). [Anil Dash live blogged the entire conference](http://dashes.com/anil/2012/09/xoxo-jomo-live-blogging-the-conference.html) (it's really well done, if you're interested at all you should check it out).
 
 The speaker lineup was amazing. Here were some of highlights for me.
 
-![/images/studio-neat-slide-3.png](/images/studio-neat-slide-3.png)
+![/images/studio-neat-slide-3.png]({{site.url}}/images/studio-neat-slide-3.png)
 
 [Studio Neat](http://www.studioneat.com/)'s emphasis on passion, simplicity, narrative and actually putting the customer first all hit home.
 
@@ -29,9 +29,9 @@ As I'm writing this I can hear my Inner Dallas Cynic protesting. But I had this 
 
 They say, "You're not getting any younger." But when I ride my bike I *am* getting younger, quite literally, mentally and physically. And I'm also getting younger every time my baby smiles, every time I seek to understand my 8-year-old and especially when I choose to ignore the cynics, those around me and those in my own head, and carry on, forward, with hope and optimism. 
 
-![bike commuting](/images/xoxo1.jpg)
+![bike commuting]({{site.url}}/images/xoxo1.jpg)
 
-![meeting the famous Aaron Draplin](/images/xoxo2.jpg)
+![meeting the famous Aaron Draplin]({{site.url}}/images/xoxo2.jpg)
 
 There were other dominant themes at XOXO but what has stayed with me the longest is the fact that it was a gathering around shared values such as honesty, fairness, generosity and community. That is what made it special. As [Glenn Fleishman said on Boing Boing](http://boingboing.net/2012/09/19/xoxo.html):
 
@@ -39,17 +39,17 @@ There were other dominant themes at XOXO but what has stayed with me the longest
 
 > Despite the involvement of technology in XOXO, it suffered from none of the faults of a technology event. I spent two days among people and experienced no ennui, cynicism, snarkiness, or irony whether from fellow attendees, visitors [or] speakers.
 
-![street musician at Powells](/images/xoxo3.jpg)
+![street musician at Powells]({{site.url}}/images/xoxo3.jpg)
 
-![stumptown](/images/xoxo5.jpg)
+![stumptown]({{site.url}}/images/xoxo5.jpg)
 
-![Lucy at XOXO](/images/xoxo4.jpg)
+![Lucy at XOXO]({{site.url}}/images/xoxo4.jpg)
 
-![R](/images/xoxo6.jpg)
+![R]({{site.url}}/images/xoxo6.jpg)
 
 # Portland #
 
-![/images/xoxo7.jpg](/images/xoxo7.jpg)
+![/images/xoxo7.jpg]({{site.url}}/images/xoxo7.jpg)
 
 The city itself left its mark. Mostly in contrast to Texas. The road surfaces are smooth and free of wheel-swallowing cracks. The dry air, despite having higher temps--an anomoly, we were repeatedly told--felt cool. Drivers are unhurried and courteous to cyclists, as are cyclists to pedestrians. 
 

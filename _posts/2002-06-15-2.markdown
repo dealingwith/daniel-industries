@@ -5,7 +5,7 @@ categories:
  - minutia
 ---
 
-![](/assets/2002/06/dwm_americana2.jpg)
+![]({{site.url}}/assets/2002/06/dwm_americana2.jpg)
 
 changes they are a'comin'
 

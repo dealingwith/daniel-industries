@@ -15,7 +15,7 @@ Recently finished:
 
 * [A Spell for Chameleon](https://en.wikipedia.org/wiki/A_Spell_for_Chameleon), [The Source of Magic](https://en.wikipedia.org/wiki/The_Source_of_Magic), [Castle Roogna](https://en.wikipedia.org/wiki/Castle_Roogna) and [Centaur Aisle](https://en.wikipedia.org/wiki/Centaur_Aisle), the first four novels of the [Xanth](https://en.wikipedia.org/wiki/Xanth) series. I read a number of Xanth novels in junior and high school, but I can't remember which anymore. I didn't start at the beginning back then, that much I know, so starting there was nice. I eat these things up. They can be a little crude at times (in a Mad Men kind of way), but the plot speed, universe and vocabulary lessons are all great.
 
-![](/assets/2017/04/words.png)
+![]({{site.url}}/assets/2017/04/words.png)
 
 * [Traction: Get a Grip on Your Business](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837) (for work).
 

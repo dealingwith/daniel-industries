@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2018/12/xmas-music.jpg)
+![]({{site.url}}/assets/2018/12/xmas-music.jpg)
 
 It was a musical Christmas.
 

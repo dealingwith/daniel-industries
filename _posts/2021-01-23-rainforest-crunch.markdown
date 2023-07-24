@@ -6,7 +6,7 @@ date: 2021-01-23 17:37:52 -0600
 categories: 
 ---
 
-![](/assets/2021/01/rainforest_crunch.jpg)
+![]({{site.url}}/assets/2021/01/rainforest_crunch.jpg)
 
 When I was in college at the University of Arizona I had a fantastic metabolism. I also rode my bicycle a lot. As a result, I ate pretty much what I wanted and in large quantities. Often what I wanted was Ben & Jerry's Rainforest Crunch ice cream. A pint of Rainforest Crunch. All at once. I would walk down to the 7-11 at the end of our block and pick up a pint. It was the epitome of freedom.
 
@@ -16,7 +16,7 @@ The day before it had snowed on Mt. Lemmon. It was the first significant snow of
 
 My friend and I then rode down the ski slopes, rather ungracefully, and got yelled at by someone from the ski resort, but that isn't the point of the story. The point is I had no idea that my photo had been taken until the next day while I was buying my Rainforest Crunch. It was cool to be on the front page of the Sunday paper. Apparently, it was a novel thing to see someone bundled up and riding a mountain bike in the snow in Arizona. But why hadn't the photographer yelled at me to get me to stop and take a better picture? Why did they run a picture of my backside on the front page?
 
-![](/assets/2021/01/daily_star2.jpg)
+![]({{site.url}}/assets/2021/01/daily_star2.jpg)
 
 And why did Ben and Jerry's discontinue Rainforest Crunch shortly thereafter?
 

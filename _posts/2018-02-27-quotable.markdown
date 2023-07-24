@@ -8,7 +8,7 @@ comments: true
 categories: quotable
 ---
 
-![](/assets/2018/02/Bernstein_2000_07_c_REDUCED-1481918492-960x480.jpg)
+![]({{site.url}}/assets/2018/02/Bernstein_2000_07_c_REDUCED-1481918492-960x480.jpg)
 
 > To achieve great things, two things are needed: a plan, and not quite enough time.
 

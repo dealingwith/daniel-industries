@@ -6,7 +6,7 @@ categories:
  - minutia
 ---
 
-![](/assets/2003/06/DSCN0986.JPG)
+![]({{site.url}}/assets/2003/06/DSCN0986.JPG)
 
 > the world is exploding all around, per usual, and i could take or leave it all.
 

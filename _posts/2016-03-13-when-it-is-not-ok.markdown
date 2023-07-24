@@ -12,9 +12,9 @@ It's a wide, fog-covered space between where sadness ends and selfishness begins
 
 ---
 
-I'm re-reading [Riddell](https://en.wikipedia.org/wiki/Mike_Riddell)'s [Sacred Journey](https://books.google.com/books?id=3G2pAwAAQBAJ) for what I thought was the third time; [but in 2004 I claimed to be reading it for the third time](/2004/08/15/Wanting-to-change-the-world-is-not-a-noble-calling-its-a-primal-calling) which would make this the _fifth_. I turn to this tome like others turn to the Bible or the Quran. I like that I can actually email the author.
+I'm re-reading [Riddell](https://en.wikipedia.org/wiki/Mike_Riddell)'s [Sacred Journey](https://books.google.com/books?id=3G2pAwAAQBAJ) for what I thought was the third time; [but in 2004 I claimed to be reading it for the third time]({{site.url}}/2004/08/15/Wanting-to-change-the-world-is-not-a-noble-calling-its-a-primal-calling) which would make this the _fifth_. I turn to this tome like others turn to the Bible or the Quran. I like that I can actually email the author.
 
-I was quoting from it again [a year later](/2005/07/11/i-hope-theres-grace-in-this-town) during time of crisis. 
+I was quoting from it again [a year later]({{site.url}}/2005/07/11/i-hope-theres-grace-in-this-town) during time of crisis. 
 
 As you might guess, this is another time of crisis.
 

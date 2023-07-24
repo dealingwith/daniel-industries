@@ -10,13 +10,13 @@ On a bit of a whim, I had the opportunity to go to Portland, Oregon, one of my f
 
 That night I had no plans. A particular ramen restaurant, [Kayo’s Ramen Bar](https://www.kayosramen.com/), was recommended to me, so I went there. The ramen I ordered was possibly the best I've ever had, and very spicy, just what the doctor ordered on a cold, wet night after a day of travel.
 
-![](/assets/2020/03/IMG_20200228_175005.jpg)
+![]({{site.url}}/assets/2020/03/IMG_20200228_175005.jpg)
 
 After ramen, I had pie back in Alberta--I was again staying in the Alberta neighborhood. I met some new friends and ended up hanging out with them until late that night. I had a second dessert of cheesecake. I returned to my Airbnb and slept great.
 
 The next morning I had an early breakfast planned with an old friend. Before breakfast I walked to [Case Study Coffee](https://www.casestudycoffee.com/) for my first coffee of the day. My barista was covered in beautiful tattoos and wore a peach-colored jumpsuit. As you do.
 
-![](/assets/2020/03/IMG_20200229_074808.jpg)
+![]({{site.url}}/assets/2020/03/IMG_20200229_074808.jpg)
 
 A short walk followed, to [Pine State Biscuits](https://www.pinestatebiscuits.com/), for breakfast. It was tasty and company was delightful. More coffee was consumed.
 

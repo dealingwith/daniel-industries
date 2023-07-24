@@ -17,6 +17,6 @@ This is just amazing. True improvisized art.
 
 Another warning against the perils of the dopamine-release devices we all carry in our pockets.
 
-![](/assets/2017/02/great-pic.png)
+![]({{site.url}}/assets/2017/02/great-pic.png)
 
 [Poorly Drawn Lines](http://poorlydrawnlines.com/comic/great-pic/)

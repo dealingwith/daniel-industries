@@ -18,6 +18,6 @@ My valley of relative safety. Over the last few days I've been nurturing a sugar
 
 ## 16 months
 
-![Lucy](/assets/2013/04/8662616124_fddf3b870c.jpg)
+![Lucy]({{site.url}}/assets/2013/04/8662616124_fddf3b870c.jpg)
 
 So delightful she is! 

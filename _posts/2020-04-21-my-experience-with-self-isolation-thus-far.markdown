@@ -14,7 +14,7 @@ Let's start with the positive. I’ve been riding my bike more consistently; usi
 
 Other habits have also finally found a foothold. I've been meditating more than I have in a long time. It's easier to start my day with a quick 10 minutes of meditation, and sometimes take a mid-day meditation break as well. I've even started doing the push-ups and sit-ups I've been meaning to get into forever. These (and other) habits are still not locked in, but at least I've made some progress on them.
 
-Our [weekly online D&D game](/2020/04/03/blogging-during-the-apocalypse/ "mentioned in this post") has been a success. Our adventuring party of 4 has successfully completed one quest with no casualties.
+Our [weekly online D&D game]({{site.url}}/2020/04/03/blogging-during-the-apocalypse/ "mentioned in this post") has been a success. Our adventuring party of 4 has successfully completed one quest with no casualties.
 
 At work, where most of my team is remote and work from home anyway, things have actually been smoother with _everyone_ remote. We had our regular quarterly kickoff meeting with everyone on Zoom. Historically there have been technical issues with our attempts to integrate remote people into these meetings. With everyone remote and on Zoom, the experience was seamless. 
 
@@ -44,10 +44,10 @@ I'm managing todos in four locations now. This is all my own doing:
 - Taskpaper: I used to use Taskpaper (using a Sublime Text plugin) for tasks, but now I just use it as a plain-text outliner. I basically have one large text file for work notes and one for personal notes. It feels odd to use a todo application as an outliner, but it's actually better than any outliner I've tried, and I already had the muscle memory for it.
 - Zenkit Todo: the newest addition. [They're gunning hard for those Wunderlist orphans](https://zenkit.com/en/blog/what-happened-to-wunderlist/). I now keep a Zenkit Todo "app" (using a standalone browser--I use [Coherence](https://setapp.com/apps/coherence-pro) but there are a few tools for generating these) along the side of my monitor. Mostly I try to keep daily/immediate tasks in there, but I am also finding myself capturing new tasks in it since it's right there. I'm toying with the idea of moving my main Trello board to Zenkit Todo.
 
-!["This is how I described our work Notion"](/assets/2020/04/notion.jpg)
+!["This is how I described our work Notion"]({{site.url}}/assets/2020/04/notion.jpg)
 _^ This is how I described our work Notion_
 
-!["My tasks/notes setup for work"](/assets/2020/04/tasks.png)
+!["My tasks/notes setup for work"]({{site.url}}/assets/2020/04/tasks.png)
 _^ My tasks/notes setup for work_
 
 I bought a new personal laptop prior to the pandemic arriving on our shores and it arrived a little while ago. (A last-year's model Dell XPS 15, with 500GB storage, 16GB memory, a Nvidia GTX, and a 4K OLED display) I managed to get Ubuntu to duel-boot on it, and have been spending occasional nights tweaking it to my liking. My goal is to have my work laptop (the 2016 15" MBP that I'm typing this on) be just for work, and the personal laptop be just for personal stuff. I might go crazy and wipe out the Windows install when [Ubuntu 20.04](https://www.omgubuntu.co.uk/2020/04/ubuntu-20-04-beta-download) comes out in a few days. I'll need the drive space.

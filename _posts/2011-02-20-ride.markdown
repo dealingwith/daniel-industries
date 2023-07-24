@@ -13,7 +13,7 @@ So I've had the odd pleasure of existing for the rest of my day in an odd haze w
 
 ---
 
-I've wanted a couple of times to re-post about [Fast Boy](/2010/10/24/fast-boy/). His blog and our occasional email correspondence have been a great encouragement to me. Although our pain is very different it is similar in its mere existence. He travels through his with an aplomb that is well summed up with this excerpt from his latest post (`broken link`). It is also such an eloquent description of the dichotomy that is the pain-addled life:
+I've wanted a couple of times to re-post about [Fast Boy]({{site.url}}/2010/10/24/fast-boy/). His blog and our occasional email correspondence have been a great encouragement to me. Although our pain is very different it is similar in its mere existence. He travels through his with an aplomb that is well summed up with this excerpt from his latest post (`broken link`). It is also such an eloquent description of the dichotomy that is the pain-addled life:
 
 > I hate this pattern of bringing you ever more pitiful news.  I sometimes hesitate to write at all, and yet the point is to document this bloody process.
 

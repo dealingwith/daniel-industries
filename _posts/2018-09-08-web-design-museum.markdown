@@ -9,6 +9,6 @@ categories:
   - design
 ---
 
-[![](/assets/2018/09/kaliber10000-2003.png)](https://www.webdesignmuseum.org/gallery/kaliber10000-2003)
+[![]({{site.url}}/assets/2018/09/kaliber10000-2003.png)](https://www.webdesignmuseum.org/gallery/kaliber10000-2003)
 
 K10k was one of my favorite sites back in the day. I was so pleased to find it on [webdesignmuseum.org](https://www.webdesignmuseum.org/). Other favorites: [Habbo Hotel](https://www.webdesignmuseum.org/gallery/habbo-hotel-2001), [Designgraphik](https://www.webdesignmuseum.org/gallery/designgraphik-2001), [Surf Station](https://www.webdesignmuseum.org/gallery/surf-station-2002).

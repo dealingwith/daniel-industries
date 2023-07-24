@@ -6,13 +6,13 @@ comments: true
 categories: [minutia, bicycling]
 ---
 
-![Rapha Festive 500 Logo](/assets/2012/01/festive.png)
+![Rapha Festive 500 Logo]({{site.url}}/assets/2012/01/festive.png)
 
 ## Guilt
 
-The [Rapha Festive 500](http://www.rapha.cc/festive-500) is a worldwide challenge to ride 500km from the 23rd to the 31st of December. (Rapha makes very nice cycling garments as well as [those cool videos I post all the time](/2011/05/26/yapab/).) [Last year it was the impetus for my return to regular cycling](/2011/01/09/corner/) and the kickoff to a year filled with thousands of miles, new friends, lost pounds and a new appreciation for the further reaches of both my abilities and the town in which I reside. Last year I did not complete the 500km. This year I was determined to have a proper go of it despite the constraints of having a new baby in the house and the obvious schedule issues around the holidays.
+The [Rapha Festive 500](http://www.rapha.cc/festive-500) is a worldwide challenge to ride 500km from the 23rd to the 31st of December. (Rapha makes very nice cycling garments as well as [those cool videos I post all the time]({{site.url}}/2011/05/26/yapab/).) [Last year it was the impetus for my return to regular cycling]({{site.url}}/2011/01/09/corner/) and the kickoff to a year filled with thousands of miles, new friends, lost pounds and a new appreciation for the further reaches of both my abilities and the town in which I reside. Last year I did not complete the 500km. This year I was determined to have a proper go of it despite the constraints of having a new baby in the house and the obvious schedule issues around the holidays.
 
-![My trusty steed](/assets/2012/01/klein_0.jpg)
+![My trusty steed]({{site.url}}/assets/2012/01/klein_0.jpg)
 
 As expected the rides were cold, often wet, mostly long (one must average about 40 miles per day) and as such engender an increased constitution and determination to ride regardless of conditions. This, as I see it, is really the biggest advantage of the challenge. Sure, for some, the distance is laughable and many participants complete it in *much* worse conditions; but for me it is the perfect distance at the perfect time.
 
@@ -20,7 +20,7 @@ I was struck with a strange emotion one dark morning. Here I was slogging away o
 
 A mysterious love for the bike and its culture seemed at odds with the obvious and deeply powerful love for Lucy and my family. I started riding again for the sake of my sanity. Now was it leading me into a new kind of delusion?
 
-![Photo by @mactionnews](/assets/2012/01/matt_c_0.jpg)
+![Photo by @mactionnews]({{site.url}}/assets/2012/01/matt_c_0.jpg)
 
 I ended up finishing the 500km with a day to spare--entirely thanks to meeting Matt Christensen on the trail that day. He rode [877km](http://instagr.am/p/dnXLp/) total in some kind of godlike rush of determination and a true appreciation for the joy of riding a bike. The day I met him he rode a century--his second of the week. I joined him for a portion of that century--enough to cross the 500km mark with a few kilometers to spare. ([23](http://www.endomondo.com/workouts/31875579) [24](http://www.endomondo.com/workouts/31961179) [25](http://www.endomondo.com/workouts/32037230) [26](http://www.endomondo.com/workouts/32102193) [27](http://www.endomondo.com/workouts/32237316) [28](http://www.endomondo.com/workouts/32312578) [29](http://www.endomondo.com/workouts/32375339) [30](http://www.endomondo.com/workouts/32479151))
 
@@ -34,7 +34,7 @@ And fear. Cars are our constant enemy when we ride our bikes. Their speed, their
 
 ## Peace
 
-![Penn Smith](/assets/2012/01/penn_0.jpg)
+![Penn Smith]({{site.url}}/assets/2012/01/penn_0.jpg)
 
 Penn has taken a recent and enthusiastic renewed interest in cycling. I'm not sure if the 500 had anything to do with it, but yesterday he begged and begged to go on a ride with me, and it was nice, having completed the challenge, to not worry about how long a ride would be. Little did I know we would end up riding a complete loop of White Rock Lake, no small feat for an eight year old--not to mention the number of pedal strokes required by the gear ratio on his small single speed bike! As we rode slowly along the trail, he chatting away, me constantly instructing him if only to assuage my own concerns, a peace eventually came to visit. The weather was perfect. I was spending time with my stepson doing something I enjoy, and he shared unadulteratedly in that joy. I had a beautiful family.
 

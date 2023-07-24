@@ -6,7 +6,7 @@ date: 2023-01-15 12:34:03 -0600
 categories:
 ---
 
-![](/assets/2023/01/52598113908_06a6ec5217_c.jpg)
+![]({{site.url}}/assets/2023/01/52598113908_06a6ec5217_c.jpg)
 
 She worked while the tourists wandered about the studio and the grounds. She moved from one table to another, for a particular tool, or to look at a greater distance at the work. The tourists were reverent and stayed out of her way. She tolerated them by imagining the take at the door that day.
 

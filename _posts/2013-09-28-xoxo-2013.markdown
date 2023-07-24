@@ -13,44 +13,44 @@ categories:
 
 **The Travel**
 
-![Lucy with a sucker](/images/Portland/Sep_19_6_04_54.jpg "Travel is a little bit better if you have a sucker")
+![Lucy with a sucker]({{site.url}}/images/Portland/Sep_19_6_04_54.jpg "Travel is a little bit better if you have a sucker")
 
-As far as these things go, I thought my family did very well with the actual-travel portions of our Portland trip this year. (Here's [last year](/2012/09/23/xoxo/)'s post, in case you weren't aware this has become an annual event.) The only hitch was when we arrived very late to Portland and were met with the *worst* domestic car rental experience I have ever endured. Whatever you do, never rent from [Advantage Car Rental](http://www.yelp.com/biz/advantage-car-rental-portland#hrid:oj7pmES5lP4-TtjNWtMX9g); they are terrible. I made the mistake of not checking out their horrible Yelp reviews prior to booking.
+As far as these things go, I thought my family did very well with the actual-travel portions of our Portland trip this year. (Here's [last year]({{site.url}}/2012/09/23/xoxo/)'s post, in case you weren't aware this has become an annual event.) The only hitch was when we arrived very late to Portland and were met with the *worst* domestic car rental experience I have ever endured. Whatever you do, never rent from [Advantage Car Rental](http://www.yelp.com/biz/advantage-car-rental-portland#hrid:oj7pmES5lP4-TtjNWtMX9g); they are terrible. I made the mistake of not checking out their horrible Yelp reviews prior to booking.
 
 **XOXO**
 
-![XOXO entrance](/images/Portland/Sep_20_11_16_18.jpg "XOXO entrance")
+![XOXO entrance]({{site.url}}/images/Portland/Sep_20_11_16_18.jpg "XOXO entrance")
 
 [XOXO](http://2013.xoxofest.com/) will require its own post but overall I enjoyed it more than last year. The speakers were once again excellent but for some reason the "theme" that evolved over the course of the three days seemed more real and practicable than last year. I talked to more people this year which was another plus. And I didn't stress about the parts I missed in the evenings. I just enjoyed my time in Portland with my family.
 
-![XOXO Market](/images/Portland/Sep_20_11_08_50.jpg "XOXO Market")
+![XOXO Market]({{site.url}}/images/Portland/Sep_20_11_08_50.jpg "XOXO Market")
 
-![Lucy and Penn outside XOXO day 1](/images/Portland/Sep_20_11_20_16.jpg "[Lucy and Penn outside XOXO day 1")
+![Lucy and Penn outside XOXO day 1]({{site.url}}/images/Portland/Sep_20_11_20_16.jpg "[Lucy and Penn outside XOXO day 1")
 
 There were goats across the street, and [they](https://twitter.com/urbangoatspdx) were [a hit with just about everyone](https://twitter.com/search?q=%23xoxofest%20goats&src=typd).
 
-![Goats!](/images/Portland/Sep_20_12_05_40.jpg)
+![Goats!]({{site.url}}/images/Portland/Sep_20_12_05_40.jpg)
 
-![More goats!](/images/Portland/Sep_20_12_06_11.jpg)
+![More goats!]({{site.url}}/images/Portland/Sep_20_12_06_11.jpg)
 
 The first day of XOXO was pretty free-form, so I took the oportunity to hang out with my friend Scott, and we all went to a food truck pod for grilled cheeses inside a double decker bus.
 
-![Lucy and Penn in the double decker bus](/images/Portland/Sep_20_1_24_30.jpg)
+![Lucy and Penn in the double decker bus]({{site.url}}/images/Portland/Sep_20_1_24_30.jpg)
 
 Later we had to drive back to the airport to exchange our rental car (more of the terrible experience) after which we went straight to the [arial tram](http://gobytram.com/), after which we hung out in the coffee shop at the bottom and played in a fountain in a nearby park. I like how my family can have fun pretty much anywhere. We enjoy the simple things in life, and Portland provides a great platform for that enjoyment.
 
-![Lucy happy at the coffee shop](/images/Portland/Sep_20_4_47_07.jpg)
+![Lucy happy at the coffee shop]({{site.url}}/images/Portland/Sep_20_4_47_07.jpg)
 
 The next day during the lunch break I rode to River City Bicycles and enjoyed some free espresso and finally got a shop cap for my collection (last year they didn't have any).
 
-![River City Bicycles](/images/Portland/Sep_21_3_38_04.jpg)
+![River City Bicycles]({{site.url}}/images/Portland/Sep_21_3_38_04.jpg)
 
 The rest of the family did some shopping as well, Lucy fits in well aesthetically. 
 
-![Lucy shopping](/images/Portland/Sep_21_6_27_54.jpg)
+![Lucy shopping]({{site.url}}/images/Portland/Sep_21_6_27_54.jpg)
 
 And before we had to leave, the kids had their Voodoo Doughnuts and Salt and Straw ice cream. We know what's up, Portland.
 
-![Lucy and Penn eating at Voodoo Doughnuts](/images/Portland/Sep_22_10_31_31.jpg)
+![Lucy and Penn eating at Voodoo Doughnuts]({{site.url}}/images/Portland/Sep_22_10_31_31.jpg)
 
-![Lucy eating ice cream at Salt and Straw](/images/Portland/Sep_22_7_18_29.jpg)
+![Lucy eating ice cream at Salt and Straw]({{site.url}}/images/Portland/Sep_22_7_18_29.jpg)

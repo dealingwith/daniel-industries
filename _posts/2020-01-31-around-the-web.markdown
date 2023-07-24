@@ -19,13 +19,13 @@ categories:
 
 [Andrei Kashcha](https://github.com/anvaka) makes fantastic visualizes of data. The latest is [city roads](https://anvaka.github.io/city-roads/)
 
-[![](/assets/2020/01/2020_02_01T04_31_57_058Z.png)](/assets/2020/01/2020_02_01T04_31_57_058Z.png)
+[![]({{site.url}}/assets/2020/01/2020_02_01T04_31_57_058Z.png)]({{site.url}}/assets/2020/01/2020_02_01T04_31_57_058Z.png)
 
 ---
 
 [Lee Madgwick](https://leemadgwick.co.uk/) paints haunting architecture.
 
-![](/assets/2020/01/The-Congregationlarge.jpg)
+![]({{site.url}}/assets/2020/01/The-Congregationlarge.jpg)
 
 ---
 

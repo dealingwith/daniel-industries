@@ -38,7 +38,7 @@ From Cal Newport's podcast [episode 53: _Covey's Quads, "Perfect" Productivity S
 
 ---
 
-As 2021 begins, I realize that as 2020 wore on I once again found myself in [a batting cage](/2020/06/20/more-weblogging/) and I'm trying to think about ways to better manage that pitching machine.
+As 2021 begins, I realize that as 2020 wore on I once again found myself in [a batting cage]({{site.url}}/2020/06/20/more-weblogging/) and I'm trying to think about ways to better manage that pitching machine.
 
 ---
 

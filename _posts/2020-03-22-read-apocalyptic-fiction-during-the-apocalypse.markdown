@@ -6,7 +6,7 @@ date: 2020-03-22 22:19:32 -0500
 categories: 
 ---
 
-[![](/assets/2020/03/chainmail.jpg)](https://www.amazon.com/Wear-Chainmail-Apocalypse-Book-Beginning-ebook/dp/B083F5SQHH/)
+[![]({{site.url}}/assets/2020/03/chainmail.jpg)](https://www.amazon.com/Wear-Chainmail-Apocalypse-Book-Beginning-ebook/dp/B083F5SQHH/)
 
 [David Hopkins](https://thatdavidhopkins.com/) is the person responsible for my move to Dallas in 2004. I was writing for an online magazine that he edited. I made friends with this small group of thinkers here; I even came out to visit them before I moved to Europe. When that adventure quickly concluded, it just made sense to come here for a little while. 16 years later...
 

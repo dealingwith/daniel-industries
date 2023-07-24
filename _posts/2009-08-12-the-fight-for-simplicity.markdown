@@ -12,7 +12,7 @@ categories:
  - ux
 ---
 
-[I spoke to simplicity before](/2009/05/26/there-will-be-a-rise-of-new-creative-leaders-in-the-world-fueled-by-rich-humanity/), but lately it has become a bit of a mantra
+[I spoke to simplicity before]({{site.url}}/2009/05/26/there-will-be-a-rise-of-new-creative-leaders-in-the-world-fueled-by-rich-humanity/), but lately it has become a bit of a mantra
 of mine, accosted from all sides, it seems, by **complexity**. I've made some
 observations:
 
@@ -83,4 +83,3 @@ interface design, as that is an area I read the most about:
    [15]: http://startuplessonslearned.blogspot.com/2009/08/minimum-viable-product-guide.html
 
    [16]: http://www.c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork
-

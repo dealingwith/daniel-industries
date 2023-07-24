@@ -6,9 +6,9 @@ date: 2020-07-11 20:29:08 -0500
 categories: 
 ---
 
-![](/assets/2020/07/neofetch.png)
+![]({{site.url}}/assets/2020/07/neofetch.png)
 
-So far I think my only mention of Linux has been [this post](/2020/03/13/what-to-do-if-ubuntu-cannot-see-partitions-due-to-the-ssd-being-in-raid-mode/ "What to Do if Ubuntu Cannot See Partitions Due to the SSD Being in RAID Mode"), but I have in fact been using Ubuntu as my primary OS for about a month now. I bought a 2019 XPS 15 7590 on sale in the spring in anticipation of using my work MacBook Pro less for personal use. At first, I installed Ubuntu 18.04 as dual-boot with the original Windows install. I did have to follow the same steps described in that post to get it to install.
+So far I think my only mention of Linux has been [this post]({{site.url}}/2020/03/13/what-to-do-if-ubuntu-cannot-see-partitions-due-to-the-ssd-being-in-raid-mode/ "What to Do if Ubuntu Cannot See Partitions Due to the SSD Being in RAID Mode"), but I have in fact been using Ubuntu as my primary OS for about a month now. I bought a 2019 XPS 15 7590 on sale in the spring in anticipation of using my work MacBook Pro less for personal use. At first, I installed Ubuntu 18.04 as dual-boot with the original Windows install. I did have to follow the same steps described in that post to get it to install.
 
 What happened was, switching between computers for work/personal was too much hassle, and the Dell sat in my bag while I continued to use the MBP in both contexts. It wasn't until I left that job and returned the MBP that I started using the Dell full-time.
 
@@ -35,7 +35,7 @@ I had spent some nights messing with the 18.04 install--installing themes, etc. 
 
 Fonts were a bit of an issue. I installed my favorite monospace font--[Source Code Pro](https://en.wikipedia.org/wiki/Source_Code_Pro#:~:text=Source%20Code%20Pro%20is%20a%20set%20of%20monospaced%20OpenType%20fonts,designed to work well in coding environments.)--easily enough. That covered my preferences for Sublime and Terminal. I actually like the Ubuntu font so I'm using that pretty much everywhere else possible. However, I noticed web pages were somehow still rendering Arial when declared in their font-family. I have a long-standing hatred of Arial, since even before I switched from Windows to Mac in the late '00s. It turns out it wasn't Arial at all, but some other font that was being used as a substitution for Arial. I discovered, via some post I can't find anymore, that I could specify which font is substituted in Font Manager. Since most sites have Helvetica ahead of Arial in the font-family, I just substituted that one.
 
-![](/assets/2020/07/font-manager.png)
+![]({{site.url}}/assets/2020/07/font-manager.png)
 
 Not perfect but good enough for now.
 
@@ -55,7 +55,7 @@ When Apple took away the physical escape key, I mapped caps lock to escape and h
 
 I've already mentioned the brightness control issue and the occasional Chromium crashes and the struggle to figure out why non-existent fonts were still rendering. But the most annoying thing is that fractional scaling isn't working. [This is a new feature in Ubuntu 20.04](https://www.omgubuntu.co.uk/2020/04/ubuntu-20-04-fractional-scaling-support-setting#:~:text=Ubuntu%2020.04%20has%20a%20switch,the%20feature%20is%20turned%20on%3A&text=I%20opened%20Activity%20Monitor%20and%20waited%20for%20it%20to%20settle.) and one I was really looking forward to making use of. Basically, 100% is too small and 200% is too big on my main 27" monitor. Additionally, I can't seem to be able to set my 27" to a different scaling percentage than the built-in laptop screen when they're in side-by-side mode. (200% is too small but 300% is too big on the laptop screen, though, so without fractional scaling working, it doesn't matter.)
 
-![](/assets/2020/07/display-settings.png)
+![]({{site.url}}/assets/2020/07/display-settings.png)
 
 ## Resources
 
@@ -69,7 +69,7 @@ I'd long since moved away from the Apple ecosystem. I switched to Android years 
 
 I don't use any Adobe or Apple software or play any games that would keep me locked into either macOS or Windows. A large percentage of the software I use or might be interested in is either available on Linux or has a Linux equivalent. I can live without the rest.
 
-![](/assets/2020/07/elitism801_1024x1024.webp)
+![]({{site.url}}/assets/2020/07/elitism801_1024x1024.webp)
 
 But mostly, I want to be different. I want to be able to tweak as many things as possible with this interface that I sit in front of for the majority of my waking hours. I don't want to pay a company more money because they're a popular brand. I'm actually less interested in a thing if it is popular. I don't want to give the biggest company in the world more money. (Yes, the Google ecosystem thing is still an issue--to the point I'm considering going back to an iPhone, but I don't think I will.) I want to be out on the edges as much as possible. That's where all the interesting things are happening.
 

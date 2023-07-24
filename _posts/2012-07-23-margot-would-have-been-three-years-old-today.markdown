@@ -10,7 +10,7 @@ categories:
 
 Margot
 
-I [said](/2011/11/29/desire-and-meaning/ "it is time to stop writing publicly about it in such an explicit manner") I wouldn't blog about it again. I am.
+I [said]({{site.url}}/2011/11/29/desire-and-meaning/ "it is time to stop writing publicly about it in such an explicit manner") I wouldn't blog about it again. I am.
 
 I thought I would be able to look at her pictures and watch her videos by now. I still can't, really.
 

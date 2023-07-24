@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-![I worry that soon we will drift centuries apart, unable to communicate ever again.](/images/ds_relationship_internet.png)
+![I worry that soon we will drift centuries apart, unable to communicate ever again.]({{site.url}}/images/ds_relationship_internet.png)
 
 From "It's not you, it's meme" by [Richard Stevens](http://http://dieselsweeties.com/) See also: "[Analogjam](http://www.dieselsweeties.com/archive/3472)".
 

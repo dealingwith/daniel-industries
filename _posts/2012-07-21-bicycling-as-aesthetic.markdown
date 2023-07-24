@@ -12,7 +12,7 @@ The original title of this post when I started it almost six months ago was "Str
 
 This, I think, is a factor of approaching the sport not just from a competitive standpoint, but one that actually opposes what I would consider a more honorable way: that of riding a bicycle as an aesthetic, and ascetic, pursuit.
 
-I realized that many of my posts about cycling have to do with this aesthetic. [Turn](/2011/01/09/corner/); [Super Bowl](/2011/02/07/super-bowl/); [When in Doubt, Ride Hard](/2011/02/20/ride/); [Hell, Let's Keep Talking About Bikes](/2011/03/07/bikes/); [Dear Fellow Recreational...](/2011/07/16/dear-fellow-recreationalists/); [Yet Another Post About Bicycling](/2011/05/26/yapab/); [L'Eroica](/2011/09/27/leroica/); [The 2011 Festive 500](/2012/01/01/rapha/).
+I realized that many of my posts about cycling have to do with this aesthetic. [Turn]({{site.url}}/2011/01/09/corner/); [Super Bowl]({{site.url}}/2011/02/07/super-bowl/); [When in Doubt, Ride Hard]({{site.url}}/2011/02/20/ride/); [Hell, Let's Keep Talking About Bikes]({{site.url}}/2011/03/07/bikes/); [Dear Fellow Recreational...]({{site.url}}/2011/07/16/dear-fellow-recreationalists/); [Yet Another Post About Bicycling]({{site.url}}/2011/05/26/yapab/); [L'Eroica]({{site.url}}/2011/09/27/leroica/); [The 2011 Festive 500]({{site.url}}/2012/01/01/rapha/).
 
 [![Photo by Jered Gruber](http://farm9.staticflickr.com/8014/7433130290_0a65f374f9_o.jpg)](http://www.flickr.com/photos/smashred/7433130290/in/faves-dealingwith/)
 

@@ -6,7 +6,7 @@ date: 2021-01-26 16:11:18 -0600
 categories: 
 ---
 
-![](/assets/2021/01/backlog.jpg)
+![]({{site.url}}/assets/2021/01/backlog.jpg)
 
 [from @forrestbrazeal](https://twitter.com/forrestbrazeal/status/1348697534001274880/photo/1)
 
@@ -16,7 +16,7 @@ Some of these same programmers love personal productivity systems, though, almos
 
 > The goal of the control processes in GTD is to get everything except the current task out of your head and into this trusted system external to your mind. [#](https://en.wikipedia.org/wiki/Getting_Things_Done) 
 
-_(See also [Cal Newport on Productivity Systems](/2020/12/28/cal-newport-on-productivity-systems/).)_
+_(See also [Cal Newport on Productivity Systems]({{site.url}}/2020/12/28/cal-newport-on-productivity-systems/).)_
 
 David Allen also recommends a weekly review, so that items in the system are regularly reevaluated and reorganized.
 

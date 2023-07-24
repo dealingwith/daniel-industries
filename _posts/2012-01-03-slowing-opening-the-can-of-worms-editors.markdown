@@ -6,7 +6,7 @@ comments: true
 categories: [development, tools]
 ---
 
-![This Software is AMAZING](/files/2012/01/software.jpg)
+![This Software is AMAZING]({{site.url}}/files/2012/01/software.jpg)
 
 ## The Worms
 

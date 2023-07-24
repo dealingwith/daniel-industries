@@ -10,7 +10,7 @@ categories: [design, development]
 
 image by flickr user [qthomasbower](http://www.flickr.com/photos/qthomasbower/)
 
-Me ranting about intellectual property rights [is not new](/2009/12/30/2009-fives-part-2-fails/ "see number 1") [in any way](http://danielsjourney.com/2006/12/20/this-guy-is-a-total-wanker/) but I wrote this in an email to my Extra Sauce coworkers after some confusion about what images they could use when posting to social networks on our clients' behalf and it seems like a reasonable summary of the subject and unfortunately still timely given the amount of copyright infringement sites like Tumblr and Pinterest engender.
+Me ranting about intellectual property rights [is not new]({{site.url}}/2009/12/30/2009-fives-part-2-fails/ "see number 1") [in any way](http://danielsjourney.com/2006/12/20/this-guy-is-a-total-wanker/) but I wrote this in an email to my Extra Sauce coworkers after some confusion about what images they could use when posting to social networks on our clients' behalf and it seems like a reasonable summary of the subject and unfortunately still timely given the amount of copyright infringement sites like Tumblr and Pinterest engender.
 
 ---
 

@@ -6,6 +6,6 @@ date: 2021-01-28 14:57:23 -0600
 categories: 
 ---
 
-![](/assets/2021/01/milo-lake.jpg)
+![]({{site.url}}/assets/2021/01/milo-lake.jpg)
 
 This picture is everything. All the feels. This is my son. This is me.

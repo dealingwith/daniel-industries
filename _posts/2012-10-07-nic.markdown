@@ -16,7 +16,7 @@ Today I found out [Nic Hughes](http://hauntedgeographies.typepad.com/) lost his 
 > Hope this is not too invasive? Take care,
 > Nic Hughes
 
-On the way home from the office, where I was when I heard, I was somehow drawn to memories of a host of those we've lost. I found myself listening to [Carter](http://www.carteralbrecht.com/)'s record. I happened to drive by where earlier this year we saw [a teenage girl killed](/2012/01/01/rapha/).
+On the way home from the office, where I was when I heard, I was somehow drawn to memories of a host of those we've lost. I found myself listening to [Carter](http://www.carteralbrecht.com/)'s record. I happened to drive by where earlier this year we saw [a teenage girl killed]({{site.url}}/2012/01/01/rapha/).
 
 Later, in reply to my helpless email of remorse, our mutual friend [Kester](http://www.kesterbrewin.com/) replied:
 
@@ -28,7 +28,7 @@ It's hard to conceive of the fact that my own suffering gives space for others',
 
 Amen to that, and godspeed, Nic.
 
-[![](/images/space.jpg)](http://www.smallfire.org/vaux_gifted.html)
+[![]({{site.url}}/images/space.jpg)](http://www.smallfire.org/vaux_gifted.html)
 
 Here is something I recorded for Nic (as requested of many by his friends before his passing). It might give you a little insight into what Nic meant to me:
 

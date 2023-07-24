@@ -37,11 +37,11 @@ US participation in World War I lasted from April 6, 1917 to November 11, 1918--
 
 There are over four times more people dying every day from COVID-19 than there were dying per day during World War I.
 
-![](/assets/2020/04/lusitania-coffins_2898200k.jpg)
+![]({{site.url}}/assets/2020/04/lusitania-coffins_2898200k.jpg)
 
 _^ 1915_
 
-![](/assets/2020/04/EVQBgX8VAAE1Wp5.jpg)
+![]({{site.url}}/assets/2020/04/EVQBgX8VAAE1Wp5.jpg)
 
 _^ 2020_
 

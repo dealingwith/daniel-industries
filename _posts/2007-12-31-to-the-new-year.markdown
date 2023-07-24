@@ -11,7 +11,7 @@ categories:
  - mp3 of the day
 ---
 
-![](/assets/2007/12/chickennewyear2.jpg)
+![]({{site.url}}/assets/2007/12/chickennewyear2.jpg)
 
 Just woke up from a weird dream that I'm unsure has any real meaning, but one
 thing I do know; the transition from 2007 to 2008 has significantly more

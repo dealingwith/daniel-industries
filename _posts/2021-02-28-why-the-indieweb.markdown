@@ -8,7 +8,7 @@ categories:
  - indieweb
 ---
 
-![](/assets/2021/02/why-the-indieweb.png)
+![]({{site.url}}/assets/2021/02/why-the-indieweb.png)
 
 [Why the Indieweb](https://briefs.video/videos/why-the-indieweb/)
 

@@ -3,7 +3,7 @@ layout: post
 title: In Order to Remember We Must First Forget
 ---
 
-![See no evil](/assets/2010/09/blindfold.jpg)
+![See no evil]({{site.url}}/assets/2010/09/blindfold.jpg)
 <span class="small">[Image by Lee Carson](https://flic.kr/p/5uErxo)</span>
 
 Before I really get started here, there is something we all need to understand about what it is like to lose a child: it is impossible. It is impossible to comprehend. It is impossible to think about. It is impossible to even mentally _approach_ the loss. 

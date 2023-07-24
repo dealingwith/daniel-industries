@@ -13,7 +13,7 @@ categories:
  - music
 ---
 
-![](/assets/2007/06/sc00003c2902_1280x1024_sm.jpg)
+![]({{site.url}}/assets/2007/06/sc00003c2902_1280x1024_sm.jpg)
 
 Johnny Citizen will be playing for the first time tonight at 11pm at the _Poor
 House_ in Ft. Lauderdale. Opening for _The Freakin Hott_.

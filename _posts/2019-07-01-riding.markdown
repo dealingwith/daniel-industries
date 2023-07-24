@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2019/07/wrl.jpg)
+![]({{site.url}}/assets/2019/07/wrl.jpg)
 
 >I do love a (so far) temperate summer. Alas, my 8-day streak will come to an end tomorrow as I have an early start at work (unless I manage to get a quick spin in after work). The legs have somewhat returned, as long as I keep it under 35 miles or so. With more time I could definitely inch my way back up to where I could do another century. Not going to happen, but good to know.
 

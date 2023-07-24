@@ -27,12 +27,12 @@ Said another way, the opportunity cost of working in a rapidly-changing field is
 
 Over the majority of the last decade, as my technical skills have become mostly obsolete and my business and management skills have not proportionally compensated, I've often found myself under waves of impostor syndrome. It's as if, at 45, I'm just now experiencing [Dunning-Kruger's](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect#:~:text=In%20the%20field%20of%20psychology,recognize%20their%20lack%20of%20ability.) _valley of despair_, not as it relates to a specific skill, but as it relates to my entire life.
 
-![](/assets/2020/11/Dunning-Kruger.jpg)
+![]({{site.url}}/assets/2020/11/Dunning-Kruger.jpg)
 
 As I watched the Adam Savage video above, as he referred to his "quiver full of arrows", all I could think was my arrows are broken and dull. The Nnamdi Iregbulem article confirmed my suspicions. I'm no longer qualified to accomplish the technical tasks I spent most of my career training myself to do properly. The new tasks are, by comparison, nauseatingly un-quantifiable. There's no [RSpec](https://rspec.info/) or [Cypress](https://www.cypress.io/) to let me know if I'm doing it right. There's just going out of business.
 
 At some point, being a leader doesn't mean understanding minefields more than others, it just means being the most willing to first step on a land mine.
 
-![](/assets/2020/11/call-it-a-draw.gif)
+![]({{site.url}}/assets/2020/11/call-it-a-draw.gif)
 
 <p class="small postscript">^ middle-age vs life ^</p>

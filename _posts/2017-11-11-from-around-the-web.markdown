@@ -7,7 +7,7 @@ comments: true
 categories: elsewhere
 ---
 
-Follow up on the [last one](/2017/11/04/from-around-the-web/):
+Follow up on the [last one]({{site.url}}/2017/11/04/from-around-the-web/):
 
 [Fuck Twitter](http://www.macdrifter.com/2017/11/fuck-twitter.html)
 
@@ -45,5 +45,4 @@ Follow up on the [last one](/2017/11/04/from-around-the-web/):
 
 [The First Lady of ISIS](https://www.youtube.com/watch?v=XsnNsHhKpU8)
 
-All via [Kottke](https://kottke.org/17/11/the-first-lady-of-isis). These stories will challenge your [nondual thinking](https://cac.org/the-dualistic-mind-2017-01-29/), and the comment section of the YouTube video is even more offensive (and full of dualistic thinking) than I expected it to be. Maybe you have to have some contradictory religious experiences in your past (I'm speaking from my own experience being part of a charismatic Christian cult, an evangelical, a post-evangelical, and now "[not a believing Christian, but a practicing Christian](/2016/05/06/im-not-a-believing-christian/)") (or at least I try), but I related to both of the main characters of this story. I actually had more issues relating to the gun-nut Unitarian Texan.
-
+All via [Kottke](https://kottke.org/17/11/the-first-lady-of-isis). These stories will challenge your [nondual thinking](https://cac.org/the-dualistic-mind-2017-01-29/), and the comment section of the YouTube video is even more offensive (and full of dualistic thinking) than I expected it to be. Maybe you have to have some contradictory religious experiences in your past (I'm speaking from my own experience being part of a charismatic Christian cult, an evangelical, a post-evangelical, and now "[not a believing Christian, but a practicing Christian]({{site.url}}/2016/05/06/im-not-a-believing-christian/)") (or at least I try), but I related to both of the main characters of this story. I actually had more issues relating to the gun-nut Unitarian Texan.

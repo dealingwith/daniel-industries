@@ -7,4 +7,4 @@ comments: true
 categories: 
 ---
 
-[![](/assets/2018/12/lucy.png)](/assets/2018/12/lucy.png)
+[![]({{site.url}}/assets/2018/12/lucy.png)]({{site.url}}/assets/2018/12/lucy.png)

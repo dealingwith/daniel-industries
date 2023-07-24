@@ -10,6 +10,6 @@ categories:
 
 > let me just switch the laundry real quick
 
-[![](/assets/2021/09/flowchart.jpg)](https://twitter.com/mjwhansen/status/1359902316166606853/photo/1)
+[![]({{site.url}}/assets/2021/09/flowchart.jpg)](https://twitter.com/mjwhansen/status/1359902316166606853/photo/1)
 
 -- [@mjwhansen](https://twitter.com/mjwhansen)

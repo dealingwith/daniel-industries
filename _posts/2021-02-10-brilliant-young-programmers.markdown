@@ -7,7 +7,7 @@ categories:
  - minecraft
 ---
 
-Last summer, [when we were forced to move our Minecraft U camps online](/2020/12/26/2020-year-in-review-part-2/), it allowed us to reach beyond our Dallas borders.
+Last summer, [when we were forced to move our Minecraft U camps online]({{site.url}}/2020/12/26/2020-year-in-review-part-2/), it allowed us to reach beyond our Dallas borders.
 
 > By being remote, we were able to have campers from all over the country. In fact, our star camper from this year lives in California.
 
@@ -63,7 +63,7 @@ for i in range(25):
 
 ----
 
-![](/assets/2021/02/2021-01-23_17.08.52.png "ComputerCraft computer with attached printer and our very first printout")
+![]({{site.url}}/assets/2021/02/2021-01-23_17.08.52.png "ComputerCraft computer with attached printer and our very first printout")
 
 The last few weeks we've been exploring the printer functionality in ComputerCraft. While printers are a thing and there is an API to print to them, there are no built-in programs to actually turn text into a printed page. For example, any call to print to the page just prints a single line and extra characters beyond the width of that line are not printed. So we had to write our own printing program to print multiple lines, then multiple pages. Again, I'm including just a portion of the program:
 

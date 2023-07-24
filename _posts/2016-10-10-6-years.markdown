@@ -8,7 +8,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2016/10/2257_cl_small.jpg)
+![]({{site.url}}/assets/2016/10/2257_cl_small.jpg)
 
 6 years ago, on 10-10-10, I married the most amazing woman in the world. In the last year she has proven just how amazing she really is.
 

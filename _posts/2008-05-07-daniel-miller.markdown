@@ -10,4 +10,4 @@ categories:
  - imagining
 ---
 
-[![](/assets/2008/05/daniel_miller.jpg)](http://www.flickr.com/photos/carissabyers/2473118424/)
+[![]({{site.url}}/assets/2008/05/daniel_miller.jpg)](http://www.flickr.com/photos/carissabyers/2473118424/)

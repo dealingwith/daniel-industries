@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2019/07/doug_burr.jpg)
+![]({{site.url}}/assets/2019/07/doug_burr.jpg)
 
 Last month we went to a Doug Burr show at a packed [Small Brewpub](http://www.smallbrewpub.com/). It was such a convergence and on such a night. Storms in the sky, the room open to the outside. Thunder boomed and lightning struck close by as Doug opened with [Chief of Police in Chicago](https://dougburr.bandcamp.com/track/chief-of-police-in-chicago).
 

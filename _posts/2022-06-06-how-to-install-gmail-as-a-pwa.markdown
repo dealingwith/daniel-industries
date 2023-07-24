@@ -13,5 +13,5 @@ categories:
 3. Tick the "Open as window" option
 
 <small>
-(Obviously, I am not making much progress on [de-googling](/2022/04/30/de-googling/).)
+(Obviously, I am not making much progress on [de-googling]({{site.url}}/2022/04/30/de-googling/).)
 </small>

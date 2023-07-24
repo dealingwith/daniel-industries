@@ -8,7 +8,7 @@ categories:
  - education
 ---
 
-I am running a proper programming camp for kids in July. I'm squeezing this in among all the [other work](/2021/07/01/confronting-the-productivity-dragon/), so I didn't expect much time to promote it. This morning over my second cup of coffee, after a nudge from my business partner, I penned [this email](https://adept-artisan-9009.ck.page/posts/learn-to-program-on-a-computer-adventure) to our modest email list. I am saving it here for my future self.
+I am running a proper programming camp for kids in July. I'm squeezing this in among all the [other work]({{site.url}}/2021/07/01/confronting-the-productivity-dragon/), so I didn't expect much time to promote it. This morning over my second cup of coffee, after a nudge from my business partner, I penned [this email](https://adept-artisan-9009.ck.page/posts/learn-to-program-on-a-computer-adventure) to our modest email list. I am saving it here for my future self.
 
 > *Learn to Program on a Computer Adventure*
 

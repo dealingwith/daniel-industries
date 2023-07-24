@@ -10,4 +10,4 @@ categories:
  - music
 ---
 
-[![](/assets/2006/09/iain-archer-magnetic-north-3-cd.jpg)](https://www.discogs.com/Iain-Archer-Magnetic-North/master/167163)
+[![]({{site.url}}/assets/2006/09/iain-archer-magnetic-north-3-cd.jpg)](https://www.discogs.com/Iain-Archer-Magnetic-North/master/167163)

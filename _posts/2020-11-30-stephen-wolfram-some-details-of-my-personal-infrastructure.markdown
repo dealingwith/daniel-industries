@@ -19,4 +19,4 @@ However, if you think the wholehearted pursuit of productivity is interesting or
 
 Only moderately related, but I'm going to put it here because it also just crossed my desk:
 
-[![](/assets/2020/11/blogging.jpg)](https://rakhim.org/honestly-undefined/19/)
+[![]({{site.url}}/assets/2020/11/blogging.jpg)](https://rakhim.org/honestly-undefined/19/)

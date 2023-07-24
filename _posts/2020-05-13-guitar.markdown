@@ -6,4 +6,4 @@ date: 2020-05-13 23:16:58 -0500
 categories: 
 ---
 
-![](/assets/2020/05/lucy_guitar.jpg)
+![]({{site.url}}/assets/2020/05/lucy_guitar.jpg)

@@ -26,7 +26,7 @@ The first surprise for me was [Jack Cheng](http://jackcheng.com/), who I had not
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2gq_0zdmjU" frameborder="0" allowfullscreen></iframe>
 
-I mentioned Jack Conte in my [last post](/2013/09/29/xoxo-2013-part-2/). Here is his talk. Don't forget to check out his project for funding artists, [patreon](http://www.patreon.com/).
+I mentioned Jack Conte in my [last post]({{site.url}}/2013/09/29/xoxo-2013-part-2/). Here is his talk. Don't forget to check out his project for funding artists, [patreon](http://www.patreon.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K9NjntTUJ1Q" frameborder="0" allowfullscreen></iframe>
 

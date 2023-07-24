@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-![](/assets/2018/09/ssos.jpeg)
+![]({{site.url}}/assets/2018/09/ssos.jpeg)
 
 I've featured tunes from this record already on this blog, but [my friend and producer Salim Nourallah's new record is out.](https://fanlink.to/SSOS) I recommend playing the last tune first, _Tucumcari (Band Version)_.
 

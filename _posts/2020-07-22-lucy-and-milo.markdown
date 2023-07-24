@@ -10,8 +10,8 @@ Carissa had a quick shoot with them while she had the home studio set up.
 
 It was so hard to pick only a few from the set.
 
-![](/assets/2020/07/DSC_0633.resized.jpg)
+![]({{site.url}}/assets/2020/07/DSC_0633.resized.jpg)
 
-![](/assets/2020/07/DSC_0764-2.resized.jpg)
+![]({{site.url}}/assets/2020/07/DSC_0764-2.resized.jpg)
 
-![](/assets/2020/07/DSC_0806-2.resized.jpg)
+![]({{site.url}}/assets/2020/07/DSC_0806-2.resized.jpg)

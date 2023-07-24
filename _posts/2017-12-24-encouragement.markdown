@@ -9,7 +9,7 @@ categories:
 
 I don't check Twitter very often. I deleted my personal account almost two years ago, so I only have the [MCU Twitter account](https://twitter.com/official_mcu) to read Twitter with, and I only check it about every-other month (due to time and, honestly, a lack of interest) (also, the account's following list is relatively indiscriminate).
 
-But today some tweets were in the feed that encouraged me, especially as I struggle with [burnout](/2017/12/21/america/). The last three days I've struggled with severe pain in my neck, something I've never experienced for more than a few hours at a time. I finally went to urgent care today and they gave me a shot of painkillers which have helped me not be in constant pain.
+But today some tweets were in the feed that encouraged me, especially as I struggle with [burnout]({{site.url}}/2017/12/21/america/). The last three days I've struggled with severe pain in my neck, something I've never experienced for more than a few hours at a time. I finally went to urgent care today and they gave me a shot of painkillers which have helped me not be in constant pain.
 
 Anyway, here are the tweets:
 

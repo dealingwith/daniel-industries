@@ -9,7 +9,7 @@ categories:
 
 [The Ocean Blue](http://www.theoceanblue.com) is a band originally from my hometown of Hershey, PA. They just released a new record, _Kings and Queens / Knaves and Thieves_, their eighth, but their first in six years.
 
-![](/assets/2019/06/TheOceanBlue_2019Album_HighRes.jpg)
+![]({{site.url}}/assets/2019/06/TheOceanBlue_2019Album_HighRes.jpg)
 
 I first heard about The Ocean Blue in the early '90s, probably because they were one of the bigger bands to come out of central Pennsylvania (the other being _Live_). My introduction to their work was 1991's _Cerulean_, which remains my favorite of their records to this day. 1996's _See The Ocean Blue_ is probably my second-favorite. I played in a band while in college in Tucson with some Ocean Blue enthusiasts and we obsessed over what, at three years since their previous release, seemed like a welcome break from a long wait for new Ocean Blue music.
 

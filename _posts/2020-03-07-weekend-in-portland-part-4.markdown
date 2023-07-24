@@ -10,13 +10,13 @@ Monday I had a lunch scheduled with my professional mentor, a former CTO of a pu
 
 Another coworker of mine has family at [Speedvagen](https://www.speedvagen.com/), and so at the last minute, I texted [him](http://www.bicyclecrumbs.com/ "Richard Pool") to see if I could get an early afternoon tour, before my flight later in the afternoon. He said sure! So off to another handmade bike builder's shop I went...
 
-![](/assets/2020/03/IMG_20200302_142510.jpg)
+![]({{site.url}}/assets/2020/03/IMG_20200302_142510.jpg)
 
-![](/assets/2020/03/IMG_20200302_135641.jpg)
+![]({{site.url}}/assets/2020/03/IMG_20200302_135641.jpg)
 
-![](/assets/2020/03/IMG_20200302_141137.jpg)
+![]({{site.url}}/assets/2020/03/IMG_20200302_141137.jpg)
 
-![](/assets/2020/03/IMG_20200302_140623.jpg)
+![]({{site.url}}/assets/2020/03/IMG_20200302_140623.jpg)
 
 While I was talking to Richard I mentioned my interaction with Dillen and Richard informed me that Dillen was not, in fact, Irish, and didn't always have an Irish accent. (Extremely short version...) ...he'd suffered brain trauma, after which he developed the accent. I was intrigued! He told me the entire story was part of a podcast episode. [This podcast episode](https://soundcloud.com/user-618984410/episode-57-dillen-maurer-of). You should listen to it. It's pretty amazing.
 

@@ -28,6 +28,6 @@ Sure there are the exceptions we all aspire to be. The _overachievers_. But I be
 
 Lucy remains amazing. I've missed so much in terms of documenting said amazingness on this blog. But she plays the drums, holds impromptu dance parties, is affectionate, opinionated, demanding and just so darn cute no one can even stand it, and I keep double checking my own prejudice against 3rd party exclamations of the same!
 
-![Lucy drums](/images/lucy_drums.jpg)
+![Lucy drums]({{site.url}}/images/lucy_drums.jpg)
 
 (Seriously, just go [follow my wife on Instagram](http://instagram.com/carissabyers).)

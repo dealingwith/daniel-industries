@@ -6,7 +6,7 @@ comments: true
 categories: [comment, technology]
 ---
 
-![Programming](/images/atari-basic-programming.jpg 'It is like nostalgia in a box!')
+![Programming]({{site.url}}/images/atari-basic-programming.jpg 'It is like nostalgia in a box!')
 
 I read two articles today that at first don't seem to have anything to do with one another but connected for me in a profound way that I'm going to attempt to capture in this post. I've been thinking a lot lately about how the web has changed since I first started participating in it at around the turn of the century.
 

@@ -14,7 +14,7 @@ Virtuosic German musicians Martin Miller, et al., performing [Easy Lover](https:
 
 ---
 
-Lauren and Daniel Goans of [Lowland Hum](https://lowlandhum.com/), who I have mentioned twice before on this blog _([Lowland Hum](/2020/02/08/lowland-hum/), [More Denison](/2020/03/21/more-denison/))_. They have a [send-a-song](https://lowlandhum.com/send-a-song) service that is obscenely under-priced. I was desperate for a mother's day present and working at the last minute when their email newsletter reminded me about this unbelievable offering. I quadrupled their asking price because it was last minute and also because _come on_. I didn't hear back. I just hoped it would arrive on the day requested. 
+Lauren and Daniel Goans of [Lowland Hum](https://lowlandhum.com/), who I have mentioned twice before on this blog _([Lowland Hum]({{site.url}}/2020/02/08/lowland-hum/), [More Denison]({{site.url}}/2020/03/21/more-denison/))_. They have a [send-a-song](https://lowlandhum.com/send-a-song) service that is obscenely under-priced. I was desperate for a mother's day present and working at the last minute when their email newsletter reminded me about this unbelievable offering. I quadrupled their asking price because it was last minute and also because _come on_. I didn't hear back. I just hoped it would arrive on the day requested. 
 
 _Good Lord did it ever_. It was perfect and touching and amazing and catchy and made Carissa cry. It's not for me to share but [here it is on her 'book](https://www.facebook.com/carissabyers/posts/10158578200553254).
 
@@ -29,4 +29,3 @@ Oh yeah, Denison. His new record is out. Buy it.
 ---
 
 [The Rouleur Longreads podcast: Deserter’s Dirty Weekend in Koksijde](https://journal.rouleur.cc/the-rouleur-longreads-podcast-deserters-dirty-weekend-in-koksijde/). Well worth the listen even if you're not a bicycle racing fan.
-

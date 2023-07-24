@@ -6,7 +6,7 @@ comments: true
 categories: music
 ---
 
-![Form](/images/form_cover_fullwidth.jpg)
+![Form]({{site.url}}/images/form_cover_fullwidth.jpg)
 
 I've hesitated and put off writing about this project for a number of reasons. I've been busy. The project itself, while completely necessary, took a lot of energy to complete, let alone promote. I haven't done the work yet to get the record onto your favorite subscription music services, or even Amazon and iTunes. And it's been hard to find enough superlatives with which to describe my friends who helped me.
 

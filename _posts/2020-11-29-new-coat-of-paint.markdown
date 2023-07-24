@@ -8,7 +8,7 @@ categories:
  - meta
 ---
 
-It all started pretty late last night as I emerged from a multi-day funk. I was working through some of the more recently captured cards on my board (including the one with the [Linux setup tips I used](/2020/11/28/tweaking-the-setup/)) and had one to look into [Tailwind](https://tailwindcss.com/), specifically something simple like a [minimal blog template](https://www.tailwindtoolbox.com/templates/minimal-blog). We're using Tailwind at work so something like throwing fresh paint on my blog seemed like the kind of thing that might give me a good introduction.
+It all started pretty late last night as I emerged from a multi-day funk. I was working through some of the more recently captured cards on my board (including the one with the [Linux setup tips I used]({{site.url}}/2020/11/28/tweaking-the-setup/)) and had one to look into [Tailwind](https://tailwindcss.com/), specifically something simple like a [minimal blog template](https://www.tailwindtoolbox.com/templates/minimal-blog). We're using Tailwind at work so something like throwing fresh paint on my blog seemed like the kind of thing that might give me a good introduction.
 
 I ended up using [a different "minimalist" blog template](https://www.tailwindtoolbox.com/templates/minimalist-blog) and stayed up really late and spent most of the morning getting it all working the way I wanted. For hours and hours I didn't even think to open email or glance at social media, and it was glorious.
 

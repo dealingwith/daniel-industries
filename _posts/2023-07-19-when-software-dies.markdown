@@ -29,6 +29,6 @@ They then describe how they learned "what it means to build software _products_.
 
 > It's an unfortunate truth that the team didn't always have the shared vision, the focus, the teamwork and the energy to solve every problem they wanted to...But one thing I'm fairly sure of is that none of the people who have already been laid off, or will be laid off next month, or whenever the Wordpress migration is "complete", are to blame for Chorus not succeeding in a way that may have made it look more appealing to the kinds of people who decided that it's time to end it.
 
-The interesting things about building software products together with other people are complex, nuanced. I've been revisiting my own 2011 post, _[Life Is Too Short to Make Shitty Software](/2011/03/15/life-is-too-short-to-make-shitty-software/)_, lately:
+The interesting things about building software products together with other people are complex, nuanced. I've been revisiting my own 2011 post, _[Life Is Too Short to Make Shitty Software]({{site.url}}/2011/03/15/life-is-too-short-to-make-shitty-software/)_, lately:
 
 > The problem is most of The People Using Our Software are within an even larger set of boundaries: rules, expectations, norms, mores, groupthink, culture, ignorance...part of the reason we make shitty software is because we live in a frequently shitty world.

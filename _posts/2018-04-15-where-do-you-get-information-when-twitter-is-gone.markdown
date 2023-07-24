@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-I covered [where to find online community after leaving Facebook](/2018/04/06/where-do-you-go-when-facebook-is-gone/) but what about Twitter? Twitter is good not just for community (in fact it's no longer really good for that) but more so for surfacing interesting links. 
+I covered [where to find online community after leaving Facebook]({{site.url}}/2018/04/06/where-do-you-go-when-facebook-is-gone/) but what about Twitter? Twitter is good not just for community (in fact it's no longer really good for that) but more so for surfacing interesting links. 
 
 The first answer to the question is already answered in my previous post: distributed Twitter-like services, Reddit and RSS.
 

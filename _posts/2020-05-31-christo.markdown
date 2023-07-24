@@ -6,7 +6,7 @@ date: 2020-05-31 21:56:38 -0500
 categories: 
 ---
 
-![](/assets/2020/05/christo.jpg)
+![]({{site.url}}/assets/2020/05/christo.jpg)
 
 [Christo, Artist Who Wrapped and Festooned on an Epic Scale, Dies at 84](https://www.nytimes.com/2020/05/31/arts/christo-dead.html)
 

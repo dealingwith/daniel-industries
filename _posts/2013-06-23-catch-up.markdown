@@ -10,11 +10,11 @@ Almost two months since my last blog post. Yes, I've been busy. I'm also looking
 
 ## Follow Up
 
-[RSS reader of choice](/2013/03/13/the-rumors-of-google-readers-death-have-not-been-greatly-exaggerated/), current: [feed.ly](http://feedly.com).
+[RSS reader of choice]({{site.url}}/2013/03/13/the-rumors-of-google-readers-death-have-not-been-greatly-exaggerated/), current: [feed.ly](http://feedly.com).
 
-I had to stop [playing Minecraft](/2013/04/26/busy-busy-busy-still/) due to a developing [RSI](http://en.wikipedia.org/wiki/Repetitive_strain_injury). (The game, like all first person games, involves a lot of mouse moving.) I miss it almost as much as I miss real beer. 
+I had to stop [playing Minecraft]({{site.url}}/2013/04/26/busy-busy-busy-still/) due to a developing [RSI](http://en.wikipedia.org/wiki/Repetitive_strain_injury). (The game, like all first person games, involves a lot of mouse moving.) I miss it almost as much as I miss real beer. 
 
-I haven't talked about my six month [sobriety](/2013/02/17/weeks-ten-and-eleven/) since the end of month one, apparently. It's gone ok. I've slipped up but certainly haven't been tempted to cut it short or slipped back into the habit. I am, however, counting the weeks left (I'm in month six now). I'm going to have to monitor myself carefully when I do start drinking again. I'm concerned about the amount of desire still left for the sauce but confident lifting the restrictions will be anticlimatic. 
+I haven't talked about my six month [sobriety]({{site.url}}/2013/02/17/weeks-ten-and-eleven/) since the end of month one, apparently. It's gone ok. I've slipped up but certainly haven't been tempted to cut it short or slipped back into the habit. I am, however, counting the weeks left (I'm in month six now). I'm going to have to monitor myself carefully when I do start drinking again. I'm concerned about the amount of desire still left for the sauce but confident lifting the restrictions will be anticlimatic. 
 
 ## Lucy: 17 Months
 

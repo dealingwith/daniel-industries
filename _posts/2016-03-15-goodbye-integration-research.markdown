@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-![Integration Research logo](/assets/2016/03/IR-logo-05.gif)
+![Integration Research logo]({{site.url}}/assets/2016/03/IR-logo-05.gif)
 
 A few days ago I let a domain I've owned for around 15 years expire.
 
@@ -34,12 +34,12 @@ I still feel like IR could have been a longer-lasting enterprise had I remained 
 
 ---
 
-![Integration Research mark](/assets/2016/03/IR-mark-02.gif "Integration Research mark")
+![Integration Research mark]({{site.url}}/assets/2016/03/IR-mark-02.gif "Integration Research mark")
 
 Shout out to [Joshua Rudd](http://joshuarudd.com/) for creating the IR and gallery logos and marks.
 
 ---
 
-![Integration Research London launch event flyer](/assets/2016/03/invite2004_big.png "Integration Research London launch event flyer")
+![Integration Research London launch event flyer]({{site.url}}/assets/2016/03/invite2004_big.png "Integration Research London launch event flyer")
 
 We launched in early 2004 with a trip to London, where we had many friends doing interesting things. (I had completely forgotten about [Jerry Springer: The Opera](https://en.wikipedia.org/wiki/Jerry_Springer:_The_Opera).)

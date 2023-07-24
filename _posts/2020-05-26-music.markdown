@@ -6,7 +6,7 @@ date: 2020-05-26 23:28:50 -0500
 categories: 
 ---
 
-Until last weekend, I hadn't written a song in about ten years. Then Lucy broke out the Danelectro [again](/2020/05/13/guitar/) and I picked it up just to noodle on it. Then noodling turned into a little phrase. Then that phrase turned into a verse progression, and then a chorus progression was discovered. 
+Until last weekend, I hadn't written a song in about ten years. Then Lucy broke out the Danelectro [again]({{site.url}}/2020/05/13/guitar/) and I picked it up just to noodle on it. Then noodling turned into a little phrase. Then that phrase turned into a verse progression, and then a chorus progression was discovered. 
 
 Then Lucy began to sing over the progressions. Then she wrote down the words she was singing.
 
@@ -20,7 +20,7 @@ The next day another song came to us. After a decade of nothing, thanks to a col
 
 That night she lay in her bed writing more lyrics for the song.
 
-![](/assets/2020/05/lucy-writing-lyrics.jpg)
+![]({{site.url}}/assets/2020/05/lucy-writing-lyrics.jpg)
 
 ---
 
@@ -34,4 +34,4 @@ Penn used some of his money to buy a melodica.
 
 This old picture I stumbled across tonight makes me need to figure out where I can set up my acoustic drums again:
 
-![](/assets/2020/05/old-drums.jpg)
+![]({{site.url}}/assets/2020/05/old-drums.jpg)

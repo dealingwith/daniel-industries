@@ -23,7 +23,7 @@ Bikes:
 
 * [Dustin Klein](https://www.youtube.com/channel/UCV9WtB_q5sJfe3Rev5PWy-Q)
 * [Cody Kaiser](https://www.youtube.com/user/thekidkaiser)
-* [Path Less Pedaled](https://www.youtube.com/user/russroca) ([as previously mentioned](/2018/10/15/portland-by-bike/))
+* [Path Less Pedaled](https://www.youtube.com/user/russroca) ([as previously mentioned]({{site.url}}/2018/10/15/portland-by-bike/))
 * [Global Cycling Network](https://www.youtube.com/user/globalcyclingnetwork)
 * [The Vegan Cyclist](https://www.youtube.com/channel/UCpn6aFvwAI_hK9WuHcdvQGA)
 * [UCI](https://www.youtube.com/user/ucichannel)

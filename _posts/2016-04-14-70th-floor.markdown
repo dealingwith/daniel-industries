@@ -7,6 +7,6 @@ comments: true
 categories: 
 ---
 
-[![70th floor, BoA building, downtown Dallas](/assets/2016/04/70thfloor_boa.jpg "70th floor, BoA building, downtown Dallas")](/assets/2016/04/70thfloor_boa.jpg)
+[![70th floor, BoA building, downtown Dallas]({{site.url}}/assets/2016/04/70thfloor_boa.jpg "70th floor, BoA building, downtown Dallas")]({{site.url}}/assets/2016/04/70thfloor_boa.jpg)
 
-This was the view from where we gave [our talk](/2016/04/08/dallas-startup-week-talks/) yesterday. I don't think I've ever been that high up in Dallas before. Photo by [Andrew Miller](https://twitter.com/findandrew).
+This was the view from where we gave [our talk]({{site.url}}/2016/04/08/dallas-startup-week-talks/) yesterday. I don't think I've ever been that high up in Dallas before. Photo by [Andrew Miller](https://twitter.com/findandrew).

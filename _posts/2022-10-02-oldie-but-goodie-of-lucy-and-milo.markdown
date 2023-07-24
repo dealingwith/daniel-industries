@@ -8,7 +8,7 @@ categories:
  - imagining
 ---
 
-!["Lucy tries to bite Milo"](/assets/2022/10/lucy-milo-halloween-pasadena.gif)
+!["Lucy tries to bite Milo"]({{site.url}}/assets/2022/10/lucy-milo-halloween-pasadena.gif)
 
 I've had this sitting around my cloud drive storage for a long time, and this morning was cleaning out said storage. Obviously, it is from halloween. I think it must have been from the last halloween at our old house, which would have been 2020.
 

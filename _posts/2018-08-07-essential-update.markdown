@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-Yesterday, the day [Android Pie](https://www.android.com/versions/pie-9-0/) was released, I was pushed an update to Pie on [my](/2017/12/13/essential-phone/) [Essential Phone](https://www.essential.com/). As far as I know, it was the first phone model to be pushed Android Pie, even before Google's own phones.
+Yesterday, the day [Android Pie](https://www.android.com/versions/pie-9-0/) was released, I was pushed an update to Pie on [my]({{site.url}}/2017/12/13/essential-phone/) [Essential Phone](https://www.essential.com/). As far as I know, it was the first phone model to be pushed Android Pie, even before Google's own phones.
 
 [The Verge sums it up pretty much the way I was going to here](https://www.theverge.com/circuitbreaker/2018/8/6/17656294/essential-phone-android-9-pie-update-now-available):
 

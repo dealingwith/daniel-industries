@@ -7,7 +7,7 @@ categories:
  - covid
 ---
 
-COVID-19 is completely out of control and no one seems to care. It's pretty easy to see that January 2021 is going to be a very dark month and that it might be 2022 before things return to normal, and by then there could be another coronavirus ravaging humanity. [My April post about numbers](/2020/04/25/numbers/) was so naive about how bad things could get. It could become the 2nd biggest killer of Americans ever, only outdone by the Civil War. How appropriate given the politicization of the whole mess.
+COVID-19 is completely out of control and no one seems to care. It's pretty easy to see that January 2021 is going to be a very dark month and that it might be 2022 before things return to normal, and by then there could be another coronavirus ravaging humanity. [My April post about numbers]({{site.url}}/2020/04/25/numbers/) was so naive about how bad things could get. It could become the 2nd biggest killer of Americans ever, only outdone by the Civil War. How appropriate given the politicization of the whole mess.
 
 Everything's terrible and no one is leading us and we can't get any signal for the noise. It feels like we're under siege, we are under siege, and the enemy is invisible and right outside our door every day when we have to go buy soap or gasoline.
 
@@ -32,4 +32,3 @@ I'm not exactly public about this aspect of my life (I ticked over five years so
 > When our condition is dependent on the actions of another person, when we're in that limbo, that's a tough place to be.
 
 > Meetings like this keep me right-sized. (But) by 1:30 I could be out directing traffic.
-

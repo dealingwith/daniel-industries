@@ -67,11 +67,11 @@ Gantt charts are a lagging indicator of dysfunction, specifically a lack of trus
 
 ---
 
-This is an ongoing topic on this website. In the past I've quoted [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) [here](/2020/02/15/agile-and-hiring/):
+This is an ongoing topic on this website. In the past I've quoted [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) [here]({{site.url}}/2020/02/15/agile-and-hiring/):
 
 > There exists many a corner office whose occupant, if forced to choose, will take an absence of surprises over a substantive outcome.
 
-...and Marty Cagan [here](/2021/10/28/process-people/):
+...and Marty Cagan [here]({{site.url}}/2021/10/28/process-people/):
 
 > I certainly understand the attraction of scaling with process, and the hunger for a framework or some form of “recipe for success” at scale. But that’s just not the reality in good companies. The truth is that product leadership is hard.
 
@@ -103,7 +103,7 @@ Applicable laws:
 
 ---
 
-From _The ‘awful idea of accountability’: inscribing people into the measurement of objects_ (which I'm working on archiving [here](/the-awful-idea-of-accountability))
+From _The ‘awful idea of accountability’: inscribing people into the measurement of objects_ (which I'm working on archiving [here]({{site.url}}/the-awful-idea-of-accountability))
 
 > Accountability is more than, indeed systematically different from, responsibility. The latter entails, literally, being liable to answer for duties defined as yours. Responsibility implies stewardship, the proper conserving and use of those things charged to you, whether by an owner, a sovereign, or a metaphysical authority such as God, orthe people. Responsibility entails the discharge of one’s charge: it demands a reckoning, and in that sense an accounting for how you have conserved and used the things with which you have been charged (whether they be goods, money or powers). Its technical accounting form is therefore the ancient charge/discharge system of stewardship, which can be found as far back as ancient Egypt.
 

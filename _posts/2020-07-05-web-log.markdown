@@ -50,6 +50,6 @@ Did you know [peopleofthepandemicgame.com](https://peopleofthepandemicgame.com/)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So many thank you&#39;s to Stephen Osserman for partnering w/ me on this, <a href="https://twitter.com/sidneymbell?ref_src=twsrc%5Etfw">@sidneymbell</a> for giving invaluable feedback, <a href="https://twitter.com/jhooks?ref_src=twsrc%5Etfw">@jhooks</a> for offering <a href="https://twitter.com/eggheadio?ref_src=twsrc%5Etfw">@eggheadio</a>—and thus <a href="https://twitter.com/Mappletons?ref_src=twsrc%5Etfw">@Mappletons</a> <a href="https://twitter.com/_jonesian?ref_src=twsrc%5Etfw">@_jonesian</a> <a href="https://twitter.com/vjthlk?ref_src=twsrc%5Etfw">@vjthlk</a>—support, <a href="https://twitter.com/observablehq?ref_src=twsrc%5Etfw">@observablehq</a> for answering our Q&#39;s, and <a href="https://twitter.com/DataVizSociety?ref_src=twsrc%5Etfw">@DataVizSociety</a> for providing feedback!</p></blockquote>
 
-![](/assets/2020/07/egghead-credits.png)
+![]({{site.url}}/assets/2020/07/egghead-credits.png)
 
 &mdash; Shirley Wu (@sxywu) <a href="https://twitter.com/sxywu/status/1252345059950780416?ref_src=twsrc%5Etfw">April 20, 2020</a>

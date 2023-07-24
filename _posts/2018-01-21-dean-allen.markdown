@@ -29,7 +29,7 @@ I've deleted all my accounts on such sites; I have a hard drive littered with ol
 
 One time, long ago, I started a small art project called _Progress_ in which I took a photo of my desk and a screenshot of my computer every day for a while. It wasn't compelling enough to do anything with. But I just dug up the images out of curiosity. 
 
-![](/assets/2018/01/8ii.jpg)
+![]({{site.url}}/assets/2018/01/8ii.jpg)
 
 I guess I've always had a messy desk. This was 2002. There was less internet back then, though. Printing was a thing. Books were still read on paper. CDs were a thing. 
 

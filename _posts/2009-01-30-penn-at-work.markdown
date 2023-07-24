@@ -14,7 +14,7 @@ categories:
  - work
 ---
 
-![](/assets/2009/01/3240249714_41f7dcba23_h.jpeg)
+![]({{site.url}}/assets/2009/01/3240249714_41f7dcba23_h.jpeg)
 
 [Penn at work][3]
 

@@ -26,7 +26,7 @@ categories:
 
 > Consider how boring it is within our homes. The kid stays in the assigned kid’s room while the grown-up sits on an inherited couch in another room. We’re completely overfurnished. What would it be like on the other hand, if space were understood more playfully, more free, if movement and being in a space also could mean climbing, reclining, sliding?” What would happen, Parent asked, if you make people group in ways different to those required by the given social parameters of “chair”, “table”, “sofa”, “bed”, etc? Can furnitureless architecture affect dynamics between people? Claude Parent explored this question – and in so doing became one of the most important social utopians in the modern history of architecture.
 
-![](/assets/2019/04/claude_parent0.jpg)
+![]({{site.url}}/assets/2019/04/claude_parent0.jpg)
 
 > In 1970, he installed an artificial landscape made of slopes in the French pavilion at the Venice Biennale. He renovated his house. All furniture was eliminated and instead, ramps and sloped surfaces were built in. A photograph from that time shows Parent with family and guests: like a guru of unfurnished existence, he sits on one of these slopes while the others squat, lounge and recline around him as if they were the deconstructed return of the school of athens. it’s hard to tell what is a wall and what is a ceiling, to distinguish what is up from what is down. Through this dissolution of categories and order systems, Parent wanted to discover a new freedom.
 
@@ -35,5 +35,3 @@ categories:
 > Parent was celebrated as a hero of deconstruction, as one of the first to implement Derrida’s theory – to take an established system and not destroy it, but rather to take it apart and put it back together in a new, playful, less hierarchical way – in the field of construction.
 
 [Claude Parent: The Supermodernist](https://032c.com/the-supermodernist-architect-claude-parent/)
-
-

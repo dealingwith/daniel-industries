@@ -9,9 +9,8 @@ categories:
 
 I wrote my first Chrome extension. It is very simple. It lets you hide columns in [Trello](https://trello.com). It will only make sense if you use Trello. If you do you should notice something different in the below screenshot.
 
-![](/assets/2016/08/collar.png)
+![]({{site.url}}/assets/2016/08/collar.png)
 
 [Get it here ⇢](https://chrome.google.com/webstore/detail/collar-for-trello/gihipdjddmpohdaojninllaghokfaend)
 
 [View the code here ⇢](https://github.com/dealingwith/collar)
-

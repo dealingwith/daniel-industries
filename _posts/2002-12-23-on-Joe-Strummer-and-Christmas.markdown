@@ -7,7 +7,7 @@ categories:
 
 Joe Strummer has left us, gone up to join what can only be described as the most amazing rock band ever in the sky. Enough cannot be said about his place in our more recent cultural history.
 
-One thing you might not know is that he had worked quite a bit with Michael Knott, one of my favorite “underground” guys. I was thinking during the [Misfits show](/2002/12/22/Misfits-show/), and this probably applied to Strummer, and most definitely to Knott, that these guys do not _have it made_ in any sense of the phrase; they have worked their asses off for years for little to no financial rewards. They continue to _live like artists_ in the truest sense of the word, day in, day out. No real brass ring. Hell, probably no health insurance. Living loan (aka recording contract) to loan, year to year. Not to mention the isolation of living on the road, moving town to town, day after day.
+One thing you might not know is that he had worked quite a bit with Michael Knott, one of my favorite “underground” guys. I was thinking during the [Misfits show]({{site.url}}/2002/12/22/Misfits-show/), and this probably applied to Strummer, and most definitely to Knott, that these guys do not _have it made_ in any sense of the phrase; they have worked their asses off for years for little to no financial rewards. They continue to _live like artists_ in the truest sense of the word, day in, day out. No real brass ring. Hell, probably no health insurance. Living loan (aka recording contract) to loan, year to year. Not to mention the isolation of living on the road, moving town to town, day after day.
 
 Tonight I was walking these city streets, they were mostly empty, it is the 23rd of December and all. It felt like the day after summer camp…the spots that just yesterday were hopping with life, combined auras feeding your own…now the difference makes for quite the void. That is what road life is. That is why the parties and the drugs for those that cannot handle the fact that the minute you get off that stage, things are pretty much the opposite…no throngs screaming, not even--the more common scenario for most guys and girls on the road--a handful of clubgoers.
 
@@ -26,4 +26,3 @@ Elsewhere: <a class="dead">Moby blogs about Strummer (dead link)</a>.
 <a href="http://news.bbc.co.uk/2/hi/entertainment/2602083.stm">Billy Bragg writes about him</a>: 
 
 <blockquote>...no-one struggled more manfully with the gap between the myth and the reality of being a spokesman for your generation than Joe Strummer...All musicians start out with ideals but hanging on to them in the face of media scrutiny takes real integrity.</blockquote>
-

@@ -22,9 +22,9 @@ In the meantime, said rewrite involves a **ton** of learning. The landscape for 
 
 Frankly, it's intimidating and exhausting. (Recent illness aside.)
 
-I don't want to diminish product design--doing it well, especially for products "at scale", requires many skills and significant time--but _actually building_ product--coding, setting up infrastructure, keeping it running, fixing bugs--is hard work. I said something similar [recently](/2018/03/11/product-camp/):
+I don't want to diminish product design--doing it well, especially for products "at scale", requires many skills and significant time--but _actually building_ product--coding, setting up infrastructure, keeping it running, fixing bugs--is hard work. I said something similar [recently]({{site.url}}/2018/03/11/product-camp/):
 
-> Software development, at least that which pertains to creating _real products_, remains a black art. How does one manage a black box, into which go good intentions and out of which appears (hopefully) working software? _Who are these people inside this box, and [why do they appear insane](/2017/12/20/stop-resenting-developers/)?_
+> Software development, at least that which pertains to creating _real products_, remains a black art. How does one manage a black box, into which go good intentions and out of which appears (hopefully) working software? _Who are these people inside this box, and [why do they appear insane]({{site.url}}/2017/12/20/stop-resenting-developers/)?_
 
 I recently heard a product manager lament something to the effect of, "Why can't we just go from design to a finished product?"
 

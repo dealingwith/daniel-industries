@@ -12,7 +12,7 @@ categories:
  - minutia
 ---
 
-![](/assets/2008/07/drums.jpg)
+![]({{site.url}}/assets/2008/07/drums.jpg)
 
 Finally.
 

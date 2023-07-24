@@ -8,14 +8,14 @@ comments: true
 categories: 
 ---
 
-![](/assets/2017/04/DSC_0260.jpg)
+![]({{site.url}}/assets/2017/04/DSC_0260.jpg)
 
-![](/assets/2017/04/DSC_0220-2.jpg)
+![]({{site.url}}/assets/2017/04/DSC_0220-2.jpg)
 
-![](/assets/2017/04/DSC_2673.jpg)
+![]({{site.url}}/assets/2017/04/DSC_2673.jpg)
 
-![](/assets/2017/04/DSC_2693.jpg)
+![]({{site.url}}/assets/2017/04/DSC_2693.jpg)
 
-![](/assets/2017/04/DSC_2861.jpg)
+![]({{site.url}}/assets/2017/04/DSC_2861.jpg)
 
 All photos by [Carissa Byers](http://carissabyers.com/). (Photography being just one of her many talents.)

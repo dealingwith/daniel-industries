@@ -17,12 +17,12 @@ This was actually the third part of a three-part talk, but the first two parts m
 
 My family came with me this year, which was fun.
 
-![](/assets/2016/06/akon0.jpg)
+![]({{site.url}}/assets/2016/06/akon0.jpg)
 
-![](/assets/2016/06/akon1.jpg)
+![]({{site.url}}/assets/2016/06/akon1.jpg)
 
-![](/assets/2016/06/akon2.jpg)
+![]({{site.url}}/assets/2016/06/akon2.jpg)
 
-![](/assets/2016/06/akon3.jpg)
+![]({{site.url}}/assets/2016/06/akon3.jpg)
 
 [Here is a Flickr search for A-kon photos from this year](https://www.flickr.com/search/?text=a-kon&sort=date-taken-desc&view_all=1&min_taken_date=1464757200&max_taken_date=1467349199&dimension_search_mode=min&height=640&width=640&media=photos).

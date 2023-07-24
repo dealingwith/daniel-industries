@@ -7,11 +7,11 @@ comments: true
 categories: 
 ---
 
-![](/assets/2019/08/DSC_0426-cl.jpg)
+![]({{site.url}}/assets/2019/08/DSC_0426-cl.jpg)
 
 I write this post every year.
 
-[2016](/2016/08/13/my-sweet-margot/), [2017](/2017/08/13/august-13/) and [last year](/2018/08/13/august-13/) for example.
+[2016]({{site.url}}/2016/08/13/my-sweet-margot/), [2017]({{site.url}}/2017/08/13/august-13/) and [last year]({{site.url}}/2018/08/13/august-13/) for example.
 
 I don't know exactly what to say this year. We were on vacation in California on her birthday and I forgot all about it. Later I was sad that it had passed me by unnoticed. Today I'm looking at my calendar trying to figure out when I can go put flowers on her grave. I'm so stupid busy these days.
 
@@ -21,4 +21,4 @@ In 2016 I said:
 
 We've since told her that story. Lucy cried, and looked at pictures of Margot for a long time, and asked some questions. That day we put Margot's picture on the piano with the rest of the kids. 
 
-My first post on this site about Margot's death was [In Order to Remember We Must First Forget](/2010/09/02/in-order-to-remember-we-must-first-forget/). It's good to be beyond the forgetting and on to the remembering.
+My first post on this site about Margot's death was [In Order to Remember We Must First Forget]({{site.url}}/2010/09/02/in-order-to-remember-we-must-first-forget/). It's good to be beyond the forgetting and on to the remembering.

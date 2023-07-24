@@ -29,7 +29,7 @@ Or, I'm reminded of what a new Internet friend from France wrote to me recently:
 
 ---
 
-...previously: [Freedom](/2018/12/30/freedom/), [Depth Year](/2019/01/19/depth-year-of-sorts/). We're getting close to something here, I'm just not sure what yet. It may be something that can't be captured in words.
+...previously: [Freedom]({{site.url}}/2018/12/30/freedom/), [Depth Year]({{site.url}}/2019/01/19/depth-year-of-sorts/). We're getting close to something here, I'm just not sure what yet. It may be something that can't be captured in words.
 
 >I say these words pretty loosely  
 There's so much more to life than words

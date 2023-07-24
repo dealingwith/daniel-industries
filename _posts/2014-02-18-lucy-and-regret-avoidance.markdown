@@ -6,7 +6,7 @@ comments: true
 categories: minutia
 ---
 
-[Some perspective](/2011/08/13/one-year/).
+[Some perspective]({{site.url}}/2011/08/13/one-year/).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1033868237/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sonlux.bandcamp.com/album/son-lux-breakthru-radio-session">Son Lux (BreakThru Radio Session) by Son Lux</a></iframe>
 
@@ -30,9 +30,9 @@ She plays drums and Paper Jamz guitar.
 
 She says *"Baby Milo in Mommy's tummy."*
 
-![](/images/DSC_3903.jpg)
+![]({{site.url}}/images/DSC_3903.jpg)
 
-![](/images/DSC_4327-2.jpg)
+![]({{site.url}}/images/DSC_4327-2.jpg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=72457702/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sonlux.bandcamp.com/album/we-are-rising-remixed">We Are Rising - REMIXED by Son Lux</a></iframe>
 

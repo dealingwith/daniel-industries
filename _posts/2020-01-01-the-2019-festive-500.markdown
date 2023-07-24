@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-The [first time I attempted the Festive 500 was 2010](/2011/01/09/corner/):
+The [first time I attempted the Festive 500 was 2010]({{site.url}}/2011/01/09/corner/):
 
 >My goal was to do half of the Rapha 500. I got to maybe 200k instead. But I went on the longest ride I’d done since the 90’s. I rode more days than I had in any given week since the 90’s. I’m noticeably faster now than I was two weeks before Christmas. I haven’t lost any weight. But when I’m on my bicycle my mind clears and fills with good ideas and sometimes, even, a little hope...
 
@@ -15,9 +15,9 @@ The [first time I attempted the Festive 500 was 2010](/2011/01/09/corner/):
 
 >It is starting to feel like the first beats of that cadence.
 
-[I was successful on my second attempt, in 2011](/2012/01/01/rapha/). I wasn't on Strava yet, so no digital trophy for me. 
+[I was successful on my second attempt, in 2011]({{site.url}}/2012/01/01/rapha/). I wasn't on Strava yet, so no digital trophy for me. 
 
-[I also managed it on my third attempt, in 2012](/2012/12/31/the-2012-festive-500/). I was unemployed at the time.
+[I also managed it on my third attempt, in 2012]({{site.url}}/2012/12/31/the-2012-festive-500/). I was unemployed at the time.
 
 Soon after, in 2013, I got a new job as the CTO of a (at the time) very small startup. In 2014, Milo was born.
 
@@ -25,7 +25,7 @@ So I hadn't completed a Festive 500 since 2012. Until this year.
 
 I had vacation time to use up, so I took some additional days off work. I got the bikes ready.
 
-![](/assets/2020/01/FF/day1.png)
+![]({{site.url}}/assets/2020/01/FF/day1.png)
 
 I rode [day 1](https://www.strava.com/activities/2954205474) and commented:
 
@@ -37,7 +37,7 @@ But I decided to take it one day at a time...
 
 ---
 
-![](/assets/2020/01/FF/day2.png)
+![]({{site.url}}/assets/2020/01/FF/day2.png)
 
 [Day 2](https://www.strava.com/activities/2956264839), Christmas. On both of the first two days I rode with my friend Stewart for the first half and then just extended the ride to get to 40 miles each day.
 
@@ -56,8 +56,8 @@ But I decided to take it one day at a time...
 
 <img src="/assets/2020/01/FF/day5.png" style="float:left; width: 45%; margin-right: 10px">[Day 5](https://www.strava.com/activities/2964035708) it rained all day. It was miserable outside. I decided to wait until it had (mostly) quit raining, but knowing I would be riding in the dark. I did leave shortly before sunset, which afforded me these tremendous views:
 
-![](/assets/2020/01/FF/day5pic1.jpg)
-![](/assets/2020/01/FF/day5pic2.jpg)
+![]({{site.url}}/assets/2020/01/FF/day5pic1.jpg)
+![]({{site.url}}/assets/2020/01/FF/day5pic2.jpg)
 
 I made a new friend on the trails that night, and we rode together for two out of my three laps around the lake. We were the only two riding at the lake at that time, so I was lucky to have run into him and have someone to chat with whilst churning out lake laps.
 
@@ -65,7 +65,7 @@ It started raining again a little bit, and the standing water on the trails was 
 
 ---
 
-![](/assets/2020/01/FF/day6.png)
+![]({{site.url}}/assets/2020/01/FF/day6.png)
 
 [Day 6](https://www.strava.com/activities/2966162284) was probably the most interesting day of the Festive. I planned on joining the "slow" version of the "south loop" rides at 8:30, despite the rain having started up again that morning. A half-mile from my house, my shoe broke, so I was forced to go home and change into my other pair of cycling shoes. This left me with only enough time to make the 9:00 fast ride, which I knew was going to be way too fast for me. By this day my legs were really hurting, as was my back.
 
@@ -75,22 +75,22 @@ It was very wet, cold and windy and just about the time I started to wonder how 
 
 ---
 
-![](/assets/2020/01/FF/day7.png)
+![]({{site.url}}/assets/2020/01/FF/day7.png)
 
 [Day 7](https://www.strava.com/activities/2968617623) was designated as a taco and coffee ride, and it was. Tacos at [Resident](https://www.residenttaqueria.com/), my first time there, and not one but two cortado stops, one at [White Rock](https://wrcoffee.com/) and one at [Cultivar](https://www.cultivarcoffee.com/).
 
-![](/assets/2020/01/FF/day7pic1.jpg)
-![](/assets/2020/01/FF/day7pic2.jpg)
+![]({{site.url}}/assets/2020/01/FF/day7pic1.jpg)
+![]({{site.url}}/assets/2020/01/FF/day7pic2.jpg)
 
 ---
 
-![](/assets/2020/01/FF/day8.png)
+![]({{site.url}}/assets/2020/01/FF/day8.png)
 
 [Day 8](https://www.strava.com/activities/2971212595)
 
 I briefly tagged along with some guys riding the gravel trails on the Trinity levees, and I rode on the paved bike paths down in the Trinity basin. And had one more festive cortado, this time at [Murray Street](http://www.murraystreetcoffee.com/).
 
-![](/assets/2020/01/FF/day8pic2.jpg)
-![](/assets/2020/01/FF/day8pic3.jpg)
+![]({{site.url}}/assets/2020/01/FF/day8pic2.jpg)
+![]({{site.url}}/assets/2020/01/FF/day8pic3.jpg)
 
 Mission accomplished! My legs are sore and my shoulders are really sore. I rode again very briefly today (one lake lap) and my legs are already recovering thanks to the short rides yesterday and today, but my left shoulder does not like bike posture right now.

@@ -6,7 +6,7 @@ date: 2020-07-12 12:16:08 -0500
 categories: 
 ---
 
-[30 Jul 2003: My Mozilla Experiment](/2003/07/30/my-mozilla-experiment/)
+[30 Jul 2003: My Mozilla Experiment]({{site.url}}/2003/07/30/my-mozilla-experiment/)
 
 > I started using Mozilla a few weeks ago. I did this because I am attempting to wean off of M$ product, and I wanted tabbed browsing.
 

@@ -6,7 +6,7 @@ date: 2022-11-16 08:32:52 -0600
 categories:
 ---
 
-In 2020 I started writing fiction again. It lasted about a year. A little while ago I created the [writing](/writing) page of this site, hoping it would inspire me to at least finish the last piece I was working on, which is still a work in progress. It has not. But the other day I was reminded of this scene from the first piece I wrote when I returned to fiction, a modern take on _The Monkey's Paw_. It's called [Abuse of Power](/writings/abuse-of-power/).
+In 2020 I started writing fiction again. It lasted about a year. A little while ago I created the [writing]({{site.url}}/writing) page of this site, hoping it would inspire me to at least finish the last piece I was working on, which is still a work in progress. It has not. But the other day I was reminded of this scene from the first piece I wrote when I returned to fiction, a modern take on _The Monkey's Paw_. It's called [Abuse of Power]({{site.url}}/writings/abuse-of-power/).
 
 ---
 

@@ -10,7 +10,7 @@ categories:
 - games
 ---
 
-I recently started "[How to Talk About Videogames](http://bogost.com/books/how-to-talk-about-videogames/)" by Ian Bogost. [I've written about Ian Bogost's work before](/2012/01/11/cow-clicker/). In the first chapter, he uses [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) as a jumping off point for existential exploration:
+I recently started "[How to Talk About Videogames](http://bogost.com/books/how-to-talk-about-videogames/)" by Ian Bogost. [I've written about Ian Bogost's work before]({{site.url}}/2012/01/11/cow-clicker/). In the first chapter, he uses [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) as a jumping off point for existential exploration:
 
 > The games we find ourselves ever more devoted to are often also the ones that care little for our experience of them. This is the devotion of material indifference. To operate despite themselves. What we appreciate about Flappy Bird is not the details of its design but the fact that it embodies them with such unflappable nonchalance...
 

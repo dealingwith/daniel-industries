@@ -14,9 +14,9 @@ Things found 2 nights before moving house:
 - Royalty statements from the book I co-wrote in 2002. None totaling more than $50.
 - Tax returns back to 2004.
 
-![](/assets/2021/08/drum-clinic.jpg)
+![]({{site.url}}/assets/2021/08/drum-clinic.jpg)
 
-![](/assets/2021/08/tour-der-jugend.jpg)
+![]({{site.url}}/assets/2021/08/tour-der-jugend.jpg)
 
 ---
 

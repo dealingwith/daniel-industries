@@ -8,7 +8,7 @@ categories: [thoughts, minutia]
 
 ### to (ride a bike) (write a blog) (take the train) (eat bacon) ###
 
-First there was [XOXO](/2012/09/23/xoxo/) and its admonishment to "Work on something you are passionate about, because if it becomes successful you'll have to do it all the time." Then there was [Bret Victor's talk on "Inventing on Principle"](/2012/09/30/bret-victor-inventing-on-principle/). Then there was [the news](/2012/10/07/nic/) that Nic Hughes had lost his fight with cancer. Then there was [an acknowledgement](/2012/11/06/daddys-girls/) of the similarities between Margot and Lucy and the moment I've described as my [biggest regret](http://www.flickr.com/photos/carissabyers/4779129420/ "About two years ago Daniel went to work"). There's been a serious theme around here and it's not going to stop with this post.
+First there was [XOXO]({{site.url}}/2012/09/23/xoxo/) and its admonishment to "Work on something you are passionate about, because if it becomes successful you'll have to do it all the time." Then there was [Bret Victor's talk on "Inventing on Principle"]({{site.url}}/2012/09/30/bret-victor-inventing-on-principle/). Then there was [the news]({{site.url}}/2012/10/07/nic/) that Nic Hughes had lost his fight with cancer. Then there was [an acknowledgement]({{site.url}}/2012/11/06/daddys-girls/) of the similarities between Margot and Lucy and the moment I've described as my [biggest regret](http://www.flickr.com/photos/carissabyers/4779129420/ "About two years ago Daniel went to work"). There's been a serious theme around here and it's not going to stop with this post.
 
 ### Nic's Memorial ###
 
@@ -62,7 +62,7 @@ Yesterday Penn and I had a day together. First we went to Cindy's for a 2nd brea
 
 ---
 
-So this is just the [usual](/2011/11/29/desire-and-meaning/), a post about meaning and [more](/2011/11/07/worst-day/) ruminating about how it might be staring me in the face the entire time. Maybe I'm just having a midlife crisis. Maybe I've never really been able to distinguish between the [important and the merely urgent][1]. *Maybe I should just go home.*
+So this is just the [usual]({{site.url}}/2011/11/29/desire-and-meaning/), a post about meaning and [more]({{site.url}}/2011/11/07/worst-day/) ruminating about how it might be staring me in the face the entire time. Maybe I'm just having a midlife crisis. Maybe I've never really been able to distinguish between the [important and the merely urgent][1]. *Maybe I should just go home.*
 
 *Later, at home*...and maybe I should just keep writing.
 

@@ -9,7 +9,7 @@ categories:
  - quotable
 ---
 
-[![](/assets/2021/02/jason-10x.png)]((https://egghead.io/talks/egghead-what-if-the-real-10x-developer-is-the-friends-we-made-along-the-way))
+[![]({{site.url}}/assets/2021/02/jason-10x.png)]((https://egghead.io/talks/egghead-what-if-the-real-10x-developer-is-the-friends-we-made-along-the-way))
 
 I watched this video shortly after it was published, but I'm generally bad about single-tasking while watching videos and missed this brilliant section. I recently stumbled upon the transcript and ... 👀
 

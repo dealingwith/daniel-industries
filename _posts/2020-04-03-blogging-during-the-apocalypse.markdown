@@ -12,17 +12,17 @@ I want to blog during this time, but it's hard to know what to write about. I ca
 
 On March 14th we went to Broken Bow, Oklahoma. The run on TP and beans had begun but a cabin in the woods seemed as good a place as any at that point. We stopped in a little Texas town on the way up and they still had some TP.
 
-![](/assets/2020/04/lucy-hiking.jpg)
+![]({{site.url}}/assets/2020/04/lucy-hiking.jpg)
 
-![](/assets/2020/04/lucy-river.jpg)
+![]({{site.url}}/assets/2020/04/lucy-river.jpg)
 
 We mostly hiked. We returned on March 18th. 
 
 On March 19th, I got a tire replaced on the van--two screws had ruined it. I felt lucky to have made it to Oklahoma and back on it. I then bought a new desk. It was clear I would be working from home for a while and I determined I would need a new dedicated space. My existing office had been overrun by children and hamsters. On the way back from picking up the desk I went by my office and got all my stuff. While on vacation I'd received the news that our company is closing our downtown office and moving us to Richardson while we're all working from home anyway. My next commute to an office will be to the far climes north of I-635.
 
-![](/assets/2020/04/milo-zoom.jpg "Even kindergarten is over zoom these days")
+![]({{site.url}}/assets/2020/04/milo-zoom.jpg "Even kindergarten is over zoom these days")
 
-![](/assets/2020/04/desk.jpg "It was clean for the first five minutes")
+![]({{site.url}}/assets/2020/04/desk.jpg "It was clean for the first five minutes")
 
 My new workspace is too far away from the WiFi router to get any decent signal, making my new life of nonstop Zoom calls difficult. Help--by way of a new Google Nest mesh network hardware kit--arrives over this weekend. My new desk setup is also an ergonomic disaster. Speaking of ergonomics... 
 

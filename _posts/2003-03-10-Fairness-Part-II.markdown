@@ -5,7 +5,7 @@ categories:
  - comment
 ---
 
-Well, this has been a long time coming. I started a series called "Fairness" with this [blog post](/2002/12/23/Fairness-part-I/). [Chris Woody](http://qahal.blogspot.com/) replied to that post, and a fairly (yuk yuk) thorough discussion ensued. I have been meaning to post it for some time, and I'm finally tying up these loose ends. 
+Well, this has been a long time coming. I started a series called "Fairness" with this [blog post]({{site.url}}/2002/12/23/Fairness-part-I/). [Chris Woody](http://qahal.blogspot.com/) replied to that post, and a fairly (yuk yuk) thorough discussion ensued. I have been meaning to post it for some time, and I'm finally tying up these loose ends. 
 
 I may yet continue my ideas on how we see values (like fairness) and issues (like with authority), interpreted in different ways...but for now this thread should do it.
 

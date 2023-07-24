@@ -6,7 +6,7 @@ comments: true
 categories: its-ok-to-be-sad
 ---
 
-![Had I slept?](/assets/2016/03/wake_up.gif)
+![Had I slept?]({{site.url}}/assets/2016/03/wake_up.gif)
 
 ## This series of posts is not about depression
 
