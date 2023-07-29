@@ -1,7 +1,8 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.bunny.net/css2?family=Gentium+Book+Basic:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.bunny.net/css?family=abeezee:400,400i');
 @import "modern-normalize.min.css";
 
 :root {
@@ -11,8 +12,9 @@
   --lightgreen: #7b8545;
   --grey: #9e9e9e;
   --pink: #ffd5dc;
+  --lightgrey: #eeeeee;
   --serif: 'Gentium Book Basic', serif;
-  --sans: system-ui, sans-serif;
+  --sans: 'ABeeZee', system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21,6 +23,7 @@
     --text: #fcf7ed;
     --green: #f0fff0;
     --lightgreen: #d5d9bc;
+    --lightgrey: #484848;
   }
 }
 
@@ -29,7 +32,7 @@ body {
   color: var(--text);
   font-family: var(--sans);
   line-height: 1.5em;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 @media screen and (max-width: 600px) {
@@ -165,10 +168,15 @@ header a, .post-metadata a {
 }
 
 blockquote {
-  border-left: 1px solid var(--green);
+  /* border-left: 1px solid var(--green); */
+  background-color: var(--lightgrey);
+  border-radius: 5px;
   margin-bottom: 1em;
   margin-left: 0;
-  padding-left: 1em;
+  padding: 1em;
+}
+.main-content blockquote p {
+  margin: 0;
 }
 
 img {

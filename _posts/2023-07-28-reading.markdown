@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Reading"
+excerpt: 
+date: 2023-07-28 22:44:57 -0500
+categories: 
+---
+
+[Reading Well](https://map.simonsarris.com/p/reading-well)
+
+> Reading is letting someone else model the world for you. This is an act of intimacy. When the author is morose, you become morose. When he is mirthful, eventually you may share in it. And after finishing a very good book one is driven a little mad, forced to return from a world that no one nearby has witnessed.
+
+> You should embrace the visceral quality in reading. Read mostly fiction. Read slowly. There is a kind of marinating that happens with very good works, they are always more than their story. The goal is not to digest information, but to layer over your reality with a fresh coat of moss. Your own world becomes colored by these stories, so it is worthwhile to spend time seeking the excellent works from across cultures and history.
+
+> If you read what is excellent you will not suddenly become excellent, but a life that is sown with stories is one better positioned to think and dream. The more stories, the more likely one is to understand and identify all the influences that act upon oneself in life.
+
+> I also tend to stress fiction because I think, especially among my professional peers in the industry of software, that there is too great a fondness for non-fiction. I think this arises from a belief that superior knowledge of the world comes from non-fiction. This thought is attractive to people who build systems, but over-systematizing and seeing systems in everything can be a failure mode. Careful descriptions and summaries miss too much of the world. Hard distinctions make bad philosophy.
+
+---
+
+As [previously mentioned]({{site.url}}/2023/06/18/reading-on-the-morning-of-fathers-day/), my reading habit has taken a hit this year, but I recently read:
+
+- _5 Dysfunctions of a Team_ by Patrick Lencioni, a second reading, this time the audiobook
+- _Four Thousand Weeks_ by Oliver Burkeman, audiobook
+- _The 6 Types of Working Genius_ by Patrick Lencioni, audiobook
+- _[The Dryad’s Crown](https://thatdavidhopkins.com/order-the-dryads-crown)_, my friend David's book mentioned in the above post, which I absolutely devoured in one weekend
+- _The Girl Who Couldn’t Come_ by Joey Comeau (also already mentioned in the above post)
+- _Surrender_ by Bono, audiobook. I thought I'd mentioned this one before but apparently I only blogged about [an interview with Bono]({{site.url}}/2023/04/16/interview-with-bono-and-ali-hewson/) I watched around the same time
+
+I'm currently reading:
+
+- _Dusk Night Dawn_ by Anne Lammott. _Bird by Bird_ was one of my favorite books of all time (just read last year), so I decided I needed to pick up some more Lammott
+- _Steve Jobs_ by _Walter Isaacson_, on audiobook. It's 25 hours long!
+
+...and a few technical books that aren't very interesting. I have these audiobooks on hold on the library app: _Radical Compassion_ by Tara Brach, _Faith, Hope and Carnage_ by Nick Cave, _Becoming_ by Michelle Obama, _A Promised Land_ by Barack Obama, _Thinking, Fast and Slow_ by Daniel Kahneman, and _The Power of Now_ by Eckhart Tolle.
