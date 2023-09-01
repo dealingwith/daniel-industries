@@ -168,15 +168,17 @@ header a, .post-metadata a {
 }
 
 blockquote {
-  /* border-left: 1px solid var(--green); */
   background-color: var(--lightgrey);
   border-radius: 5px;
   margin-bottom: 1em;
   margin-left: 0;
   padding: 1em;
 }
-.main-content blockquote p {
-  margin: 0;
+.main-content blockquote p:first-of-type {
+  margin-top: 0;
+}
+.main-content blockquote p:last-of-type {
+  margin-bottom: 0;
 }
 
 img {
@@ -316,7 +318,6 @@ blockquote.callout {
 
 .index {
   display: grid;
-  grid-auto-rows: 50vmax;
   align-items: center;
   justify-items: center;
 }
@@ -331,6 +332,7 @@ blockquote.callout {
 }
 .index img {
   border-radius: 50%;
+  width: 400px;
   max-width: 75%;
 }
 /* 
