@@ -22,4 +22,4 @@ I am running a proper programming camp for kids in July. I'm squeezing this in a
 
 > This camp is recommended for kids who have done at least some coding with us in the past, or some coding outside of Minecraft U. The recommended age range is 10 and up. There are only three slots left--we have kept the camp intentionally small. It runs from 5-6pm central time every weekday in July and will require an additional hour each day for homework.
 
-> Computer programming isn't a mysterious magic reserved for predestined wizards. It is, however, a world to be explored, an adventure available for any with the desire and courage to venture forth. [Join us now](https://www.notion.so/Computer-Programming-Adventures-69b32e5904b94e2a90716d92e5bed0eb).
+> Computer programming isn't a mysterious magic reserved for predestined wizards. It is, however, a world to be explored, an adventure available for any with the desire and courage to venture forth. Join us now.
