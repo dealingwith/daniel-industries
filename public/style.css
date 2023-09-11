@@ -326,6 +326,19 @@ blockquote.callout {
   max-width: 75%;
 }
 
+.index .menu ul li{
+  display: block;
+}
+.index .menu .only-index {
+  display: block;
+}
+.index-footer {
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: 15px;
+  left: 20px;
+}
+
 /* code colors */
 .highlight pre { background-color: #272822; }
 .highlight .hll { background-color: #272822; }
