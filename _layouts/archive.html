@@ -4,8 +4,23 @@
     <link rel="icon" href="/public/favicon.ico">
     <link href="/public/style.css" rel="stylesheet">
     <style>
+      html, body {
+        overflow-x: scroll;
+      }
       body {
         font-size: .8rem;
+        margin: 20px;
+        width: 6840px;
+      }
+      #archivecontainer {
+        display: flex;
+        flex-flow: row nowrap;
+        flex-direction: row;
+        width: 6840px;
+      }
+      #archivecontainer > div {
+        margin-right: 20px;
+        width: 300px;
       }
       a.long_post {
         font-weight: bold;
@@ -14,14 +29,30 @@
         list-style: none;
       }
     </style>
+    
   </head>
 
-  <body style="margin: .5rem">
-    <div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
+  <body>
+    <div>
+      <a href="#" id="hideshort">Hide short posts</a> (<span id="shortpostscount"></span>)
+    </div>
+    <div id="archivecontainer">
       {{ content }}
     </div>
     <div class="container content">
       {% include footer.html %}
     </div>
   </body>
+
+
+  <script>
+    document.getElementById('hideshort').onclick = function() {
+      let items = document.querySelectorAll("a:not(.long_post)");
+      for (item of items) {
+        item.parentElement.remove();
+      }
+    }
+
+    document.getElementById('shortpostscount').innerText = document.querySelectorAll("a:not(.long_post)").length + "/" + document.getElementsByTagName("li").length;
+  </script>
 </html>

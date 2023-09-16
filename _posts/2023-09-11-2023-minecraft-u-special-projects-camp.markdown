@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023 Minecraft U Special Projects Camp"
-excerpt: 
+excerpt: "This year, 2023 Minecraft U Special Projects Camp created a chess game in Rust. The camp follows a loosely structured two-week MVP sprint format, with projects serving as portfolio pieces."
 date: 2023-09-11 14:57:43 -0500
 categories: 
  - development

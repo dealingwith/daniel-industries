@@ -8,7 +8,9 @@ categories:
 
 ![I worry that soon we will drift centuries apart, unable to communicate ever again.]({{site.url}}/images/ds_relationship_internet.png)
 
-From "It's not you, it's meme" by [Richard Stevens](http://http://dieselsweeties.com/) See also: "[Analogjam](http://www.dieselsweeties.com/archive/3472)".
+{::options parse_block_html="true" /}
+<p class="small">From "It's not you, it's meme" by [Richard Stevens](https://dieselsweeties.com/). See also: "[Analogjam](http://www.dieselsweeties.com/archive/3472)".</p>
+{::options parse_block_html="false" /}
 
 [Ben Werdmüller](http://werd.io/ "Who I did not meet at XOXO this year, but he was there") posted something that's apparently going around, "[I'm making 50 pieces of art. Do you want one?](http://werd.io/2014/im-making-50-pieces-of-art-do-you-want-one "I, Ben Werdmuller, promise to send a small work of art for the first fifty people who comment on this post by replying from their own website. Twitter or Facebook is not enough. Just link to this post and let me know you want in")" and I quite liked the sentiment, that is that to participate you must independently web-publish something indicating your interest.
 
@@ -18,16 +20,8 @@ So. I will probably ping Ben via a "webmention" [I initiate from the command lin
 
 ---
 
-Excerpt from “Is My Laptop Ruining My Life?” by Adam Buxton (NSFW).
+_[Is My Laptop Ruining My Life?](https://vimeo.com/89229677)_ by Adam Buxton (NSFW).
 
-<audio src="http://johnnycitizen.com/podcast/jcp_24.mp3"></audio>
-
-Maciej Cegłowski on content and social.
-
-<audio src="http://johnnycitizen.com/podcast/jcp_19.mp3"></audio>
+[Maciej Cegłowski on content and social](https://archive.org/details/dConstruct2013MaciejCeglowski).
 
 Both of the above from the [dConstruct conference 2013 archive](http://archive.dconstruct.org/2013/).
-
----
-
-Oh, and I [wrote something for my company's blog](http://blog.modernmsg.com/post/73405224877/surprise-and-delight "'Surprise and Delight', in which I expound upon the importance of playing games as a child"), something I will be doing more of this year.
