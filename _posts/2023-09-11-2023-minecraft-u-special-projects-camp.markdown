@@ -9,15 +9,15 @@ categories:
  - education
 ---
 
-![chess game screenshot]({{site.url}}/assets/2023/09/chess-game-screenshot.png)
+![chess game screenshot]({{site.url}}/assets/2023/09/chess-game-screenshot.png "chess game screenshot")
 
 In 2020 [Minecraft U](https://minecraftu.org/) was forced to conduct what were previously IRL camps at [a Dallas school](https://www.hockaday.org/on-campus/summer-at-hockaday) entirely online. Due to this new virtual offering, we were able to attract campers from outside the Dallas metro. One of those campers signed up for all of our camps that summer and quickly progressed through all of the curricula we had on offer. He was 11 years old at the time and already had significant experience programming in Python. By the last few weeks of that summer, I was working weekends with my most capable instructor to develop custom challenges for the following week's camp.
 
 At some point, I started working with this exceptional young coder for an hour or two every weekend, usually working through a programming book, hacking on a small project, or both. In those sessions, we've studied JavaScript and Ruby.
 
-In 2021 in-person camps returned and we shuttered our online offerings--we did not have the time to do both, and most of our online attendees would be back IRL. Except one.
+In 2021 in-person camps returned and we shuttered our online offerings---we did not have the time to do both, and most of our online attendees would be back IRL. Except one.
 
-I spun up a custom online camp and managed [a blog post announcing it]({{site.url}}/2021/07/02/computer-programming-adventures/), but never managed a recap of what we accomplished--[a desktop Tetris game written in Ruby](https://github.com/MinecraftU/2021-computer-adventures).
+I spun up a custom online camp and managed [a blog post announcing it]({{site.url}}/2021/07/02/computer-programming-adventures/), but never wrote a recap of what we accomplished---[a desktop Tetris game written in Ruby](https://github.com/MinecraftU/2021-computer-adventures).
 
 In 2022, we did it again. At that time I was not available to do the instruction myself, so I recruited a brilliant local university sophomore to teach the camp. He'd started as a camper years ago, worked his way up to student instructor, then full instructor until his college work prevented him from committing to an entire summer work schedule. He is our biggest success story so far and is crushing it in his computer science studies at university.
 
@@ -37,7 +37,7 @@ Between days one and two, both write RFCs (based on a template) for at least one
 
 In both years, they've reached out on day two to request my feedback on their options. Both years I steered them towards the more challenging project. My input is mostly based on my gut instincts, but also some logic: if they fail to complete the project within the camp window, we can always continue working on it afterwards; and these are two very bright people with very little experience building software through to completion, so better to stretch and see what they're capable of than simply do something they already know they can do. In both instances, this has resulted in surprising and impressive results.
 
-[![chess RFC screenshot]({{site.url}}/assets/2023/09/chess-rfc-screenshot.png)]({{site.url}}/assets/2023/09/chess-rfc-screenshot.png)
+[![chess RFC screenshot]({{site.url}}/assets/2023/09/chess-rfc-screenshot.png)]({{site.url}}/assets/2023/09/chess-rfc-screenshot.png "chess RFC screenshot")
 
 Later during the second day, they create a plan based on the RFC. It includes a summary, goals for the MVP, stretch goals, and non-goals. It outlines the dependencies required. They create a GitHub repo and project and GitHub tickets for the first few development tasks.
 
