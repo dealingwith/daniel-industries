@@ -6,12 +6,12 @@ layout: page
 <div>
   <header>
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="post-metadata"><a href="{{ post.url }}">{{ post.content | number_of_words }} words on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a></p>
+    <div class="post-metadata"><a href="{{ post.url }}">{{ post.content | number_of_words }} words on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a></p>
   </header>
   {{ post.content }}
 </div>
 <hr>
-<div>
+<div class="blog_nav">
   <h4>Previous Posts</h4>
   <ul style="padding-left: 0;">
     {% for post in site.posts offset:1 limit:5 %}

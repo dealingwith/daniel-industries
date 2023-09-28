@@ -12,8 +12,7 @@
       </header>
     {% endif %}
     {% if page.pubdate %}
-      <div>
-        <p class="post-metadata">{{ page.pubdate }} / {{ page.content | number_of_words }} words</p>
+      <div class="post-metadata">{{ page.pubdate }} / {{ page.content | number_of_words }} words
       </div>
     {% endif %}
     <article>

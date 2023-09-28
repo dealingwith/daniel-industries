@@ -1,4 +1,4 @@
-@import url('https://fonts.bunny.net/css2?family=Gentium+Book+Basic:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url(https://fonts.bunny.net/css?family=hanuman:400|montserrat:400,500,600,700,800);
 
 :root {
   --bg: #fff;
@@ -8,8 +8,9 @@
   --grey: #878787;
   --pink: #ffd5dc;
   --lightgrey: #eeeeee;
-  --serif: 'Gentium Book Basic', serif;
-  --sans: sans-serif;
+  --header: 'Montserrat', serif;
+  --sans: system-ui, sans-serif;
+  --body: 'Hanuman', serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -24,13 +25,6 @@
 
 /* RESET from https://andy-bell.co.uk/a-more-modern-css-reset/ */
 
-/* Box sizing rules */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 /* Prevent font size inflation */
 html{
   -moz-text-size-adjust: none;
@@ -39,6 +33,7 @@ html{
 }
 
 /* Remove default margin in favour of better control in authored CSS */
+html,
 body,
 h1,
 h2,
@@ -49,19 +44,14 @@ figure,
 blockquote,
 dl,
 dd {
-  margin: 0;
+  margin: 0; 
+  padding: 0;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul[role='list'],
 ol[role='list'] {
   list-style: none;
-}
-
-/* Set core body defaults */
-body {
-  min-height: 100vh;
-  line-height: 1.5;
 }
 
 /* Set shorter line heights on headings and interactive elements */
@@ -81,12 +71,6 @@ h2,
 h3,
 h4 {
   text-wrap: balance;
-}
-
-/* A elements that don't have a class get default styles */
-a:not([class]) {
-  text-decoration-skip-ink: auto;
-  color: currentColor;
 }
 
 /* Make images easier to work with */
@@ -119,9 +103,9 @@ textarea:not([rows]) {
 body {
   background-color: var(--bg);
   color: var(--text);
-  font-family: var(--sans);
+  font-family: var(--body);
+  font-size: 1.1em;
   line-height: 1.5em;
-  font-size: 1em;
 }
 
 @media screen and (max-width: 600px) {
@@ -131,7 +115,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--serif);
+  font-family: var(--header);
   letter-spacing: 0.03rem;
   line-height: 1.1em;
   margin: 0 10px 1.1rem 0;
@@ -139,22 +123,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 h2 {
-  font-size: 1.7em;
+  font-size: 1.6em;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1.4em;
 }
 h4 {
-  font-size: 1.3em;
-}
-h5 {
   font-size: 1.2em;
 }
-h6 {
+h5 {
   font-size: 1em;
+}
+h6 {
+  font-size: 0.8em;
 }
 
 ::selection {
@@ -169,6 +153,7 @@ a:hover {
 }
 a:visited {
   color: var(--text);
+  text-decoration-style: wavy;
 }
 a strong {
   color: inherit;
@@ -196,7 +181,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 @media screen and (max-width: 600px) {
   .main-content {
     margin: 3rem auto;
-    width: 100%;
+    width: auto;
   }
 }
 .main-content p, .main-content div, .main-content iframe, .main-content table, .main-content hr {
@@ -227,11 +212,13 @@ li > ul, li > ol {
   margin: 0.3rem 0 0;
 }
 
-.post-metadata {
+.main-content div.post-metadata {
   color: var(--grey);
-  font-size: 0.9rem;
-  line-height: 1rem;
-  margin-top: -0.8rem;
+  font-family: var(--sans);
+  font-size: 0.9em;
+  line-height: 1.1em;
+  margin-bottom: 2em;
+  margin-top: -0.8em;
 }
 
 header a, .post-metadata a {
@@ -249,7 +236,7 @@ blockquote {
   border-radius: 5px;
   margin-bottom: 1em;
   margin-left: 0;
-  padding: 1em;
+  padding: 0.8em 1em 0.7em;
 }
 .main-content blockquote p:first-of-type {
   margin-top: 0;
@@ -300,7 +287,7 @@ pre {
   margin-top: 0px;
 }
 .writing-index-title a {
-  font-family: var(--serif);
+  font-family: var(--header);
   font-size: 1.2rem;
   font-weight: bold;
 }
@@ -331,14 +318,16 @@ pre {
 }
 @media screen and (max-width: 700px) {
   .main-content.writing {
-    width: 100%;
+    width: auto;
   }
 }
 
 .menu {
-  position: absolute;
-  left: 20px;
-  top: 0px;
+  font-family: var(--sans);
+  font-size: 0.9em;
+  margin: 0;
+  padding: 0 1em;
+  text-align: right;
 }
 .menu ul {
   list-style: none;
@@ -348,25 +337,50 @@ pre {
   display: inline-block;
   list-style: none;
   margin: 0;
+  padding: 0 5px;
   text-align: left;
 }
 .menu .only-index {
   display: none;
 }
 .menu a {
-  border-bottom: 0px;
+  text-decoration: none;
+}
+.menu a:hover {
+  text-decoration: wavy;
 }
 .menu a:visited {
   color: var(--green);
 }
 
 .footer {
-  font-size: 0.8rem;
+  font-family: var(--sans);
+  font-size: 0.9rem;
   text-align: right;
 }
 
-.blog_nav p {
+/* 
+  blog_nav is div container around:
+    on blog "index":
+      h4
+      ul
+        li
+          a
+    on blog post:
+      p
+        "prev"
+      p
+        "next"
+*/
+.blog_nav li {
+  list-style: none;
+}
+.blog_nav p, .blog_nav li {
+  font-family: var(--sans);
+  font-size: 0.9em;
   line-height: 1.4rem;
+}
+.blog_nav p {
   margin-top: 0;
   width: 50%;
 }
@@ -382,48 +396,11 @@ tr {
   border-bottom: 1px solid var(--green);
 }
 
-blockquote.callout {
-  background-color: var(--text);
-  border-radius: 5px;
-  color: var(--bg);
-  font-size: 1.1rem;
-  font-style: bold;
-  margin: 1em 0;
-  padding: 0.75em;
+.index_hero {
+  font-family: var(--sans);
+  min-height: 100vh;
+  padding-top: 45vh;
   text-align: center;
-}
-
-.index {
-  display: grid;
-  align-items: center;
-  justify-items: center;
-}
-@media (min-width: 700px) {
-  .index {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-.index div {
-  padding: 1rem;
-  text-align: center;
-}
-.index img {
-  border-radius: 50%;
-  width: 400px;
-  max-width: 75%;
-}
-
-.index .menu ul li{
-  display: block;
-}
-.index .menu .only-index {
-  display: block;
-}
-.index-footer {
-  font-size: 0.8rem;
-  position: absolute;
-  bottom: 15px;
-  left: 20px;
 }
 
 /* code colors */
