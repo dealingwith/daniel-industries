@@ -13,3 +13,5 @@ The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single 
 See also: [uses](/uses) and [now](/now).
 
 I sometimes post to [Mastodon](https://indieweb.social/@dealingwith).
+
+You can contact me [here](https://letterbird.co/dealingwith).
