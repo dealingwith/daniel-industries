@@ -32,7 +32,7 @@ Still, we are a surprisingly resilient race. With a new superpower living in our
 
 And when the oceans finally started to creep into oceanside mansions in Florida and push over the shoddily repaired dikes of New Orleans, those feet simply turned northward.
 
-Of course I'm rewriting these histories because I can. Because a typewriter made its way into my village and I had surreptitiously obtained a fresh ribbon six months prior. No, I'm just retelling my father's old stories, for the sake of something to do.
+Of course I'm rewriting these histories because I can. Because a typewriter made its way into my village and I had surreptitiously obtained a fresh ribbon six months prior. I'm just retelling my father's old stories, for the sake of something to do.
 
 And Dad said, it was when all the members of Radiohead save Thom Yorke disappeared that he knew things were over. They took a trip to Iceland and never returned. Strange lights were reported in the skies north of the island shortly after the incident. There is rumour of a hermit near Omsk with a stockpile of codes and data compiled from two decades' worth of records
 and magazine articles that told this entire story before it began.
@@ -46,7 +46,7 @@ and magazine articles that told this entire story before it began.
 > Man's desire is the desire of the Other.  
 > -- Jacques Lacan
 
-> Civilization merely hides from itself--behind a thin static scrim of rationality---the truth that only desire creates values.  
+> Civilization merely hides from itself---behind a thin static scrim of rationality---the truth that only desire creates values.  
 > -- Hakim Bey
 
 "At least I'm not trying to throw us right back into the conditions that got us here in the first place," Johnny replied, "Talk about trying to put out a fire with gasoline."
@@ -59,7 +59,7 @@ and magazine articles that told this entire story before it began.
 
 "Kill each other...you mean more than we already have or already do? Look, the cycle was the only thing that was proven---hard times leading to 'progress',” Johnny made quotes in the air with his fingers, a huge pet peeve of mine, "leading to consumption, waste, and various cancers---physical, ecological, social or otherwise. The Wars led to Boomers led to Slackers led to Dramas led us here."
 
-Johnny was playing the prevailing blame game played by our generation. Old enough to have heard what things were like before, young enough to have never experienced the technological creature comforts and social mediations taken for granted by our grandparents and ripped from the dying arms of our parents. And still far too much information lying around, crying out "I told you so!" or "It never really happened!" or---and this is the one that gets under my skin a little bit and to which, it is safe to say, Johnny holds to, however loosely---"It's better this way." They all have their labels---the Revelators, the Retros, and who I would call the Anarchists, but they call themselves the New Realists. The irony that back in the day "New Realists" were an actual movement focused on the total embrace of technology as a medium to the beyond is completely lost on them.
+Johnny was playing the prevailing blame game of our generation. Old enough to have heard what things were like before, young enough to have never experienced the technological creature comforts and social mediations taken for granted by our grandparents and ripped from the dying arms of our parents. And still far too much information lying around, crying out "I told you so!" or "It never really happened!" or---and this is the one that gets under my skin a little bit and to which, it is safe to say, Johnny holds to, however loosely---"It's better this way." They all have their labels---the Revelators, the Retros, and who I would call the Anarchists, but they call themselves the New Realists. The irony that back in the day "New Realists" were an actual movement focused on the total embrace of technology as a medium to the beyond is completely lost on them.
 
 Me, I'm a cautious combination of Capitalist and Optimist ideals. I mean, capitalism never really went away, and what choice do we have but to march forward? "March" sounds too draconian and groupthink. I have fantasies about fixing up the old Explorer, lucking into some gas, and driving east...the western migration, the space race, the Oregon Trail and the Apollo Program, these are my precedents.
 
@@ -86,7 +86,7 @@ Me, I'm a cautious combination of Capitalist and Optimist ideals. I mean, capita
 > 3. Repeat every transmission twice.  
 > 4. Copy every transmission carefully and confirm accuracy during second repetition.  
 > 5. All original transmissions must be vetted by station manager.  
-> 6. Transmissions are to consist ONLY of EXACTLY that which is received from Tower 13 or vetted by station manager. NO OTHER transmission is permitted.  
+> 6. Transmissions are to consist ONLY of EXACTLY that which is received from Tower 13, Tower 15, or vetted by station manager. NO OTHER transmission is permitted.  
 > 7. Read #6 again.
 
 Really, we consider them more guidelines. Johnny considers them recommendations. The original bill is aged and discolored and covered with post-its with quotes defending our various theories of the world. My 20th century economists are covered with Johnny's 20th century anarchists are covered with my 21st century technologists. "Economic progress, in capitalist society, means turmoil." "Civilization merely hides from itself---behind a thin static scrim of rationality---the truth that only desire creates values." "We might be on the brink of an apocalypse if, instead of poor people with suicide bombs killing middle class guys, middle-class people with suicide bombs started killing rich guys."

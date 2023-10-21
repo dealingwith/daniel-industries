@@ -112,7 +112,7 @@ My only full-length still in the wild. Recorded under the name _Johnny Citizen_.
 
 Recorded in Sarajevo, BiH, during my short time there. I don't have this record online, mostly because I remastered most of the tracks for _<a href="#reamericana">Reamericana EP</a>_. Recorded under the name _Daniel Miller Band_.
 
-[![]({{ site.baseurl }}/assets/page/music/dmb-aep-sleevei_notabs.png)]({{ site.baseurl }}/assets/page/music/dmb-aep-sleevei_notabs.png)
+[![](/assets/page/music/dmb-aep-sleevei_notabs.png)](/assets/page/music/dmb-aep-sleevei_notabs.png)
 
 ---
 
