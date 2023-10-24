@@ -42,6 +42,8 @@ Matthew Graybosch, one of a few JavaScript malcontents I gleefully follow on Mas
 > Most developers, I would like to think, care about performance. They care about clean design. They probably don’t want to make shitty websites.
 > 
 > But they don’t make the decisions. If marketing wants analytics, the developers generally can’t say no. If they want scroll-jacking, or manipulation of browser history, the developers generally can’t say no. Likewise demands for cookie consent, newsletter popups, ads, and all that other shit.
+>
+> Actually, the developers could say no – and be fired for it. Or they could just quit. Either way, management will find other developers who don’t give a fuck if a webite turns out to be a complete and other pile of shit as long as they get paid on time. Such developers would justify doing so with the time-dishonored retort: "[a man must live](https://www.tweetspeakpoetry.com/a-man-must-live-by-charlotte-perkins-gilman/)".
 
 He then goes on to advocate for the personal website. A [long-time topic of this very personal website](https://www.daniel.industries/2016/09/05/rebels-episode-2/):
 
