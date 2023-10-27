@@ -4,6 +4,8 @@ layout: page
 ---
 ### Product-focused technology leader
 
+![](/assets/page/DSC_4897.jpg)
+
 With over 20 years of [experience](https://www.linkedin.com/in/dealingwith) in technology and entrepreneurship, I help companies ship software that delivers real value to customers.
 
 Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Milo and stepdad of Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and [stories](/writing). Cyclist. Indieweb advocate.
@@ -12,6 +14,6 @@ The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single 
 
 See also: [uses](/uses) and [now](/now).
 
-I sometimes post to [Mastodon](https://indieweb.social/@dealingwith).
+I sometimes post to [Mastodon](https://indieweb.social/@dealingwith). I have some words and code on [GitHub](https://github.com/dealingwith).
 
-You can contact me [here](https://letterbird.co/dealingwith).
+[You can contact me here](https://letterbird.co/dealingwith).

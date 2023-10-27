@@ -2,14 +2,14 @@
 layout: page
 ---
 
-<small><i>here's what I'm up to right now (last updated on 08/28/2023)</i></small>
+<small><i>here's what I'm up to right now (last updated on 10/27/2023)</i></small>
 
-Scheming some new ideas.
+I recently left a day job as a vice president of software engineering at a small Dallas company. I'm trying to use this liminal time purposefully, and am working on some new ideas.
 
 * Location: Dallas, TX
 * Age: 48
 * Children: 3
-* Bicycles: 4
+* Bicycles: 5
 * Computers: PopOS
 * Domains: 9
 * Guitars: 3
