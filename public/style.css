@@ -3,7 +3,6 @@
 :root {
   --bg: #fff;
   --my-gradient: linear-gradient(to bottom, #fff, #fcf9f2);
-  --bg2: #fffeee;
   --text: #040404;
   --green: #404c00;
   --lightgreen: #7b8545;
@@ -18,6 +17,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #262626;
+    --my-gradient: linear-gradient(to bottom, #262626, #373737);
     --text: #fcf7ed;
     --green: #f0fff0;
     --lightgreen: #d5d9bc;

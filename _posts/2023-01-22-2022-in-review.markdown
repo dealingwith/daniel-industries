@@ -16,8 +16,6 @@ Accomplishments all belonged to others---Penn graduated from high school and sta
 
 |[![]({{site.url}}/assets/2023/01/penn_grad2.jpeg)]({{site.url}}/assets/2023/01/penn_grad2.jpeg)|[![]({{site.url}}/assets/2023/01/penn_grad1.jpeg)]({{site.url}}/assets/2023/01/penn_grad1.jpeg)|
 
----
-
 A 13-year-old in California (who I have never met IRL, and am keeping anonymous on this blog) who has been learning all things computer science from [us](https://minecraftu.org/) wrote his own [language](https://github.com/MinecraftU/2022-computer-adventures-pringlelang) this summer.
 
 My bicycling was consistent but slightly less milage total, mostly due to the aforementioned hospital stay and resulting fallout. My longest ride was on December 31st, at 75 miles. I bought a new bike in the spring, nicer than any bike I've ever owned, but spent the entire year trying to get it dialed in, finally getting it there by year's end. I did have many adventures around Dallas on my bike, and many good conversations.
