@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Default Apps 2023"
+excerpt:
+date: 2023-12-03 16:57:02 -0600
+categories:
+---
+
+I cover some of this on [/uses](/uses), which is the traditional place for this kind of stuff, but this is going around the internet right now and the lists I've seen ([here](https://rknight.me/app-defaults/), [here](https://mattcool.tech/posts/default-apps-2023/), [here](https://chriscoyier.net/2023/11/25/default-apps-2023/), and [here](https://labnotes.org/default-apps-2023/)) are a little more thorough and focused on a different set of software, specifically.
+
+---
+
+Mail clients/servers: Gmail web with some custom styles applied via [Stylus](https://github.com/openstyles/stylus), Proton Mail (also web). I've been trying to transition to the latter for a long time now.
+
+Notes: Logseq
+
+Todos: Notion and [Your Daily Page](https://yourdaily.page/)
+
+Calendar: Google
+
+Cloud storage: Google Drive, Proton Drive
+
+RSS and Read Later: [Readwise Reader](https://readwise.io/read)
+
+Contacts: Google
+
+Browser: Desktop: Brave or Firefox. I was all-in with Firefox and happy _except for Notion_, which did not perform well in Firefox, so I've switched for the moment to Brave. Phone: Firefox.
+
+Chat: SMS: Google Messages. Other: Discord, Signal, some Slack, some GroupMe.
+
+Bookmarks: Notion
+
+Presentations: Haven't had to in a while
+
+Documents: Notion, VS Code, or Google Docs
+
+Spreadsheets: Google Sheets
+
+Shopping Lists: Simplenote
+
+Personal Finance: N/A but I have a Notion todo with a lot of links 😬
+
+News: Mastodon, or on rare occasions Google News
+
+Photo Management: Google Photos
+
+Photo Editing: Krita, Google Photos
+
+Music: Spotify
+
+Podcasts: Pocket Casts
+
+Passwords: 1Password
+
+Code Editing: VS Code
+
+Terminal: GNOME terminal
+
+---
+
+Still a lot of Google in there. 😕
