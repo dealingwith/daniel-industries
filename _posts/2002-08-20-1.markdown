@@ -1,10 +1,9 @@
 ---
 layout: post
-title: '...'
+title: 'My New Church Part 2'
 categories:
  - minutia
+ - elsewhere
 ---
 
-<a href="http://www.next-wave.org/aug02/my_new_church_pt2.htm">next-wave.org - the church and culture</a> My New Church Part 2 is online at Next-wave. It has a little trouble with font size, bold or italics, table borders, and links, but that's ok. You know what I'm trying to say...and I love the bio Hopkins made for me!
-
-PS The subtitle of this piece is "My Old Church" ...and I am definitely NOT amazing...
+My New Church Part 2 (now [here](/writings/my-new-church/)) is online at Next-wave. I love the bio Hopkins made for me!
