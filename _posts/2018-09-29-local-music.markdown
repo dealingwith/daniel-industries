@@ -3,11 +3,11 @@ layout: post
 title: "Local music, bicycling and Facebook: my three favorite subjects"
 excerpt: "Combining three disparate topics for the sake of efficiency"
 date: 2018-09-29 12:29:19 -0500
-comments: true
 categories: 
+ - elsewhere
 ---
 
-![]({{site.url}}/assets/2018/09/ssos.jpeg)
+![](/assets/2018/09/ssos.jpeg)
 
 I've featured tunes from this record already on this blog, but [my friend and producer Salim Nourallah's new record is out.](https://fanlink.to/SSOS) I recommend playing the last tune first, _Tucumcari (Band Version)_.
 

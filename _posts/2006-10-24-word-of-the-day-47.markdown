@@ -1,16 +1,11 @@
 ---
-author: dealingwith
 date: '2006-10-24 10:44:00'
 layout: post
 slug: word-of-the-day-47
 status: publish
 title: word of the day
-wordpress_id: '1780'
 categories:
  - word of the day
 ---
 
-pottybots
-
-http://salimnourallah.blogspot.com/2006/10/pottybots.html
-
+[pottybots](http://salimnourallah.blogspot.com/2006/10/pottybots.html)

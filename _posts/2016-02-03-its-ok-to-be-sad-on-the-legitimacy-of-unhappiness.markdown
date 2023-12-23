@@ -20,10 +20,10 @@ I very recently returned to [Man's Search for Meaning](https://en.wikipedia.org/
 
 > This ultimate meaning necessarily exceeds and surpasses the finite intellectual capacities of man; in logotherapy, we speak in this context of a super-meaning. What is demanded of man is not, as some existential philosophers teach, to endure the meaninglessness of life, but rather to bear his incapacity to grasp its unconditional meaningfulness in rational terms. _Logos_ is deeper than logic.
 
-I [have written about]({{site.url}}/2010/09/05/why/) [potential meanings](https://danielmiller.bandcamp.com/album/form), I have wrestled with what could have justified her loss. But the thing I have never done is believe that such a meaning could exist outside of my understanding. Not just outside of my understanding, but outside my potential for understanding.
+I [have written about](/2010/09/05/why/) [potential meanings](https://danielmiller.bandcamp.com/album/form), I have wrestled with what could have justified her loss. But the thing I have never done is believe that such a meaning could exist outside of my understanding. Not just outside of my understanding, but outside my potential for understanding.
 
 Frankl differentiated his from other psychotherapies through this _will to meaning_ as a primary motivator of human behavior; in contrast to Freud's _will to pleasure_ or Nietzsche's _will to power_.
 
 What I like about framing around meaning as opposed to around happiness is that it is the most resistant to life's inevitable circumstances. The clinically depressed, those suffering loss, those in the throws of addiction, those under tremendous stress; those who are functionally out of reach of happiness can still find a path to meaning.
 
-<span class="small">The title of this post comes from my friend Salim Nourallah's excellent song, [It's Ok to be Sad](https://vimeo.com/musicstore/track/159827/its-ok-to-be-sad-by-salim-nourallah) ([amazon](https://www.amazon.com/gp/product/B007TDA632)).</span>
+The title of this post comes from my friend Salim Nourallah's excellent song, _It's Ok to be Sad_.

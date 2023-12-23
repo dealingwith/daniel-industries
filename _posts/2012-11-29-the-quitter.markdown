@@ -16,4 +16,4 @@ Who could resist, right?
 
 I will be exploring other opportunities in the coming month or two, so if you're interested in someone like myself please get in touch. (I will, however, be extremely picky.)
 
-In the meantime, enjoy my friend Salim's latest video (starring another friend, artist [Richard Ross](http://www.etsy.com/shop/richardlross)), above. (Another little thing I'll be working more on is the record I've been producing, with his and many others' help, for the the last year or so.)
+In the meantime, enjoy my friend Salim's latest video (starring another friend, artist Richard Ross), above. (Another little thing I'll be working more on is the record I've been producing, with his and many others' help, for the the last year or so.)

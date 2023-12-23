@@ -65,7 +65,7 @@ I released individual tracks from some of my records at [Remix Daniel Miller](ht
 ### Reamericana EP
 <p class="post-metadata"><time>January 2011</time></p>
 
-The Reamericana EP is a remastered combination of a previous EP, _<a href="#AmericanaEP">The Americana EP</a>_, and songs that did not make it onto _<a href="#hsss">Happy Sounding Sad Songs</a>_. [More info here](http://danielsjourney.com/2011/01/24/reamericana.html).
+The Reamericana EP is a remastered combination of a previous EP, _<a href="#AmericanaEP">The Americana EP</a>_, and songs that did not make it onto _<a href="#hsss">Happy Sounding Sad Songs</a>_. [More info here](/2011/01/24/reamericana).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3895428586/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://danielmiller.bandcamp.com/album/reamericana-ep">Reamericana EP by Daniel Miller</a></iframe>
 
@@ -74,7 +74,7 @@ The Reamericana EP is a remastered combination of a previous EP, _<a href="#Amer
 ### Memorial
 <p class="post-metadata"><time>November 2010</time></p>
 
-On Tuesday, August 17th many dear friends of ours gathered to remember our perfect, precious Margot Rose Miller. There to perform in her honor were Chris Holt, Salim Nourallah, Doug Burr and The Beaten Sea. This record is a collection of the songs they played for her, in the acoustic style in which they were played that night. [More info here](http://www.danielsjourney.com/2010/11/21/chris.html).
+On Tuesday, August 17th many dear friends of ours gathered to remember our perfect, precious Margot Rose Miller. There to perform in her honor were Chris Holt, Salim Nourallah, Doug Burr and The Beaten Sea. This record is a collection of the songs they played for her, in the acoustic style in which they were played that night. [More info here](/2010/11/21/chris).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3576096955/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://danielmiller.bandcamp.com/album/memorial">Memorial by Various Artists</a></iframe>
 

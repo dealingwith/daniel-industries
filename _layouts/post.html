@@ -10,11 +10,10 @@ layout: page
   {{ content }}
 </div>
 
-<hr style="clear: both; margin-bottom: 1em">
-
-{{ page.url | backlink }}
-
-<hr style="margin-bottom: 1em">
+{% assign backlinks_content = page.url | backlink %}
+{% if backlinks_content != "" %}
+  <p class="backlinks">Backlinks: {{ backlinks_content }}</p>
+{% endif %}
 
 <div class="blog_nav">
   {% if page.previous.url %}

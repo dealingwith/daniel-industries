@@ -1,22 +1,19 @@
 ---
-author: dealingwith
 date: '2006-12-02 11:36:00'
 layout: post
-slug: '1856'
 status: publish
-title: '...'
-wordpress_id: '1856'
+title: Art Con
 categories:
  - art
  - minutia
  - music
 ---
 
-Yesterday started off with my first mention in a [citywide daily][1].
+Yesterday started off with my first mention in a citywide daily [dead link].
 
 Then there was a bunch of stuff.
 
-Then [Art Con][2]. Despite [being in a bit of a mood for NO REASON][3] (truth
+Then [Art Con][2]. Despite being in a bit of a mood for NO REASON (truth
 be told I know exactly why and have done nothing about it other than some
 cognitive intervention {aka being rational}), I had a great time. I ran into
 about 1,000,000 people I knew, grabbed a couple drinks, bid on about 4 pieces
@@ -27,9 +24,4 @@ his set (I might have had a little to drink).
 
 Hopefully some pictures later. I'm off to mix a record.
 
-   [1]: http://www.quickdfw.com/columnists/lshafer/stories/DN-pg3--leahcolumn_01ick.ART.State.Edition1.3ea9aab.html
-
    [2]: http://artconspiracy.org/
-
-   [3]: http://dealingwith.livejournal.com/489050.html
-

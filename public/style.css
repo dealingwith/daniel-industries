@@ -208,7 +208,7 @@ h6 a {
 }
 
 .main-content hr {
-  margin: 2rem auto 1rem;
+  margin: 2rem auto;
 }
 
 hr {
@@ -257,7 +257,7 @@ header a,
   background-color: var(--pink);
 }
 
-blockquote {
+blockquote, .backlinks {
   background-color: var(--lightgrey);
   border-radius: 5px;
   margin-bottom: 1em;
@@ -386,19 +386,10 @@ pre {
   text-align: right;
 }
 
-/* 
-  blog_nav is div container around:
-    on blog "index":
-      h4
-      ul
-        li
-          a
-    on blog post:
-      p
-        "prev"
-      p
-        "next"
-*/
+.blog_nav {
+  border-top: 1px solid var(--grey);
+  padding-top: 1rem;
+}
 .blog_nav li {
   list-style: none;
 }

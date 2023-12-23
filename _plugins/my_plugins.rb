@@ -26,7 +26,7 @@ module Jekyll
         end
       end
       if (backlinks.length > 0)
-        return "Backlinks: #{backlinks.join(', ')}"
+        return "#{backlinks.join(', ')}"
       else
         return ""
       end
