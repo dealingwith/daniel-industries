@@ -10,6 +10,8 @@ url:                 "https://daniel.industries"
 baseurl:             ""
 exclude:             []
 
+highlighter:         rouge
+
 # About/contact
 author:
   name:              "Daniel Miller"
