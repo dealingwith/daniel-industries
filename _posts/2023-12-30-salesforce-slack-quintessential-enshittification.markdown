@@ -31,7 +31,7 @@ I'm always amused by a UX loop. Maybe it's the programmer in me.
 20 GOTO 10
 ```
 
-<p class="postscript" markdown="1">Postscript: I just spent an inordinate amount of time figuring out which language to specify to get the code highlighter to pick up my [BASIC](https://en.wikipedia.org/wiki/BASIC) code. First, I had to learn that Jekyll (via Kramdown) could be configured to [use Rogue](https://kramdown.gettalong.org/syntax_highlighter/rouge.html), and apparently I already had Rogue installed by default. Then I had to go to the Rogue site and find `bbcbasic` in the drop-down, finding neither BASIC or [QBasic](https://en.wikipedia.org/wiki/QBasic), the first language I learned[^2] on my father's PC.</p>
+<p class="postscript" markdown="1">Postscript: I just spent an inordinate amount of time figuring out which language to specify to get the code highlighter to pick up my [BASIC](https://en.wikipedia.org/wiki/BASIC) code. First, I had to learn that Jekyll (via Kramdown) could be configured to [use Rouge](https://kramdown.gettalong.org/syntax_highlighter/rouge.html), and apparently I already had Rouge installed by default. Then I had to go to the Rouge site and find `bbcbasic` in the drop-down, finding neither BASIC or [QBasic](https://en.wikipedia.org/wiki/QBasic), the first language I learned[^2] on my father's PC.</p>
 
 [^1]: The last company where I worked FT was a MS shop and used Teams, and I spent the majority of my time in the application. "300 papercuts a day" is a fairly apt description of the experience.
 
