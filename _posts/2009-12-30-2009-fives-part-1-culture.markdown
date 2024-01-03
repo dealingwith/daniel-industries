@@ -8,6 +8,7 @@ categories:
  - art
  - dallas
  - humanity
+ - year-in-review
 ---
 
 [![][1]][2]

@@ -1,14 +1,11 @@
 ---
-author: dealingwith
 date: '2007-12-31 08:37:00'
 layout: post
 slug: to-the-new-year
-status: publish
 title: To the New Year
-wordpress_id: '2424'
 categories:
  - minutia
- - mp3 of the day
+ - year-in-review
 ---
 
 ![]({{site.url}}/assets/2007/12/chickennewyear2.jpg)

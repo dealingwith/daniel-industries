@@ -1,15 +1,11 @@
 ---
-author: dealingwith
 date: '2008-12-22 14:06:00'
 layout: post
 slug: christmas-message-2008
-status: publish
 title: Christmas Message 2008
-wordpress_id: '2890'
 categories:
  - christmas
  - video
 ---
 
-http://www.youtube.com/watch?v=2LHUwXr9kXo
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2LHUwXr9kXo?si=c4UqVWVAL9rBTfi3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

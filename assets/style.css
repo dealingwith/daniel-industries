@@ -32,14 +32,14 @@ body {
   background: var(--my-gradient);
   color: var(--text);
   font-family: var(--body);
-  font-size: 1.1em;
+  font-size: 19px;
   line-height: 1.5em;
   min-height: 98vh;
 }
 
 @media screen and (max-width: 600px) {
   body {
-    font-size: 1.2em;
+    font-size: 21px;
   }
 }
 
@@ -114,7 +114,7 @@ h6 a {
   margin: 2rem auto;
   min-height: 100vh;
   padding: 1rem;
-  width: 600px;
+  width: 650px;
 }
 @media screen and (max-width: 600px) {
   .main-content {

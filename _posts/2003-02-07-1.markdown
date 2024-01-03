@@ -1,13 +1,14 @@
 ---
 layout: post
-title: '...'
+title: 'Quoting Myself'
 categories:
  - quotable
+ - art
+ - Chuck Prophet
 ---
 
-<em>...artists...living in the true style of the American chanteuse, writing authentic music that speaks to our true culture, transcends the market fray, and reeks of real life while simultaneously lifting us above our surroundings with its beauty.</em> .Me :)
+...artists...living in the true style of the American chanteuse, writing authentic music that speaks to our true culture, transcends the market fray, and reeks of real life while simultaneously lifting us above our surroundings with its beauty.
 
+> Someone call the ambulance. She's completely nude, standing on the fence.
 
-
-<em>Someone call the ambulance. She's completely nude, standing on the fence.</em> .Chuck Prophet, Storm Across the Sea
-
+-- Chuck Prophet, _Storm Across the Sea_

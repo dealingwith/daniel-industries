@@ -5,6 +5,7 @@ excerpt: "Resolutions by way of a visualization"
 date: 2018-01-01 14:45:35 -0600
 comments: true
 categories: 
+ - year-in-review
 ---
 
 ## Man, 43, Stops Taking Everything Personally

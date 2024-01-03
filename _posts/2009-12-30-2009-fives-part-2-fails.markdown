@@ -24,6 +24,7 @@ categories:
  - music
  - pet peeves
  - pissing people off
+ - year-in-review
 ---
 
 ![][1]

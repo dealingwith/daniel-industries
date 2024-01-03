@@ -5,9 +5,10 @@ slug: mp3s-of-the-day-23
 title: Happy Mix
 categories:
  - mp3 of the day
+ - music
 ---
 
-The _Happy Mix_ originally made for [someone][2].
+The _Happy Mix_ originally made for Carissa.
 
 1. Martin Sexton, _Happy_
 1. The Choir, _Wide-Eyed Wonder_
@@ -20,5 +21,3 @@ The _Happy Mix_ originally made for [someone][2].
 1. Linford Detweiler, _He was Happy_
 1. Michael Miller, _Some Happy_
 1. The Innocence Mission, _Happy, the End_
-
-   [2]: http://twitter.com/carissa/statuses/814320411
