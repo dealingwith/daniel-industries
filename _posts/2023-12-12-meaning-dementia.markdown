@@ -26,11 +26,11 @@ But I'm doing it all through a fog of exhaustion and a feeling of incompetence s
 
 Or maybe I can cultivate the crazy and develop an ability to stare into donut eaters' souls.
 
-> If i was a farmer  
+> If I was a farmer  
 > Instead of a faker  
-> If i was a realer  
-> and not just some raker  
+> If I was a realer  
+> And not just some raker  
 > Raking through a memory  
-> that just doesn't belong to me  
+> That just doesn't belong to me  
 > Just someone I could of been  
-> if only i kept walking...
+> If only I kept walking...
