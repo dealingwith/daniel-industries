@@ -5,37 +5,34 @@
     <link href="/assets/reset.css" rel="stylesheet">
     <link href="/assets/style.css" rel="stylesheet">
     <style>
-      html, body {
-        overflow-x: scroll;
-      }
       body {
         font-size: .9rem;
         margin: 20px;
-        width: 6840px;
       }
       #archivecontainer {
-        display: flex;
-        flex-flow: row nowrap;
-        flex-direction: row;
-        width: 6840px;
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-template-rows: masonry;
       }
-      #archivecontainer > div {
-        margin-right: 20px;
-        width: 300px;
-      }
-      a.long_post {
+      #archivecontainer a:not(.short_post) {
         font-weight: bold;
       }
-      ul li {
+      #archivecontainer ul {
+        background-color: #f6f4f4;
+        padding: 5px 5px 3px;
+      }
+      #archivecontainer ul li {
         list-style: none;
       }
+      .hidden {
+        display: none;
+      }
     </style>
-    
   </head>
-
   <body>
-    <div>
-      <a href="#" id="hideshort">Hide short posts</a> (<span id="shortpostscount"></span>)
+    <div style="margin-bottom: 1em">
+      <a id="hideshort" href='javascript:;' onclick="hideShortPosts()">Toggle short posts</a> (<span id="shortpostscount"></span>)
     </div>
     <div id="archivecontainer">
       {{ content }}
@@ -47,13 +44,19 @@
 
 
   <script>
-    document.getElementById('hideshort').onclick = function() {
-      let items = document.querySelectorAll("a:not(.long_post)");
+    function hideShortPosts() {
+      let items = document.querySelectorAll(".short_post");
       for (item of items) {
-        item.parentElement.remove();
+        item.parentElement.classList.toggle('hidden');
       }
     }
 
-    document.getElementById('shortpostscount').innerText = document.querySelectorAll("a:not(.long_post)").length + "/" + document.getElementsByTagName("li").length;
+    document.getElementById('shortpostscount').innerText = document.querySelectorAll(".short_post").length + "/" + document.getElementsByTagName("li").length;
+
+    if(window.location.hash) {
+      let category = window.location.hash
+      let querystring = `a[name=${category.substring(1)}] ~ ul`
+      document.body.querySelector(querystring).style.backgroundColor = "#f0fff0";
+    }
   </script>
 </html>

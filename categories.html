@@ -1,24 +1,6 @@
 ---
-layout: categories
+layout: archive
 title: Categories
 ---
 
-{% assign sorted_cats = site.categories | sort %}
-
-<ul>
-  {% for category in sorted_cats %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-      <li style="padding: 3px"><a href="#{{ category_name }}"{% if category[1].size > 10 %} class="long_post"{% endif %}>{{ category_name }}</a> ({{ category[1].size }})</li>
-  {% endfor %}
-</ul>
-
-{% for category in sorted_cats %}
-  {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3><a name="{{ category_name }}"></a>{{ category_name }}</a></h3>
-  <ul>
-    {% for post in site.categories[category_name] %}
-      {% assign wordcount = post.content | number_of_words %}
-      <li style="padding: 3px"><a{% if wordcount > 300 %} class="long_post"{% endif %} href="{{ post.url }}">{{post.title}}</a> ({{wordcount}})</li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+{% category_list %}

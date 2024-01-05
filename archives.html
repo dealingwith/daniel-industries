@@ -8,13 +8,13 @@ title: Archives
   {% if currentdate != date %}
     {% unless forloop.first %}</ul></div>{% endunless %}
     <div>
-      <h3>{{ currentdate }}</h3>
-        <ul style="padding-left:0">
+      <h1>{{ currentdate }}</h1>
+        <ul>
     {% assign date = currentdate %}
   {% endif %}
     {% assign wordcount = post.content | number_of_words %}
     <li>
-      <a class="archive_link{% if wordcount > 300 %} long_post{% endif %}" href="{{ post.url }}">{{ post.title }}</a> ({{wordcount}})
+      <a class="archive_link{% if wordcount < 300 %} short_post{% endif %}" href="{{ post.url }}">{{ post.title }}</a> ({{wordcount}})
     </li>
   {% if forloop.last %}</ul></div>{% endif %}
 {% endfor %}

@@ -32,6 +32,32 @@ module Jekyll
       end
     end
   end
+
+  class CategoryListTag < Liquid::Tag
+    def render(context)
+      html = ""
+      categories = context.registers[:site].categories
+      sorted_categories = categories.sort_by { |category| category[1].size }
+      sorted_categories.reverse.each do |category|
+        category_name = category[0]
+        html << "<div><a name=\"#{category_name}\"></a><h1>#{category_name} (#{category[1].size})</h1><ul>"
+        category[1].each do |post| 
+          word_count = post.content.scan(/\S+/).count
+          html << '<li class="archive_link'
+          html << '">'
+          html << '<a class="archive_link'
+          if (word_count < 300)
+            html << ' short_post'
+          end
+          html << "\" href=\"#{post.url}\">#{post.data['title']}</a> (#{word_count}) (#{post.date.strftime("%m/%Y")})"
+          html << '</li>'
+        end
+        html << '</div>'
+      end
+      html
+    end
+  end
 end
 
 Liquid::Template.register_filter(Jekyll::Backlinks)
+Liquid::Template.register_tag('category_list', Jekyll::CategoryListTag)
