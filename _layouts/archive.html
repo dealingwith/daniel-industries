@@ -19,8 +19,11 @@
         font-weight: bold;
       }
       #archivecontainer ul {
-        background-color: #f6f4f4;
+        /* background-color: #f6f4f4; */
         padding: 5px 5px 3px;
+      }
+      #archivecontainer ul.highlighted {
+        border: 1px solid pink;
       }
       #archivecontainer ul li {
         list-style: none;
@@ -54,9 +57,9 @@
     document.getElementById('shortpostscount').innerText = document.querySelectorAll(".short_post").length + "/" + document.getElementsByTagName("li").length;
 
     if(window.location.hash) {
-      let category = window.location.hash
-      let querystring = `a[name=${category.substring(1)}] ~ ul`
-      document.body.querySelector(querystring).style.backgroundColor = "#f0fff0";
+      let category = window.location.hash;
+      let querystring = `a[name=${category.substring(1)}] ~ ul`;
+      document.body.querySelector(querystring).classList.toggle('highlighted');
     }
   </script>
 </html>
