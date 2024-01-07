@@ -8,7 +8,6 @@ title: i (heart) carissa
 wordpress_id: '2946'
 categories:
  - love
- - me
  - minutia
  - video
 ---

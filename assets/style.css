@@ -338,13 +338,20 @@ pre {
 
 table {
   border-collapse: collapse;
-  border-spacing: 0;
-  font-size: 0.9rem;
+  /* border-spacing: 0; */
+  /* font-size: 0.9rem; */
   margin-bottom: 1em;
 }
 
 tr {
   border-bottom: 1px solid var(--green);
+}
+
+td:not(:last-child), th:not(:last-child) {
+  border-right: 1px solid var(--green);
+}
+td, th {
+  padding: 3px 16px;
 }
 
 .index-hero {

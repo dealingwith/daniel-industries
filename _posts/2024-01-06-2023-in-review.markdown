@@ -1,0 +1,84 @@
+---
+layout: post
+title: "2023 in Review"
+excerpt: 
+date: 2024-01-06 12:55:16 -0600
+categories: 
+ - minutia
+ - year-in-review
+---
+
+### Months 1-7: Jobby job
+
+As mentioned in the [preface](/2024/01/01/2023-in-review-preface/ "2023 in Review: Preface"), I left my FT job in August. Other than family-related milestones, the first seven months of the year were a blur of commuting and officing, trying to figure out if I really wasn't being effective or if that was just my perception.
+
+### Health
+
+#### TLDR; getting old
+
+After the multiple health issues of 2021 and 2022, 2023 thought it should continue to get in on the action.
+
+##### Eyes
+
+My eyesight started to degrade in an alarmingly rapid fashion. Since earlier in the year, I've been unable to focus on a computer screen after waking up, or for longer periods of time. It is now often an hour before I can focus on a screen. Dark mode is right out. Often I am riding my bicycle in the first hour of a day, which helps assuage the problem. I went to the eye doctor towards the beginning of the summer and all they could suggest were dry eyes and to use drops, which I have been doing. Oh, and I'm starting to get cataracts, so driving at night--especially with the headlight wars the car makers are waging--has become rather unpleasant.
+
+##### Foot
+
+I've had a partially fallen right arch and a significantly shorter right leg since forever, but towards the end of the year what had been manageable plantar fasciitis became constant pain. It became evident that it got worse after harder or longer bike rides. It is the worst right after I wake up, which combined with the poor eyesight has made mornings not fun. So far I have:
+
+1. Started wearing compression socks at night
+2. Started wearing a stupid plantar fasciitis foot brace thing at night. I actually have two; the first one was too uncomfortable to wear all night.
+3. Started icing my foot 2-3 times per day.
+4. Started stretching my hamstrings, like, for real, 1-2 times per day.
+5. Got a new bike fit during which we added even more shims to my short-leg shoe/cleat situation. It's only been a few days since this change, so the jury is still out. But early results aren't promising.
+
+I haven't looked into PT or some foot-specific exercises and stretches, but that's on the short list. After the consistent failures of the medical field I've experienced in the last few years, I'm holding off on consulting a doctor at this point. 
+
+#### Off meds
+
+This was probably the most significant thing from 2023, actually. Early in the year, I stopped taking the depression medication I'd been on for over a decade. It started as an accident, something that would happen now and again, but usually with bad consequences. This time, it was the opposite. I consulted with my psychiatrist and we monitored things for the following months. Everything seemed fine. I'm still monitoring, and late in the year had some symptoms, but they would only last a day, or would be relieved with a good bike ride.
+
+I have many more thoughts about this but none ready for typing yet. If you are on medications, you should not "accidentally" quit them cold turkey. My experience was an anomaly.
+
+#### Riding recap
+
+##### Milage
+
+Overall milage was down but relatively consistent.
+
+|Year|Milage|
+|--|--|
+|2020|3,762|
+|2021|3,786|
+|2022|3,582|
+|2023|3,466|
+
+##### Milo rides
+
+Milo started riding more, after a long time resisting riding the bike. We were just about to employ some outside help to get him over his mental block when it just clicked for him, and he's been enjoying the freedom of the bicycle ever since, and his abilities improved quickly. I got him a new bike for his birthday in May, and we've been on many rides together. He and I did two bike rallies in the early summer, and then he competed in the Texas state road race championships in September.
+
+He wears a cycling casquette frequently. Brim down, just like his dad.
+
+![](/assets/2024/01/milo0.jpg)
+
+![](/assets/2024/01/milo1.jpg)
+
+### Family
+
+#### Another cat
+
+#### Marriage
+
+_[2022 in Review](/2023/01/22/2022-in-review/ "I’ve now been married for 12 years; sober for 7. I expected these conditions to solidify over time, but both feel as tenuous as ever. They both require constant maintenance.")_
+
+_[From Perfection to Obsession](/2010/09/20/obsessed/ "From Perfection to Obsession")_
+
+### New ventures
+
+#### TXYC
+
+#### Your Daily Page
+
+#### The Hallucination
+
+[the show](https://hallucinunciation.daniel.industries/ "The Hallucinunciation")

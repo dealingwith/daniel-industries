@@ -64,6 +64,7 @@ public/mcu-server
 Rakefile
 
 .jekyll-cache
+.jekyll-metadata
 
 google*.html
 keybase.txt
