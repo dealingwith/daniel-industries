@@ -8,11 +8,13 @@ categories:
  - year-in-review
 ---
 
-### Months 1-7: Jobby job
+## Months 1-7: Jobby job
 
-As mentioned in the [preface](/2024/01/01/2023-in-review-preface/ "2023 in Review: Preface"), I left my FT job in August. Other than family-related milestones, the first seven months of the year were a blur of commuting and officing, trying to figure out if I really wasn't being effective or if that was just my perception.
+As mentioned in the [preface](/2024/01/01/2023-in-review-preface/ "2023 in Review: Preface: I considered my difficulties a personal failing that required proactive improvements on my outlook, not environmental conditions"), I left my FT job in August. Other than family-related milestones, the first seven months of the year were a blur of commuting and officing, trying to figure out if I really wasn't being effective or if that was just my perception.
 
-### Health
+---
+
+## Health
 
 #### TLDR; getting old
 
@@ -20,7 +22,7 @@ After the multiple health issues of 2021 and 2022, 2023 thought it should contin
 
 ##### Eyes
 
-My eyesight started to degrade in an alarmingly rapid fashion. Since earlier in the year, I've been unable to focus on a computer screen after waking up, or for longer periods of time. It is now often an hour before I can focus on a screen. Dark mode is right out. Often I am riding my bicycle in the first hour of a day, which helps assuage the problem. I went to the eye doctor towards the beginning of the summer and all they could suggest were dry eyes and to use drops, which I have been doing. Oh, and I'm starting to get cataracts, so driving at night--especially with the headlight wars the car makers are waging--has become rather unpleasant.
+My eyesight started to degrade in an alarmingly rapid fashion. Since earlier in the year, I've been unable to focus on a computer screen after waking up, or for longer periods of time. It is now often an hour before I can focus on a screen. Dark mode is right out. Often I am riding my bicycle in the first hour of a day, which helps assuage the problem. I went to the eye doctor towards the beginning of the summer and all they could suggest were dry eyes and to use drops, which I have been doing. Oh, and I'm starting to get cataracts, so driving at night, especially with the headlight wars the car makers are waging, has become rather unpleasant.
 
 ##### Foot
 
@@ -53,32 +55,88 @@ Overall milage was down but relatively consistent.
 |2022|3,582|
 |2023|3,466|
 
+Part of the reduced milage can be attributed to the foot injury; the other part can be attributed to riding with my son, specifically on Saturdays, the time previously reserved for longer rides.
+
 ##### Milo rides
 
 Milo started riding more, after a long time resisting riding the bike. We were just about to employ some outside help to get him over his mental block when it just clicked for him, and he's been enjoying the freedom of the bicycle ever since, and his abilities improved quickly. I got him a new bike for his birthday in May, and we've been on many rides together. He and I did two bike rallies in the early summer, and then he competed in the Texas state road race championships in September.
 
 He wears a cycling casquette frequently. Brim down, just like his dad.
 
-![](/assets/2024/01/milo0.jpg)
+![](/assets/2024/01/milo0.jpg "3rd place at state champs!")
 
-![](/assets/2024/01/milo1.jpg)
+![](/assets/2024/01/milo1.jpg "30 mile rally in the TX countryside")
 
-### Family
+---
+
+## Family
+
+Our humble family continues to be my greatest source of joy and contentment, for which I am extremely grateful considering its members are the people I spend the most time with. That has been especially true and rewarding since entering this period of underemployment in August. The best thing about these last six months has been the ability to pick up Milo from school in the middle of the afternoon, and spending considerably more time with all our children. And _better_ time: previously my hours at home consisted primarily of passing out on the couch after arriving home at 7pm and eating a reheated dinner. Now we eat dinners together again. 90% of the time we play a game while eating dinner. I have to figure out how to fund these people's existence but I also have to figure out how to do it without sacrificing that critical daily ritual.
 
 #### Another cat
 
+We got a second cat (Walter) this year, to keep our first cat (Harley) company. I have a few nicknames for Walter, my favorite being the Trickster Pigeon (when he purrs particularly loudly, it sounds like a pigeon). He is an example for me of living in the moment to the extreme. If you attempt to prevent him from doing the thing he wants to do, he simply continues his attempts, taking no offense at your reaction. If he fails, he just tries again. He's curious and cuddly, like most cats, but _more so_. Here is a picture of Walter using Harley as a pillow.
+
+![](/assets/2024/01/cats_small.jpg)
+
 #### Marriage
 
-_[2022 in Review](/2023/01/22/2022-in-review/ "I’ve now been married for 12 years; sober for 7. I expected these conditions to solidify over time, but both feel as tenuous as ever. They both require constant maintenance.")_
+[Last year](/2023/01/22/2022-in-review/ "I’ve now been married for 12 years; sober for 7. I expected these conditions to solidify over time, but both feel as tenuous as ever. They both require constant maintenance.") I suggested that marriage felt "as tenuous" in year 12 as it did in year 1. I feel less so now. If anything, I feel more like I did when I wrote _[From Perfection to Obsession](/2010/09/20/obsessed/ "From Perfection to Obsession")_. It is obvious that more time available to spend with, and in communication with, someone you love deeply improves the relationship.
 
-_[From Perfection to Obsession](/2010/09/20/obsessed/ "From Perfection to Obsession")_
+#### Children
 
-### New ventures
+All the children continue to thrive, which is our main goal here, after all. Penn is enjoying success as a sophomore at Arkansas. Lucy started her first year at middle school. Milo is working through difficulties with learning thanks to the help he receives at our public elementary school. I recently wrote that we each have our own "unique characteristics and abilities. We'd make a great science fiction comic book crime-fighting crew. We even have our two familiars, Harley and Walter."
+
+![](/assets/2024/01/penn_small.jpg)
+
+---
+
+## New ventures
+
+Here are the three main things I spent time on in the back half of the year. None of them are "done".
 
 #### TXYC
 
+[Texas Youth Cycling](https://txyouthcycling.org/ "Texas Youth Cycling"). Trying to get this organization up and running to the point where we can do some things in 2024. I spent many hours between August and November researching, writing, and planning. I finally hired someone to help design a logo and write website copy. I got a website up. I gave the project a break for the last two months of the year.
+
 #### Your Daily Page
 
-#### The Hallucination
+Shortly before November, I was chatting with friend and former coworker Andrew Miller. He mentioned he wanted to spend November focused on building a small personal software project. Having had a few of those on the backburner for some time, I told him that sounded like a great idea, and _November Build Club_ was born. The result, from my side of the table, was [Your Daily Page](https://yourdaily.page/ "Your Daily Page"). It sits in a similar state of not-quite-done. But it provided me the opportunity to learn a lot of new software development technologies and techniques. During the last decade focused on leading software teams, I've managed to strike a good balance, keeping my coding chops relatively sharp; but it was still a far cry from spending the majority of every day deep in the mines.
 
-[the show](https://hallucinunciation.daniel.industries/ "The Hallucinunciation")
+#### The Hallucinunciation
+
+After finding some satisfaction in November's focus on software development, I spent the majority of December focused on another withering area of my life: music. [The show](https://hallucinunciation.daniel.industries/ "The Hallucinunciation") on the 21st was the realization of an idea I had one year prior. It would be a lot to summarize, but [here is the booklet (PDF)](/assets/2024/01/The_Hallucinunciation_Booklet.pdf) for the show/service, and [here is the narrator text (PDF)](/assets/2024/01/Narrator_Copy_of_The_Hallucinunciation.pdf). I asked some friends to help me out, all of whom agreed (much to my surprise and gratitude). (One said, "A Christmas show with no Christmas music? I'm intrigued.") The priest at my church found the perfect narrator (I refer to her as "the Maya Angelou of Dallas"). We pulled it off. I received positive feedback. But it did not rejuvenate my musical muse. It was hard work and diaphanous in epiphany.
+
+Since that show, which was the night before the kids' last day of school before the winter break, I've done little. I've relaxed. I've enjoyed winter, my family, the holiday energy. I've listened to a lot of music, and written on this website more, and read more. I've nursed by painful foot. Tomorrow (it is now Monday, January 8th, as I write this portion) the kids go back to school. Seems as good a time as any to glance at reality again.
+
+---
+
+## Cultural highlights
+
+#### Podcasts
+
+This is the easiest one to decide on, so it goes first:
+
+[60 Songs That Explain the '90s](https://www.theringer.com/60-songs-that-explain-the-90s "60 Songs That Explain the '90s - The Ringer"). Not just because the 90s were my most formative years, and almost every episode discusses a song that has some kind of personal meaning, but because Rob Harvilla is a good writer. An excellent writer. Listening to him read his own writing improves my own internal dialog.
+
+[Future of Coding](https://futureofcoding.org/episodes/ "Podcast Future of Coding"). Even if you're not into computers or making stuff with computers, this is an excellent listen. I am into those things, and I do not understand half of what they're talking about, and it is still wildly entertaining and illuminating. The recent addition of the amazing [Lu Wilson](https://www.todepond.com/) as co-host only improved what was already nearly flawless.
+
+#### Books
+
+_The Dryad’s Crown_ by [David Hopkins](https://thatdavidhopkins.com/ "David Hopkins Author of the Dryad's Crown"). David is a friend, but I offer this as my top read of 2023 without bias. I [already wrote about this book](https://daniel.industries/2023/06/18/reading-on-the-morning-of-fathers-day/ "Reading on the Morning of Father's Day").
+
+> David's way with words and storytelling is subtly exquisite. He slips exposition and details of his worlds into half of a sentence in a fight scene. Gender and sexuality in _The Dryad's Crown_ are fluid and natural in a way I wish our own world could grasp.
+
+_[Faith, Hope and Carnage](https://www.nickcave.com/faith-hope-and-carnage/)_ by Nick Cave and Seán O'Hagan. I never blogged about this book, despite its oversized impact on me. The number of highlights I made is intense. I couldn't pick just one, or even three. It worked particularly well as an audiobook, as it is the result of a series of interviews.
+
+#### Movies
+
+I don't watch many movies anymore, and filmmaking is at a relative low point, historically, in my opinion. In terms of things released in 2023, my favorites would probably be _The Fall of the House of Usher_ and _The Legend of Vox Machina_ (season 1 was technically 2022, but I watched both seasons in 2023). Neither are movies. So there you go.
+
+#### Music
+
+Always a difficult one. I recently picked up [Live in Paris](https://chuckprophet.bandcamp.com/album/live-in-paris "Live in Paris by Chuck Prophet &amp; The Mission Express") by  Chuck Prophet & The Mission Express and it immediately became one of my favorite live records of all time. I've written a [bit](/2002/09/28/1/) [already](/2003/02/07/Chuck-Prophet/) about how good Chuck Prophet is live.
+
+[SAVED!](https://linguaignota.bandcamp.com/album/saved "SAVED! by Reverend Kristin Michael Hayter") by Reverend Kristin Michael Hayter would probably be my other pick for 2023. The [Pitchfork review](https://pitchfork.com/reviews/albums/reverend-kristin-michael-hayter-saved/ "Reverend Kristin Michael Hayter: SAVED! Album Review") does a pretty good job of putting words to this affecting experience of a record.
+
+I listened to more than just Americana music, the fact that both of these records could fall somewhere near that genre is almost odd. I've also been listening to a lot of old music lately. Nostalgia has been a strong force of this midlife crisis.

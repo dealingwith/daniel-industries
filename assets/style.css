@@ -32,14 +32,14 @@ body {
   background: var(--my-gradient);
   color: var(--text);
   font-family: var(--body);
-  font-size: 19px;
+  font-size: 17px;
   line-height: 1.5em;
   min-height: 98vh;
 }
 
 @media screen and (max-width: 600px) {
   body {
-    font-size: 21px;
+    font-size: 19px;
   }
 }
 
