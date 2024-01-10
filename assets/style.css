@@ -181,17 +181,23 @@ header a,
 }
 
 blockquote, .backlinks {
-  background-color: var(--lightgrey);
-  border-radius: 5px;
   margin-bottom: 1em;
   margin-left: 0;
-  padding: 0.8em 1em 0.7em;
+  padding-left: 1em;
+}
+blockquote {
+  border-left: 2px solid var(--lightgreen);
 }
 .main-content blockquote p:first-of-type {
   margin-top: 0;
 }
 .main-content blockquote p:last-of-type {
   margin-bottom: 0;
+}
+.backlinks {
+  border-radius: 5px;
+  background-color: var(--lightgrey);
+  padding: 0.8em 1em 0.7em;
 }
 
 img {
