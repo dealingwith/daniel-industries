@@ -4,6 +4,15 @@
 
   <body class="index">
     {% include menu.html %}
-    <div class="index-hero">seeking stories beauty meaning</div>
+
+    <div class="main-content">
+      <h1>seeking stories beauty meaning</h1>
+      {% capture my_include %}{% include_relative about_content.md %}{% endcapture %}
+      
+      {{ my_include | markdownify }}
+
+      {% include footer.html %}
+    </div>
+
   </body>
 </html>

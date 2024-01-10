@@ -287,6 +287,10 @@ pre {
   }
 }
 
+.index img {
+  max-width: 500px;
+}
+
 .menu {
   font-family: var(--sans);
   font-size: 0.9em;
@@ -304,9 +308,6 @@ pre {
   margin: 0;
   padding: 0 5px;
   text-align: left;
-}
-.menu .only-index {
-  display: none;
 }
 .menu a {
   text-decoration: none;
@@ -358,13 +359,6 @@ td:not(:last-child), th:not(:last-child) {
 }
 td, th {
   padding: 3px 16px;
-}
-
-.index-hero {
-  font-family: var(--sans);
-  min-height: 45vh;
-  padding-top: 22vh;
-  text-align: center;
 }
 
 pre.highlight {
