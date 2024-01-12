@@ -27,9 +27,9 @@ She looked at Tris and thought, "Jesus Christ, what an asshole," and walked away
 
 "It's come to the point where a man can't enjoy a dog on the streets of the district, Sumo," Tris said.
 
-"Ha," Sumo said, wiping down the top of his stand with a bar rag. "At least she paid for her dog."
+"Ha!" Sumo said, wiping down the top of his stand with a bar rag. "At least she paid for her dog."
 
-Tris took his last bite and suddenly the music from every club synced up for a split second, and the pause between bass notes rang a deathly silence through the street. He waited to hear a thousand thoughts, but they didn't come.
+Tris took his last bite and suddenly the music from every club synced up for a split second, and the pause between bass notes rang a deathly silence through the street.
 
 Sumo grunted. "That was weird."
 
@@ -37,7 +37,9 @@ Sumo grunted. "That was weird."
 
 "Wow," Tris thought to himself, "that is depressing."
 
-That businessman had spent more on thread than Tris had on his faulty embed. He probably bought and sold crypto tokens of embeds. Tris had barely scraped together enough for this back-alley hack job.
+That businessman had spent more on thread than Tris had on anything in his life.
+
+---
 
 Bill met Tris in a new location this time. They always met in one of a handful of locations: the South Docks, the Warehouse District between building #40 and building #102, one of a couple of busy beer-and-ramen joints. But not this time. Bill had sent a coded message through their encrypted messaging app of choice, but apparently did not even trust it to keep the secret. Instead, he sent a long, obscure URL. When Tris clicked it, it immediately demanded a password. He checked the secure password vault he shared with Bill and found a new password stored there. Once in, the site displayed a singular file listed on an ancient Apache index page. He clicked the link. “NOPE,” was all that page said. He viewed the source for the page and found a comment containing binary code. He copy-pasted the binary into an ironically insecure binary translator and it revealed a vague location, Hilltop Park.
 
@@ -45,7 +47,7 @@ Bill met Tris in a new location this time. They always met in one of a handful o
 
 Hilltop Park was 500 meters square, and Bill had neglected to specify a specific location within or a time. They always met at 17:00 the same day, though, so Tris headed up to the park and started walking around. The contrast to the East District could not have been more distinct. Hilltop was a meticulously maintained flower garden set in a clean, almost antiseptic, mostly concrete public space. Small groups of volunteer septuagenarians occupied sections of the large garden beds like quiet, introverted protestors. At first, the scene made Tris uncomfortable, but after a couple of laps, he began to feel an odd, meditative comfort envelop him. The only people here thinking loudly were the anguished lovers sitting on the edge of the park, overlooking the city. Tris just avoided that area.
 
-After almost an hour he began to worry that he’d misunderstood Bill’s message, or made a bad assumption about their meeting time. Then he noticed a narrow stairway in the shadow of some trees at the edge of the park. They were not as well maintained as the flower gardens, even the concrete there showed dirt and cracks. He changed course and began his descent. The stairs curved towards a landing tucked into the side of the hill and in the corner of the landing stood Bill, smoking a cigarette. Based on the pile of buds at his feet, he’d been waiting about an hour.
+After almost an hour he began to worry that he’d misunderstood Bill’s message, or made a bad assumption about their meeting time. Then he noticed a narrow stairway in the shadow of some trees at the edge of the park. They were not as well maintained as the flower gardens, even the concrete there showed dirt and cracks. He changed course and began his descent. The stairs curved towards a landing tucked into the side of the Hill and in the corner of the landing stood Bill, smoking a cigarette. Based on the pile of buds at his feet, he’d been waiting about an hour.
 
 “About fucking time,” Bill said as he saw Tris approach.
 
@@ -57,11 +59,11 @@ After almost an hour he began to worry that he’d misunderstood Bill’s messag
 
 “Makes sense, you geezer,” Bill smirked in reply.
 
-Tris was a common courier. Sometimes he carried entirely above-board materials--legal documents, collectibles, legal wetware--but usually it was illegal contraband of one form or another. The types of things that, when in need of transportation, should not be trusted to be under the panoptical eye of a big corporation. Usually drugs, sometimes cash, sometimes a black market embed snuck into the province by some boat-bound courier before him. Something like the one playing Chatty Cathy in the base of his brainstem. 
+Tris was a common courier. Sometimes he carried entirely above-board materials--legal documents, collectibles, legal wetware--but usually it was illegal contraband of one form or another. The types of things that, when in need of transportation, should not be trusted to be under the panoptical eye of a big corporation. Usually drugs, sometimes cash, sometimes a black market embed snuck into the province by some boat-bound courier before him.
 
-Bill was a common fixer. He connected the ambitious capitalists in need of a westbound railroad with the slacker couriers who could be trusted to mind their own business, just freight cars carrying pixelated pickaxes to the digital gold mines of the Districts.
+Bill was a common fixer. He connected the ambitious capitalists in need of a westbound railroad with the slacker couriers who could be trusted to mind their own business, just freight cars carrying pixelated pickaxes to the digital gold mines of the districts.
 
-Tris was precisely that type of neutral professional, but even so, his curiosity was crescendoing by the time he’d found Bill on the side of the Hill. Sure, their business was almost always in hushed tones, but this level of secrecy indicated something beyond the norm. Tris expected detailed instructions, or possibly a trip away from the Districts. He imagined renting a scooter for a trip to some secret lab in the jungle.
+Tris was precisely that type of neutral professional, but even so, his curiosity was crescendoing by the time he’d found Bill on the side of the Hill. Sure, their business was almost always in hushed tones, but this level of secrecy indicated something beyond the norm. Tris expected detailed instructions, or possibly a trip away from the districts. He imagined renting a scooter for a trip to some secret lab in the jungle.
 
 Bill dropped his cigarette on the ground and smashed it with the toe of his sneaker. Then, without words, pulled an envelope out from the inner pocket of his black puffy jacket. He handed it to Tris, who took it and shoved it into the front pocket of his jeans. Bill then produced a small piece of paper. On it was an address hand-written in black pen. He palmed it and held it out towards Tris. Tris read the address--just some unfamiliar East District location, potentially anything, a bar, an office, a residence--and nodded. Bill then took his lighter and burned the paper. Before he flicked off the lighter, he lit another cigarette and nodded back at Tris. “See ya,” he began to say, but Tris was already headed down the stairs.
 
@@ -69,9 +71,11 @@ The envelope wasn’t thick but it was somewhat stiff, like a piece of cardboard
 
 A native in a straw hat rode by on a bicycle, his head on a swivel, making eye contact with Tris in a way that made him uncomfortable. Tris didn’t like to make eye contact while on a job. The bicycle encountered a pothole, forcing its rider’s eyes back onto the road ahead. Tris exhaled and stepped out of the shadow of the trees and into the shadows of the warehouses. Having come this way down the Hill, he would now need to traverse their entire expanse, down to the docks, to then make his way along the bay to the East District.
 
-The Horsefolk, The Hooves of Hades, The Horse Gang, The Centaurians, whatever they might be calling themselves these days, were a group of centaur-fetishizing fleshmods. They injected their legs and glutes with synthetics, modded their feet to be more hoove-like, even adding hard but impressively tenacious horseshoes that let them turn on a dime but still kick like sledgehammers; and even the weakest of them could squat 200 kilos. They were terrible bullies, conscienceless mercenaries, and one of Tris’ least favorite gangs of the Districts. If there was a dead body found with a crushed skull, there was a 99% chance it was the horsies. As he tromped through the rows of warehouses, he caught a glimpse of one out of the corner of his eye. One street over, they found themselves across the block from one another at a cross street. The horse-man ran ahead before he could get a good look, but their alien gait gave them away.
+---
 
-The Chariots of Fire, The Jumpers, The Monkeys, whatever they were referring to themselves as, or others were calling them, were a parkour gang often found leaping between buildings in the East District, or across the roofs of the warehouses, or climbing the cranes at the docks. Their white tennies and tracksuits gave them away even on those rare occasions when they were still. Usually, though, it seemed as though they could run indefinitely. They were terrible bullies, conscienceless mercenaries, and one of Tris’ least favorite gangs of the Districts. If a dead body was found, clearly splat on the ground from a great height, there was a 99% chance it was the parkours. As he tromped through the rows of warehouses, he saw a shadow fly across the street directly in front of him. He looked up in time to see a single leg disappear beyond the roofline, a white tapered pant leg with a black stripe down the side.
+The Horsefolk, The Hooves of Hades, The Horse Gang, The Centaurians, whatever they might be calling themselves these days, were a group of centaur-fetishizing fleshmods. They injected their legs and glutes with synthetics, modded their feet to be more hoove-like, even adding hard but impressively tenacious horseshoes that let them turn on a dime but still kick like sledgehammers. Even the weakest of them could squat 200 kilos. They were terrible bullies, conscienceless mercenaries, and one of Tris’ least favorite gangs of the districts. If a dead body found with a crushed skull, there was a 99% chance it was the horsies. As he tromped through the rows of warehouses, he caught a glimpse of one out of the corner of his eye. The horse-man ran ahead before he could get a good look, but their alien gait gave them away.
+
+The Chariots of Fire, The Jumpers, The Monkeys, whatever they were referring to themselves as, or others were calling them, were a parkour gang often found leaping between buildings in the East District, or across the roofs of the warehouses, or climbing the cranes at the docks. Their white tennies and tracksuits gave them away even on those rare occasions when they were still. Usually, though, it seemed as though they could run indefinitely. They were terrible bullies, conscienceless mercenaries, and one of Tris’ least favorite gangs of the districts. If a dead body was found, clearly splat on the ground from a great height, there was a 99% chance it was the parkours. As he tromped through the rows of warehouses, he saw a shadow fly across the street directly in front of him. He looked up in time to see a single leg disappear beyond the roofline, a white tapered pant leg with a black stripe down the side.
 
 Tris accelerated, suddenly aware of his isolation, the street a narrow, rapid river, the walls of the warehouses cliffs of a desert canyon. He could see the cranes above, smell the water of the bay. He was close to where there would be people, close to making that left towards the East District and even more people and less predictable, more familiar streets and alleys. He could make out dockworkers just two blocks ahead, they grew as he approached. He wanted to run but did not dare.
 
@@ -79,7 +83,7 @@ Suddenly the way was blocked by a half-dozen stocky, thick-legged horsefolk. Tri
 
 He could hear those synthetic hooves pounding the pavement behind him. He saw the shadows move alongside him. He would never be able to outrun either of these pack hunters. “This is it,” he thought to himself, “I can’t believe this is fucking it.” Then he saw a door open to his left.
 
-In the doorway stood a short, native but light-skinned man in overalls. He had a substantial grey beard on his face and a mag-fed shotgun in his hands. He motioned subtly for Tris to come through the door. Tris needed no further impetus. Without slowing, he pivoted and raced past the man into the dark interior of the warehouse. He could barely see as his eyes adjusted to the dim light but slowed down and managed to avoid the tall metal shelves that formed a hallway in front of him. Behind him, he heard a shotgun blast and then some bits and pieces of a singular, aged voice speaking loudly, “You kids...no trouble...move on…” then the clang of a steel door slamming shut and a large deadbolt sliding into place. Tris continued to move into the innards of the warehouse.
+In the doorway stood a short, native but light-skinned man in overalls. He had a substantial grey beard on his face and a mag-fed shotgun in his hands. He motioned subtly for Tris to come through the door. Tris needed no further impetus. Without slowing, he pivoted and raced past the man into the dark interior of the warehouse. He could barely see as his eyes adjusted to the dim light but slowed down and managed to avoid the tall metal shelves that formed a hallway in front of him. Behind him, he heard a shotgun blast and then some bits and pieces of a singular, aged voice speaking loudly, “You kids...no trouble...move on.” then the clang of a steel door slamming shut and a large deadbolt sliding into place. Tris continued to move into the innards of the warehouse.
 
 He slowed further to a speed walk as he noticed some more light emanating from his left. Eventually, an opening appeared and he saw what appeared to be an encampment in a basketball-court-sized open space amongst the floor-to-ceiling shelves. There was a small caravan with lights strung between it and the shelves. A small metal barrel sat outside the caravan, a grate laid across its top, and short wooden benches surrounded it. It very much looked like a campsite.
 
@@ -93,7 +97,7 @@ Then he spotted the thing that made it very much not like a campsite. Across the
 
 “I don’t know what they want with me. I was just walking back from Hilltop Park to the East District.”
 
-“Why would you come through the Warehouses?”
+“Why would you come through the warehouses?”
 
 “I was going to check out the docks.”
 
@@ -129,7 +133,7 @@ Tris woke up to the sound of sizzling meat. He looked up and saw Zhao flipping s
 
 “Food will be ready soon,” Zhao remarked. Tris wondered if it was simple conversation or if Zhao was attuned to his inner workings. Despite the console and the weapons stash, Zhao did have a mystical quality about him.
 
-They sat in silence as the meat was flipped repeatedly. Just as Tris thought he couldn’t stand it anymore and might just grab one of the slices off the grill, Zhao lifted two plates and served three pieces onto each. Then he took a pot that was also sitting on the grill--making Tris more aware of how much he wasn’t observing in this situation--and spooned out some rice onto each plate.
+They sat in silence as the meat was flipped repeatedly. Just as Tris thought he couldn’t stand it anymore and might just grab one of the slices off the grill, Zhao lifted two plates and served three pieces onto each. Then he took a pot that was also sitting on the grill and spooned out some rice onto each plate.
 
 Tris ate quickly. It was delicious. The meat was lean but well seasoned and not too tough. The rice was a perfect consistency. As he took his last perfect bite and laid his chopsticks down, he thought to ask, “What was that? It was great!”
 
@@ -149,6 +153,8 @@ Tris went to head towards the door he’d run through the day before but Zhao sn
 
 The tunnels underneath the warehouse were dry but the smell was undeniable. Zhao had a secret egress through the sewer. Tris was relieved when their time below ended at another ladder, which Zhao ascended after extending a hand towards Tris that clearly indicated, “Wait.” From the top, he popped open what looked like a legitimate manhole cover and stuck his head out of the top. Then, a wave that said, “Come on.”
 
+---
+
 Tris walked briskly past the docks, under the cranes, wondering what it would be like to have a shipping container dropped on his head. Would he feel anything or would it be instadeath?
 
 He could see the East District ahead of him, and when the smell of the food vendors on the edge of the district nearest the docks mingled with the sea smell, his spirits lifted. The East District meant home, home meant safety.
@@ -161,6 +167,8 @@ The transition into the District was like pulling on virtual reality glasses, or
 
 Tris touched his pocket, feeling the outline of the envelope. Was it coincidental? Surely.
 
+---
+
 Bissell’s flip-flops stuck to the floor as he walked across the bar. They made a satisfying yet disgusting sound with each step, peeling off the floor over and over. 
 
 His drunk friends sent greetings as he passed.
@@ -171,7 +179,7 @@ His drunk friends sent greetings as he passed.
 
 “Hey, sweetheart.” That one always brought a smile to his lips. Sherry was the sweetheart.
 
-Bo the bartender was turning skewers over the natural gas grill behind the bar in between pouring drinks. He reached down and pulled out a yellow can as Bissel approached.
+Bo the bartender was turning skewers over the natural gas grill behind the bar in-between pouring drinks. He reached down and pulled out a yellow can as Bissell approached.
 
 “I only have time for one today,” Bissell said as Bo popped the can open and pushed it across the bar.
 
@@ -181,9 +189,9 @@ Bo the bartender was turning skewers over the natural gas grill behind the bar i
 
 Bo nodded as he pulled the skewers off the grill, plated them, and slid the plate in front of another gwailou at the bar.
 
-And then he noticed him. Bissell's Least Favorite Person at the Bar. Laying crotch-down on the bench near the door, up on his elbows, expressionless, lost in the displays projected onto the back of his sunglasses. Wearing that goddamned brimmed hat.
+And then he noticed him. Bissell's Least Favorite Person at the bar. Laying crotch-down on the bench near the door, up on his elbows, expressionless, lost in the displays projected onto the back of his sunglasses. Wearing that goddamned brimmed hat.
 
-That posture and that hat represented everything Bissell hated in this world. Pretense. Privilege. Bissell sneered and returned to his drink. He'd taken just one more sip, hoping for something to distract from Least Favorite Person, when he heard some commotion on the street.
+That posture and that hat represented everything Bissell hated in this world. Pretense. Privilege. Bissell sneered and returned to his drink. He'd taken just one more sip, hoping for something to distract him from his Least Favorite Person, when he heard some commotion on the street.
 
 "Out of my way!" he heard a young voice shout. Then some distant screams.
 
@@ -217,13 +225,13 @@ Bissell leaned in close and whispered the address.
 
 “This job just keeps getting weirder,” Tris thought out loud. “Ok, let’s go.”
 
-Bissell grinned and continued walking. They walked through the dumpling restaurant they had entered via the alley. It opened to one of the ancient staircases that rose into the upper floors of the East District, to its ill-defined transition into the jungle. They climbed.
+Bissell grinned and walked out of the other side of the closet into a dumpling restaurant. It opened to one of the ancient staircases that rose into the upper floors of the East District, to its ill-defined transition into the jungle. They climbed.
 
 The address in question was on one of the last streets before the roads became dirt paths into the jungle. The buildings here were ancient and ramshackle. Bissell led Tris to a nondescript door with an old man sat in front, peeling an orange. As he made to enter, the old man grabbed Bissell’s leg. 
 
-“This is the courier.” The old man let go. They entered. As he walked past, Tris noticed the man was peeling the orange with an articulated blade that extended from the tip of his index finger.
+“This is the courier,” Bissell said. The old man let go. They entered. As he walked past, Tris noticed the man was peeling the orange with an articulated blade that extended from the tip of his index finger.
 
-The interior was like a time capsule. Red columns held large wood beams that held the second story, and shōji uncharacteristic of the District formed halls and rooms. Bissell led them up a narrow staircase off the foyer and down a hall where two young natives stood framing an ornate door. He raised his hand the natives nodded and one opened the door. The interior was sparse, save for a large desk. At the desk sat an angular man with grey hair and an eggshell linen shirt. He did not look up from the papers in front of him. Bissell stepped aside, bowed towards Tris, and motioned towards the desk. The man behind the desk looked up.
+The interior was like a time capsule. Red columns held large wood beams that held the second story, and shōji uncharacteristic of the District formed halls and rooms. Bissell led them up a narrow staircase off the foyer and down a hall where two young natives stood framing an ornate door. He raised his hand, the natives nodded, and one opened the door. The interior was sparse, save for a large desk. At the desk sat an angular man with grey hair and an eggshell linen shirt. He did not look up from the papers in front of him. Bissell stepped aside, bowed towards Tris, and motioned towards the desk. The man behind the desk looked up.
 
 “You must be Tris,” he said. “I’m Echo. You have something for me.”
 
@@ -239,7 +247,7 @@ Tris shrugged. All he knew was this address, and now he was inside. In other cir
 
 “This has no name. Others might call it the éminence grise, but our culture has never recognized it with a name.”
 
-Tris had no idea what Echo was referring to, but he sensed that whatever it was these people were up to, it involved significant power in the Districts.
+Tris had no idea what Echo was referring to, but he sensed that whatever it was these people were up to, it involved significant power in the districts.
 
 “You should join us.”
 
@@ -248,6 +256,8 @@ Tris stared at Echo blankly. He’d never been propositioned like that before.
 “What were your hopes for your future? Surely it wasn’t to courier forever?”
 
 “I don’t know,” Tris answered honestly. He wasn’t one for thinking about the future.
+
+---
 
 Tris sat on the edge of his bed in his cartridge deep in the East District. He hadn’t told Echo no, but he hadn’t said yes, either. Echo seemed ok with that, for now.
 
@@ -269,11 +279,13 @@ A half-block from his normal morning dumpling place, the crowd parted and he saw
 
 Just then, Tris heard a faint popping sound from behind him, and a hole appeared in the horse leader’s forehead. Then more popping sounds, and more holes in foreheads. The front half-dozen Horsefolk gang members fell to the floor.
 
-The rest of the gang turned and ran, and Tris heard no more popping as he watched them disappear into the crowds of the district. Slowly people emerged from the stalls and buildings and began dragging the lifeless bodies of the Horsefolk away. He had never seen anything like this in all his years in the district, yet these people were acting like they were simply cleaning up after a particularly busy day. Soon, most of the bodies had disappeared. Tris realized there was very little blood. He turned and looked at Bissell in disbelief. Bissell smiled. 
+The rest of the gang turned and ran, and Tris heard no more popping as he watched them disappear into the crowds of the district. Slowly people emerged from the stalls and buildings and began dragging the lifeless bodies of the Horsefolk away. He had never seen anything like it in all his years in the district, yet these people were acting like they were simply cleaning up after a particularly busy day. Soon, most of the bodies had disappeared. Tris realized there was very little blood. He turned and looked at Bissell in disbelief. Bissell smiled. 
 
 “Care for some tea?” Bissell asked as an old woman splashed a bucket of soapy water across the street.
 
-"I'm not a fighter. I'm certainly not a killer." Tris was still waiting for his tea to cool off enough to sip and was blurting out his primary anxiety about this new “opportunity”. When he thought about sharing it with anyone, he called it an opportunity and used his fingers to make air quotes as he said it. 
+---
+
+"I'm not a fighter. I'm certainly not a killer." Tris was still waiting for his tea to cool off enough to sip and was blurting out his primary anxiety about this new opportunity.
 
 “Oh, no, Bunnymen never kill.” Bissell replied.
 
