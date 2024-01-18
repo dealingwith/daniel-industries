@@ -13,15 +13,15 @@ categories:
 
 [![][1]][2]
 
-5. Salim Nourallah released Constellation, Ciphers (edit: oops that was actually the end of '08), produced Rhett Miller, became a man with a more-than-respectable catalog and further established himself as the reigning godfather of Dallas music.
+5\. Salim Nourallah released Constellation, Ciphers (edit: oops that was actually the end of '08), produced Rhett Miller, became a man with a more-than-respectable catalog and further established himself as the reigning godfather of Dallas music.
 
-4. [Justin Terveen took photographs][7] and made Dallas look like a cool city to live in. [Brock Davis][8] made amazing art every day of the year.
+4\. [Justin Terveen took photographs][7] and made Dallas look like a cool city to live in. [Brock Davis][8] made amazing art every day of the year.
 
-3. Old single women living alone in interesting houses. Particularly, Dallas' own [Ronnie Claire Edwards][9] ([here is a street view of the property][10]--I rode by it just the other day) and Pennsylvania's recently departed Violet Hobaugh ([here are some pictures of her home][12]--Laura Kicey's photographs are how I discovered this story, which takes place really close to where I grew up--in fact I undoubtedly rode by her house a few times, 17 years ago).
+3\. Old single women living alone in interesting houses. Particularly, Dallas' own [Ronnie Claire Edwards][9] ([here is a street view of the property][10]--I rode by it just the other day) and Pennsylvania's recently departed Violet Hobaugh ([here are some pictures of her home][12]--Laura Kicey's photographs are how I discovered this story, which takes place really close to where I grew up--in fact I undoubtedly rode by her house a few times, 17 years ago).
 
-2. [_why's disappearance][13]. It's hard to describe _why's importance, but you'll either get it or you won't (and no harm in the latter). Great places to start: [his wikipedia page][14], [his book's wikipedia page][15], _why the lucky stiff interview on the setup [dead link], a great _why quote and picture of his book [dead link], and [a rather well written "eulogy to _why"][18] (by Javascript guru John Resig).
+2\. [_why's disappearance][13]. It's hard to describe _why's importance, but you'll either get it or you won't (and no harm in the latter). Great places to start: [his wikipedia page][14], [his book's wikipedia page][15], _why the lucky stiff interview on the setup [dead link], a great _why quote and picture of his book [dead link], and [a rather well written "eulogy to _why"][18] (by Javascript guru John Resig).
 
-1. Irony ate itself. Hipsters, as a cultural race, have mostly died off. Maybe it didn't happen this year, maybe it hasn't really happened (and it's just my perception), but it seems like a decent swath of our cultural tastemakers and coolhunters looked around, took a deep breath, and realized they weren't getting any younger and that the simple life can be good...
+1\. Irony ate itself. Hipsters, as a cultural race, have mostly died off. Maybe it didn't happen this year, maybe it hasn't really happened (and it's just my perception), but it seems like a decent swath of our cultural tastemakers and coolhunters looked around, took a deep breath, and realized they weren't getting any younger and that the simple life can be good...
 
 Honorable mentions: Type, whitespace, harmonies.
 
@@ -46,4 +46,3 @@ Honorable mentions: Type, whitespace, harmonies.
    [15]: http://en.wikipedia.org/wiki/Why's_(poignant)_Guide_to_Ruby
 
    [18]: http://ejohn.org/blog/eulogy-to-_why/
-

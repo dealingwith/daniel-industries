@@ -19,4 +19,4 @@ The body font is the thing on this site I mess with the most. But it tends to si
 
 I recently put "redesign site" on my Trello board, simply because I want to be seen more as a designer; and there is some content I want to put on here that doesn't fit well into the current template, which is blog-centric; and I was inspired by the enviously well-designed [Field Mag](http://fieldmag.com/). But whenever I do start to think about how to redesign this site I return to its current iteration: simple and content-centric. 
 
-[I write a lot about simplicity]({{site.url}}/2009/08/12/the-fight-for-simplicity.html "Human brains will almost always confuse the novel for the beautiful, so we pile on the novelties in attempts to convey beauty.") [on this blog]({{site.url}}/2010/10/07/good-design-is-as-little-design-as-possible/).
+[I write a lot about simplicity](/2009/08/12/the-fight-for-simplicity/ "Human brains will almost always confuse the novel for the beautiful, so we pile on the novelties in attempts to convey beauty.") [on this blog](/2010/10/07/good-design-is-as-little-design-as-possible/).

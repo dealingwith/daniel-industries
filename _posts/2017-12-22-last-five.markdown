@@ -23,7 +23,7 @@ Last 5 phone calls: I don't even have the phone app on my homescreen, I use it s
 
 * [Pingdom](https://www.pingdom.com/). Our application server at work went down yesterday.
 * Car dealer. Reminding me about my appointment this morning.
-* Therapist. Calling to schedule me.
+* Therapist. Calling to schedule.
 * Carissa.
 * Therapist. Ditto except the available times didn't work for me.
 
