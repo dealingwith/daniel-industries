@@ -5,21 +5,14 @@ categories:
  - about
 ---
 
+Critical information for newcomers:
 
-critical information for newcomers:
+I am an american citizen.
 
-i am an american citizen.
+I live in sarajevo.
 
-i live in sarajevo.
+I am currently male.
 
-i am currently male.
+I am 28 years old.
 
-i am 28 years old.
-
-i am a human being.
-
-<s>do not expect me to put a head shot here.</s>
-
-
-
-<img src="images/danieli.jpg" />
+I am a human being.

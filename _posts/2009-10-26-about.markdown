@@ -1,37 +1,22 @@
 ---
-author: dealingwith
 date: '2009-10-26 22:31:00'
 layout: post
 slug: about
-status: publish
 title: About
-wordpress_id: '3042'
 categories:
  - about
 ---
 
-When pressed for a new "about me" for my [Google Profile][1], which I was
-setting up now just so I could test drive their new [social search][2]:
-
-> Too much a designer for the developers and too much a developer for the
-designers.
-
-Too much a heathen for the Christians and too religious for the heathen.
-
-Too much a lycra-wearer for the hipster fixie crowd and not hardcore enough
-for the racing scene.
-
-Too much a fan of pop music for the indie scene and not glamorous enough for
-pop music.
-
-Too opinionated about art for the local art scene but too into outsider art
-for the art academy.
-
-Too much a meritocrat for socialism but too humanist for capitalism.
-
-I live on the edge, in the sense of the word that involves lots of paper cuts.
-
-   [1]: http://www.google.com/profiles/dealingwith
-
-   [2]: http://googleblog.blogspot.com/2009/10/introducing-google-social-search-i.html
-
+> Too much a designer for the developers and too much a developer for the designers.
+> 
+> Too much a heathen for the Christians and too religious for the heathen.
+> 
+> Too much a lycra-wearer for the hipster fixie crowd and not hardcore enough for the racing scene.
+> 
+> Too much a fan of pop music for the indie scene and not glamorous enough for pop music.
+> 
+> Too opinionated about art for the local art scene but too into outsider art for the art academy.
+> 
+> Too much a meritocrat for socialism but too humanist for capitalism.
+> 
+> I live on the edge, in the sense of the word that involves lots of paper cuts.

@@ -1,11 +1,7 @@
 ---
-author: dealingwith
 date: '2006-12-08 10:30:00'
 layout: post
-slug: '1868'
-status: publish
-title: '...'
-wordpress_id: '1868'
+title: 'About'
 categories:
  - about
  - art
@@ -15,39 +11,12 @@ categories:
  - minutia
 ---
 
-![][1]
+![](/assets/2006/12/child_2_1.gif)
 
 I had to write a bio for a show I'm in tonight. This is what I came up with:
 
-> Daniel Miller is an information artist primarily interested in creating
-narratives by manipulating objects (somatic or virtual images, sounds, etc.)
-with code (social, neurological, or binary).
+> Daniel Miller is an information artist primarily interested in creating narratives by manipulating objects (somatic or virtual images, sounds, etc.) with code (social, neurological, or binary).
 
-[sarjanemixalot][2] didn't like it, but it pretty much encapsulates everything
-I do and is very helpful as I try to get my bearings again about why on earth
-I'm existing.
+Sarah Jane didn't like it, but it pretty much encapsulates everything I do and is very helpful as I try to get my bearings again about why on earth I'm existing.
 
-and...it worked. I was in the zone from 9-something until 5am last night. I
-mastered the [Flickr API][3] in just a couple lines of code thanks to
-[phpFlickr][4]. I found another open source class that's like a mini Photoshop
-in PHP. (Well, if Photoshop had like 4 commands that you had to call from teh
-[command line][5].) My only frustration was trying to recreate some javascript
-GUI goodness that I've (mostly) done before. We hate javascript. And the fact
-that I can't run this thing on my server because it does not at present allow
-remote file opening (i.e. images sitting on Flickr). So you'll have to come to
-[3601 Routh Street][6] tonight at 7ish to see it. Assuming I can get it
-installed. :P
-
-   [1]: http://daniel.iaspiretonothing.com/blog/files/2006/12/child_2_1.gif
-
-   [2]: http://sarjanemixalot.livejournal.com/
-
-   [3]: http://www.flickr.com/services/api/
-
-   [4]: http://www.phpflickr.com/
-
-   [5]: http://www.google.com/search?q=define%3Acommand+line
-
-   [6]:
-http://maps.google.com/maps?hl=en&q=3601%20Routh%20Street,%20Dallas,%20TX
-
+And...it worked. I was in the zone from 9-something until 5am last night. I mastered the Flickr API in just a couple lines of code thanks to phpFlickr. I found another open source class that's like a mini Photoshop in PHP. (Well, if Photoshop had like 4 commands that you had to call from teh command line.) My only frustration was trying to recreate some javascript GUI goodness that I've (mostly) done before. We hate javascript. And the fact that I can't run this thing on my server because it does not at present allow remote file opening (i.e. images sitting on Flickr). So you'll have to come to 3601 Routh Street tonight at 7ish to see it. Assuming I can get it installed.

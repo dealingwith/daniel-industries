@@ -3,7 +3,10 @@ layout: page
 ---
 
 <div class="post-metadata">
-  <a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if page.categories.size > 0 %} in {% for category in page.categories %} <a href="/categories#{{category}}">#{{ category | downcase | replace: " ", "-"}}</a>{% endfor %}{% endif %}
+  <a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time
+      datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if
+  page.categories.size > 0 %} in {% for category in page.categories %} <a href="/categories#{{category}}">#{{ category |
+    downcase | replace: " ", "-"}}</a>{% endfor %}{% endif %}
 </div>
 
 <div>
@@ -12,16 +15,12 @@ layout: page
 
 {% assign backlinks_content = page.url | backlink %}
 {% if backlinks_content != "" %}
-  <p class="backlinks">Backlinks: {{ backlinks_content }}</p>
+<p class="backlinks">Backlinks: {{ backlinks_content }}</p>
 {% endif %}
 
 <div class="blog_nav">
-  {% if page.previous.url %}
-    <p style="float: left; margin-top: 0">Previous: <a href="{{page.previous.url}}">{{ page.previous.title }}</a></p>
-  {% endif %}
-  {% if page.next.url %}
-    <p style="float: right; text-align: right">Next: <a href="{{page.next.url}}">{{ page.next.title }}</a></p>
-  {% endif %}
+  <div>{% if page.previous.url %}Previous: <a href="{{page.previous.url}}">{{ page.previous.title }}</a>{% endif %}
+  </div>
+  <div class="right">{% if page.next.url %}Next: <a href="{{page.next.url}}">{{ page.next.title }}</a>{% endif %}</div>
 </div>
-<p class="footer" style="clear: both"><a href="/archives/">archives</a></p>
-<p class="footer"><a href="/atom.xml">RSS</a></p>
+<p class="footer post-footer" style="clear: both"><a href="/archives/">Archives</a> | <a href="/atom.xml">RSS</a></p>
