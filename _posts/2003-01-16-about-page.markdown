@@ -11,7 +11,7 @@ What to put in a bio/about/whatever? Hmmm...
                 
 Full name: Daniel Wayne Miller
 		
-DOB: 03-25-75 (27 yrs old)
+Age: 27
 		
 Married to: Miriam Lacho Miller
 		

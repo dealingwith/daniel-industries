@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-20 10:49:00'
 layout: post
 slug: '2012'
-status: publish
-title: '...'
-wordpress_id: '2012'
+title: 'Nostalgic Find'
 categories:
  - development
  - Integration Research
@@ -14,24 +11,10 @@ categories:
  - web
 ---
 
-[jordoncooper.com: Interviewing Daniel Miller][1] (May 2005)
+[jordoncooper.com: Interviewing Daniel Miller](/2004/04/06/interviewed-by-jordon-cooper/) (May 2004)
 
-> I got lost once walking back to Johnny's at 4am, and it was cold and I was
-tired, but at one point it was like a music video--there were people falling
-headfirst out of pubs onto the sidewalk in front of me, a car pulled up and a
-gang of people jumped out of it, ran into an alley beside me, and two of the
-guys started fighting. It was frightening and invigorating and I remember that
-2 hour walk fondly.
+> I got lost once walking back to Johnny's at 4am, and it was cold and I was tired, but at one point it was like a music video--there were people falling headfirst out of pubs onto the sidewalk in front of me, a car pulled up and a gang of people jumped out of it, ran into an alley beside me, and two of the guys started fighting. It was frightening and invigorating and I remember that 2 hour walk fondly.
 
-...I was seeing how well I Googled "daniel miller web development" and this
-was my only entry on the first page of results (still not bad considering I
-have not promoted myself as such in years). I used this interview as my
-"about" section for a good year or so. I like it. I like that Jordon's site
-has lots of Googlejuice too! :)
+...I was seeing how well I Googled "daniel miller web development" and this was my only entry on the first page of results (still not bad considering I have not promoted myself as such in years). I used this interview as my "about" section for a good year or so. I like it. I like that Jordon's site has lots of Google juice too!
 
-It is also the only written account of the night described in the quote above.
-Something else happened that night that I also remember fondly but rarely
-speak of.
-
-   [1]: http://www.jordoncooper.com/2004/05/interviewing-daniel-miller.html
-
+It is also the only written account of the night described in the quote above. Something else happened that night that I also remember fondly but rarely speak of.

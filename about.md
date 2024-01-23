@@ -14,9 +14,10 @@ I sometimes post to [Mastodon](https://indieweb.social/@dealingwith). I have som
 
 ---
 
-Historical "About" posts:
+### Historical "About" posts
 
 - [About (2009)](/2009/10/26/about/)
 - [About (2006)](/2006/12/08/1868/)
+- [Interviewed by Jordon Cooper (2004)](/2004/04/06/interviewed-by-jordon-cooper/)
 - [About (2003)](/2003/07/28/about/)
 - [About Page (2003)](/2003/01/16/about-page/)
