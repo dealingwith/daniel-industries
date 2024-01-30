@@ -45,6 +45,8 @@ I once owned the domain _iaspiretonothing.com_. I owned it for quite a while, in
 
 ![](/assets/2024/01/DSC_0057.jpg)
 
+I'm still trying to figure out if the weird kerning was due to the font itself, or if I did that on purpose.
+
 ---
 
 📽️ [The School of Life: Emil Cioran](https://www.youtube.com/watch?v=wMOM34XEi2k "PHILOSOPHY - Emil Cioran - YouTube")
