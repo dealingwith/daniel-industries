@@ -224,14 +224,14 @@ pre {
 
 .postscript, .footnotes {
   border-top: 1px solid var(--grey);
-  color: var(--grey);
+  /* color: var(--grey); */
 }
 .postscript {
   padding-top: 1rem;
 }
-.postscript a, .footnotes a {
+/* .postscript a, .footnotes a {
   color: var(--grey);
-}
+} */
 
 .container {
   display: flex;
