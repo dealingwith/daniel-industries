@@ -5,5 +5,6 @@ gem "jekyll"
 gem "stringex"
 gem "rake"
 gem "match_regex"
+gem "awesome_print"
 
 gem "webrick", "~> 1.7"
