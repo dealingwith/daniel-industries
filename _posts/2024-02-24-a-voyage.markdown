@@ -1,0 +1,29 @@
+---
+layout: post
+title: "A Voyage"
+excerpt: 
+date: 2024-02-24 22:29:02 -0600
+categories: 
+ - technology
+ - elsewhere
+---
+
+[Death, Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/ "Death, Lonely Death — Crooked Timber")
+
+> We thought we knew how Voyager would end.  The power would gradually, inevitably, run down.  The instruments would shut off, one by one.  The signal would get fainter.  Eventually either the last instrument would fail for lack of power, or the signal would be lost.
+
+> We didn’t expect that it would go mad.
+
+> In December 2023, Voyager started sending back gibberish instead of data.  A software glitch, though perhaps caused by an underlying hardware problem; a cosmic ray strike, or a side effect of the low temperatures, or just aging equipment randomly causing some bits to flip.
+
+> The problem was, the gibberish was coming from the flight direction software — something like an operating system.  And no copy of that operating system remained in existence on Earth...
+
+> Voyager Mission Control used to be a couple of big rooms full of busy people, computers, giant screens.  Now it’s a single room in a small office building in the San Gabriel Valley, in between a dog training school and a McDonalds.  The Mission Control team is a handful of people, none of them young, several well past retirement age. 
+
+> And they’re trying to fix the problem...
+
+[Read all of "Death, Lonely Death"](https://crookedtimber.org/2024/02/19/death-lonely-death/ "Death, Lonely Death — Crooked Timber")
+
+The comments led me to [It's Quieter in the Twilight](https://www.itsquieterfilm.com/), which is now on my watch later shortlist.
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/8vJT8AW0wYw?si=r9vItrJjB4FX8bUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

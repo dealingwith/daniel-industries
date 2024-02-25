@@ -8,7 +8,7 @@ categories:
  - Portland
  - minutia
  - art
- - tech
+ - technology
 ---
 
 **The Travel**
