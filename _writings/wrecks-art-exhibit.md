@@ -1,5 +1,5 @@
 ---
-title: ...Wrecks Art Exhibit--Trickster Makes This World and the Role of Art in a Spiritual Life
+title: "...Wrecks Art Exhibit: Trickster Makes This World and the Role of Art in a Spiritual Life"
 category: Nonfiction
 subcategory: 
 layout: writing-page
@@ -7,43 +7,39 @@ pubdate: "2004"
 excerpt: ...what is the deal with art? Why does it elicit such strong opinion, particularly negative opinion? Why are so many people offended by so much art? Why are things that, when experienced in day to day life, are no big deal, but when highlighted in artistic expression become reason for violent reaction?
 ---
 
-[Israeli envoy wrecks art exhibit](http://news.bbc.co.uk/2/hi/europe/3406041.stm)
+[Israeli envoy wrecks art exhibit](http://news.bbc.co.uk/2/hi/europe/3406041.stm):
 
 > Sweden's foreign ministry wants an explanation from the Israeli ambassador after he vandalised an artwork depicting a Palestinian suicide bomber.
-
+> 
 > Zvi Mazel was expelled from Stockholm's Museum of Antiquities on Friday after he threw a spotlight at the exhibit, called "Snow White".
-
+> 
 > He denounced the work as "obscene" and a "monstrosity", saying it insulted the victims' families.
-
+> 
 > It depicted a woman bomber who killed herself and 19 Israelis in Haifa.
-
+> 
 > A photo of the smiling woman, 29-year-old trainee lawyer Hanadi Jaradat, appeared as the sail on a boat in a basin filled with red water.
-
+> 
 > She carried out her attack at the beachfront Maxim's restaurant in October - one of the bloodiest in a series of suicide bombings by Palestinian militants.
-
+> 
 > The ambassador's protest occurred at the opening on Friday of the "Making Differences" exhibition - part of a forthcoming international anti-genocide conference hosted by the Swedish Government and to which Israel has been invited.
-
+> 
 > "We will contact him on Monday to arrange a meeting," said a Swedish foreign ministry spokeswoman, quoted by the AFP news agency.
-
+> 
 > "We want to give him a chance to explain himself. We feel that it is unacceptable for him to destroy art in this way."
-
+> 
 > The ambassador was quoted as saying he found the exhibit "intolerable and an insult to the families of the victims".
-
+> 
 > "As ambassador of Israel I could not remain indifferent to such an obscene misrepresentation of reality," he said.
-
+> 
 > One of the two artists who created the work, Israeli-born Dror Feiler, said Ambassador Mazel had "tried to stop free speech and free artistic expression from being carried out in Sweden".
-
+> 
 > "He said he was ashamed that I was a Jew," Mr Feiler said, adding: "We see this as an offensive assault on our right to express our thoughts and feelings."
 
-<small style="font-style: italic">2023 aside:</small>
+<p class="small">2023 aside: I'm including the entire article here to retain context for this piece, but also commend the BBC for keeping a link alive for 19 years.</p>
 
-<small style="font-style: italic">(I'm including the entire article here to retain context for this piece, but also commend the BBC for keeping a link alive for 19 years.)</small>
+<p class="small">Here's another one from The Guardian, which I will not include here because it is the same content, but again will commend the Guardian for keeping alive for this long: <a href="https://www.theguardian.com/world/2004/jan/18/israel.artsnews">Ambassador, you're really spoiling our party</a>.</p>
 
-<small style="font-style: italic">Here's another one from The Guardian, which I will not include here because it is the same content, but again will commend the Guardian for keeping alive for this long: <a href="https://www.theguardian.com/world/2004/jan/18/israel.artsnews">Ambassador, you're really spoiling our party</a>.</small>
-
-<small style="font-style: italic">Here is the third major outlet that covered the event, the New York Times, now behind a paywal: <a href="https://www.nytimes.com/2004/01/18/world/israel-diplomat-defends-attack-on-bomber-art-in-stockholm.html">Israel Diplomat Defends Attack On Bomber Art In Stockholm</a>.</small>
-
----
+<p class="small">Here is the third major outlet that covered the event, the New York Times, now behind a paywal: <a href="https://www.nytimes.com/2004/01/18/world/israel-diplomat-defends-attack-on-bomber-art-in-stockholm.html">Israel Diplomat Defends Attack On Bomber Art In Stockholm</a>.</p>
 
 I have met many people in the last few years who seem to take offense at artists, artistic organizations, or art itself. I have always puzzled at these people, at art's ability to draw out love from lovers but also hatred from haters. Somehow, because of the mysteriously spiritual nature of art, it cuts to the quick.
 
@@ -151,8 +147,6 @@ We are all, no matter our paradigms regarding its creation and distribution, cul
 
 And what are we, the rich, really doing for the outcast? Another last bit of irony is that it is often the artists, poor and outcast themselves, who not only point and motivate us towards action for justice, but participate in that action with more frequency and fervor than any.
 
----
-
 I’ve spoken about the systems upon which we build our worlds, but where do these systems come from, and how do they become ingrained into the marrow of our essential paradigms? As an armchair/aspiring sociologist, these questions have always intrigued me. Perhaps trained early on to have astute self-perception in regards to my fundamental paradigms, perhaps just blessed/cursed with a Monkey of the Mind on my back, I take note when I see patterns or connections between different environmental data, and in this particular case I think the connections integrate into the current discussion with some curiosity.
 
 One exhibit at the Tate was of Soviet-era propaganda posters. Propaganda always interesting me, and the particular style of design used on the posters appealing to my sensibilities, I took some time to explore the work.
@@ -207,7 +201,5 @@ Postscripts:
 > If you could engage any possibility right now, what would it be?
 
 -- Anne Galloway
-
----
 
 [^1]: At this point it may be helpful to say what my definition of an "artist" is, and I think it is one that falls in line with Hyde and others (like Anderson and Ray in the _[Cultural Creatives](https://en.wikipedia.org/wiki/The_Cultural_Creatives)_). Creative is actually my preferred word, but I have learned that term often evokes as much confusion as the term artist. An artist is sometimes considered only those who work in paints and the visual arts, and certainly those fall into my categorization. Others include musicians, writers, et. al. into their definition of artists. I include anyone who creates something new---which includes everyone from entrepeneurs, scientists, and academics to regular folk who simply have a passion for allowing that "Monkey of the Mind" to do its work on their psyche and paradigms. It could simply be someone who is an astute observer of culture, society, or science, and perhaps only later in life articulates his inner-artus work verbally to his progeny; it could simply be the patriarch telling stories to his grandchildren, the gardener sharing his brilliant homemade wine late at night with his visiting son. There are also those who believe the term "artist" can only be applied to those who find their economic sustenance in the sale of their "artistic" products. This particular paradigm has nothing to do with my definition of artistry, and in fact many of those with great financial success in "art" are not performing artistry at all, but are just reproducing for sale the "stale gestures, metaphors, and received ideas, all the stereotypic likes and dislikes by which cultures perpetuate themselves." (Hyde)

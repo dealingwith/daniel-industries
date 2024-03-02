@@ -2,7 +2,17 @@
 title: "About"
 layout: page
 ---
-### Product-focused technology leader
+
+<style>
+  img {
+    max-width: 150px;
+    float: right;
+    border-radius: 75px;
+    border: 2px solid #eee;
+  }
+</style>
+
+## Product-focused technology leader
 
 {% include_relative about_content.md %}
 
@@ -12,9 +22,7 @@ See also: [uses](/uses) and [now](/now).
 
 I sometimes post to [Mastodon](https://indieweb.social/@dealingwith). I have some words and code on [GitHub](https://github.com/dealingwith).
 
----
-
-### Historical "About" posts
+## Historical "About" posts
 
 - [About (2009)](/2009/10/26/about/)
 - [About (2006)](/2006/12/08/1868/)

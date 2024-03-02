@@ -6,7 +6,7 @@ date: 2017-08-30 22:09
 
 Below are all the music projects of which I have been a part.
 
-### Oddities, Obscurities & Obscenities
+## Oddities, Obscurities & Obscenities
 <p class="post-metadata"><time>January 2016</time></p>
 
 [Oddities, Obscurities & Obscenities](https://lousyrobot.bandcamp.com/album/oddities-obscurities-obscenities):
@@ -19,7 +19,7 @@ The collection included three covers. I recorded a cover of _Peacocks_. I also d
 
 ---
 
-### Skeleton Closet
+## Skeleton Closet
 <p class="post-metadata"><time>August 2015</time></p>
 
 My producer, Salim Nourallah, covered my song _[This Town](https://danielmiller.bandcamp.com/track/this-town)_ for his record _Skeleton Closet_. He also used my song _[It's a Good Day](https://danielmiller.bandcamp.com/track/its-a-good-day)_ as the basis for his track _Andalucia in the Spring_.
@@ -30,14 +30,14 @@ My producer, Salim Nourallah, covered my song _[This Town](https://danielmiller.
 
 ---
 
-### Remix Form
+## Remix Form
 <p class="post-metadata"><time>March 2014</time></p>
 
 I released individual tracks from <a href="#form">Form</a> at [Remix Form](https://github.com/dealingwith/Remix-Form) for anyone to use.
 
 ---
 
-### Form Instrumentals
+## Form Instrumentals
 <p class="post-metadata"><time>March 2014</time></p>
 
 A few instrumentals-only tracks from the Form record, suitable as beds for videos, podcasts, etc.
@@ -46,7 +46,7 @@ A few instrumentals-only tracks from the Form record, suitable as beds for video
 
 ---
 <a name="form"></a>
-### Form
+## Form
 <p class="post-metadata"><time>October 2013</time></p>
 
 My most recent studio recording. _Form_ is a record of (mostly) cover songs, performed by (mostly) other people. After my daughter Margot died, I found myself no longer with an artistic voice to help make meaning out of the meaningless, but a need and desire for the same. So I asked my friends to help, and found bits and pieces of the story in others' songs. More information on [the Bandcamp page](https://danielmiller.bandcamp.com/album/form).
@@ -55,14 +55,14 @@ My most recent studio recording. _Form_ is a record of (mostly) cover songs, per
 
 ---
 
-### Remix Daniel Miller
+## Remix Daniel Miller
 <p class="post-metadata"><time>October 2012</time></p>
 
 I released individual tracks from some of my records at [Remix Daniel Miller](https://github.com/dealingwith/Remix-Daniel-Miller) for anyone to use.
 
 ---
 <a name="reamericana"></a>
-### Reamericana EP
+## Reamericana EP
 <p class="post-metadata"><time>January 2011</time></p>
 
 The Reamericana EP is a remastered combination of a previous EP, _<a href="#AmericanaEP">The Americana EP</a>_, and songs that did not make it onto _<a href="#hsss">Happy Sounding Sad Songs</a>_. [More info here](/2011/01/24/reamericana).
@@ -71,7 +71,7 @@ The Reamericana EP is a remastered combination of a previous EP, _<a href="#Amer
 
 ---
 
-### Memorial
+## Memorial
 <p class="post-metadata"><time>November 2010</time></p>
 
 On Tuesday, August 17th many dear friends of ours gathered to remember our perfect, precious Margot Rose Miller. There to perform in her honor were Chris Holt, Salim Nourallah, Doug Burr and The Beaten Sea. This record is a collection of the songs they played for her, in the acoustic style in which they were played that night. [More info here](/2010/11/21/chris).
@@ -80,7 +80,7 @@ On Tuesday, August 17th many dear friends of ours gathered to remember our perfe
 
 ---
 
-### Wake Up John
+## Wake Up John
 <p class="post-metadata"><time>December 2009</time></p>
 
 My friend Jon Broom was in a motorcycle accident on September 5, 2009 and suffered a severe brain injury. At the time we started writing and recording this song, he was still in a coma. We recorded this song to help his family during that time. 
@@ -89,7 +89,7 @@ My friend Jon Broom was in a motorcycle accident on September 5, 2009 and suffer
 
 ---
 
-### l'objet petit a
+## l'objet petit a
 <p class="post-metadata"><time>March 2009</time></p>
 
 I consider this my most recent record of original material, even though some songs were released later, these are essentially my newest songs.
@@ -98,7 +98,7 @@ I consider this my most recent record of original material, even though some son
 
 ---
 <a name="hsss"></a>
-### Happy Sounding Sad Songs
+## Happy Sounding Sad Songs
 <p class="post-metadata"><time>November 2007</time></p>
 
 My only full-length still in the wild. Recorded under the name _Johnny Citizen_.
@@ -107,7 +107,7 @@ My only full-length still in the wild. Recorded under the name _Johnny Citizen_.
 
 ---
 <a name="AmericanaEP"></a>
-### Americana EP
+## Americana EP
 <p class="post-metadata"><time>September 2003</time></p>
 
 Recorded in Sarajevo, BiH, during my short time there. I don't have this record online, mostly because I remastered most of the tracks for _<a href="#reamericana">Reamericana EP</a>_. Recorded under the name _Daniel Miller Band_.
@@ -116,14 +116,14 @@ Recorded in Sarajevo, BiH, during my short time there. I don't have this record 
 
 ---
 
-### dealing with madness
+## dealing with madness
 <p class="post-metadata"><time>1997</time></p>
 
 My debut record. I have a couple mp3s on a hard drive somewhere, but no other evidence this record ever happened. For the best.
 
 ---
 
-### Other projects
+## Other projects
 
 I facilitated in the recording and preserving of some other things. 
 
