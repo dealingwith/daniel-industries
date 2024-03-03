@@ -1,5 +1,9 @@
 Rakefile
 package*
 postcss*
-tailwind.config.js
+*.rb
+*.json
+*.js
+*.csv
+about_content.md
 README.md
