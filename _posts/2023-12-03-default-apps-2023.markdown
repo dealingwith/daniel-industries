@@ -59,3 +59,7 @@ Terminal: GNOME terminal
 ---
 
 Still a lot of Google in there. 😕
+
+---
+
+[Turns out, I did a list like this in 2017](https://daniel.industries/2017/12/17/saas-i-use/), it is interesting in that the list has changed significantly.

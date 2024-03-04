@@ -10,7 +10,7 @@
   --grey: #555555;
   --pink: #ffd5dc;
   --lightgrey: #eeeeee;
-  --header: 'Aleo', serif;
+  --header: "Aleo", serif;
   --sans: sans-serif;
   --serif: serif;
 }
@@ -54,7 +54,11 @@ h6 {
   letter-spacing: 0.03rem;
   line-height: 1.1em;
   /* margin: 0 10px 1.1rem 0; */
+  margin-bottom: 1rem;
   padding: 10px 10px 0 0;
+}
+header h1 {
+  margin-bottom: 0;
 }
 
 h1 {
@@ -181,7 +185,8 @@ header a,
   background-color: var(--pink);
 }
 
-blockquote, .backlinks {
+blockquote,
+.backlinks {
   margin-bottom: 1em;
   margin-left: 0;
   padding-left: 1em;
@@ -206,7 +211,8 @@ img {
   max-width: 100%;
 }
 
-pre, code {
+pre,
+code {
   font-size: 0.9em;
   background-color: var(--lightgrey);
   padding: 2px 4px;
@@ -224,7 +230,8 @@ pre {
   line-height: 1.5em; */
 }
 
-.postscript, .footnotes {
+.postscript,
+.footnotes {
   border-top: 1px solid var(--grey);
   /* color: var(--grey); */
 }
@@ -321,7 +328,8 @@ pre {
   font-size: 0.9rem;
   text-align: right;
 }
-.blog_nav, .post-footer {
+.blog_nav,
+.post-footer {
   border-top: 1px solid var(--grey);
   padding-top: 1rem;
 }
@@ -367,10 +375,12 @@ tr {
   border-bottom: 1px solid var(--green);
 }
 
-td:not(:last-child), th:not(:last-child) {
+td:not(:last-child),
+th:not(:last-child) {
   border-right: 1px solid var(--green);
 }
-td, th {
+td,
+th {
   padding: 3px 16px;
 }
 
@@ -379,8 +389,20 @@ pre.highlight {
   box-shadow: inset 0 0 3px var(--lightgrey);
 }
 
-sup { vertical-align: top; font-size: .7rem; font-weight: bold; }
-sup:before { content: "["; }
-sup:after { content: "]"; }
-sup a { text-decoration: none; }
-sup a:hover { background-color: var(--pink);}
+sup {
+  vertical-align: top;
+  font-size: 0.7rem;
+  font-weight: bold;
+}
+sup:before {
+  content: "[";
+}
+sup:after {
+  content: "]";
+}
+sup a {
+  text-decoration: none;
+}
+sup a:hover {
+  background-color: var(--pink);
+}
