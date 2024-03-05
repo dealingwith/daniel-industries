@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '...'
+title: 'sometimes you just have to disconnect to do anything'
+excerpt: "every day i could spend all day just looking at the stuff i've been sent or been told about or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to, or surfed to,"
 categories:
  - minutia
 ---
