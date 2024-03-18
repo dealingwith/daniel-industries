@@ -3,11 +3,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  {% assign hero_image = page.content | match_regex: '<img .*?src="([^" ]+)"' %} {% if hero_image==nil %} {% assign
-    hero_image="/assets/page/DSC_4899-copy.jpg" %} {% endif %} {% assign hero_image=hero_image | prepend: site.url %} {%
-    capture title %} {% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %} {% endcapture %} {%
-    capture description %} {% if page.excerpt %} {{ page.excerpt | strip_html | escape }} {% else %} {{ site.tagline }}
-    {% endif %} {% endcapture %} <title>{{ title }}</title>
+  {% assign hero_image = page.content | match_regex: '<img .*?src="([^" ]+)"' %} 
+  {% if hero_image==nil %} 
+    {% assign hero_image="/assets/page/DSC_4899-copy.jpg" %} 
+  {% endif %} 
+  {% assign hero_image=hero_image | prepend: site.url %} 
+  {% capture title %} 
+    {% if page.title %} 
+      {{ page.title }}
+    {% else %} 
+      {{ site.title }} 
+    {% endif %} 
+  {% endcapture %} 
+  {% capture description %} 
+    {% if page.excerpt %} 
+      {{ page.excerpt | strip_html | escape }} 
+    {% else %} 
+      {{ site.tagline }}
+    {% endif %} 
+  {% endcapture %} 
+  
+  <title>{{ title }}</title>
   <meta name="description" content="{{ description | strip }}">
   <meta property="og:title" content="{{ title | strip }}" />
   <meta property="og:description" content="{{ description | strip }}" />
