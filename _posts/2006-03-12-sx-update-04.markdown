@@ -8,7 +8,7 @@ title: sx update 04
 wordpress_id: '1099'
 categories:
  - sxsw
- - sxswi2006
+ - sxsw
 ---
 
 I think my count was 9 drinks last night. So yeah, I'm hungover again today.

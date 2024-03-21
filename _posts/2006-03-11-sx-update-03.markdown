@@ -8,7 +8,6 @@ title: sx update 03
 wordpress_id: '1095'
 categories:
  - sxsw
- - sxswi2006
 ---
 
 The [Opening Keynote][1] was worthy of capitalization, of course. Now I'm at

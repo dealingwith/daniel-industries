@@ -8,7 +8,6 @@ title: sx update 05
 wordpress_id: '1100'
 categories:
  - sxsw
- - sxswi2006
 ---
 
 The [Armstrong][1] / [Kottke][2] [keynote][3] was entertaining as expected. I

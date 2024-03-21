@@ -8,7 +8,6 @@ title: sx update 07
 wordpress_id: '1108'
 categories:
  - sxsw
- - sxswi2006
 ---
 
 Last night was dinner at Chuy's, [20x2][1], coffee at the Spider House, and a

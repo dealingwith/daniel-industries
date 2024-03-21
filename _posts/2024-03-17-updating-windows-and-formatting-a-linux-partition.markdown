@@ -16,7 +16,7 @@ Today I finally got around to cleaning and updating my son's Window's laptop. It
 
 The very first thing we did was take apart the machine and clean it. Hat tip to Lenovo for making a laptop that is relatively easy to open. We used up the remaining compressed air in the can on hand, and had to run to the hardware store for more, _[There's a Hole in My Bucket](https://en.wikipedia.org/wiki/There%27s_a_Hole_in_My_Bucket)_ style.
 
-## Windows update is terrible now
+## Windows update is different now?
 
 First order of business once booting the machine was updating the OS. After dismissing the prompt to update from Windows 10 to Windows 11, I discovered it had been auto-updating for some time. That was good. I clicked the little grey button to install currently-available updates. That's when my trouble began.
 

@@ -8,7 +8,6 @@ title: sx update 06
 wordpress_id: '1101'
 categories:
  - sxsw
- - sxswi2006
 ---
 
 The [Greenfield][1] Everyware talk was this: he's incredibly smart and well,

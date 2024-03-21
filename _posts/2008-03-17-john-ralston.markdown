@@ -4,7 +4,6 @@ layout: post
 slug: john-ralston
 title: John Ralston
 categories:
- - brilliant
  - local
  - minutia
  - music
@@ -16,7 +15,7 @@ We arrived for the last couple songs of the first opener and then saw John setti
 
 After his set he went back to his merch table and I went to say hi. Not only did he remember me (while I've known him for a while we weren't best friends or anything in Florida, just both part of a small music scene down there, and I've only seen him about once a year for the last 4 or 5 years), but said he was expecting to turn around and see me during SXSW last week.
 
-{Last year I was down for one day to see Andy Zipf (who had borrowed my drum kit) and Honor By August (who I just happened to know was playing the same day), and randomly texted him and found out he was playing the same day...it was a lot of fun to see so many friends play the same day in Austin.}
+{[Last year](/2007/03/17/yesterday-by-way-of-contextualizing-twitters/) I was down for one day to see Andy Zipf (who had borrowed my drum kit) and Honor By August (who I just happened to know was playing the same day), and randomly texted him and found out he was playing the same day...it was a lot of fun to see so many friends play the same day in Austin.}
 
 He had the original Legends of Rodeo CD on the merch table and I made a big fuss and he was like "Do you have it? I'm giving you one!"...just for the liner photo where he is young and clean-cut...this record was from before I even moved to Florida, I think...and he also gave me his new EP.
 

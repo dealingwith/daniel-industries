@@ -15,4 +15,4 @@ As I get older, and specifically throughout this experience, my desire for&mdash
 
 Or Live's _Pain Lies On The Riverside_. . .
 
-Or the look of the trees and the smell of the air along [a particular part of trail](http://maps.google.com/?ie=UTF8&hq=&hnear=6906+Pasadena+Ave,+Dallas,+Texas+75214&t=h&ll=32.805289,-96.728257&spn=0.00271,0.005016&z=18) cooled by the effects of the greenery and nearby water.
+Or the look of the trees and the smell of the air along a particular part of trail cooled by the effects of the greenery and nearby water.

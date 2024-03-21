@@ -83,6 +83,7 @@ h6 {
 
 a {
   color: var(--green);
+  text-decoration-style: dotted;
 }
 a:hover {
   color: var(--text);
@@ -390,8 +391,7 @@ pre.highlight {
 
 sup {
   vertical-align: top;
-  font-size: 0.7rem;
-  font-weight: bold;
+  font-size: 0.85em;
 }
 sup:before {
   content: "[";

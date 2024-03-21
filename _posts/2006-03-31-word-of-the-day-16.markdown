@@ -11,7 +11,6 @@ categories:
  - music
  - over the rhine
  - sxsw
- - sxsw06
 ---
 
 [ascesis][1] ([from][2])

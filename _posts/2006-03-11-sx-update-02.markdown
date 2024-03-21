@@ -8,7 +8,7 @@ title: sx update 02
 wordpress_id: '1094'
 categories:
  - sxsw
- - sxswi2006
+ - sxsw
 ---
 
 Last night at midnight went to _This Film Is Not Yet Rated_ which was

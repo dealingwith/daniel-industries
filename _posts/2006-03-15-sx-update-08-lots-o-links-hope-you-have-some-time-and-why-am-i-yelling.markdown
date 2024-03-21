@@ -10,7 +10,6 @@ categories:
  - film
  - imagining
  - sxsw
- - sxswi2006
 ---
 
 ![][1] [most poetry is just incomplete sentences][2] ...forgot i had "penned"
