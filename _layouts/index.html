@@ -16,10 +16,6 @@
   <div class="main-content">
     <h1>seeking stories beauty meaning</h1>
 
-    {% assign post = site.posts.first %}
-
-    <p>Latest post: <a href="{{ post.url }}">{{ post.title }}</a></p>
-
     {% capture my_include %}{% include_relative about_content.md %}{% endcapture %}
 
     {{ my_include | markdownify }}

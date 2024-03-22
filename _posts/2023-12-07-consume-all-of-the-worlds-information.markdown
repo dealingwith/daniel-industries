@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Consume All of the World’s Information"
+title: "Consume All of the World's Information"
 excerpt:
 date: 2023-12-07 08:38:47 -0600
 categories:
