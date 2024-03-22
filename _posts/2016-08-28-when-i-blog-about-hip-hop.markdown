@@ -27,4 +27,4 @@ The music of RIK is notable for its well-crafted beats, thoughtful lyrics and so
 
 There's even jazz. I will stop now before I begin a treatise on the importance of keeping jazz, soul and hip hop connected.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3399280786/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://eddiemooreandtheoutercircle.bandcamp.com/album/the-freedom-of-expression">The Freedom of Expression by Eddie Moore and the Outer Circle</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3320114522/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://eddiemooreandtheoutercircle.bandcamp.com/album/the-freedom-of-expression-2">The Freedom of Expression by Eddie Moore and the Outer Circle</a></iframe>

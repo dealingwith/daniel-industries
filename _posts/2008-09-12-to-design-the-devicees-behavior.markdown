@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-12 10:22:00'
 layout: post
 slug: to-design-the-devices-behavior
-status: publish
-title: '"...To design the device’s behavior..."'
-wordpress_id: '2781'
+title: To design the device's behavior
 categories:
  - design
  - nonlinear

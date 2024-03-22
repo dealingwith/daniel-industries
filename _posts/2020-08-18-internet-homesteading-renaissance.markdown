@@ -20,9 +20,9 @@ Anyway, it's a great episode from early this year, and you should listen to it.
 
 _Digital Gardening_ is a term that's all the rage with the kids these days. It's a much more positive spin on what I've historically called _organizing my sock drawer_. 
 
-![]({{site.url}}/assets/2020/08/pld.jpg)
+![](/assets/2020/08/pld.jpg)
 
-I am, somewhat unfortunately, back on Twitter. A while ago [I tweeted](https://twitter.com/danielindustri4/status/1280120596135915520):
+I am, somewhat unfortunately, back on Twitter. A while ago I tweeted:
 
 > Productivity porn is a lot like real porn. It can feel like the real thing, but doesn't produce the same results. It can make you feel like you're doing it wrong when you are doing the real thing. People can get addicted to it. Acronyms.
 
@@ -30,7 +30,7 @@ I am, somewhat unfortunately, back on Twitter. A while ago [I tweeted](https://t
 
 All that said, there is some interesting thinking going on. My coworker [Maggie Appleton](https://maggieappleton.com/) has used her ability to create and illustrate concepts and metaphors to great effect and has [an extensive post on the practice](https://maggieappleton.com/garden-history).
 
-[![]({{site.url}}/assets/2020/08/maggie.jpg)](https://maggieappleton.com/garden-history)
+[![](/assets/2020/08/maggie.jpg)](https://maggieappleton.com/garden-history)
 
 Where it's really at, though, are community gardens.
 
@@ -44,7 +44,7 @@ Nadia Eghbal, in the introduction to her excellent book on open source, _[Workin
 
 > The relationship between platforms and their creators is critical to the discussion of how our online world is changing [p 22]
 
-Her newsletter, [as I've previously mentioned]({{site.url}}/2020/07/27/subscribe-to-monomythical/), is gold. [This issue about the book](https://nayafia.substack.com/p/22-working-in-public):
+Her newsletter, [as I've previously mentioned](/2020/07/27/subscribe-to-monomythical/), is gold. [This issue about the book](https://nayafia.substack.com/p/22-working-in-public):
 
 > Since 2016, however, we are undeniably moving into a second epoch of the social web, one in which “public” no longer equals “participatory.” This shift requires that we refactor our understanding of online communities.
 
@@ -62,7 +62,7 @@ Her [notes](https://nadiaeghbal.com/notes/) are full of interesting, fleeting th
 
 > Getting to know ppl by doing something alongside them is often better than milling around and talking. This was true of offline communities already, but can we now use that as a design principle for online communities as well? [2020-05-03]
 
-The one thing that seems to have sprung out of this post-Facebook/locked-down era is the resurgence of Communities of Practice. Just myself, I'm participating in The Mighty Minds Club [ed -- no longer], a multidisciplinary group of designers and thinkers; Kent C Dodds' Discord, where _cohorts_ are working through curriculum together; my [weekly online D&D game]({{site.url}}/2020/04/03/blogging-during-the-apocalypse/ "mentioned in this post"); and a private "Adventure Club" working through 30x500.
+The one thing that seems to have sprung out of this post-Facebook/locked-down era is the resurgence of Communities of Practice. Just myself, I'm participating in The Mighty Minds Club [ed -- no longer], a multidisciplinary group of designers and thinkers; Kent C Dodds' Discord, where _cohorts_ are working through curriculum together; my [weekly online D&D game](/2020/04/03/blogging-during-the-apocalypse/ "mentioned in this post"); and a private "Adventure Club" working through 30x500.
 
 When the pandemic lock-down began, I rejoined Facebook and Twitter, the former to connect with family and close friends, the latter for connecting to broader communities. Neither platform has helped me succeed in those goals. Instead I have a weekly Zoom call with my parents and all of the aforementioned micro-communities. I could, and probably soon will walk away, once again, from the cesspools that are the Major Social Networks.
 

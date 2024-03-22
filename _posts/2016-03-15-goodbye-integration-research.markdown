@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Goodbye Integration Research (dot org)"
+title: "Goodbye Integration Research dot org"
 date: 2016-03-15 05:00:58 -0500
 comments: true
 categories: 

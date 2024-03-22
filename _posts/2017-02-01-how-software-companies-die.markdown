@@ -3,11 +3,10 @@ layout: post
 title: "How software companies die"
 excerpt: by Orson Scott Card
 date: 2017-02-01 17:50:22 -0600
-comments: true
 categories: 
 ---
 
-by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card), first published in [Windows Sources](https://en.wikipedia.org/wiki/Windows_Sources) in March of 1995
+Written by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card), first published in [Windows Sources](https://en.wikipedia.org/wiki/Windows_Sources) in March of 1995.
 
 ---
 

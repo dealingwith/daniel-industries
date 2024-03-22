@@ -2,26 +2,19 @@
 layout: post
 title: "Form"
 date: 2014-01-17 23:24:57 -0600
-comments: true
 categories: music
 ---
 
-![Form]({{site.url}}/images/form_cover_fullwidth.jpg)
+![Form](/images/form_cover_fullwidth.jpg)
 
 I've hesitated and put off writing about this project for a number of reasons. I've been busy. The project itself, while completely necessary, took a lot of energy to complete, let alone promote. I haven't done the work yet to get the record onto your favorite subscription music services, or even Amazon and iTunes. And it's been hard to find enough superlatives with which to describe my friends who helped me.
 
 If  you don't know what I'm talking about, it's this record, which I released to the world last fall:
 
-<iframe style="border: 0; width: 100%; height: 142px;" src="http://bandcamp.com/EmbeddedPlayer/album=1607945823/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=none/transparent=true/" seamless><a href="http://themusicgroup.org/album/form">Form by Daniel Miller</a></iframe>
-
----
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1607945823/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://danielmiller.bandcamp.com/album/form">Form by Daniel Miller</a></iframe>
 
 Those friends, in no particular order:
 
 [Eric Neal](http://bandofpuppets.com/), [John Lefler](http://www.johnleflermusic.com/), [Paul Averitt](http://www.paulaveritt.com/), [Salim Nourallah](http://en.wikipedia.org/wiki/Salim_Nourallah), [Rip Rowan](http://riprowan.com/), [Camille Cortinas](http://www.camillecortinas.com/), [Vanessa Peters](http://vanessapeters.com/), [Benj Pocta](https://twitter.com/benjpocta), [Hal Samples](http://halsamples.com/), [Chris Holt](https://myspace.com/chrisholtmusic), [Nick Earl](http://thetravoltasmusic.com/about/meet-nick-earl/), [Doug Burr](http://www.dougburr.com/), [Gabrielle LaPlante](http://www.reverbnation.com/gabriellelaplante), [Tom Conlon](http://www.tomconlonmusic.com/), [Bach Norwood](http://bachnorwood.com/).
 
 Just reading over that list leaves me in awe, humbled, intimidated and mostly full of gratitude. I'm in debt to all these people for their help with this project.
-
----
-
-I made a little website (now dead) for the record. I'm so time-constrained these days. There's still so much more I wanted to do. There's still so much I intend to do. Like blog about the process. Maybe tomorrow.

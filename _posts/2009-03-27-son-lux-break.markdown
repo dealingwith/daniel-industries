@@ -1,29 +1,13 @@
 ---
-author: dealingwith
 date: '2009-03-27 17:09:00'
 layout: post
 slug: son-lux-break
-status: publish
-title: Son Lux "Break"
-wordpress_id: '2974'
+title: Son Lux -- Stay
 categories:
- - brilliant
  - music
  - video
 ---
 
-http://www.youtube.com/watch?v=FUSBXsd8NkQ
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/eDG3tW2_tcU?si=FX4YnhFX8s1kduk1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I'm a little obsessed with [this record][1] at the moment. I'm not a huge fan
-of this video, but it's ambient enough to work.
-
-This video, however, I am a huge fan of:
-
-http://www.youtube.com/watch?v=eDG3tW2_tcU videos from [blogotheque.net/Why-
-et-Son-Lux][2] ...there's one more on there too. I'm currently downloading it
-since vimeo seemed not to be with the working.
-
-   [1]: http://www.amazon.com/War-Walls-Mazes-Son-Lux/dp/B00127ISDG/ref=pd_bbs_sr_1?ie=UTF8&s=music&qid=1238192777&sr=8-1
-
-   [2]: http://www.blogotheque.net/Why-et-Son-Lux
-
+I'm a little obsessed with [At War With Walls & Mazes](https://sonlux.bandcamp.com/album/at-war-with-walls-mazes) at the moment.

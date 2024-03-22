@@ -2,11 +2,9 @@
 date: '2008-04-06 14:24:00'
 layout: post
 slug: to-have-more-clean-fun-on-a-saturday-night-might-require-being-criminal
-status: publish
 title: To have more clean fun on a Saturday night might require being criminal
 categories:
  - art
- - beer
  - bicycling
  - local
  - minutia
@@ -15,7 +13,7 @@ categories:
 
 Last night we rode our fixies down to Deep Ellum for the Art Festival, specifically for that all-girls-all-the-time art show and the bands playing at Space. We arrived to chat with Erica outside the "gallery" and answer a bunch of questions from a curious-about-fixies new friend. Then we found a spot to lock 'em up and caught--much to my disappointment--only the last 1/2 of the last song of the Felon's set.
 
-Then we went to check out said art show. I'm in such a bad place in terms of art, as mentioned on this LJ, but I still wanted one of the bargain-priced Cathy Miller pieces that originally hung in my* gallery or the ever-fantastic Nourallah work. Alas, I can't afford to replace my car stereo or have the left headlight re-attached, and my two largest/priciest pieces of art are not even in my possession, so I'm in a self-imposed art-buying moratorium.
+Then we went to check out said art show. I'm in such a bad place in terms of art, as mentioned on this LJ, but I still wanted one of the bargain-priced Cathy Miller pieces that originally hung in my gallery or the ever-fantastic Nourallah work. Alas, I can't afford to replace my car stereo or have the left headlight re-attached, and my two largest/priciest pieces of art are not even in my possession, so I'm in a self-imposed art-buying moratorium.
 
 Carefully avoiding the Dust (as Sir Roberts so well put it later in the evening), next priority was Beer. We wandered the Fest and accepted some free Full Throttle--the most unfortunately-named energy drink ever--finally making our way down to the liquor store, although not before seeing _more_ Full Throttle marketeers rolling a cart down the street--"The mob violence at the Deep Ellum Arts Festival today was blamed on the overabundant supply of free energy drinks..."
 
@@ -29,15 +27,11 @@ On to Expo Park it was, where a pint at the Amsterdam Bar were had. I have only 
 
 The ride back to the secret uptown bunker was punctuated by the buzz, the cold air, the darkness, and the multiple shortcuts through parks and rapid curb-avoiding zig-zags.
 
-...
+---
 
 The best thing I've read today was [Textism: Idea for a hot vertical][6].
 
 > Yeah so we do a user-centric citizen-media social network for women and gay men who’ve just totally dumped (or been dumped by) their partner, no-good slackass douche that he is/was/will no doubt continue to be, right?...Integration with all popular platforms, including Twitter, of course, except that’s through a proprietary app called Bitter.
-
-...
-
-*Yeah, and fuck _you_ too.
 
    [1]: http://halsamples.com/blog/files/2008/04/IMG_6510_resized.JPG
 
