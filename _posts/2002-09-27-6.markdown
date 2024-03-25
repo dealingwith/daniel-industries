@@ -1,9 +1,0 @@
----
-layout: post
-title: '...'
-categories:
- - minutia
----
-
-<a href="http://www.pastemagazine.com/">pastemagazine.com</a> Catching Up With Over the Rhine 
-
