@@ -210,6 +210,17 @@ img {
   border-radius: 5px;
   max-width: 100%;
 }
+.caption {
+  color: var(--grey);
+  font-size: 0.9em;
+  line-height: 1.4em;
+  margin: -.6em 2em 0;
+  text-align: center;
+}
+.caption::before {
+  content: "↜ ";
+  font-size: 1.4em;
+}
 
 pre,
 code {

@@ -35,8 +35,12 @@ I really would have preferred to be in the loft of Common Grounds, who dissed us
 
 Tom's take from last night was, in his words and no doubt accurate if even exaggerated, was enough to pay for the gas it took to divert from I-95. (He's on his way to a tour of the southern states, starting in Georgia. He should be in South Carolina right now, in fact. He got on the road as we said goodbye after evening's end.)
 
-![](/assets/2003/02/DSCN0452.JPG) 
+![](/assets/2003/02/DSCN0452.JPG)
+
+<p class="caption">it may look like he is giving some kind of lecture in this shot, but really he is just asking me how my camera works...i was being sneaky and taking no-flash shots without warning</p>
 
 We gave him a token amount of money, not even enough to make up for what he should have made at the show, maybe enough to pay for the gas to South Carolina. Tom makes me wish I was independently wealthy, so I could finance his art indefinitely, make him famous, the next Bono but without the pretension. But then I realize that doesn't have to do with anything that matters, that it wouldn't make Tom happier or enrich his art or our experience...Tom has been blessed, and blesses us, with things not made of this earth, of a transcendence known to only so few...
 
 ![](/assets/2003/02/DSCN0456.JPG)
+
+<p class="caption">me in my usual earnest pose...the other shot where i am smiling, tom's eyes are half-closed, so i went with this one despite the fact i look like i wasn't having a good time, which isn't true!</p>
