@@ -5,7 +5,6 @@ categories:
  - music
 ---
 
-
 Last night we wrapped my new record, Americana EP. Without irony, with as much humility as I can muster, I can honestly say that if someone doesn't fall in love with this record, then something is wrong with the world; but at the same time, I have never felt such a lack of having to prove anything to anyone. We have created a record with more soul than most of what I'm hearing coming out of America today. My influences are obvious and already well known: Over the Rhine, Chuck Prophet, Wilco; and I think we have created something that, artistically, is on par with _Films for Radio_, _No Other Love_, or _Yankee Hotel Foxtrot_--considering, technically, of course, that we recorded a 4-song EP in a week, in an apartment in a burned-out building in Sarajevo, BiH.
 
 Lyrically, I think it has the same metaphoric complexity of Linford, but with even more hidden layers. I tried to explain some of the lyrics in (for example) _[Closed for the Year](https://danielmiller.bandcamp.com/track/closed-for-the-year "Closed for the Year by Daniel Miller")_, to Rade, a guitarist who hung out for most of the sessions, and ended up playing on _I Really Need a Chorus_; but the next day we were still working on the song and I said, "You know, I still don't know what that lyric means (exactly)."
