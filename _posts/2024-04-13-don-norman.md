@@ -48,6 +48,7 @@ This entire talk is helping me realize the kind of design I'm really interested 
 
 But it's always been about design, the way Norman defines it.
 
-I've put his new book, _[Design for a Better World](https://jnd.org/books/design-for-a-better-world/ "Design for a Better World – Don Norman's JND.org")_, on my short list.[^1]
+I've put his new book, _[Design for a Better World](https://jnd.org/books/design-for-a-better-world/ "Design for a Better World – Don Norman's JND.org")_, on my short list.[^1][^2]
 
 [^1]: I'm currently reading 7 books, with 14 more that I've started and would like to return to at some point. 😳
+[^2]: I never did finish _[The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)_. I started it...
