@@ -83,7 +83,6 @@ h6 {
 
 a {
   color: var(--green);
-  text-decoration-style: dotted;
 }
 a:hover {
   color: var(--text);
