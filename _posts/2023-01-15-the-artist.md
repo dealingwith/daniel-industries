@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "The Artist"
-excerpt:
+excerpt: "She saw it in the eyes of every visitor, those dead, no-substance gazes of the crowd. They saw art but did not know art. They appreciated art the way they appreciated secret jungle cultures. Other."
 date: 2023-01-15 12:34:03 -0600
 categories:
+ - fiction
 ---
 
-![]({{site.url}}/assets/2023/01/52598113908_06a6ec5217_c.jpg)
+![](/assets/2023/01/52598113908_06a6ec5217_c.jpg)
 
 She worked while the tourists wandered about the studio and the grounds. She moved from one table to another, for a particular tool, or to look at a greater distance at the work. The tourists were reverent and stayed out of her way. She tolerated them by imagining the take at the door that day.
 
@@ -14,7 +15,7 @@ Art and artists had become so scarce that they were now tourism targets. Her mod
 
 Of course, it required certain decisions. She was single, childless. She'd inherited the land. But the rewards on the other side of these directions and enchantments were significant, both spiritually and financially. She saw it in the eyes of every visitor, those dead, no-substance gazes of the crowd. They saw art but did not know art. They appreciated art the way they appreciated secret jungle cultures. Other. Astonishing. Primitive. Primal.
 
-Her primal bits gushed a little at the thought. They were right. She was closer to the Prime Mover of the Universe than they were. She gave birth to its will and its whims. She was the Mother Fucking Mary and these things were all her little Jesuses. And someday these crowds wouldn't pay to enter, they would overwhelm the gates with their seething masses and destroy every Jesus ever birthed, their eyes no longer filled with death but filled with the angry resentment of having been dead for so long.
+Her primal bits gushed a little at the thought. They were right. She was closer to the Prime Mover of the Universe than they were. She gave birth to its will and its whims. She was the Mother Fucking Mary and these things were all her little Jesuses. And someday these crowds wouldn't pay to enter, they would overwhelm the gates with their seething masses and destroy every Jesus ever birthed, their eyes no longer filled with death but with the angry resentment of having been dead for so long.
 
 ---
 

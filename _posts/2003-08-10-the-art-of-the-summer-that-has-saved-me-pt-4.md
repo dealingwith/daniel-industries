@@ -5,9 +5,7 @@ categories:
  - comment
 ---
 
-<img src="http://www.randomhouse.com/catalog/covers/0-375-41326-X.gif" />
-
-<a href="http://www.amazon.com/exec/obidos/ASIN/0375718850/qid=1060590902/sr=2-1/ref=sr_2_1/103-9959971-0009459">Ethan Hawke's <em>Ash Wednesday</em></a>...
+Ethan Hawke's _Ash Wednesday_...
 
 It was a very good book, and very timely for me. It started a bit slow, was a little heavy-handed at times, and not much happened, but it was still good: characters with real thoughts, conversations, and arguments; funky, real situations; and real commentary that came through the dialog--in fact, dialog was king in this novel, some of the best dialog I've ever read, and I guess you could expect that from an actor/author. I already liked and respected Ethan Hawke, he is kind of one of the defining actors of my generation, two of his movies (Gattaca and Great Expectations) are two of my favs, but now I am really intrigued by this artist.
 
@@ -31,4 +29,4 @@ See also:
 
 > I don't feel like you can handle criticism in the right way unless you are sure of what you are trying to get across. If you are sure of what you want to get across, then people can tell you how you are succeeding or not. If you are not, you can't start writing the book so that it makes your best friend happy. So that he likes it more.
 
-<a href="http://www.randomhouse.com/knopf/authors/hawke/desktopnew.html">Ethan Hawke's Author's Desktop</a> "details the songs he envisioned as the soundtrack to the novel, with links to read the lyrics and reviews of the music and to play and listen to the songs yourself."
+<a href="http://www.randomhouse.com/knopf/authors/hawke/desktopnew.html">Ethan Hawke's Author's Desktop</a>, "details the songs he envisioned as the soundtrack to the novel, with links to read the lyrics and reviews of the music and to play and listen to the songs yourself."
