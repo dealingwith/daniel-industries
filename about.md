@@ -18,7 +18,7 @@ layout: page
 
 See also: [uses](/uses) and [now](/now).
 
-The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet.
+The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet. It started as a notebook, then a link log and what is now commonly referred to as a micro-blog, then a proper blog, long after blogging had peaked. There is considerable cringe and broken links in the old stuff, which I am slowly editing over the course of years.
 
 If you are looking for somewhere to start, try these:
 
@@ -64,10 +64,14 @@ If you are looking for somewhere to start, try these:
 
 <p>Or you can start at my latest post: <a href="{{ post.url }}">{{ post.title }}</a></p>
 
-### Historical "About" posts
-
-- [About (2009)](/2009/10/26/about/)
-- [About (2006)](/2006/12/08/1868/)
-- [Interviewed by Jordon Cooper (2004)](/2004/04/06/interviewed-by-jordon-cooper/)
-- [About (2003)](/2003/07/28/about/)
-- [About Page (2003)](/2003/01/16/about-page/)
+<details>
+  <summary style="cursor: pointer;">
+    Historical "About" posts ↴
+  </summary>
+  <div markdown="1">
+  - [About (2009)](/2009/10/26/about/)  
+  - [About (2006)](/2006/12/08/1868/)  
+  - [Interviewed by Jordon Cooper (2004)](/2004/04/06/interviewed-by-jordon-cooper/)  
+  - [About (2003)](/2003/07/28/about/)  
+  </div>
+</details>

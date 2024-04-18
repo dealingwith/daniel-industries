@@ -415,3 +415,11 @@ sup a {
 sup a:hover {
   background-color: var(--pink);
 }
+
+details > summary {
+  list-style: none;
+  text-decoration: underline;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}

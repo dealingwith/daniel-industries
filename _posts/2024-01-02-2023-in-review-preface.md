@@ -8,15 +8,20 @@ categories:
  - year-in-review
 ---
 
-Just for fun, previous editions:
-
-- [2022](/2023/01/22/2022-in-review/ "2022 in Review")
-- [2020 Part 1](/2020/12/24/2020-year-in-review-part-1/ "2020 Year in Review Part 1"), [2020 Part 2](/2020/12/26/2020-year-in-review-part-2/ "2020 Year in Review Part 2"), [2020 Part 3](/2021/01/02/2020-year-in-review-part-3/ "2020 Year in Review Part 3"), [2020 Part 4](/2021/02/13/2020-year-in-review-part-4/ "2020 Year in Review Part 4")
-- [Man, 43...](/2018/01/01/man/ "Man, 43...") (2017)
-- [2009 Part 2](/2009/12/30/2009-fives-part-2-fails/ "2009 Fives Part 2: Fails"), [2009 Part 3](/2009/12/31/2009-fives-part-3-wins/ "2009 Fives, Part 3: Wins")
-- [To the New Year](/2007/12/31/to-the-new-year/) (2007)
-- [What a Year for a New Year](/2003/12/31/what-a-year-for-a-new-year/) (2003)
-- [What a Year for a New Year](/2003/01/01/what-a-year-for-a-new-year/) (2002)
+<details>
+  <summary style="cursor: pointer;">
+    Just for fun, previous editions ↴
+  </summary>
+  <div markdown="1">
+  - [2022](/2023/01/22/2022-in-review/ "2022 in Review")
+  - [2020 Part 1](/2020/12/24/2020-year-in-review-part-1/ "2020 Year in Review Part 1"), [2020 Part 2](/2020/12/26/2020-year-in-review-part-2/ "2020 Year in Review Part 2"), [2020 Part 3](/2021/01/02/2020-year-in-review-part-3/ "2020 Year in Review Part 3"), [2020 Part 4](/2021/02/13/2020-year-in-review-part-4/ "2020 Year in Review Part 4")
+  - [Man, 43...](/2018/01/01/man/ "Man, 43...") (2017)
+  - [2009 Part 2](/2009/12/30/2009-fives-part-2-fails/ "2009 Fives Part 2: Fails"), [2009 Part 3](/2009/12/31/2009-fives-part-3-wins/ "2009 Fives, Part 3: Wins")
+  - [To the New Year](/2007/12/31/to-the-new-year/) (2007)
+  - [What a Year for a New Year](/2003/12/31/what-a-year-for-a-new-year/) (2003)
+  - [What a Year for a New Year](/2003/01/01/what-a-year-for-a-new-year/) (2002)
+  </div>
+</details>
 
 ---
 
@@ -44,11 +49,13 @@ I think I'm going to try a different angle on personal productivity this year. I
 
 I'm still invested in the productivity tooling space and have no guilt about playing with new tools (of which there is never a shortage) or tweaking my setup.
 
-Since [my show on the 21st](https://hallucinunciation.daniel.industries/ "The Hallucinunciation"), I haven't worked on any of my Big Ideas/Plans. I don't feel good or bad about it. We've been busy with the holidays. I've worked on this site. I've worked on bike stuff, primarily the backlog of bike projects/tweaks I hadn't managed to tackle in the last 6-12 months. My foot has been hurting more, especially after rides. But my bike rides are 100% correlated to my mental health. I have a bike fit appointment for Wednesday.
+Since [my show on the 21st](https://hallucinunciation.daniel.industries/ "The Hallucinunciation"), I haven't worked on any of my Big Ideas/Plans. I don't feel good or bad about it. We've been busy with the holidays. I've worked on this site. I've worked on bike stuff, primarily the backlog of bike projects/tweaks I hadn't managed to tackle in the last 6-12 months. 
+
+<!-- My foot has been hurting more, especially after rides. But my bike rides are 100% correlated to my mental health. I have a bike fit appointment for Wednesday.
 
 But I'm not currently inspired to work on any of my big projects from the back half of 2023. I think I know why, and I feel a plan for how to plan formulating in the distance. I'm hopeful this season of ennui has a purpose.
 
-"[Meaning Dementia](/2023/12/12/meaning-dementia/ "Life feels like it is spinning away into the distance, carried by a newer, more physically capable, and less haggard generation")" was a kind of abstract and raw version of this entire post.
+"[Meaning Dementia](/2023/12/12/meaning-dementia/ "Life feels like it is spinning away into the distance, carried by a newer, more physically capable, and less haggard generation")" was a kind of abstract and raw version of this entire post. -->
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2524164844/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2358946771/transparent=true/" seamless><a href="https://chuckprophet.bandcamp.com/album/live-in-paris">Live in Paris by Chuck Prophet &amp; The Mission Express</a></iframe>
 

@@ -8,14 +8,6 @@ categories:
 ![](/assets/2003/01/dwm.gif)
 
 What to put in a bio/about/whatever? Hmmm...
-                
-Full name: Daniel Wayne Miller
-		
-Age: 27
-		
-Married to: Miriam Lacho Miller
-		
-Children: None yet. Not opposed to the idea.
 		
 Currently residing: Arlington, Virginia  
 soon to be: Sarajevo, Bosnia-Herzegovina
@@ -29,7 +21,7 @@ Hobbies: Since I don't have a "real" job, I got to put all those under "occupati
 Travel abroad: Germany, Slovakia, Czech Republic, Austria, Netherlands, Italy, Slovenia, England, Australia, Israel.
 		
 Beer or liquor: Better off with beer.  
-Days when i'm feeling fat: water.
+Days when I'm feeling fat: water.
 
 Other dinner guest issues: Both Miriam and I are pescatarians, which means for meat we only eat fish (but boy do we) and we don't eat dairy. But if you put it in front of me and it looks good, I'll eat it. Hopefully you don't give me seconds or I'll be sick later.
 		
