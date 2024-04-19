@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-18 08:58:00'
 layout: post
 slug: clarification-or-me-mutiler
-status: publish
 title: clarification. or. me mutiler.
-wordpress_id: '2234'
 categories:
  - lacan
  - personal notes

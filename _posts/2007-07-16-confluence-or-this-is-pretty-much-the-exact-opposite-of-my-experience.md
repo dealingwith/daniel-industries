@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-16 12:24:00'
 layout: post
 slug: confluence-or-this-is-pretty-much-the-exact-opposite-of-my-experience
-status: publish
 title: confluence. or. this is pretty much the exact opposite of my experience.
-wordpress_id: '2231'
 categories:
  - lacan
  - mike riddell
@@ -34,4 +31,3 @@ _...All this to say--love as existing entirely outside of emotion or love withou
    [1]: http://www.amazon.com/Alt-Spirit-Metro-M3-Mike-Riddell/dp/074593711X/ref=sr_1_1/002-4601971-5548037?ie=UTF8&s=books&qid=1184605445&sr=8-1
 
    [2]: /2007/07/15/found-it/
-
