@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "There Is No More Perfect-for-me Episode of 60 Songs That Explain the 90s Than This One"
+title: "There Is No More Perfect for Me Episode of 60 Songs That Explain the 90s Than This One"
 excerpt: 
 date: 2024-03-29 11:52:36 -0500
 categories: 

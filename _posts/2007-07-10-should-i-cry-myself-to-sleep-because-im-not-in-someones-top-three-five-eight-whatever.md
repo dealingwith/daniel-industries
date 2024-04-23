@@ -1,12 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-10 05:24:00'
 layout: post
 slug: should-i-cry-myself-to-sleep-because-im-not-in-someones-top-three-five-eight-whatever
-status: publish
-title: Should I cry myself to sleep because I'm not in someone's top three, five,
-  eight, whatever?
-wordpress_id: '2226'
+title: Should I cry myself to sleep because I'm not in someone's top three, five, eight, whatever?
 categories:
  - myspace
  - quotable

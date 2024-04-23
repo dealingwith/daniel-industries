@@ -11,7 +11,7 @@ categories:
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/FMbP4pRxT2k?si=meaPCXsiWVpL4QYP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I watched this when it was broadcast live via the [ADPList](https://adplist.org/) platform (on which I am a mentor) on March 18th. I life-tooted some of my reactions. Quotes are primarily paraphrased:
+I watched this when it was broadcast live via the [ADPList](https://adplist.org/) platform (on which I am a mentor) on March 18th. I live-tooted some of my reactions. Quotes are primarily paraphrased:
 
 Watching a webinar/interview with Don Norman, who is still incredibly smart, thoughtful, and well-spoken at 88. [wikipedia.org/wiki/Don_Norman](https://en.wikipedia.org/wiki/Don_Norman)
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-13 16:08:00'
 layout: post
 slug: they-sit-in-silence-and-speak-a-thousand-words
-status: publish
-title: '"They sit in silence and speak a thousand words."'
-wordpress_id: '2228'
+title: They sit in silence and speak a thousand words
 categories:
  - aging
  - beauty
@@ -13,16 +10,6 @@ categories:
  - video
 ---
 
-[![][1]][2]
+<div style="padding:75.4% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1199984?h=f773a7a200" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-image and video by [kainaz amaria photography][3]
-
-
-...also: http://www.move30.com/videos/show/39
-
-   [1]: http://daniel.iaspiretonothing.com/blog/files/2007/07/amariak_ruthomar_2007_05_10_201.jpg
-
-   [2]: http://www.move30.com/videos/show/49 (MOVE30 :: Ruth & Omar: AnUnexpected Love Story)
-
-   [3]: http://kainazamaria.wordpress.com/
 
