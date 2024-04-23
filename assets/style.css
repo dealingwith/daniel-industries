@@ -22,6 +22,7 @@
     --text: #fcf7ed;
     --green: #f0fff0;
     --grey: #bdbdbd;
+    --pink: #862f3e;
     --lightgreen: #d5d9bc;
     --lightgrey: #484848;
   }
@@ -167,12 +168,15 @@ h2 + .post-metadata,
 h3 + .post-metadata {
   color: var(--grey);
   font-family: var(--sans);
-  font-size: 0.9em;
+  font-size: 0.85em;
   line-height: 1.1em;
   margin-bottom: 2em;
-  margin-top: -0.8em;
+  margin-top: -0.9em;
 }
 
+h1 a,
+h2 a,
+h3 a,
 header a,
 .post-metadata a {
   border: none;
@@ -180,6 +184,7 @@ header a,
   text-decoration: none;
 }
 
+h3 a:hover,
 .post-metadata a:hover {
   background-color: var(--pink);
 }
@@ -209,10 +214,12 @@ img {
   border-radius: 5px;
   max-width: 100%;
 }
-.caption {
+.excerpt, .caption {
   color: var(--grey);
   font-size: 0.9em;
   line-height: 1.4em;
+}
+.caption {
   margin: -.6em 2em 0;
   text-align: center;
 }
@@ -235,9 +242,7 @@ pre {
 
 .small {
   color: var(--grey);
-  /* display: block;
-  font-size: 1em;
-  line-height: 1.5em; */
+  font-size: 0.9em;
 }
 
 .postscript,
@@ -422,4 +427,11 @@ details > summary {
 }
 details > summary::-webkit-details-marker {
   display: none;
+}
+div.blog-index-div {
+  border-bottom: 1px solid var(--lightgrey);
+  margin-bottom: 0.5em;
+}
+div.blog-index-div .post-metadata {
+  margin-bottom: 1em;
 }

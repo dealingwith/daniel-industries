@@ -12,9 +12,9 @@ layout: page
   }
 </style>
 
-## Product-focused technology leader
+Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Milo and stepdad of Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and [stories](/writing). Cyclist. Indieweb advocate.
 
-{% include_relative about_content.md %}
+[You can get in contact with me here](https://letterbird.co/dealingwith).
 
 See also: [uses](/uses) and [now](/now).
 

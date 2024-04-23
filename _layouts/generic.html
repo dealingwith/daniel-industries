@@ -3,8 +3,12 @@
 
 {% include head.html %}
 
-{% include menu.html %}
 
 <body>
-  {{ content }}
+  {% include menu.html %}
+  <div style="margin: 40px;">
+    {{ content }}
+  </div>
+
+  {% include footer.html %}
 </body>
