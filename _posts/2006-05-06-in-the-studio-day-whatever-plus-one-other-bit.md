@@ -1,17 +1,13 @@
 ---
-author: dealingwith
 date: '2006-05-06 19:18:00'
 layout: post
 slug: in-the-studio-day-whatever-plus-one-other-bit
-status: publish
 title: in the studio day whatever plus one other bit
-wordpress_id: '1290'
 categories:
  - faithy
  - mp3 of the day
  - people
  - relationships
- - thinking
  - thoughts
 ---
 
@@ -20,7 +16,6 @@ categories:
 Guitars, vocals, drums: Daniel Miller  
 Bass, keys: Salim Nourallah  
 Vocal: Michele Pittenger
-
 
 Michele came out today and blessed this song with her beautiful pipes, the only remaining touch required for this simple song. At first I couldn't think of any female singers I knew in Dallas. Then I remembered Michele, who I only knew tangentially. Very excited. We had completed everything else last week (as well as most of another song that is still in process, but that Michele also sang on today).
 

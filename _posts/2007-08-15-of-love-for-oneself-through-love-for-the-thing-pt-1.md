@@ -3,19 +3,13 @@ author: dealingwith
 date: '2007-08-15 10:43:00'
 layout: post
 slug: of-love-for-oneself-through-love-for-the-thing-pt-1
-status: publish
 title: of love for oneself through love for the thing, pt 1
-wordpress_id: '2261'
 categories:
  - art
- - hangups
- - internets
  - Integration Research
  - lacan
  - love
  - marketing
- - meh
- - thinking
  - thoughts
 ---
 

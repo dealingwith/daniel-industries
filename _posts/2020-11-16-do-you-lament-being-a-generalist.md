@@ -35,4 +35,4 @@ At some point, being a leader doesn't mean understanding minefields more than ot
 
 ![]({{site.url}}/assets/2020/11/call-it-a-draw.gif)
 
-<p class="small postscript">^ middle-age vs life ^</p>
+<p class="caption">^ middle-age vs life ^</p>
