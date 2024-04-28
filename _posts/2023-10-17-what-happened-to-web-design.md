@@ -58,3 +58,7 @@ This started as a nostalgic story about my personal preference for a design aest
 3. This is a pretty gloomy idea, but recent data seems to indicate that end-times-like events will not slowly creep up on us, [as I predicted in 2010]({{site.url}}/writings/antipocalypse/), but rather descend in more biblical ways. Nothing inspires collaboration and change faster than finding our enclosing systems failing around us. [Insert "this is fine" emoji here.]
 
 I didn't want to end on _that_ note, but I've been sitting on this post for too many days, trying to make it more coherant and/or put a bow on it. There _are_ some good sites out there these days. The replies to [this post](https://front-end.social/@sia/111138583283673050) link to some.
+
+## 04/2024 Update
+
+[This post](/2023/08/24/today-we-are-born-as-individuals-and-it-is-our-job-to-seek-communities-instead-of-attention/), which links to [normadesign.it/en/log/nothing-special/](https://normadesign.it/en/log/nothing-special/), is particularly relevant, particularly the last two quoted paragraphs, and I'm concerned that I did not remember to make the connection when I first wrote this piece. Possibly that was because this post focuses on the market forces that have led to bad design, while the Norma post focuses on social factors. It seems as though real design thinking, as advocated by the likes of [Don Norman](/2024/04/13/don-norman/), would consider all these elements.
