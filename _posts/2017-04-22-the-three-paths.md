@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Three Paths
-author: Daniel Miller
+date: 2017-04-22 23:14:03 -0500
 categories:
  - technology
  - work

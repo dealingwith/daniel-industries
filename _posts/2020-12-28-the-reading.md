@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Reading
-date: 2020-12-28 06:24:31
+date: '2020-12-28 06:24:31'
 categories:
  - minutia
  - writing

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Management"
-author: Daniel Miller
+date: 2017-04-23 23:14:03 -0500
 categories:
  - technology
  - work
