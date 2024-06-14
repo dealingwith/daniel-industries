@@ -68,6 +68,6 @@ In case you didn't take the time to read Zeynep's article, I'm going to include 
 
 ---
 
-Postscript: I realized that this post is an expanded/updated version of [Life Is Too Short to Make Shitty Software]({{ site.base_url }}/2011/03/15/life-is-too-short-to-make-shitty-software/).
+Postscript: I realized that this post is an expanded/updated version of [Life Is Too Short to Make Shitty Software](/2011/03/15/life-is-too-short-to-make-shitty-software/).
 
 ---
