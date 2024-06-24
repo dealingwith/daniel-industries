@@ -25,4 +25,4 @@ This [Design Observer w/ Seth Godin](http://designobserver.com/feature/seth-godi
 
 ---
 
-Keeping a personal blog in 2017 feels relatively futile. But while everyone else is <s>storing</s> throwing their stories, artifacts, thoughts and meanings into the stream for others to consume on their phones while taking a dump or bored at lunch or while cosuming some other media entirely, those of us who store our work on _actual domains_ do it for ourselves--and our legacy. And while permalinks may--and do--rot faster than last week's bananas, the content is still _here_.
+Keeping a personal blog in 2017 feels relatively futile. But while everyone else is <s>storing</s> throwing their stories, artifacts, thoughts, and meanings into the stream for others to consume on their phones while taking a dump or bored at lunch or while consuming some other media entirely, those of us who store our work on _actual domains_ do it for ourselves--and our legacy. And while permalinks may--and do--rot faster than last week's bananas, the content is still _here_.

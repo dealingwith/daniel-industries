@@ -3,28 +3,27 @@
 
 :root {
   --bg: #fff;
-  --my-gradient: linear-gradient(to bottom, #fff, #f8f8f8);
-  --text: #040404;
   --green: #404c00;
-  --lightgreen: #7b8545;
   --grey: #555555;
-  --pink: #ffd5dc;
-  --lightgrey: #eeeeee;
   --header: "Aleo", serif;
+  --lightgreen: #7b8545;
+  --lightgrey: #eeeeee;
+  --my-gradient: linear-gradient(to bottom, #fff, #f8f8f8);
+  --pink: #ffd5dc;
   --sans: sans-serif;
   --serif: serif;
+  --text: #040404;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #262626;
-    --my-gradient: linear-gradient(to bottom, #2e2e2e, #262626);
-    --text: #fcf7ed;
     --green: #f0fff0;
     --grey: #bdbdbd;
-    --pink: #862f3e;
     --lightgreen: #d5d9bc;
     --lightgrey: #484848;
+    --my-gradient: linear-gradient(to bottom, #2e2e2e, #262626);
+    --text: #fcf7ed;
   }
 }
 
@@ -55,12 +54,13 @@ h6 {
   letter-spacing: 0.03rem;
   line-height: 1.1em;
   /* margin: 0 10px 1.1rem 0; */
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
   padding: 10px 10px 0 0;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2.1em;
+  border-bottom: 3px solid var(--pink);
 }
 h2 {
   font-size: 1.5em;
@@ -186,7 +186,9 @@ header a,
 
 h3 a:hover,
 .post-metadata a:hover {
-  background-color: var(--pink);
+  /* background-color: var(--pink);
+  color: var(--grey); */
+  text-decoration: underline;
 }
 
 blockquote,
