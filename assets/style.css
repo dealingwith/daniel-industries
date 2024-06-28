@@ -214,6 +214,7 @@ blockquote {
 
 img {
   border-radius: 5px;
+  margin: 0 auto;
   max-width: 100%;
 }
 .excerpt,
