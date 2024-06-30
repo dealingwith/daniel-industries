@@ -410,12 +410,11 @@ pre.highlight {
 
 sup {
   vertical-align: top;
-  font-size: 0.85em;
 }
-sup:before {
+sup a:before {
   content: "[";
 }
-sup:after {
+sup a:after {
   content: "]";
 }
 sup a {
