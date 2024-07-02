@@ -19,30 +19,28 @@ Software that adds AI functionality is still More Software. More software requir
 
 I've been using GitHub Copilot off and on since it was released, and have a mostly favorable view of its capabilities[^1], as long as the user knows what they're doing in the first place. But you know what it can't do? Write AI apps. Seemingly because the APIs are changing so frequently. It will give you API v1 and v2 syntax all mixed together. It's hilarious. The same goes for trying to use ChatGPT (even their most recent 4o model) to write anything with the OpenAI API.
 
-People get excited when a model writes a working program when the only times I've seen that work is when it is so bog standard that it is no different than copy-pasting from a GitHub repo. Given the average number of edge cases in even the most standard web app, things go off the rails pretty fast.
+![](/assets/2024/06/a-vivid-illustration-of-a-futuristic-robot-simulta-6WbPe8XRTCCxOEwL1AltlA-uDxNuZzOTUGltfzLFJT7Rg.jpeg)
 
-However the real deceit of "AI" c. 2024 isn't the tech and what it can or can't do. Its businesses still treating software development as a cost center, laying off devs at the same time they extol plans to build more features thanks to AI's ability to vomit boilerplate.
+<p class="caption">I couldn't resist making an AI-generated (I used ideogram.ai) image for this post, because I love irony.</p>
 
-**It's the features that cost money, regardless of who wrote them.**
+> ChatGPT...doesn't learn, or understand, or reason about things. What it does is probabilistically generate text in response to a prompt. That can work well enough if the context you need to describe the goal is so simple that you can write it down and include it with the prompt. But that's a very small class of essentially trivial problems...
 
-Lean methodologies are a diet aimed at keeping the business healthy. But feature factories are more like a host nearly consumed by parasites. They need to be detoxed.
+<p class="caption"><a href="https://jenniferplusplus.com/losing-the-imitation-game/">Jennifer Moore: Losing the imitation game</a>. Seriously, go read the entire post.</p>
 
----
-
-For a deeper dive into why AI can't solve your software problem(s), read the following post carefully, in its entirety. I will quote relevant bits below only for my future self.
-
-[Jennifer Moore: Losing the imitation game](https://jenniferplusplus.com/losing-the-imitation-game/)
-
-> ...it turns out that there's been a _lot_ of digital ink spent on writing software and talking about writing software. Which means those linguistic patterns and relationships can be captured and modeled just like any other. And sure, there are some programming tasks where just a probabilistic assembly of linguistic tokens will produce a result you want. If you prompt ChatGPT to write a python function that fetches a file from S3 and records something about it in DynamoDB, I would bet that it just does, and that the result basically works. But then, if you prompt ChatGPT to write an authorization rule for a new role in your application's proprietary RBAC system, I bet that it again just does, and that the result is useless, or worse.
+People get excited when a model writes a working program when the only times I've seen that work is when it is so bog standard that it is no different than copy-pasting from a GitHub repo. Given the average number of edge cases in even the most standard web app, things go off the rails pretty fast. [Jennifer Moore again](https://jenniferplusplus.com/losing-the-imitation-game/):
 
 > Non-trivial software changes over time. The requirements evolve, flaws need to be corrected, the world itself changes and violates assumptions we made in the past, or it just takes longer than one working session to finish. And all the while, that software is running in the real world. All of the design choices taken and not taken throughout development; all of the tradeoffs; all of the assumptions; all of the expected and unexpected situations the software encounters form a hugely complex system that includes both the software itself and the people building it. And that system is continuously changing.
 
 > The fundamental task of software development is not writing out the syntax that will execute a program. [The task is to build a mental model of that complex system](https://pablo.rauzy.name/dev/naur1985programming.pdf), make sense of it, and manage it over time.
 
-> ChatGPT...doesn't learn, or understand, or reason about things. What it does is probabilistically generate text in response to a prompt. That can work well enough if the context you need to describe the goal is so simple that you can write it down and include it with the prompt. But that's a very small class of essentially trivial problems...
+However the real deceit of "AI" c. 2024 isn't the tech and what it can or can't do. Its businesses still treating software development as a cost center, laying off devs at the same time they extol plans to build more features thanks to AI's ability to vomit boilerplate. [Jennifer Moore one last time](https://jenniferplusplus.com/losing-the-imitation-game/):
 
 > Software development is complex...But there seem to be a lot of people who either don't understand that or choose to ignore it. They frame the entire process of software development as being equivalent to writing the toy problems and code samples we use among general audiences.
 
-> The intersection of AI hype with that elision of complexity seems to have produced a kind of AI booster fanboy, and they're making personal brands out of convincing people to use AI to automate programming. This is an incredibly bad idea. The hard part of programming is building and maintaining a useful mental model of a complex system. The easy part is writing code...
+> The intersection of AI hype with that elision of complexity seems to have produced a kind of AI booster fanboy, and they're making personal brands out of convincing people to use AI to automate programming. This is an incredibly bad idea. The hard part of programming is building and maintaining a useful mental model of a complex system. The easy part is writing code.
+
+**It's the features that cost money, regardless of who wrote them.**
+
+Lean methodologies are a diet aimed at keeping the business healthy. But feature factories are more like a host nearly consumed by parasites. They need to be detoxed.
 
 [^1]: I will cover GitHub Copilot in more detail in the future, including both my favorable experiences with it and studies supporting and opposing its effectiveness in software development. It can be very useful for a modestly experience programmer, particularly one learning a new language/framework after already mastering one or more languages/frameworks already. It can also dramatically speed up tasks that are _mostly_ boilerplate, like writing tests. There are a number of sources in favor of, and against, leaning on AI tools for increasing test coverage.
