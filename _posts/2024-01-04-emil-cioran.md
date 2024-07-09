@@ -7,6 +7,7 @@ categories:
  - elsewhere
  - quotable
  - authors
+ - cioran
 ---
 
 How does one live 48 years, in the way I have, having read Camus and Beckett in college, and have not heard of Emil Cioran? HOW?
