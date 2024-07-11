@@ -7,7 +7,6 @@ title: Washed Out, or More Great Art From People Younger Than You Who Don't Care
 categories:
  - aging
  - art
- - hakim bey
  - music
  - nostalgia
 ---

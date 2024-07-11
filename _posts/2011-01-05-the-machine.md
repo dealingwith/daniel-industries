@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Tweetage Wasteland: You Can't Turn Off The Machine"
+categories:
+ - elsewhere
+ - hakim bey
 ---
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u7ziwuIpnVY" frameborder="0" allowfullscreen></iframe>

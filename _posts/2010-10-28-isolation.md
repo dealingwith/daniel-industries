@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Isolation"
+categories:
+ - hakim bey
 ---
 
 <p><iframe width="100%" height="315" src="https://www.youtube.com/embed/i3HyRtdu1o0" frameborder="0" allowfullscreen></iframe></p>
