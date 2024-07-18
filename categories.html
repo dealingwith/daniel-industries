@@ -3,4 +3,35 @@ layout: archive
 title: Categories
 ---
 
+<div style="margin-bottom: 1em;">
+  <p><a id="sort" data-sort="numposts" href="#" onclick="sortAlpha()">Sort by name instead</a>.</p>
+</div>
+
+<div id="cat_toc"
+  style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 1em;">
+  {% category_toc %}
+</div>
+
 {% category_list %}
+
+<script>
+  function sortAlpha() {
+    // determine current sort based on data-sort attribute
+    const sort = document.getElementById('sort').getAttribute('data-sort');
+    const parentDiv = document.getElementById('cat_toc');
+    const childDivs = Array.from(parentDiv.querySelectorAll('div'));
+    if (sort === 'numposts') {
+      const sortedDivs = childDivs.sort((a, b) => a.getAttribute('data-category').localeCompare(b.getAttribute('data-category')));
+      const newHTML = sortedDivs.map(div => div.outerHTML).join('');
+      parentDiv.innerHTML = newHTML;
+      document.getElementById('sort').setAttribute('data-sort', 'alpha');
+      document.getElementById('sort').innerText = 'Sort by number of posts instead';
+    } else {
+      const sortedDivs = childDivs.sort((a, b) => parseInt(b.getAttribute('data-numposts'), 10) - parseInt(a.getAttribute('data-numposts'), 10));
+      const newHTML = sortedDivs.map(div => div.outerHTML).join('');
+      parentDiv.innerHTML = newHTML;
+      document.getElementById('sort').setAttribute('data-sort', 'numposts');
+      document.getElementById('sort').innerText = 'Sort by name instead';
+    }
+  }
+</script>

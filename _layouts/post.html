@@ -1,52 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
-  {% include menu.html %}
-  <div class="main-content">
-    <header>
-      {% if page.title %}
+  <body>
+    {% include menu.html %}
+    <div class="main-content">
+      <header>
+        {% if page.title %}
         <h1>{{ page.title }}</h1>
-      {% endif %}
-      <div class="post-metadata">
-        <a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time
-            datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if
-        page.categories.size > 0 %} in {% for category in page.categories %} <a href="/categories#{{category}}">#{{
+        {% endif %}
+        <div class="post-metadata">
+          <a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time
+              datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if
+        page.categories.size > 0 %} in {% for category in page.categories %} <a
+            href="/categories#{{ category | replace: ' ', '' | replace: '_', '' }}">#{{
           category |
           downcase | replace: " ", "-"}}</a>{% endfor %}{% endif %}
-      </div>
-    </header>
-    <article>
-      {{ content }}
-    </article>
+        </div>
+      </header>
+      <article>
+        {{ content }}
+      </article>
 
-    {% assign backlinks_content = page.url | backlink %}
-    {% if backlinks_content != "" %}
-    <p class="backlinks">Backlinks: {{ backlinks_content }}</p>
-    {% endif %}
+      {% assign backlinks_content = page.url | backlink %}
+      {% if backlinks_content != "" %}
+      <p class="backlinks">Backlinks: {{ backlinks_content }}</p>
+      {% endif %}
 
-    <div class="blog_nav">
-      <div>{% if page.previous.url %}Previous: <a href="{{page.previous.url}}">{{ page.previous.title }}</a>{% endif %}
+      <div class="blog_nav">
+        <div>{% if page.previous.url %}Previous: <a
+            href="{{page.previous.url}}">{{ page.previous.title }}</a>{% endif %}
+        </div>
+        <div class="right">{% if page.next.url %}Next: <a href="{{page.next.url}}">{{ page.next.title }}</a>{% endif %}
+        </div>
       </div>
-      <div class="right">{% if page.next.url %}Next: <a href="{{page.next.url}}">{{ page.next.title }}</a>{% endif %}
-      </div>
+      <p class="footer post-footer" style="clear: both"><a href="/archives/">Archives</a> | <a href="/atom.xml">RSS</a>
+      </p>
+
+      {% include footer.html %}
     </div>
-    <p class="footer post-footer" style="clear: both"><a href="/archives/">Archives</a> | <a href="/atom.xml">RSS</a>
-    </p>
+  </body>
+  <script>
+    var headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]");
 
-    {% include footer.html %}
-  </div>
-</body>
-<script>
-  var headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]");
+    for (var i = 0; i < headings.length; i++) {
+      headings[i].innerHTML =
+        '<a href="#' + headings[i].id + '" style="text-decoration: none">' +
+        headings[i].innerText +
+        '</a>';
+    }
+  </script>
 
-  for (var i = 0; i < headings.length; i++) {
-    headings[i].innerHTML =
-      '<a href="#' + headings[i].id + '" style="text-decoration: none">' +
-      headings[i].innerText +
-      '</a>';
-  }
-</script>
 </html>

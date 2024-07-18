@@ -20,6 +20,6 @@ title: Blogroll
 - [ribbonfarm](https://www.ribbonfarm.com/), man, I don't know, but it sure is interesting
 - [Robin Rendle](https://robinrendle.com/notes/), design and type and heart
 - [Stay SaaSy](https://staysaasy.com/), practical advice for building software teams/orgs
+- [Robin Berjon](https://berjon.com/), very smart words about the internet
 - [rons bikes blog](https://ronsbikesblog.com/), the best bike blog
 - [The Inner Ring](https://inrng.com/), the best bike racing blog
-
