@@ -3,14 +3,16 @@ layout: post
 title: "Weeks Ten and Eleven"
 date: 2013-02-17 13:23
 comments: true
-categories: minutia
+categories: 
+ - minutia
+ - weeknotes
 ---
 
 ...wherein I lose track of the weeks and re-enter the proper workforce and long for the days when I had time to think about productivity and life direction.    
 
 [![Debugger](http://imgs.xkcd.com/comics/debugger.png "It can take a site a while to figure out that there's a problem with their 'report a bug' form.")](http://xkcd.com/1163/)
 
-The contract I mentioned [a while back]({{site.url}}/2013/01/13/week-six/) as "possibly turning full time" has essentially done that, in so much as it has become a 30-hour-a-week contract, which, I'm finding, consumes at least 40 hours of a week. The lower overall commitment level suites me fine for now, though, as I'm still trying to finish up and/or start some side projects, one of the best evidences of which is the fact I'm still titling these less-than-weekly minutial posts as [weeknotes](http://weeknotes.com/). 
+The contract I mentioned [a while back]({{site.url}}/2013/01/13/week-six/) as "possibly turning full time" has essentially done that, in so much as it has become a 30-hour-a-week contract, which, I'm finding, consumes at least 40 hours of a week. The lower overall commitment level suites me fine for now, though, as I'm still trying to finish up and/or start some side projects, one of the best evidences of which is the fact I'm still titling these less-than-weekly minutial posts as [weeknotes](/categories/#weeknotes). 
 
 Still, I find myself in regret for the books I'm not reading and the extra time I'm not spending with Lucy, who is growing up fast these days. Soon she will be toddling around the house in a nonstop blaze of activity. 
 

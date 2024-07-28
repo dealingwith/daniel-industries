@@ -3,7 +3,9 @@ layout: post
 title: "Week Three"
 date: 2012-12-18 07:10
 comments: true
-categories: minutia
+categories: 
+ - minutia
+ - weeknotes
 ---
 
 ![He won't let me sit on the air hockey table! See also: party dress!](http://farm9.staticflickr.com/8072/8275985178_840ee603d3.jpg)

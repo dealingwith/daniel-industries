@@ -3,7 +3,7 @@ layout: post
 title: "Give Thanks"
 ---
 
-<p><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=987180448/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2635195972/transparent=true/" seamless><a href="http://chrisholt.bandcamp.com/album/a-cosmic-joke">A Cosmic Joke by Chris Holt</a></iframe></p>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=987180448/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://chrisholt.bandcamp.com/album/a-cosmic-joke">A Cosmic Joke by Chris Holt</a></iframe>
 
 ---
 

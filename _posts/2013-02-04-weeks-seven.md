@@ -3,7 +3,9 @@ layout: post
 title: "Weeks Seven, Eight and Nine"
 date: 2013-02-04 22:33
 comments: true
-categories: minutia
+categories: 
+ - minutia
+ - weeknotes
 ---
 
 ### Busy!

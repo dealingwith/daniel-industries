@@ -231,6 +231,15 @@ img {
   content: "↜ ";
   font-size: 1.4em;
 }
+div.small_img {
+  align-content: center;
+  text-align: center;
+}
+div.small_img img {
+  border-radius: 5px;
+  margin: 0 auto;
+  max-width: 50%;
+}
 
 pre,
 code {
@@ -457,4 +466,25 @@ img.float-right {
     margin: 0;
     max-width: 100%;
   }
+}
+
+details {
+  border-radius: 10px;
+  margin-bottom: 1em;
+}
+details[open] {
+  background: var(--lightgrey);
+  padding: 0px 8px 8px 8px;
+}
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 1em;
+  outline: none;
+}
+summary::after {
+  content: " ↘";
+}
+details summary {
+  color: var(--green);
 }

@@ -4,7 +4,6 @@ title: "Sweet Margot"
 image: "/assets/2016/08/margot2.jpg"
 excerpt: 
 date: 2016-08-13 22:40:47 -0500
-comments: true
 categories: 
 ---
 

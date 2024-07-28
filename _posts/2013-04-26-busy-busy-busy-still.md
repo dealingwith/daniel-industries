@@ -3,7 +3,9 @@ layout: post
 title: "Busy busy busy (still)"
 date: 2013-04-26 22:40
 comments: true
-categories: minutia
+categories: 
+ - minutia
+ - weeknotes
 ---
 
 ## Shipping again

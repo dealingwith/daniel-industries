@@ -5,6 +5,8 @@ excerpt: "Down and Out of Time, by Sixpence None the Richer, of all things..."
 date: 2019-04-07 19:17:52 -0500
 comments: true
 categories: 
+ - music
+ - music reviews
 ---
 
 > I want to tell you that I've called off the dogs  
