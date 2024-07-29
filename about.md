@@ -16,7 +16,7 @@ Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Mi
 
 [You can get in contact with me here](https://letterbird.co/dealingwith).
 
-See also: [uses](/uses) and [now](/now).
+See also: [colophon](/colophon), [uses](/uses), and [now](/now).
 
 The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet. It started as a notebook, then a link log and what is now commonly referred to as a micro-blog, then a proper blog, long after blogging had peaked. There is considerable cringe and broken links in the old stuff, which I am slowly editing over the course of years.
 
