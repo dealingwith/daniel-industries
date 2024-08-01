@@ -32,4 +32,8 @@ To Friend's credit, at least they didn't name their bot some random female name.
 
 To Friend's credit, they're not trying to provide actual therapy via GenAI. But I suspect that purchasing a Friend pendant is a 100% reliable indicator that one should get real therapy[^1]. I can't figure out if their tagline, "not imaginary", is ironic. I'm scared that it is not.
 
+Postscript: [this Poorly Drawn Lines cartoon landed the same day](https://poorlydrawnlines.com/comic/i-want-enemies/)
+
+![](/assets/2024/07/want-enemies.png)
+
 [^1]: It kind of screams, as we say in the sober community, "I'm an egomaniac with an inferiority complex."
