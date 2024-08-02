@@ -12,4 +12,4 @@ categories:
 
 > I said to him, I said, "You have the advantage on me. You know my name and I don't know yours," and right back at me he said, "What name do you like?" Well I I didn't even have to think twice about that. Harvey's always been my favorite name so I said to him, I said, "Harvey." 
 > 
-> And this is this is the interesting thing about the whole thing: He said, "What a coincidence, my name happens to be Harvey."
+> And this is, this is the interesting thing about the whole thing: He said, "What a coincidence, my name happens to be Harvey."
