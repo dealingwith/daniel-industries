@@ -42,5 +42,4 @@ Jimmy picked at the table, eyes downcast. "I work at a company...a company calle
 
 "That's amazing! You have to tell me more!"
 
-Jimmy looked up. He would have assumed she was making fun of him, but her voice did not betray her, and now he could see in her face that she was astonished but nothing if not genuine.&nbsp;
-
+Jimmy looked up. He would have assumed she was making fun of him, but her voice did not betray her, and now he could see in her face that she was astonished but nothing if not genuine.

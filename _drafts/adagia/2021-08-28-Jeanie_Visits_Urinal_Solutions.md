@@ -14,7 +14,7 @@ Jimmy subtly took a deep breath in through his nose. "It doesn't smell like anyt
 
 Much to Jimmy's surprise, Jeanie had taken an interest in his work. He told her about the chemical compounds they used to simulate the foul odors present in public restrooms. She wanted to experience them for herself so eventually he relented and invited her for a tour.
 
-He walked over to a row of shelving that looked not unlike a giant toolbox. He pulled open a drawer and pulled out a glass jar with clear liquid inside. He brought it over to Jeanie and loosened the top. He allowed the top to open just ever so slightly. A few seconds later the smell reached their nostrils.&nbsp;
+He walked over to a row of shelving that looked not unlike a giant toolbox. He pulled open a drawer and pulled out a glass jar with clear liquid inside. He brought it over to Jeanie and loosened the top. He allowed the top to open just ever so slightly. A few seconds later the smell reached their nostrils.
 
 "Holy shit!" Jeanie proclaimed. Jimmy closed the jar.
 
