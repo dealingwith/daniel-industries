@@ -8,6 +8,7 @@ categories:
  - notes
  - quotable
  - podcast
+ - hope
 ---
 
 🎧️ ["Cory Doctorow, The Lost Cause", Writer's Voice Podcast](https://www.writersvoice.net/2024/01/cory-doctorow-the-lost-cause/ "Cory Doctorow, The Lost Cause, Writer's Voice Podcast")

@@ -5,6 +5,7 @@ excerpt:
 date: 2024-01-03 09:30:10 -0600
 categories: 
  - year-in-review
+ - hope
 ---
 
 I'm writing the last post of this series immediately after the [first](/2024/01/01/2023-in-review-preface/) because:

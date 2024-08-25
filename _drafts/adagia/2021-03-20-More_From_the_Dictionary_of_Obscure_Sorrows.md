@@ -5,15 +5,11 @@ date: 2021-03-20 03:15:25
 categories:
 ---
 
-[ **aftersome**
-
-](https://www.dictionaryofobscuresorrows.com/post/640050819017867264/aftersome)
+**[aftersome](https://www.dictionaryofobscuresorrows.com/post/640050819017867264/aftersome)**
 
 > _adj._ astonished to think back on the bizarre sequence of accidents that brought you to where you are today—as if you’d spent years bouncing down a Plinko pegboard, passing through a million harmless decision points, any one of which might’ve changed everything—which makes your long and winding path feel fated from the start, yet so unlikely as to be virtually impossible.
 
-[ **semaphorism**
-
-](https://www.dictionaryofobscuresorrows.com/post/35393387025/semaphorism)
+**[semaphorism](https://www.dictionaryofobscuresorrows.com/post/35393387025/semaphorism)**
 
 > _n._ a conversational hint that you have something personal to say on the subject but don’t go any further—an emphatic nod, a half-told anecdote, an enigmatic ‘I know the feeling’—which you place into conversations like those little flags that warn diggers of something buried underground: maybe a cable that secretly powers your house, maybe a fiberoptic link to some foreign country.
 

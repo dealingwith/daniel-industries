@@ -16,6 +16,6 @@ categories: thoughts
 
 ---
 
-Do you ever feel overwhelmed by the number of things in the world you know very little or nothing about? That's the feeling I was trying to find a word for. It seems like the older I get, the better I understand the vastness of all human knowledge, and I'm more aware that the time I have to understand even a tiny part of it is rapidly slipping away. Like [sonder]({{site.url}}/2014/06/26/sonder/) but instead of human experience, human knowledge.
+Do you ever feel overwhelmed by the number of things in the world you know very little or nothing about? That's the feeling I was trying to find a word for. It seems like the older I get, the better I understand the vastness of all human knowledge, and I'm more aware that the time I have to understand even a tiny part of it is rapidly slipping away. Like [sonder](/2014/06/26/sonder/) but instead of human experience, human knowledge.
 
 There are words that come close. Ignoramus. Naiveté. I assembled _[sciolistic](https://www.dictionary.com/browse/sciolism) [sciamachies](https://www.dictionary.com/browse/sciamachy)_ just exploring words in the vicinity of what I'm trying to express.

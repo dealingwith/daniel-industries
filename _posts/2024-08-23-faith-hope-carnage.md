@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Faith, Hope and Carnage (highlights)
+layout: post
+title: Faith, Hope and Carnage Highlights
 excerpt: 
-date: 2024-07-27 15:05:07 -0500
+date: 2024-08-23 15:05:07 -0500
 categories: 
+ - quotable
+ - nick cave
 ---
 
 by Nick Cave and Seán O'Hagan

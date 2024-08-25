@@ -4,6 +4,10 @@ title: "Hopefulness can often feel like the most indefensible and lonely place o
 excerpt: 
 date: 2024-08-21 13:25:15 -0500
 categories: 
+ - elsewhere
+ - hope
+ - minutia
+ - nick cave
 ---
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/G8qmV6MYCF4?si=hJURd3EdxaupIBx3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -100,3 +104,6 @@ I've been listening to a lot of Genesis the last two days. Mostly _Selling Engla
 > Shout out, someone will listen to you, to me  
 > Someone's gonna see
 
+I was hoping to have at least a couple of sentences with which to wrap up this post. I don't.
+
+See also: [Cory Doctorow on The Writer's Voice Podcast](/2024/02/06/cory-doctorow-on-the-writers-voice-podcast/), [2023 in Review: Postscript](/2024/01/03/2023-in-review-postscript/), [Awaiting Almighty Armogan](/2024/06/14/awaiting-almighty-armogan/)

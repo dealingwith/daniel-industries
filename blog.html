@@ -4,10 +4,17 @@ title: seeking stories beauty meaning
 ---
 
 {% for post in site.posts limit:20 %}
-  <div class="blog-index-div">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p class="post-metadata">
-      <a href="{{ post.url }}">{{ post.content | number_of_words }} words on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a>
-    </p>
-  </div>
+<div class="blog-index-div">
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p class="post-metadata">
+    <a href="{{ post.url }}">{{ post.content | number_of_words }} words on <time
+        datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time></a>
+  </p>
+</div>
 {% endfor %}
+
+<p class="footer" style="clear: both">
+  <a href="/archives">Archives</a> |
+  <a href="/blogroll">Blogroll</a> |
+  <a href="/atom.xml">RSS</a>
+</p>
