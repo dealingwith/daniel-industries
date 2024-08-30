@@ -9,7 +9,7 @@ categories:
 
 It feels like I should have already heard the David Foster Wallace commencement speech titled _This is Water_.
 
-[It is on YouTube](https://www.youtube.com/watch?v=8CrOL-ydFMI). [It is on Soundcloud](https://soundcloud.com/brainpicker/david-foster-wallace-this-is-water-1). [Its full text is on the internet](https://fs.blog/2012/04/david-foster-wallace-this-is-water/). [It is a book](https://www.amazon.com/gp/product/0316068225/).
+[It is on YouTube](https://www.youtube.com/watch?v=ms2BvRbjOYo). [It is on Soundcloud](https://soundcloud.com/brainpicker/david-foster-wallace-this-is-water-1). [Its full text is on the internet](https://fs.blog/2012/04/david-foster-wallace-this-is-water/). [It is a book](https://www.amazon.com/gp/product/0316068225/).
 
 I had heard of it before but never listened. I heard it mentioned in [a podcast](https://peterattiamd.com/samharris/) that [I recently blogged about]({{site.url}}/2019/01/13/web-log/). I finally [discovered it on Huffduffer](https://huffduffer.com/dealingwith/521075) and threw it into my own custom podcast feed on that very site.
 
