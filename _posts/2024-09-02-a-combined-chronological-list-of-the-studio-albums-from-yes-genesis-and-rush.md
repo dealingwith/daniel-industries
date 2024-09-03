@@ -1,0 +1,61 @@
+---
+layout: post
+title: "A combined chronological list of studio albums from Genesis, Yes, and Rush"
+excerpt: 
+date: 2024-09-02 21:47:37 -0500
+categories: 
+ - music
+---
+
+- **From Genesis to Revelation** - Genesis (1969)
+- **Time and a Word** - Yes (1970)
+- **Trespass** - Genesis (1970)
+- **The Yes Album** - Yes (1971)
+- **Nursery Cryme** - Genesis (1971)
+- **Fragile** - Yes (1971)
+- **Foxtrot** - Genesis (1972)
+- **Close to the Edge** - Yes (1972)
+- **Selling England by the Pound** - Genesis (1973)
+- **Tales from Topographic Oceans** - Yes (1973)
+- **Rush** - Rush (1974)
+- **Relayer** - Yes (1974)
+- **Fly by Night** - Rush (1975)
+- **Caress of Steel** - Rush (1975)
+- **A Trick of the Tail** - Genesis (1976)
+- **2112** - Rush (1976)
+- **Wind & Wuthering** - Genesis (1976)
+- **Going for the One** - Yes (1977)
+- **A Farewell to Kings** - Rush (1977)
+- **Hemispheres** - Rush (1978)
+- **…And Then There Were Three…** - Genesis (1978)
+- **Tormato** - Yes (1978)
+- **Duke** - Genesis (1980)
+- **Permanent Waves** - Rush (1980)
+- **Drama** - Yes (1980)
+- **Moving Pictures** - Rush (1981)
+- **Abacab** - Genesis (1981)
+- **Signals** - Rush (1982)
+- **90125** - Yes (1983)
+- **Genesis** - Genesis (1983)
+- **Grace Under Pressure** - Rush (1984)
+- **Power Windows** - Rush (1985)
+- **Invisible Touch** - Genesis (1986)
+- **Big Generator** - Yes (1987)
+- **Hold Your Fire** - Rush (1987)
+- **Presto** - Rush (1989)
+- **We Can’t Dance** - Genesis (1991)
+- **Roll the Bones** - Rush (1991)
+- **Union** - Yes (1991)
+- **Counterparts** - Rush (1993)
+- **Test for Echo** - Rush (1996)
+- **Talk** - Yes (1994)
+- **Open Your Eyes** - Yes (1997)
+- **The Ladder** - Yes (1999)
+- **Vapor Trails** - Rush (2002)
+- **Magnification** - Yes (2001)
+- **Snakes & Arrows** - Rush (2007)
+- **Fly from Here** - Yes (2011)
+- **Clockwork Angels** - Rush (2012)
+- **Heaven & Earth** - Yes (2014)
+
+"Someday" I'm going to listen to this in order...I should probably add personnel changes to this list.
