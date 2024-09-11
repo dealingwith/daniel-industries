@@ -129,8 +129,18 @@ h6 a {
 .main-content div,
 .main-content iframe,
 .main-content table,
-.main-content hr {
+.main-content hr,
+.main-content aside {
   margin-bottom: 1em;
+}
+
+.main-content aside {
+  background-color: var(--lightgrey);
+  border-radius: 5px;
+  padding: 1em;
+}
+.main-content aside p {
+  margin-bottom: 0;
 }
 
 .main-content hr {
