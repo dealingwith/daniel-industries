@@ -79,9 +79,41 @@ module Jekyll
         category_name = category[0]
         next if (!category_name)
         formatted_category_name = format_category_name(category_name)
-        html << "<div data-numposts=\"#{category[1].size}\" data-category=\"#{format_name_for_url(category_name)}\"><a href=\"##{format_name_for_url(category_name)}\">#{formatted_category_name}</a> (#{category[1].size})</div>"
+        html << "<div data-numposts=\"#{category[1].size}\" data-category=\"#{format_name_for_url(category_name)}\"><a href=\"##{format_name_for_url(category_name)}\" class=\"year_box\">#{formatted_category_name} (#{category[1].size})</a></div>"
       end
       html
+    end
+  end
+
+  class CustomExcerptTag < Liquid::Tag
+    def initialize(tag_name, post, tokens)
+      super
+      @post = post
+    end
+
+    def render(context)
+      post = context[@post]
+
+      stripped_excerpt = post["excerpt"].gsub(/<\/?[^>]*>/, "")
+
+      # if excerpt and stripped_excerpt are the same, it was probably the YAML excerpt which I want to use regardless of length...unless it was an empty string...
+      if stripped_excerpt.length > 0 && post["excerpt"] === stripped_excerpt
+        return post["excerpt"]
+      end
+
+      unless stripped_excerpt && stripped_excerpt.chomp.length > 0
+        stripped_excerpt = post["content"].gsub(/<\/?[^>]*>/, "")
+      end
+
+      max_length = 200
+      if stripped_excerpt.length > max_length
+        truncated_excerpt = stripped_excerpt[0...max_length]
+        truncated_excerpt = truncated_excerpt.rpartition(/(?<=[.!?:])\s/).first
+      else
+        truncated_excerpt = stripped_excerpt
+      end
+      truncated_excerpt = truncated_excerpt.chomp().sub(/[.!?:"\s]+$/, "")
+      "#{truncated_excerpt}..."
     end
   end
 end
@@ -89,3 +121,4 @@ end
 Liquid::Template.register_filter(Jekyll::Backlinks)
 Liquid::Template.register_tag("category_list", Jekyll::CategoryListTag)
 Liquid::Template.register_tag("category_toc", Jekyll::CategoryListTOCTag)
+Liquid::Template.register_tag("custom_excerpt", Jekyll::CustomExcerptTag)

@@ -71,8 +71,10 @@
       {% assign count = count | plus: 1 %}
       {% endif %}
       {% endfor %}
-      <a href="#y-{{ year }}" style="font-weight: bold">{{ year }}</a> ({{ count }}) ...
+      <a href="#y-{{ year }}" class="year_box"><span style="font-weight: bold">{{ year }}</span>
+        ({{ count }})</a>
       {% endfor %}
+      <div style="clear:both"></div>
     </div>
     {% endunless %}
     <div class="archivecontainer">

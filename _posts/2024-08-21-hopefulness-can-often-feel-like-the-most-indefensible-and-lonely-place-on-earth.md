@@ -77,7 +77,7 @@ The last bullet of my inventory simply says
 
 ---
 
-Maintaining hope is important enough to me to get [a major heading in my values document](https://github.com/dealingwith/values/blob/main/values.md#hope-and-abundance), but it's a feeling that has been in scarce supply. I feel lonely and disconnected. When we were young, even our bad art and bad ideas gained purchase, before we were all really busy, before new art and new ideas streamed by us in a never-ending feed, then gone if we so much pause to make a trip to the bathroom.
+Maintaining hope is important enough to me to get [a major heading in my values document](https://github.com/dealingwith/values/blob/main/values.md#hope-and-abundance), but it's a feeling that has been in scarce supply. I feel lonely and disconnected. When we were young, even our bad art and bad ideas gained purchase, before we were all really busy, before new art and new ideas streamed by us in a never-ending feed, then gone if we so much as pause to make a trip to the bathroom.
 
 Nick Cave recently wrote in [a different Red Hand Files issue](https://www.theredhandfiles.com/thoughts-about-loneliness/):
 

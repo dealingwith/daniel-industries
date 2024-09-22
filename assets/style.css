@@ -268,6 +268,7 @@ pre {
 .small {
   color: var(--grey);
   font-size: 0.9em;
+  line-height: 1.4em;
 }
 
 .postscript,
@@ -365,12 +366,13 @@ pre {
 
 .footer {
   font-family: var(--sans);
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-align: right;
 }
 .blog_nav,
 .post-footer {
   border-top: 1px solid var(--grey);
+  font-size: 0.95em;
   padding-top: 1rem;
 }
 .blog_nav {
@@ -498,4 +500,16 @@ summary::after {
 }
 details summary {
   color: var(--green);
+}
+
+/* for archive and cat index */
+.year_box {
+  background-color: var(--lightgrey);
+  border: 1px solid var(--pink);
+  border-radius: 5px;
+  display: block;
+  float: left;
+  margin: 4px;
+  padding: 0 4px;
+  text-decoration: none;
 }

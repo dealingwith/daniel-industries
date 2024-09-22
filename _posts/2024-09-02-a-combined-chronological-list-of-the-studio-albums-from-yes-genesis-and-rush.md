@@ -7,6 +7,8 @@ categories:
  - music
 ---
 
+I got curious, so asked Microsoft Copilot for this list, and am adding it here for archival purposes. Fortunately, an astute reader noticed an omission, which has since been corrected.
+
 1. **From Genesis to Revelation** - Genesis (1969)
 1. **Time and a Word** - Yes (1970)
 1. **Trespass** - Genesis (1970)
