@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-12-21 00:50:00'
 layout: post
 slug: merry-christmas-from-chunky-pam
-status: publish
 title: Merry Christmas from Chunky Pam
-wordpress_id: '2889'
 categories:
  - christmas
  - video

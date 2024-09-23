@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-12-17 17:50:00'
 layout: post
 slug: dear-sons-and-daughters-of-hungry-ghosts
-status: publish
 title: Dear Sons and Daughters of Hungry Ghosts
-wordpress_id: '2884'
 categories:
  - mourning
 ---

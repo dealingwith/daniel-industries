@@ -3,7 +3,7 @@ def titleize(string)
 
   array = string.split(" ").map do |word|
     if (word != word.upcase && (word == string.split(" ").first || !nocap.include?(word)))
-      word.capitalize
+      word.sub(/\S/, &:upcase)
     else
       word
     end

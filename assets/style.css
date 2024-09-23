@@ -252,7 +252,7 @@ div.small_img img {
 }
 
 pre,
-code {
+code:not(pre code) {
   background-color: var(--lightgrey);
   border-radius: 5px;
   font-size: 0.85em;
@@ -263,6 +263,7 @@ pre {
   border-radius: 5px;
   margin-bottom: 1em;
   overflow: auto;
+  padding: 0.5em;
 }
 
 .small {

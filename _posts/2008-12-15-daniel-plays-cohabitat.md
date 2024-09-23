@@ -1,11 +1,9 @@
 ---
-author: dealingwith
 date: '2008-12-15 16:07:00'
 layout: post
 slug: daniel-plays-cohabitat
-status: publish
 title: Daniel plays Cohabitat
-wordpress_id: '2880'
+excerpt: "A photo from my gig at Cohabitat on 12/12/2008"
 categories:
  - elsewhere
  - imagining
@@ -14,18 +12,4 @@ categories:
  - music
 ---
 
-[![][1]][2]
-
-[Daniel plays Cohabitat][3]
-
-Originally uploaded by [carissabyers][4]
-
-
-   [1]: http://farm4.static.flickr.com/3162/3109302545_487cbef886_m.jpg
-
-   [2]: http://www.flickr.com/photos/carissabyers/3109302545/ (photo sharing)
-
-   [3]: http://www.flickr.com/photos/carissabyers/3109302545/
-
-   [4]: http://www.flickr.com/people/carissabyers/
-
+![](/assets/2008/12/3109302545_67ab8ea650_k.jpg)
