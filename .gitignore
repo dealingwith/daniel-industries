@@ -60,6 +60,7 @@ build-iPhoneSimulator/
 public/mcu-12-16
 public/lucys-server
 public/mcu-server
+public/audio
 
 Rakefile
 

@@ -9,4 +9,4 @@ categories:
 
 > For me the festering issue is how our collective imaginary has been captured by a small group of techno-capitalists. We yearn for driverless cars, yet fail to imagine what a world without cars might look like. We starve our artists while we build machines to create art.  
 
--- [Daniel Angus](https://twitter.com/antmandan/status/1536277795432984581)
+-- Daniel Angus on Twitter (now dead link)

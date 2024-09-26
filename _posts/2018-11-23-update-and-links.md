@@ -35,7 +35,7 @@ I fell off the reading and meditation train when I got sick and I'm trying to ge
 
 ### Everyone talks a good game about working smarter not harder...
 
-[Putting A Dent In The Universe](https://medium.com/ideo-stories/putting-a-dent-in-the-universe-steve-jobs-creativity-and-death-d0a5b0755ece)
+<a class="dead">Putting A Dent In The Universe</a>
 
 > Like Obi Wan, Jesus, and Elvis, Steve Jobs has become even more powerful after his death. Now, instead of being a complicated and flawed human being, he is an icon of entrepreneurial drive. Managers are channeling Jobs, demanding impossible acts of will power from their employees. Meanwhile, investors worry about the epidemic of “founderitis,” a disease that causes start-up founders to believe too strongly in their own intuition and ignore input from others.
 

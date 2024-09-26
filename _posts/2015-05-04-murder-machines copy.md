@@ -2,8 +2,8 @@
 layout: post
 title: "Murder Machines"
 date: 2015-05-04 23:54:41 -0500
-comments: true
-categories: thoughts
+categories: 
+ - cars
 ---
 
 > By the end of the 1920s, more than 200,000 Americans had been killed by automobiles. Most of these fatalities were pedestrians in cities, and the majority of these were children. “If a kid is hit in a street in 2014, I think our first reaction would be to ask, ‘What parent is so neglectful that they let their child play in the street?,’” says Norton.
