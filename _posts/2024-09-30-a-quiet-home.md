@@ -8,11 +8,16 @@ categories:
  - indieweb
 ---
 
+![](/assets/2024/09/537051ldsdl.jpg)
+
+<p class="caption"><em>Huts on a mountain pasture</em> by
+Franz Steinfeld (Austrian, 1787 - 1868) via <a href="https://artvee.com/dl/huts-on-a-mountain-pasture/">artvee</a></p>
+
 Via Robin Rendle's post _[Coming home](https://robinrendle.com/notes/coming-home/)_...
 
 > Websites have always been tiny mutinies, perfectly designed for rebellion!
 
-[Yes, yes they have](/2016/09/05/rebels/ "Rebels: Episode 1")...
+Yes, [yes they have](/2016/09/05/rebels/ "Rebels: Episode 1")...
 
 ...I then read Mandy Brown's excellent _[Coming home](https://aworkinglibrary.com/writing/coming-home)_, and I must start with the same quote Robin included in his post:
 
@@ -56,7 +61,13 @@ Then, the conclusion that brings us full circle:
 > 
 > Such a transformation of the environment from a commons to a productive resource constitutes the most fundamental form of environmental degradation. This degradation has a long history, which coincides with the history of capitalism but can in no way just be reduced to it.
 
-Websites aren't just rebellions, they are tiny anarchies.
+Websites aren't just tiny mutinies, they are tiny functional anarchies.
+
+---
+
+![](/assets/2024/09/959rgd.jpg)
+
+<p class="caption">After publishing this post, I thought about Monty Python. There are too many Illich quotes appropriate for this meme, but I picked one. Originally posted <a href="https://indieweb.social/@dealingwith/113232800154680879">here</a>.</p>
 
 [^1]: "...so much of [the Fediverse] is also unsettlingly familiar—the same small boxes, the same few buttons, the same mechanics of following and being followed. The same babbling, tumbling, rushing stream of thoughts. I can’t tell if we’re stuck with this design because it’s familiar, or if it’s familiar because we’re stuck. Very likely it’s me that’s stuck, fixed in place while everything rushes around me, hoping for a gap, a break, a warm rock to rest awhile on. Longing for a mode of communication that lifts me up instead of wiping me out...every time I so much as glance at anything shaped like a social feed, my brain smoothes out, the web of connections and ideas I’m weaving is washed away, and I tumble downstream, only to have to pick myself up and trudge heavily through the mud back to where I belong." [#](https://aworkinglibrary.com/writing/coming-home)
 
