@@ -5,6 +5,7 @@ excerpt: "Or the road crews, just standing there, staring at you as you drove by
 date: 2022-07-26 07:34:32 -0500
 categories: 
  - fiction
+ - 100 200-word character sketches
 ---
 
 ![](/assets/2022/07/4653655654_db3660740b_o.jpg)
@@ -19,4 +20,4 @@ Later you would hear groaning through your noise-canceling headphones. The heat 
 
 ---
 
-Photo: [CAUTION ZOMBIES AHEAD!! by R on Flickr](https://www.flickr.com/photos/miserlou/4653655654)
+[Photo by Miserlou Behind The Aperture on Flickr](https://www.flickr.com/photos/miserlou/4653655654)

@@ -5,6 +5,7 @@ excerpt: "She saw it in the eyes of every visitor, those dead, no-substance gaze
 date: 2023-01-15 12:34:03 -0600
 categories:
  - fiction
+ - 100 200-word character sketches
 ---
 
 ![](/assets/2023/01/52598113908_06a6ec5217_c.jpg)

@@ -6,6 +6,7 @@ date: 2023-09-19 07:53:02 -0500
 categories: 
  - fiction
  - cars
+ - 100 200-word character sketches
 ---
 
 He could see the jaws of life peeking in through the crumpled seam of the door. His eyes played tricks on him, and the little metal pincers appeared to be changing shape, moving globules like mercury. He knew that wasn't happening---that they were solid steel---but that's what he saw. He heard the whirr of the pneumatics as the jaws tried to open. Then they melted onto the floor and a tunnel of black zoomed down onto them, a growing vignette that terminated at the jaws' flaccid palpi and then transformed into total blackness.

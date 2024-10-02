@@ -6,6 +6,7 @@ date: 2024-01-05 17:58:05 -0600
 categories: 
  - fiction
  - hakim bey
+ - 100 200-word character sketches
 ---
 
 "*These storms are too strong on the sea of my winter*,"[^1] she said.

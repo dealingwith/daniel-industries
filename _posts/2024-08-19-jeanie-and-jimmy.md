@@ -5,12 +5,7 @@ excerpt:
 date: 2024-08-19 18:38:07 -0500
 categories: 
  - fiction
----
-
-<p class="small" markdown="1">
-  This is an older (2021) piece I started but never finished. It started as part of a series I was working on called _100 200-word character sketches_, on a private writing site. Each character was one of those sketches, and then I had them go on a date. I stumbled upon it today and to be honest I'm not sure why I'm posting it now. Mostly because I can't tell if it actually might be done or not.
-</p>
-
+ - 100 200-word character sketches
 ---
 
 The social brand management agency had a catchy name displayed on a neon sign facing the door out to the coworking space. Some of it had stopped working so now it said "L ass". Nobody dared make fun of it. Baron had bought the sign just last year. Baron was the owner of the agency and lacked a sense of humor when it had anything to do with him or anything associated with him. He drove a red Mercedes Benz. He blared rap music as he sped into the parking lot and always backed into his parking space.
@@ -102,3 +97,9 @@ He walked over to a table a few feet away and proceeded to place a few drops of 
 "Is there real shit in that stuff?" Jeanie asked.
 
 "No."
+
+---
+
+<p class="small" markdown="1">
+  This is an older (2021) piece I started but never finished. It started as part of a series I was working on called _100 200-word character sketches_, on a private writing site. Each character was one of those sketches, and then I had them go on a date. I stumbled upon it today and to be honest I'm not sure why I'm posting it now. Mostly because I can't tell if it actually might be done or not.
+</p>
