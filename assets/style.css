@@ -241,22 +241,24 @@ img {
   content: "↜ ";
   font-size: 1.4em;
 }
-div.small_img {
-  align-content: center;
-  text-align: center;
-}
-div.small_img img {
-  border-radius: 5px;
-  margin: 0 auto;
-  max-width: 50%;
+@media screen and (min-width: 700px) {
+  div.small_img {
+    align-content: center;
+    text-align: center;
+  }
+  div.small_img img {
+    border-radius: 5px;
+    margin: 0 auto;
+    max-width: 50%;
+  }
 }
 
 pre,
 code:not(pre code) {
   background-color: var(--lightgrey);
   border-radius: 5px;
-  font-size: 0.85em;
-  font-weight: 500;
+  font-size: 0.9em;
+  /* font-weight: 600; */
   padding: 2px 4px;
 }
 pre {

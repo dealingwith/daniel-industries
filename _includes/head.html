@@ -5,24 +5,24 @@
 
   {% assign hero_image = page.content | match_regex: '<img .*?src="([^" ]+)"' %}
   {% if hero_image == nil %}
-    {% assign hero_image = "/assets/page/DSC_4899-copy.jpg" %}
+  {% assign hero_image = "/assets/page/DSC_4899-copy.jpg" %}
   {% endif %}
   {% assign hero_image = hero_image | prepend: site.url %}
   {% capture title %}
-    {% if page.title %}
-      {{ page.title }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}
+  {% if page.title %}
+  {{ page.title }}
+  {% else %}
+  {{ site.title }}
+  {% endif %}
   {% endcapture %}
   {% assign stripped_excerpt = page.excerpt | strip_html %}
   {% assign stripped_excerpt_length = stripped_excerpt | number_of_words %}
   {% capture meta_description %}
-    {% if stripped_excerpt_length > 0 %}
-      {{ stripped_excerpt }}
-    {% else %}
-      {{ site.tagline }}
-    {% endif %}
+  {% if stripped_excerpt_length > 0 %}
+  {{ stripped_excerpt }}
+  {% else %}
+  {{ site.tagline }}
+  {% endif %}
   {% endcapture %}
   <title>{{ title }}</title>
   <meta name="description" content="{{ meta_description | strip }}">
@@ -30,22 +30,13 @@
   <meta property="og:description" content="{{ meta_description | strip }}" />
   <meta property="og:image" content="{{ hero_image }}" />
   <link rel="icon" href="/public/stones.png">
+  <meta name="fediverse:creator" content="@dealingwith@indieweb.social" />
   <link href="/assets/reset.css" rel="stylesheet">
   <link href="/assets/style.css" rel="stylesheet">
   <link href="/assets/code.css" rel="stylesheet">
-  <link
-    rel="stylesheet"
-    media="(prefers-color-scheme: dark)"
-    href="/assets/code-dark.css">
-  <link
-    rel="alternate"
-    type="application/rss+xml"
-    title="RSS Feed for daniel.industries"
-    href="/atom.xml" />
-  <script
-    data-goatcounter="https://daniel-industries.goatcounter.com/count"
-    async
-    src="//gc.zgo.at/count.js"></script>
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/assets/code-dark.css">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for daniel.industries" href="/atom.xml" />
+  <script data-goatcounter="https://daniel-industries.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   <script>
     /*to prevent Firefox FOUC, this must be here*/
     let FF_FOUC_FIX;
