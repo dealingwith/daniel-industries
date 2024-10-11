@@ -7,7 +7,9 @@
   {% if hero_image == nil %}
   {% assign hero_image = "/assets/page/DSC_4899-copy.jpg" %}
   {% endif %}
+  {% unless hero_image contains site.url %}
   {% assign hero_image = hero_image | prepend: site.url %}
+  {% endunless %}
   {% capture title %}
   {% if page.title %}
   {{ page.title }}
