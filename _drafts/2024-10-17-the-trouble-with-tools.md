@@ -2,7 +2,7 @@
 layout: post
 title: "The trouble with tools"
 excerpt: 
-date: 2024-10-09 09:10:09 -0500
+date: 2024-10-17 09:10:09 -0500
 categories: 
  - thoughts
  - software
@@ -61,9 +61,9 @@ There is some annoyance at switching between apps, and there is some data loss, 
 
 ### Projects have tasks
 
-Notion's flexibility is a double-edged sword, but also the reason I've stuck with it for so long despite its horrible performance both in a browser and on a mobile device.
+Notion's flexibility is a double-edged sword, but also the reason I've used with it for so long despite its horrible performance both in a browser and on a mobile device.
 
-I've long stuck with the [single tasks DB](https://www.notion.vip/insights/golden-rules-of-notion) method. Notion provides _many_ ways to slice and dice a database:
+I utilize the [single tasks DB](https://www.notion.vip/insights/golden-rules-of-notion) method. Notion provides _many_ ways to slice and dice a database:
 
 - Views based on filters and sorts, which can also selectively show or hide specific columns. I have 24 views on my Tasks DB. Some get frequent use, some not. They are added-to and culled and modified regularly.
 
@@ -75,7 +75,7 @@ I've long stuck with the [single tasks DB](https://www.notion.vip/insights/golde
 
 ![](/assets/2024/10/db-views.png)
 
-The existence of a search box in this box indicates that I'm not the only one...{% endcapture %}{% capture summary %}Yes, 24 views{% endcapture %}{% include _details.html %}</aside>
+The existence of a search feature in this box indicates that I'm not the only one...{% endcapture %}{% capture summary %}Yes, 24 views{% endcapture %}{% include _details.html %}</aside>
 
 - I use subtasks, typically to roll up to a project-level "task", which is not ideal. But I recently attempted to use a separate "projects" DB with a relation column and that did not work for me.
 - When a project swells beyond a task row in my Tasks DB and subtasks, I find giving it a top-level page works best. I still need its tasks in my single tasks DB, though, so I will create yet another view of that DB in the project's page.
@@ -88,11 +88,17 @@ The existence of a search box in this box indicates that I'm not the only one...
 This will also break down, however. Sometimes I _don't_ want those tasks in my Tasks DB, so it gets its own DB, often forgotten about. Or it is a software project hosted on GitHub, in which case I will primarily use GitHub issues and Pull Requests, which I can then sync to a Notion DB, even though the latter has little utility at that point.
 </aside>
 
+<div markdown="1" class="small_img">
+![](/assets/2024/10/yak.png)
+<p class="caption">This is what I thought of after re-reading that last section. I stare at that thing and think, "I can shave it!"</p>
+</div>
+
+
 This already sounds like a mess, and it is, but it's not so terrible I can't just fix it within the existing tool in question, or simply keep to some reliable system. The problem I struggle with is twofold.
 
 ### Tasks can spawn from anywhere
 
-1. While taking notes on my computer (Logseq). Logseq has a TODO block type, which is great. Maybe too great. I will be journaling in the morning and want to quickly capture tasks as they come to mind. I also know I will be spending the _most_ time in Logseq, so I trust them to stay in front of me, _but only for today_.
+1. While taking notes on my computer (Logseq). Logseq has a TODO block type, which is great. Maybe too great. I will be journaling in the morning and want to quickly capture tasks as they come to mind. I also know I will be spending the _most_ time in Logseq, so I trust them to stay in front of me, _but only for today_. I do have a tasks query open in the right sidebar 90% of the time, but that's just a reverse-chronological list of tasks. They fall below the fold and aren't prioritized.
 1. While away from my computer (Notion widget). Notion's Android widget is a great way to capture something into my Tasks DB. I almost never open the Notion app itself on my phone because it is awful. So the task goes into my "Inbox" view (no "status"), which might mean it sits dormant for anywhere between a day and forever.
 1. While away from my computer but taking notes on paper. I love using paper notebooks for the usual reasons, primarily because they are _not screens_. But there's no paper system that could properly manage my tasks. Just as with Logseq, I either get them into my Notion DB or they disappear into the past. Sometimes that's fine, but when it's not...
 
@@ -110,6 +116,14 @@ For various reasons, this method stopped working as well for me.
 1. Only works on my computer, not mobile without additional work
 1. Notion's flexibility meant that if I tweaked anything in Notion, I probably had to go fix something in my script
 
+The focused day view was still the dream, plus an easy way to capture. I tried a _Today_ view of my DB but that didn't quite do it. I already have multiple _"Focus"_ views! The dream of paper, or at least something _way_ more simple than Notion, remained.
+
+The paper planner community/market is massive and daunting. I have--wait for it--a Notion DB that is just links to various products and systems. There is an entire company in South Korea that sells PDFs for digital planners (almost always tablets). But I found that, for me, a tablet is no good (mostly due to its similarity to an actual computer, but also I just don't want another electronic device in my life) and printing every day is too much hassle. (Although I have come close to buying a tiny printer on a number of occasions.)
+
 <div markdown="1" class="small_img">
 ![](/assets/2024/10/tft4.png)
 </div>
+
+---
+
+While still working on the draft of this post (for over a week now, in mostly fits and some starts), I listened to _[The Vergecast: What's in a productivity system?](https://deepcast.fm/episode/whats-in-a-productivity-system)_, confirming what I already knew: that productivity systems are incredibly varied and specific each person, and that while many of us hope to find the one system to rule them all, we all fail. And we change things up frequently. It's a great listen if you're also a productivity tools geek.
