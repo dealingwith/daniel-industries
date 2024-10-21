@@ -127,3 +127,9 @@ The paper planner community/market is massive and daunting. I have--wait for it-
 ---
 
 While still working on the draft of this post (for over a week now, in mostly fits and some starts), I listened to _[The Vergecast: What's in a productivity system?](https://deepcast.fm/episode/whats-in-a-productivity-system)_, confirming what I already knew: that productivity systems are incredibly varied and specific each person, and that while many of us hope to find the one system to rule them all, we all fail. And we change things up frequently. It's a great listen if you're also a productivity tools geek.
+
+---
+
+[Is this... a $500 Notion theme? 😂 : r/Notion](https://www.reddit.com/r/Notion/comments/1g6dd31/is_this_a_500_notion_theme/)
+
+![](/assets/2024/10/reddit-screenshot.png)

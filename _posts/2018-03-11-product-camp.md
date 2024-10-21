@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Product Camp"
-excerpt: "Yesterday I participated in Product Camp Dallas"
+title: "ProductCamp"
+excerpt: "Yesterday I participated in ProductCamp Dallas"
 date: 2018-03-11 14:01:23 -0500
-comments: true
 categories: 
+ - product
+ - software
 ---
 
-Yesterday I participated in [Product Camp Dallas](http://productcampdallas.org/), an unconference for product people.
+Yesterday I participated in [ProductCamp Dallas](http://productcampdallas.org/), an unconference for product people.
 
 ![]({{site.url}}/assets/2018/03/product-camp.jpg)
 
-Product Camp was adroitly led by a product manager at Modern Message, [Adam Rose](http://www.adamrose.org).
+ProductCamp was adroitly led by a product manager at Modern Message, [Adam Rose](http://www.adamrose.org).
 
 I presented on "Design Sprints, but with Middle Schoolers". Apparently, I did a bad job pitching my idea. Only 4 people showed up for my talk. I hope I wasn't added to the schedule just because of my connections.
 
