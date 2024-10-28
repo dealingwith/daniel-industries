@@ -31,5 +31,3 @@ But lately I have felt like I'm getting closer to this content-but-improving way
 --- 
 
 This was originally going to be one post, but as it became longer and longer I decided to break it up. Hopefully I continue with the rest of it. Next up: Industry.
-
----
