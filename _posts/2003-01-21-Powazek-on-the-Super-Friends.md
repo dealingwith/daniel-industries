@@ -5,9 +5,7 @@ categories:
  - comment
 ---
 
-
 [Design for Community](https://www.oreilly.com/library/view/design-for-community/0735710759/)
-
 
 > The web was revolutionary (and still is) because it does one thing that no other media has been able to do, ever. The web grows communities, almost without trying, because the web is the only media that allows its users to communicate with each other directly, publicly, and instantly.
 

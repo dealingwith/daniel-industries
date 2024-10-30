@@ -4,6 +4,8 @@ title: "Cutler on High WIP Loops"
 excerpt: 
 date: 2021-07-20 10:39:24 GMT-5
 categories: 
+ - elsewhere
+ - product
 ---
 
 > ...there's not just one group that's necessarily a part of this. Every group is seeing these symptoms and actually doing the best they can in their local environment to try to fix it. But their efforts often make the problem worse. You know, this is especially this idea of...hiring coordinators to manage dependencies. 

@@ -6,6 +6,7 @@ date: 2024-03-17 21:42:48 -0500
 categories: 
  - technology
  - software
+ - linux
 ---
 
 ## The setup

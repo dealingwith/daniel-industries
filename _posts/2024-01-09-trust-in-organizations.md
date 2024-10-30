@@ -4,6 +4,8 @@ title: "Trust in Organizations"
 excerpt: 
 date: 2024-01-09 22:38:29 -0600
 categories: 
+ - elsewhere
+ - product
 ---
 
 [The Beautiful Mess 265: Rebuilding Trust and Breaking Free From Trust Proxies and The Swirl](https://readwise.io/reader/shared/01hkjshmwn2yyjbe85ze04071v/)

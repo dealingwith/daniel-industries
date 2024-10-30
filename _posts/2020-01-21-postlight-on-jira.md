@@ -3,8 +3,9 @@ layout: post
 title: "Postlight on Jira"
 excerpt: "Everybody suddenly became Enterprise one day"
 date: 2020-01-21 19:20:28 -0600
-comments: true
 categories: 
+ - elsewhere
+ - product
 ---
 
 >RZ: You don’t wanna discourage--like people feeling really productive around a new thing, you don’t wanna be like, “What are you doin’ with one more tool?” Jira showed up on the scene about 60 days ago here. 60-90 days ago. We had kinda been shunning it for--

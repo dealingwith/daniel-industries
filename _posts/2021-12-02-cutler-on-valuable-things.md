@@ -4,6 +4,8 @@ title: "Cutler on Valuable Things"
 excerpt: 
 date: 2021-12-02 23:13:27 -0600
 categories: 
+ - elsewhere
+ - product
 ---
 
 [Your Calendar = Your Priorities](https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities). Unclear title, great post...

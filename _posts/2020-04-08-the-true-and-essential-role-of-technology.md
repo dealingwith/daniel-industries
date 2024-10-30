@@ -4,6 +4,8 @@ title: "The true and essential role of technology"
 excerpt: "More great stuff from Marty Cagan"
 date: 2020-04-08 23:21:52 -0500
 categories: 
+ - elsewhere
+ - product
 ---
 
 It should be no secret that I'm a big Marty Cagan fan, although I might not have mentioned him much on this blog. I'm forever dropping links to his talks, articles, and tweets into our work chat. Here's another one.

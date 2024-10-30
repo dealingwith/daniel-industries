@@ -4,6 +4,8 @@ title: "40 Years In Tech"
 excerpt: 
 date: 2021-08-18 06:38:14 GMT-5
 categories: 
+ - elsewhere
+ - product
 ---
 
 [Silicon Valley Product Group -- 40 Years In Tech](https://svpg.com/40-years-in-tech/)

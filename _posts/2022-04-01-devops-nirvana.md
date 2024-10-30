@@ -4,6 +4,8 @@ title: "DevOps Nirvana"
 excerpt: 
 date: 2022-04-01 21:16:14 -0500
 categories: 
+ - software
+ - development
 ---
 
 From _[The DevOps Handbook](https://itrevolution.com/the-devops-handbook/)_

@@ -4,6 +4,9 @@ title: "Salesforce's Slack: Quintessential Enshittification"
 excerpt: "Slack's arc, starting out as a darling, then getting bought by a large corporation, losing against an inferior competitor, and finally morphing into an example of product design gone wrong, is simply a textbook example of what happens to our software over time and under the influence of large piles of cash."
 date: 2023-12-30 08:46:17 -0600
 categories: 
+ - product
+ - software
+ - ux
 ---
 
 Much has been said about Slack's redesign from earlier this year. "[The Enshittification of Basically all Digital Design. But in this Case, Specifically, the Slack Redesign](https://www.flagsmith.com/blog/the-enshittification-of-basically-all-digital-design-slack-redesign)", for example, even uses the same [noun](https://en.wikipedia.org/wiki/Enshittification "Enshittification - Wikipedia") I chose for my title.

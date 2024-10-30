@@ -24,13 +24,18 @@ If you are looking for somewhere to start, try these:
 
 ### On building software
 
+- [ProductCamp 2024](/2024/10/20/productcamp-2024/) (2024)
 - [The Defining Trait of a Senior Software Engineer](/2022/12/08/the-defining-trait-of-a-senior-software-engineer/) (2022)
+- [Henry Gantt](/2022/09/13/henry-gantt/) (2022)
 - [Just Start Any Way You Want to](/2021/02/18/just-start-any-way-you-want-to/) (2021)
 - [In Defense of the Backlog](/2021/01/26/in-defense-of-the-backlog/) (2021)
 - [The Goldilocks Principle of Startup Engineering](/2020/08/28/the-goldilocks-principle-of-startup-engineering/) (2020)
 - [Time to Think](/2020/10/28/time-to-think/) (2020)
+- [ProductCamp](/2018/03/11/product-camp/) (2018)
 - [The Three Paths](/2017/04/22/the-three-paths/) (2017)
+- [On Humility in Product Development](/2016/02/29/on-humility-in-product-development/) (2016)
 - [Life Is Too Short to Make Shitty Software](/2011/03/15/life-is-too-short-to-make-shitty-software/) (2011)
+
 
 ### On the Internet and culture
 

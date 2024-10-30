@@ -7,6 +7,7 @@ categories:
  - elsewhere
  - quotable
  - software
+ - product
 ---
 
 The curiously prosaically-titled [Chorus: The Modern Media Stack](https://motd.co/2023/07/rip-chorus/) is full of poignant observations and thoughts about the creation of software products. (See [Vox Media drops its own CMS](https://www.axios.com/2023/07/18/vox-media-chorus) for context.)

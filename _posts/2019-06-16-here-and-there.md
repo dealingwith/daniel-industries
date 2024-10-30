@@ -3,8 +3,9 @@ layout: post
 title: "Here and there"
 excerpt: "From my life and the Internet"
 date: 2019-06-16 17:56:01 -0500
-comments: true
 categories: 
+ - minutia
+ - elsewhere
 ---
 
 **Rode my bike this weekend**
@@ -47,7 +48,7 @@ The alternative-to-booze products mentioned in the article seem like nonsense to
 
 ---
 
->Leaning in to pain can be powerful if you have the agency and ability to change it, or practice it to mastery, or even just adapt your own emotional responses to it.  If you don’t or you can’t, leaning in to pain will kill you.  Having the wisdom to know the difference is everything.
+> Leaning in to pain can be powerful if you have the agency and ability to change it, or practice it to mastery, or even just adapt your own emotional responses to it.  If you don’t or you can’t, leaning in to pain will kill you.  Having the wisdom to know the difference is everything.
 
 [On pain, careers, and doing things the hard way.](https://charity.wtf/2019/04/30/on-pain-careers-and-doing-things-the-hard-way/)
 

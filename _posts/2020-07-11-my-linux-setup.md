@@ -4,6 +4,8 @@ title: "My Linux Setup"
 excerpt: "About I month ago I switched from Mac to Linux"
 date: 2020-07-11 20:29:08 -0500
 categories: 
+ - linux
+ - meta
 ---
 
 ![]({{site.url}}/assets/2020/07/neofetch.png)

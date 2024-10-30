@@ -4,6 +4,7 @@ title: "Linux Setup Update"
 excerpt: "I just know I'm going to come back here when I need to remember this stuff"
 date: 2020-08-06 08:42:54 -0500
 categories: 
+ - linux
 ---
 
 ...thanks for humoring me...

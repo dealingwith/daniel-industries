@@ -4,6 +4,7 @@ title: "What to do if Ubuntu cannot see partitions due to the SSD being in RAID 
 excerpt: 
 date: 2020-03-13 06:03:49 -0500
 categories: 
+ - linux
 ---
 
 I bought a lower-end Lenovo gaming laptop about a year ago for both myself and my kids play games on, and to play around with Linux on.

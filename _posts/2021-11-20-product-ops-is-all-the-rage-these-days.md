@@ -4,6 +4,8 @@ title: "Product Ops is All the Rage These Days"
 excerpt: 
 date: 2021-11-20 11:30:51 -0600
 categories: 
+ - elsewhere
+ - product
 ---
 
 It's no secret, based on the number of times I quote them on this blog or reference them in professional conversations, that Marty Cagan and John Cutler are my two favorite product thinkers today. [I already posted]({{site.url}}/2021/10/28/process-people/) about Cagan's hot take on product ops, and [he's posted a follow up](https://svpg.com/process-people-continued/) already. Now I've found Cutler talking about it in [his most recent newsletter](https://cutlefish.substack.com/p/tbm-4752-operations-and-productops):

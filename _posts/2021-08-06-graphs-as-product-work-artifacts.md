@@ -4,6 +4,7 @@ title: "Graphs as product work artifacts"
 excerpt: 
 date: 2021-08-06 03:35:04 GMT-5
 categories: 
+ - product
 ---
 
 We use [Roam](https://roamresearch.com/) extensively at [work](https://egghead.io) and I just spent a few minutes exploring its graph view for the first time.

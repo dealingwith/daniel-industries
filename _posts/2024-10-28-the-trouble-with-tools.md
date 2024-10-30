@@ -2,7 +2,7 @@
 layout: post
 title: "The trouble with tools"
 excerpt: 
-date: 2024-10-17 09:10:09 -0500
+date: 2024-10-28 09:10:09 -0500
 categories: 
  - thoughts
  - software
@@ -49,7 +49,7 @@ Let's start with the overlap that I find less problematic. My note-taking app co
 - Another random note but it might relate to #Project
 ```
 
-Per above, however, I manage projects in Notion. Projects in Notion are typically a database view or a specific database. Sometimes they are Notion pages which contain multitudes (text, more pages, databases). I'll just include a link to the topmost Notion page on the Logseq page for that project.
+Per above, however, I manage projects in Notion. Projects in Notion are typically a database view or a specific database. Sometimes they are Notion pages that contain multitudes (text, more pages, databases). I'll just include a link to the topmost Notion page on the Logseq page for that project.
 
 ```
 Project page
@@ -61,11 +61,11 @@ There is some annoyance at switching between apps, and there is some data loss, 
 
 ### Projects have tasks
 
-Notion's flexibility is a double-edged sword, but also the reason I've used with it for so long despite its horrible performance both in a browser and on a mobile device.
+Notion's flexibility is a double-edged sword, but also the reason I've used it for so long despite its horrible performance both in a browser and on a mobile device.
 
 I utilize the [single tasks DB](https://www.notion.vip/insights/golden-rules-of-notion) method. Notion provides _many_ ways to slice and dice a database:
 
-- Views based on filters and sorts, which can also selectively show or hide specific columns. I have 24 views on my Tasks DB. Some get frequent use, some not. They are added-to and culled and modified regularly.
+- Views based on filters and sorts, which can also selectively show or hide specific columns. I have 24 views on my Tasks DB. Some get frequent use, some do not. They are added to and culled and modified regularly.
 
 <style>
   .main-content aside.views { padding-bottom: 0; }
@@ -93,14 +93,13 @@ This will also break down, however. Sometimes I _don't_ want those tasks in my T
 <p class="caption">This is what I thought of after re-reading that last section. I stare at that thing and think, "I can shave it!"</p>
 </div>
 
-
 This already sounds like a mess, and it is, but it's not so terrible I can't just fix it within the existing tool in question, or simply keep to some reliable system. The problem I struggle with is twofold.
 
 ### Tasks can spawn from anywhere
 
 1. While taking notes on my computer (Logseq). Logseq has a TODO block type, which is great. Maybe too great. I will be journaling in the morning and want to quickly capture tasks as they come to mind. I also know I will be spending the _most_ time in Logseq, so I trust them to stay in front of me, _but only for today_. I do have a tasks query open in the right sidebar 90% of the time, but that's just a reverse-chronological list of tasks. They fall below the fold and aren't prioritized.
-1. While away from my computer (Notion widget). Notion's Android widget is a great way to capture something into my Tasks DB. I almost never open the Notion app itself on my phone because it is awful. So the task goes into my "Inbox" view (no "status"), which might mean it sits dormant for anywhere between a day and forever.
-1. While away from my computer but taking notes on paper. I love using paper notebooks for the usual reasons, primarily because they are _not screens_. But there's no paper system that could properly manage my tasks. Just as with Logseq, I either get them into my Notion DB or they disappear into the past. Sometimes that's fine, but when it's not...
+1. While away from my computer (Notion widget). Notion's Android widget is a great way to capture something into my Tasks DB. I rarely open the Notion app itself on my phone because it is awful. So the task goes into my "Inbox" view (no "status"), which might mean it sits dormant for anywhere between a day and forever.
+1. While away from my computer but taking notes on paper. I love using paper notebooks for the usual reasons, primarily because they are _not screens_. But no paper system could properly manage my tasks. Just as with Logseq, I either get them into my Notion DB or they disappear into the past. Sometimes that's fine, but when it's not...
 
 ### Task lists become overwhelming
 
@@ -118,18 +117,31 @@ For various reasons, this method stopped working as well for me.
 
 The focused day view was still the dream, plus an easy way to capture. I tried a _Today_ view of my DB but that didn't quite do it. I already have multiple _"Focus"_ views! The dream of paper, or at least something _way_ more simple than Notion, remained.
 
-The paper planner community/market is massive and daunting. I have--wait for it--a Notion DB that is just links to various products and systems. There is an entire company in South Korea that sells PDFs for digital planners (almost always tablets). But I found that, for me, a tablet is no good (mostly due to its similarity to an actual computer, but also I just don't want another electronic device in my life) and printing every day is too much hassle. (Although I have come close to buying a tiny printer on a number of occasions.)
+The paper planner community/market is massive and daunting. I have--wait for it--a Notion DB that is just links to various products and systems. There is an entire company in South Korea that sells PDFs for digital planners (almost always tablets). But I found that, for me, a tablet is no good (mostly due to its similarity to an actual computer, but also I just don't want another electronic device in my life) and printing every day is too much hassle. (Although I have come close to buying a tiny printer on several occasions.)
 
 <div markdown="1" class="small_img">
 ![](/assets/2024/10/tft4.png)
+<p class="caption">I spend an inordinate amount of time gathering tasks from various places, prioritizing them, and putting them into a central place where I won't get distracted.</p>
 </div>
 
----
+### Aside
 
-While still working on the draft of this post (for over a week now, in mostly fits and some starts), I listened to _[The Vergecast: What's in a productivity system?](https://deepcast.fm/episode/whats-in-a-productivity-system)_, confirming what I already knew: that productivity systems are incredibly varied and specific each person, and that while many of us hope to find the one system to rule them all, we all fail. And we change things up frequently. It's a great listen if you're also a productivity tools geek.
+While still working on the draft of this post, I listened to _[The Vergecast: What's in a productivity system?](https://deepcast.fm/episode/whats-in-a-productivity-system)_, confirming what I already knew: that productivity systems are incredibly varied and specific to each person and that while many of us hope to find the one system to rule them all, we all fail. And we change things up frequently. It's a great listen if you're also a productivity tools geek.
 
----
+### In non-conclusion 
 
-[Is this... a $500 Notion theme? 😂 : r/Notion](https://www.reddit.com/r/Notion/comments/1g6dd31/is_this_a_500_notion_theme/)
+I've been sitting on the draft of this post for almost a month now, so I'm determined to wrap it up even though I do not know how I might do so. These are age-old problems of knowledge work, there are thousands of tools and thousands of people writing about this topic full-time.
+
+My conclusion from all this thinking out loud is:
+
+- I need a robust (complex) tool for the task of processing incoming information and tasks, revisiting that information, and prioritizing.
+- I need a simple tool for a focused view of what needs my attention _right now_, and a capture method for new information and tasks that doesn't expose me to the complex tool's deep well of information and infinite field of nubbins.
+- If either is not 99% perfect for my brain, I will want to solve for that 1%
+
+_and yes, I've tried time-blocking_
+
+### Postscript
+
+r/Notion: [Is this... a $500 Notion theme? 😂](https://www.reddit.com/r/Notion/comments/1g6dd31/is_this_a_500_notion_theme/)
 
 ![](/assets/2024/10/reddit-screenshot.png)

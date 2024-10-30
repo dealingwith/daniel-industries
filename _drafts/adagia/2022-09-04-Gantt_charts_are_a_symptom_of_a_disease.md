@@ -3,11 +3,13 @@ layout: post
 title: Gantt charts are a symptom of a disease
 date: 2022-09-04 15:07:07
 categories:
+ - elsewhere
+ - product
 ---
 
-_Test-driving this one here before I try to finish it and put it on my blog.
+_Test-driving this one here before I try to finish it and put it on my blog._
 
----_
+---
 
 [Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) charts are a symptom of a disease. They're like an alcoholic's first DUI. But if you're a startup with a product/engineering team of 5, they're like an alcoholic's first DUI at 16.
 

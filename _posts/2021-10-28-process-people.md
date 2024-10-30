@@ -4,6 +4,8 @@ title: "Process People"
 excerpt: 
 date: 2021-10-28 23:30:58 -0500
 categories: 
+ - elsewhere
+ - product
 ---
 
 [Process People](https://svpg.com/process-people/):
