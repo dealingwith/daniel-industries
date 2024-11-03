@@ -15,7 +15,7 @@ Clip:
   <source src="/assets/2024/11/rotl_0556.mp3" type="audio/mpeg">
 </audio>
 
-> I have anxiety as sometimes I have depression, and I said to my family---you can't have this conversation with people---I said to them, it was during the hurricane and I was having a tough time thinking about about all the places I love and people I love in Florida and I was like, "Just so you guys know...I'm just having a a little bit of depression right now, I think it's situational, it's not going to be a big deal, it'll go away." ...and when you say you have a little anxiety what do people say? [In a voice] "What are you anxious about?"
+> I have anxiety and sometimes I have depression, and I said to my family---you can't have this conversation with people---I said to them, it was during the hurricane and I was having a tough time thinking about about all the places I love and people I love in Florida and I was like, "Just so you guys know...I'm just having a a little bit of depression right now, I think it's situational, it's not going to be a big deal, it'll go away." ...and when you say you have a little anxiety what do people say? [In a voice] "What are you anxious about?"
 > 
 > And there's only one answer ever to that question.
 > 
