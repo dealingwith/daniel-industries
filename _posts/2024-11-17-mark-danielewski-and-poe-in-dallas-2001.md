@@ -15,3 +15,15 @@ categories:
 ...
 
 > Jessup also got to ask the last question, which involved Nietzsche and the heady observation that Danielewski and POE are "clearly both profound spirits." "I would say that Nietzsche was a great trickster," Danielewski said, after his sister had responded. "Because the fact is that everyone is a profound spirit and we all have masks. The question is just to see your mask clearly."
+
+---
+
+![](/assets/2024/11/books_inperson-10820.jpeg)
+
+> Mark Danielewski and POE with Fretz Park Branch manager David Darnell (Photo By Jan Gifford)
+
+This photo is incredible, and I need to know who took it, who still has the original. A search for "Jan Gifford Dallas" only turned up one woman who died in 2020. That could be her, I don't know. Maybe a friend of the librarian. "Jan Gifford Austin" did not turn up any different results.
+
+---
+
+Found while cleaning up [this very old post](/2003/12/04/in-winamp/), into which I have added one of the photos I was able to find via the Wayback Machine, which I am willing to bet is from the above appearance.

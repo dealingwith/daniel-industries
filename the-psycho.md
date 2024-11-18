@@ -4,7 +4,7 @@ title: "The Psycho"
 date: 2024-11-17 11:33
 ---
 
-[archive.org](https://web.archive.org/web/20081014224539/http://www.realpoe.com/gallery/ramblings/thepsycho.htm)
+mirrored from [archive.org](https://web.archive.org/web/20081014224539/http://www.realpoe.com/gallery/ramblings/thepsycho.htm)
 
 CAPTAINS LOG # 6919811914:
 **THE PSYCHO**
