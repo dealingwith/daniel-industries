@@ -71,7 +71,7 @@ If you are looking for somewhere to start, try these:
 
 <details>
   <summary style="cursor: pointer;">
-    Historical "About" posts ↴
+    Historical "About" posts
   </summary>
   <div markdown="1">
   - [About (2009)](/2009/10/26/about/)  

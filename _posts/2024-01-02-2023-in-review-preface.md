@@ -10,7 +10,7 @@ categories:
 
 <details>
   <summary style="cursor: pointer;">
-    Just for fun, previous editions ↴
+    Just for fun, previous editions
   </summary>
   <div markdown="1">
   - [2022](/2023/01/22/2022-in-review/ "2022 in Review")

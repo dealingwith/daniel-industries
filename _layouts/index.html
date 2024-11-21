@@ -1,26 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
+  {% include head.html %}
 
-<body class="index">
-  <style>
-    img {
-      max-width: 150px;
-      float: right;
-      border-radius: 75px;
-      border: 2px solid #eee;
-    }
-  </style>
-  {% include menu.html %}
+  <body class="index">
+    <style>
+      img {
+        max-width: 150px;
+        float: right;
+        border-radius: 75px;
+        border: 2px solid #eee;
+      }
+    </style>
+    {% include menu.html %}
 
-  <div class="main-content">
-    <h1>Product-focused technology leader</h1>
-
-    {% capture my_include %}{% include_relative about_content.md %}{% endcapture %}
-
-    {{ my_include | markdownify }}
-  </div>
-
-</body>
+  </body>
 
 </html>
