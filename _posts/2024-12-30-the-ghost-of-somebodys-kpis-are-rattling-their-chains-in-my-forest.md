@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "the ghost of somebody’s KPIs are rattling their chains in my forest"
-excerpt: 
+excerpt: "I'm a sucker for a nerd with a grandiloquent poetic prose pen, but what's the point?"
 date: 2024-12-30 22:59:26 -0600
 categories: 
+ - elsewhere
+ - web
+ - social software
 ---
 
 [against the dark forest](https://www.wrecka.ge/against-the-dark-forest/)
@@ -62,4 +65,4 @@ Or maybe, someday far in the future, after I'm gone, it looks something like thi
 
 [^1]: Part of getting an account involved writing an answer to a simple question---an exceedingly simple ask, but one that manages to prevent potential abusers from getting access. As such, I enjoy infrequent spam, he keeps the block list up to date and doesn't hesitate in banning bad actors.
 
-[^2]: I am *literally* the only green bubble in her messages. She's not going to divorce me over it, but should she find a better reason to, the green bubble thing could push her over the edge. (I'm not even going to mention my absolutely *exasperated* 12-year-old daughter, for whom my green bubbles are a deep shame.)
+[^2]: I am *literally* the only green bubble in her messages. She's not going to divorce me over it, but should she find a better reason to, the green bubble thing could push her over the edge. (I'm not even going to mention my absolutely *exasperated* 13-year-old daughter, for whom my green bubbles are a deep shame.)
