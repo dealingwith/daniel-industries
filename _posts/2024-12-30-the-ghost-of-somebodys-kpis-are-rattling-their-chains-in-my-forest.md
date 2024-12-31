@@ -25,7 +25,7 @@ categories:
 ![](/assets/2024/12/zach-lezniewicz-dBoCCcPC5w8-unsplash.jpg)
 <p class="caption">Photo by <a href="https://unsplash.com/@zachlez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zach Lezniewicz</a> on <a href="https://unsplash.com/photos/grayscale-photography-of-tree-slab-dBoCCcPC5w8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
 
-I've read this essay twice now, extracting the above quotes and many more --- I removed large swathes of my highlights from this post as a matter of decency, meaning: you must go read the entire post (and pray it does not linkrot, as ironic as that would be for a piece with an organic metaphor at its core). 🌳
+I've read this essay twice now, extracting the above quotes and many more---I removed large swathes of my highlights from this post as a matter of decency, meaning: you must go read the entire post (and pray it does not linkrot, as ironic as that would be for a piece with an organic metaphor at its core). 🌳
 
 My very first thought after my first reading was, "This is amazing *writing* (even apart from the message)." I am not sure a more eloquent takedown of Mastodon reply-guys could be penned now that we have: "...people doing galaxy-brain bad-faith readings of other people’s banal posts for the juice..." ...and there are a number of other poetic descriptions of our state of online affairs peppered throughout. 🌶️
 
@@ -60,6 +60,6 @@ Or maybe, someday far in the future, after I'm gone, it looks something like thi
 ![](/assets/2024/12/john-thomas-1Mi-2k6DLhI-unsplash.jpg)
 <p class="caption">Photo by <a href="https://unsplash.com/@capturelight?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">John Thomas</a> on <a href="https://unsplash.com/photos/brown-tree-trunk-surrounded-by-green-plants-1Mi-2k6DLhI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
 
-[^1]: Part of getting an account involved writing an answer to a simple question---an exceedingly simple ask, but one that manages to prevent potential abusers from getting access. As such, I enjoy infrequent spam or abusive posts, as he keeps the block list up to date and doesn't hesitate in banning bad actors. For the rest, I also do not hesitate to block. I'm of a privileged race, gender, and sexual orientation, so I'm already almost immune to this kind of bullshit, but I'd like to think that any server managed with that same level of conscientiousness would provide a reasonably safe space for anyone to engage with this type of network.
+[^1]: Part of getting an account involved writing an answer to a simple question---an exceedingly simple ask, but one that manages to prevent potential abusers from getting access. As such, I enjoy infrequent spam, he keeps the block list up to date and doesn't hesitate in banning bad actors.
 
 [^2]: I am *literally* the only green bubble in her messages. She's not going to divorce me over it, but should she find a better reason to, the green bubble thing could push her over the edge. (I'm not even going to mention my absolutely *exasperated* 12-year-old daughter, for whom my green bubbles are a deep shame.)

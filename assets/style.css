@@ -7,7 +7,7 @@
   --header: "Aleo", serif;
   --lightgreen: #7b8545;
   --lightgrey: #eeeeee;
-  --my-gradient: linear-gradient(to bottom, #fff, #f8f8f8);
+  --my-gradient: linear-gradient(to bottom, #fff, #f2f7ed);
   --pink: #ffd5dc;
   --sans: sans-serif;
   --serif: serif;
@@ -21,25 +21,28 @@
     --grey: #bdbdbd;
     --lightgreen: #d5d9bc;
     --lightgrey: #484848;
-    --my-gradient: linear-gradient(to bottom, #2e2e2e, #262626);
+    --my-gradient: linear-gradient(to bottom, #373737, #000000);
     --text: #fcf7ed;
   }
 }
 
+html,
+body {
+  font-size: 1.05rem;
+}
 body {
   /* background-color: var(--bg); */
   /* background: rgb(255, 255, 255); */
   background: var(--my-gradient);
   color: var(--text);
   font-family: var(--sans);
-  font-size: 1em;
-  line-height: 1.5em;
-  min-height: 98vh;
+  line-height: 1.5rem;
+  /* min-height: 98vh; */
 }
 
 @media screen and (max-width: 700px) {
   body {
-    font-size: 19px;
+    /* font-size: 19px; */
   }
 }
 
@@ -263,28 +266,25 @@ code:not(pre code) {
 }
 pre {
   border-radius: 5px;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
   overflow: auto;
-  padding: 0.5em;
+  padding: 0.5rem;
 }
 
 .small {
   color: var(--grey);
-  font-size: 0.9em;
-  line-height: 1.4em;
+  font-size: 0.9rem;
+  line-height: 1.4rem;
 }
 
 .postscript,
 .footnotes {
   border-top: 1px solid var(--grey);
-  /* color: var(--grey); */
+  font-size: 0.9rem;
 }
 .postscript {
   padding-top: 1rem;
 }
-/* .postscript a, .footnotes a {
-  color: var(--grey);
-} */
 
 .container {
   display: flex;
@@ -369,13 +369,13 @@ pre {
 
 .footer {
   font-family: var(--sans);
-  font-size: 1rem;
+  font-size: 0.9rem;
   text-align: right;
 }
 .blog_nav,
 .post-footer {
   border-top: 1px solid var(--grey);
-  font-size: 0.95em;
+  font-size: 1rem;
   padding-top: 1rem;
 }
 .blog_nav {
@@ -387,12 +387,12 @@ pre {
 .blog_nav li {
   list-style: none;
 }
-.blog_nav p,
+/* .blog_nav p,
 .blog_nav li {
   font-family: var(--sans);
   font-size: 0.9em;
   line-height: 1.4rem;
-}
+} */
 .blog_nav p {
   margin: 0;
   width: 50%;
@@ -435,13 +435,14 @@ pre.highlight {
 }
 
 sup {
+  font-size: 0.8rem;
   vertical-align: top;
 }
 sup a:before {
-  content: "[";
+  content: "(#";
 }
 sup a:after {
-  content: "]";
+  content: ")";
 }
 sup a {
   text-decoration: none;
