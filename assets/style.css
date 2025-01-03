@@ -1,13 +1,13 @@
 @import url(https://fonts.bunny.net/css?family=aleo:400,400i,700,700i);
 
 :root {
-  --bg: #fff;
+  --bg: #f7f7f7;
   --green: #404c00;
   --grey: #555555;
   --header: "Aleo", serif;
   --lightgreen: #7b8545;
   --lightgrey: #eeeeee;
-  --my-gradient: linear-gradient(to bottom, #fff, #f2f7ed);
+  --my-gradient: linear-gradient(to bottom, #f7f7f7, #f2f7ed);
   --pink: #ffd5dc;
   --sans: sans-serif;
   --serif: serif;
@@ -32,7 +32,7 @@ body {
   line-height: 1.5rem;
 }
 body {
-  background: var(--my-gradient);
+  background: var(--bg);
   color: var(--text);
   font-family: var(--sans);
 }

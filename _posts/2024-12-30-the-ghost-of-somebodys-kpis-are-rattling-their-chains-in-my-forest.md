@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the ghost of somebody’s KPIs are rattling their chains in my forest"
+title: "the ghost of somebody's KPIs are rattling their chains in my forest"
 excerpt: "I'm a sucker for a nerd with a grandiloquent poetic prose pen, but what's the point?"
 date: 2024-12-30 22:59:26 -0600
 categories: 
