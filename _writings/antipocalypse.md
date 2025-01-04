@@ -2,7 +2,7 @@
 title: The Antipocalypse
 category: Fiction
 layout: writing-page
-pubdate: "2010"
+pubdate: "2008"
 excerpt: "Post-apocalyptic? It's been so anti-climactic, though. What happened to the skies on fire, dragons, and white horses? So the average temperature has gone up 30 degrees. I wanted the fire and brimstone falling from the sky, not creeping up at me from the equator."
 ---
 
