@@ -28,7 +28,7 @@
 
 html,
 body {
-  font-size: 1.05rem;
+  font-size: 1rem;
   line-height: 1.5rem;
 }
 body {
@@ -500,4 +500,8 @@ details summary {
   margin: 4px;
   padding: 0 4px;
   text-decoration: none;
+}
+
+video {
+  margin-bottom: 1rem;
 }
