@@ -12,7 +12,7 @@ categories:
 * I'm curious why riding my bike in the morning is a big energy booster the majority of the time, but over time loses it's power and actually becomes a negative. This would normally be an obvious case of "over training", but my bike riding these days can hardly be considered training. In fact, I ride shorter and slower _specifically for the energy boost_. My level of "training" should be sustainable indefinitely. 
 * Sleep deprivation is certainly a thing. I typically get six hours of sleep--midnight to six am. This is not enough for my body, obviously, because I tend to crash hard on weekend. 
   * Typical schedule:
-    * 6 am: Wakeup
+    * 6 am: Wake up
     * 6:30: On bike. If no bike ride, usually sat at my computer during this time doing low-key work and planning my day
     * 8: Shower and eat
     * 9: Work

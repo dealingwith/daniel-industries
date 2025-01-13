@@ -99,7 +99,7 @@ This already sounds like a mess, and it is, but it's not so terrible I can't jus
 
 1. While taking notes on my computer (Logseq). Logseq has a TODO block type, which is great. Maybe too great. I will be journaling in the morning and want to quickly capture tasks as they come to mind. I also know I will be spending the _most_ time in Logseq, so I trust them to stay in front of me, _but only for today_. I do have a tasks query open in the right sidebar 90% of the time, but that's just a reverse-chronological list of tasks. They fall below the fold and aren't prioritized.
 1. While away from my computer (Notion widget). Notion's Android widget is a great way to capture something into my Tasks DB. I rarely open the Notion app itself on my phone because it is awful. So the task goes into my "Inbox" view (no "status"), which might mean it sits dormant for anywhere between a day and forever.
-1. While away from my computer but taking notes on paper. I love using paper notebooks for the usual reasons, primarily because they are _not screens_. But no paper system could properly manage my tasks. Just as with Logseq, I either get them into my Notion DB or they disappear into the past. Sometimes that's fine, but when it's not...
+1. While away from my computer but taking notes on paper. I love using paper notebooks for all of the usual reasons, but primarily because they are _not screens_. But no paper system could properly manage my tasks. Just as with Logseq, I either get them into my Notion DB or they disappear into the past. Sometimes that's fine, but when it's not...
 
 ### Task lists become overwhelming
 
