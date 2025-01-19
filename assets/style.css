@@ -12,6 +12,7 @@
   --sans: sans-serif;
   --serif: serif;
   --text: #040404;
+  --highlight: var(--lightgreen);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,6 +24,7 @@
     --lightgrey: #484848;
     --my-gradient: linear-gradient(to bottom, #373737, #000000);
     --text: #fcf7ed;
+    --highlight: var(--pink);
   }
 }
 
@@ -59,7 +61,7 @@ h6 {
 
 h1 {
   font-size: 2.1rem;
-  border-bottom: 3px solid var(--pink);
+  border-bottom: 3px solid var(--highlight);
 }
 h2 {
   font-size: 1.5rem;
@@ -149,8 +151,17 @@ h6 a {
 
 hr {
   border: 0;
-  border-top: 1px dashed var(--green);
+  border-top: 1px solid var(--green);
   width: 80%;
+}
+.main-content hr.alt {
+  margin: 1rem 0;
+  border-top: 1px dotted var(--highlight);
+  text-align: left;
+  width: 40%;
+}
+hr.alt::before {
+  /* content: "🖊️"; */
 }
 
 ul,

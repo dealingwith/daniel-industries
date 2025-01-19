@@ -3,13 +3,14 @@ layout: post
 title: "we should oftener look over the tafferel of our craft"
 excerpt: 
 date: 2019-06-15 06:44:00 -0500
-comments: true
 categories: 
+ - quotable
+ - Thoreau
 ---
 
->To the sick the doctors wisely recommend a change of air and scenery. Thank Heaven, here is not all the world...
+> To the sick the doctors wisely recommend a change of air and scenery. Thank Heaven, here is not all the world...
 
->...we should oftener look over the tafferel of our craft, like curious passengers, and not make the voyage like stupid sailors picking oakum...Our voyaging is only great-circle sailing, and the doctors prescribe for diseases of the skin merely.
+> ...we should oftener look over the tafferel of our craft, like curious passengers, and not make the voyage like stupid sailors picking oakum...Our voyaging is only great-circle sailing, and the doctors prescribe for diseases of the skin merely.
 
 _Henry David Thoreau, **Walden**_
 
