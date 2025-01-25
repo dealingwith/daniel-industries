@@ -3,8 +3,10 @@ layout: post
 title: "Rebels: Episode 2"
 excerpt: '"Never tell me the odds!"'
 date: 2016-09-05 19:31:39 -0500
-comments: true
 categories: 
+ - indieweb
+ - web
+ - social software
 ---
 
 _What to do if you would like to join the fight for a better internet_

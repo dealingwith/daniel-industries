@@ -7,6 +7,7 @@ categories:
  - elsewhere
  - web
  - social software
+ - indieweb
 ---
 
 [against the dark forest](https://www.wrecka.ge/against-the-dark-forest/)

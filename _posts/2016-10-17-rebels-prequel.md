@@ -3,8 +3,10 @@ layout: post
 title: "Rebels: Prequel"
 excerpt: "Desperate is often the opposite of open: it's when we're in trouble that we're most likely to compromise on our principles."
 date: 2016-10-17 20:24:44 -0500
-comments: true
 categories: 
+ - indieweb
+ - web
+ - social software
 ---
 
 ![]({{site.url}}/assets/2016/10/cory.jpg)
