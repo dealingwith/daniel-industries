@@ -7,6 +7,7 @@ categories:
  - elsewhere
  - art
  - social software
+ - ai
 ---
 
 📽️ [The Vergecast: Searching for the first great AI app](https://youtu.be/Yuijsqcytf4?si=lIbFLmdOrN7wFSa1&t=4578) (link to timestamp)
