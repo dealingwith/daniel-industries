@@ -9,7 +9,7 @@ categories:
  - web
 ---
 
-[ This is what you're nostalgic for](https://thehistoryoftheweb.com/postscript/this-is-what-youre-nostalgic-for/)
+[This is what you're nostalgic for](https://thehistoryoftheweb.com/postscript/this-is-what-youre-nostalgic-for/)
 
 > ...And now, almost 20 years later, it is hard to recapture that feeling again. That feeling of the first website. And whenever I try to satiate that feeling I end up not reaching back for the web of 2004, but five, ten, fifteen years before that. I yearn to join a web that I had never known. A web that most people had never known. But in our crowded, privacy-invading, closed modern web, it's a feeling shared by a lot of people.
 
