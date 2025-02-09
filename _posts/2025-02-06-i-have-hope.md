@@ -8,9 +8,9 @@ categories:
 
 I do not know how or why it arrived. Obviously everything is terrible. Here are some hypotheses, in order of my confidence in their likelihood as an over/under percentage:
 
-💊 I took my vitamins. I often take my vitamins. 1%
+💊 I took my vitamins. But I often take my vitamins. 1%
 
-💊 I specifically took my magnesium. I ran out and missed a few days, then started back up on my nightly regimen. But only a few days. 3%
+💊 I specifically took my magnesium. I had run out and missed a few days, then started back up on my nightly regimen. 3%
 
 🚴 I rode my bicycle. I hadn't ridden much because of the very cold weather here. But I had ridden some, and I wasn't enjoying it. Then, suddenly, I was again. 5%
 
@@ -30,9 +30,11 @@ This had additional unexpected side-effects. I compared myself less to other peo
 
 I don't know if I agree with his final conclusion, that optimism is a choice. Becoming an alcoholic is the combination of thousands of choices, and eventually getting sober stops being a choice. 60%
 
-⛪ I realized, not for the first time but with more clarity, that American Christianity is unconcerned with actually being Christlike. All the contradictions and hypocrisy has bothered me for so long, but it just stopped bothering me. A simple comparison of the lives of the first Christians and modern "Christians" in America reveals two different religious practices, ethical frameworks, and theologies plainly distant from one another.
+🎈 I decided that while I do not believe in a "God of coincidences", I like to look for opportunities to practice _divine nonchalance_. I first learned of this idea the first time I watched [The Institute](https://en.wikipedia.org/wiki/The_Institute_(2013_film)) many years ago. Based on my recent searches, it has been adopted mostly by new-age types or mentioned in press about [Dispatches from Elsewhere](https://en.wikipedia.org/wiki/Dispatches_from_Elsewhere), the fictional adaptation of the events described in The Institute. "Divine nonchalance refers to a state of relaxed confidence and trust in the universe, allowing one to let go of worries and embrace life with a childlike wonder. It encourages living in the moment and accepting outcomes without excessive attachment or anxiety," says an AI summary in my search results. That works. _Accepting outcomes._ I once heard someone in an AA meeting say, "I got out of the outcomes business," and I thought I was on board, but I didn't really _feel_ any different. Something about hitting bottom, realizing I was powerless, and the sense that the end of the world as we know it was coming and I felt fine. 65%
 
-🎈 I decided that while I do not believe in a "God of coincidences", I like to look for _divine nonchalance_. I first learned of this idea the first time I watched [The Institute](https://en.wikipedia.org/wiki/The_Institute_(2013_film)) many years ago. Based on my recent searches, it has been adopted mostly by new-age types or mentioned in press about [Dispatches from Elsewhere](https://en.wikipedia.org/wiki/Dispatches_from_Elsewhere), the fictional adaptation of the events described in The Institute. "Divine nonchalance refers to a state of relaxed confidence and trust in the universe, allowing one to let go of worries and embrace life with a childlike wonder. It encourages living in the moment and accepting outcomes without excessive attachment or anxiety," says an AI summary in my search results. That works. _Accepting outcomes._ I once heard someone in an AA meeting say, "I got out of the outcomes business," and I thought I was on board, but I didn't really _feel_ any different. Something about hitting bottom, realizing I was powerless, and the sense that the end of the world as we know it was coming and I felt fine. 65%
+---
+
+Here are some cool things I've found that have helped me stay optimistic.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2892884359/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1427001625/transparent=true/" seamless><a href="https://padraigotuama.bandcamp.com/album/sorry-for-your-troubles">Sorry for your troubles by Pádraig Ó Tuama</a></iframe>
 
