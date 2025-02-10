@@ -6,6 +6,8 @@ date: 2025-02-06 08:01:19 -0600
 categories: 
 ---
 
+![If the situation was hopeless, their propaganda would be unnecessary](/assets/2025/02/2c8abc22fee03b85.jpg "If the situation was hopeless, their propaganda would be unnecessary")
+
 I do not know how or why it arrived. Obviously everything is terrible. But I have a hypotheses about what happened.
 
 ## What it was like
