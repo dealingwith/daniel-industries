@@ -30,7 +30,7 @@ categories:
 - Finish kitting up
   - Windproof socks on
   - Shoes on
-  - Realize I'm missing one toe warmer. Consider going without, but Carissa is up an pouring her own coffee, so I ask her to look if I'd dropped it between the stairs and the back door. She ends up going all the way upstairs for it. Grateful again.
+  - Realize I'm missing one toe warmer. Consider going without, but Carissa is up and pouring her own coffee, so I ask her to look if I'd dropped it between the stairs and the back door. She ends up going all the way upstairs for it. Grateful again.
   - Toe warmers on
   - Jacket on
   - Merino cap on
