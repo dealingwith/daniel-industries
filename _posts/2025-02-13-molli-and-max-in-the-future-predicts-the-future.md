@@ -6,6 +6,11 @@ date: 2025-02-13 09:19:58 -0600
 categories: 
 ---
 
+![](/assets/2025/02/LBOX_MADDY_V001.jpg)
+
+I randomly started watching _[Molli and Max in the Future](https://en.wikipedia.org/wiki/Molli_and_Max_in_the_Future)_ on the bald logistics baron's video streaming service. It took three nights to find the time to finish it, but I really enjoyed it. It's hard to describe. It is a cyberpunk sci-fi version of _When Harry Met Sally_. There's a scene, which had to be written years ago, that is scary prophetic:
+
+<pre style="text-wrap:auto;text-align:center">
 HOST:
 The winner and new ruler of the galaxy is Turboschmuck!
 
@@ -69,10 +74,8 @@ CASSIE:
 Wait, you guys. Wait, wait, wait. I got it. There's a post. There's a post that's going around right now, and if we all repost it right now, we're gonna be able to make a huge difference and stop all these terrible things from happening, okay? I'm sending it to you right now.
 
 WALTER:
-There we go. We're fighting back already.  (TAPS ON PHONE)  
-Uh, posted. Viva la resistance!  
-(CHUCKLES)  
-You know?
+There we go. We're fighting back already. (TAPS ON PHONE)  
+Uh, posted. Viva la resistance! (CHUCKLES) You know?
 
 CASSIE:
 Wait. Did you post it?
@@ -102,8 +105,7 @@ CASSIE:
 Look, you have to post an apology post right now. You have to clarify that you love the fish-people. Do that right now.
 
 WALTER:
-(TAPS ON PHONE)  
-I'm sorry, fish-people. Okay.
+(TAPS ON PHONE) I'm sorry, fish-people. Okay.
 
 CASSIE:
 Wait, wait, wait. Hold on. Hold on. Hold on. Hold on. Hold on. Hold on. Hold on. Hold on. Hold on.
@@ -143,3 +145,6 @@ Listen to me. We are not throwing away the cheese!
 
 CASSIE:
 I'm trying to save the world, Walter!
+</pre>
+
+I'm still learning about all of writer/director [Michael Lukk Litwak](https://www.michaellitwak.com).
