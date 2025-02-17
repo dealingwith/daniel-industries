@@ -5,7 +5,7 @@
 
   {% assign hero_image = page.content | match_regex: '<img .*?src="([^" ]+)"' %}
   {% if hero_image == nil %}
-  {% assign hero_image = "/assets/page/DSC_4899-copy.jpg" %}
+  {% assign hero_image = "/assets/page/writing/nicole-elliott-N9De44VszLM-unsplash.png" %}
   {% endif %}
   {% unless hero_image contains site.url %}
   {% assign hero_image = hero_image | prepend: site.url %}
