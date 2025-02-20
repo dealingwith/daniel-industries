@@ -11,6 +11,7 @@ categories:
  - Integration Research
  - local
  - music
+ - immediatism
 ---
 
 [Melodica Festival Self-Indulgent, But Still Positive for Dallas][1], especially the comments [2024 update: comments are gone]. 

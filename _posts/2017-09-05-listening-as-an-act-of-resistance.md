@@ -3,8 +3,8 @@ layout: post
 title: "Listening as an act of resistance"
 excerpt: 
 date: 2017-09-05 21:33:39 -0500
-comments: true
 categories: 
+ - immediatism
 ---
 
 ["Students as Creators" and the Theology of the Attention Economy](https://hapgood.us/2017/09/05/students-as-creators-and-the-capitalist-impulse/)
