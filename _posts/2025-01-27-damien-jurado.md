@@ -15,4 +15,4 @@ When the genteel masses aren't using their cathedrals to assuage their barely-au
 
 I've spent many hours this last week with his latest release [Motorcycle Madness ('25)](https://damienjurado.bandcamp.com/album/motorcycle-madness-25), and his 2021 record [The Monster Who Hated Pennsylvania](https://damienjurado.bandcamp.com/album/the-monster-who-hated-pennsylvania-3), specifically the tracks [Joseph Billy Gwin ('25)](https://damienjurado.bandcamp.com/track/joseph-billy-gwin-25) and [Johnny Caravella](https://damienjurado.bandcamp.com/track/johnny-caravella)[^1] respectively, but I finally clicked on _Live at St. Mark's Cathedral_ because _that cover photograph_ and it has not disappointed.
 
-[^1]: _All is not lost even if you're without a direction /Just stick around till the light pushes into the darkness_
+[^1]: _All is not lost even if you're without a direction / Just stick around till the light pushes into the darkness_
