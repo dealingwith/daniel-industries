@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-03 09:01:00'
 layout: post
 slug: the-increased-micronisation-of-online-personae
-status: publish
 title: the increased micronisation of online personae
-wordpress_id: '2035'
 categories:
  - aesthetics
  - articles
@@ -36,6 +33,6 @@ Online personae and personal representation has been a big part of my work, and 
 
 [^1]: I mentioned to a friend that "I don't mind 'at' twitters when they are to people from MY friends." Meaning, it's the cross-network, "@someone_I_don't_know" messages that are annoying. This could be easily filtered: any @ message to someone not in my friends does not get published to me. Problem solved. Useful user-created feature of Twitter maintained.
 
-[^2]: And I don't mean one's phone beeping all the time...However Twitter introduces the same attention issues as blogs, etc....attention is another big thing
+[^2]: And I don't mean one's phone beeping all the time...However Twitter introduces the same attention issues as blogs, etc....attention is another big thing.
 
 [^3]: Again, need to keep jotting notes down and write something complete for the oft-forthcoming design blog. In fact, this question of subtle vs. brute force applies to a lot of different jurisdictions; surely a philosopher or sociologist has written about this...any suggestions?

@@ -24,8 +24,4 @@ categories:
 
 > ...What must be overcome is not individuality per se, but rather the addiction to bitter loneliness which characterizes consciousness in the 20th century (which is by & large not much more than a re-run of the 19th).
 
-> ...The first & most innocent-seeming obstacle to any Immediatist project will be the "busyness" or "need to make a living" faced by each of its associates.
-
-> ...Yes, perhaps it's true we can't "live" with a job -- although I hope we're grown-up enough to know the difference between _life_ & the accumulation of a bunch of fucking _gadgets_.
-
 [^1]: comfortable and pleasant; cozy.

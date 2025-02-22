@@ -30,7 +30,7 @@
 
 html,
 body {
-  font-size: 1rem;
+  font-size: 1.07rem;
   line-height: 1.5rem;
 }
 body {
@@ -385,6 +385,7 @@ pre {
   display: grid;
   grid-gap: 8px;
   grid-template-columns: repeat(2, 1fr);
+  line-height: 1.3rem;
   margin-bottom: 0 !important;
 }
 .blog_nav li {
@@ -434,10 +435,10 @@ sup {
   vertical-align: top;
 }
 sup a:before {
-  content: "(#";
+  content: "[^";
 }
 sup a:after {
-  content: ")";
+  content: "]";
 }
 sup a {
   text-decoration: none;
