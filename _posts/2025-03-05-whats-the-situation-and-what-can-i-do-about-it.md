@@ -13,6 +13,6 @@ A must read: [Despite the horrors, the laundry must be done; Despite the laundry
 > 1. I remind myself of a few things.
 > 1. I try to approach it with two specific tools in hand... 
 
-It's rare to find such solid advice on the internet. I'll be returning to this post often. I've copied the entire thing to my Logseq notes. It's almost a detailed tenth step[^1]. (I referred to step three [here](/2025/02/06/i-have-hope/#step-3), which can be thought of as the initial big inventory.)
+It's rare to find such solid advice on the internet. I'll be returning to this post often. I've copied the entire thing to my Logseq notes. It's almost a detailed tenth step. (I referred to step three [here](/2025/02/06/i-have-hope/#step-3), which can be thought of as the initial big inventory.)
 
-[^1]: "Continued to take personal inventory and when we were wrong promptly admitted it."
+  *[tenth step]: "Continued to take personal inventory and when we were wrong promptly admitted it."

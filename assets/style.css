@@ -517,3 +517,7 @@ details summary {
 video {
   margin-bottom: 1rem;
 }
+
+abbr {
+  cursor: help;
+}
