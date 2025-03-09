@@ -80,7 +80,12 @@ h6 {
 }
 
 ::selection {
-  background: var(--pink);
+  background: var(--highlight);
+  color: var(--bg);
+  /* border-bottom: 2px;
+  border-style: wavy;
+  border-color: var(--highlight);
+  */
 }
 
 a {
@@ -99,7 +104,7 @@ a.dead {
   color: var(--grey);
   text-decoration-line: underline;
   text-decoration-style: wavy;
-  text-decoration-color: red;
+  text-decoration-color: var(--pink);
 }
 del {
   color: var(--grey);
@@ -429,7 +434,7 @@ pre.highlight {
   border: 1px solid var(--lightgrey);
   box-shadow: inset 0 0 3px var(--lightgrey);
 }
-
+/* 
 sup {
   font-size: 0.8rem;
   vertical-align: top;
@@ -445,6 +450,28 @@ sup a {
 }
 sup a:hover {
   background-color: var(--pink);
+} */
+
+sup {
+  font-size: 0.7em;
+  vertical-align: baseline;
+  position: relative;
+  line-height: 0;
+  top: -0.4em;
+}
+sup a,
+sup a:visited,
+sup a:hover {
+  padding: 0.1em 0.3em;
+  scroll-margin-top: 4em;
+
+  border-radius: 0.25em;
+  background-color: var(--highlight);
+  color: var(--lightgrey);
+  margin-left: 0.25em;
+
+  /* font-weight: bold; */
+  text-decoration: none;
 }
 
 details > summary {
