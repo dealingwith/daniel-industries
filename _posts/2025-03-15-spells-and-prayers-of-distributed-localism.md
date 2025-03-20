@@ -23,7 +23,7 @@ categories:
 > 
 > So, I am planning ahead, contemplating new (old) systems that might be better suited to the media ecology & economy of the 2020s & beyond. No grand launch here — just the quiet ignition, vroom, of a hopeful machine:
 
-[distributed localism](https://blog.ayjay.org/distributed-localism/):
+[Distributed Localism](https://blog.ayjay.org/distributed-localism/):
 
 > What we’re counting on is a “local understanding” that’s shared across great spaces by internet protocols and the mail. Distributed localism.
 > 
