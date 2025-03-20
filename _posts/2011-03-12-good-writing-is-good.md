@@ -2,9 +2,13 @@
 layout: post
 title: "Good Writing is Good"
 date: 2011-03-12 19:22:00 -0600
+excerpt: "...now the Senior Vice President for Bad Decisions at Yahoo had decided to give us a little help"
+categories: 
+ - quotable
+ - elsewhere
 ---
 
-Maciej Ceglowski is one of the proprietors of [Pinboard][1] and also [an amazing writer][2]. His recent [post describing technical aspects of the great exodus from Delicious (to Pinboard)][3] has too many gems to capture them all, but here are a couple in case you need convincing when it comes to reading technical blog posts:
+Maciej Ceglowski is the proprietor of [Pinboard][1] and also [an amazing writer][2]. His recent [post describing technical aspects of the great exodus from Delicious (to Pinboard)][3] has too many gems to capture them all, but here are a couple in case you need convincing when it comes to reading technical blog posts:
 
 > Before this moment, our relationship to Delicious had been that of a tick to an elephant. We were a niche site and in the course of eighteen months had siphoned off about six thousand users from our massive competitor, a pace I was was very happy with and hoped to sustain through 2011. But now the Senior Vice President for Bad Decisions at Yahoo had decided to give us a little help.
 
@@ -30,11 +34,8 @@ That post led me back to [idlewords.com][2] to which I was already [subscribed][
 
    [2]: http://idlewords.com/
 
-   [3]: http://pinboard.in/blog/173/
+   [3]: https://web.archive.org/web/20110312093226/http://pinboard.in/blog/173/
 
    [4]: http://en.wikipedia.org/wiki/RSS
 
    [5]: http://idlewords.com/2005/04/dabblers_and_blowhards.htm
-
-   
-
