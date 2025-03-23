@@ -2,8 +2,9 @@
 layout: post
 title: "It's ok to be sad, part 2"
 date: 2016-02-09 22:38:33 -0600
-comments: true
-categories: its-ok-to-be-sad
+categories:
+ - its-ok-to-be-sad
+ - sad
 ---
 
 ## This one is really obvious

@@ -3,11 +3,14 @@ layout: post
 title: "A few things from around the 'net"
 excerpt: "Starting with sad news from the world of cycling..."
 date: 2017-04-30 23:01:50 -0500
-comments: true
 categories: 
+ - bicycling
+ - elsewhere
+ - sad
+ - design
 ---
 
-Two cyclists were taken from us in the last month: [Michele Scarponi](https://en.wikipedia.org/wiki/Michele_Scarponi) and [Steve Tilford](http://stevetilford.com). Both were men of grace. [Seth Davidson's eulogy](http://stevetilford.com/2017/04/26/steve-tilford-eulogy/) (delivered April 23rd at the Celebration of Steve Tilford's Life in Lawrence, Kansas) is well worth the read.
+Two cyclists were taken from us in the last month: [Michele Scarponi](https://en.wikipedia.org/wiki/Michele_Scarponi) and [Steve Tilford](http://stevetilford.com). Both were men of grace. [Seth Davidson's eulogy](https://web.archive.org/web/20170502104314/http://stevetilford.com/2017/04/26/steve-tilford-eulogy/) (delivered April 23rd at the Celebration of Steve Tilford's Life in Lawrence, Kansas) is well worth the read.
 
 > Steve said: I don't regret not bringing a time trial bike to the race. For one, I don't have a time trial bike.
 
@@ -21,9 +24,9 @@ Two cyclists were taken from us in the last month: [Michele Scarponi](https://en
 
 ---
 
-As is [Seth's blog](https://pvcycling.wordpress.com/) (this is simply from his most recent post, not about Steve Tilford).
+As is <a class="dead">Seth's blog</a> (this is simply from his most recent post, not about Steve Tilford).
 
-> Then I heard through Facebook that he was done with cycling. Not "fuck it I'm done" but something far more final: He saw that there's more to life, this brief arrangement of atoms, than shoving your nose against the stem and riding in the gutter every weekend with the taste of puke in your mouth. There's more to life than being exhausted by noon every holiday and coming home to collapse in a wet puddle of leg migraines. [#](https://pvcycling.wordpress.com/2017/04/30/downward-facing-dogging-off-into-the-sunset/)
+> Then I heard through Facebook that he was done with cycling. Not "fuck it I'm done" but something far more final: He saw that there's more to life, this brief arrangement of atoms, than shoving your nose against the stem and riding in the gutter every weekend with the taste of puke in your mouth. There's more to life than being exhausted by noon every holiday and coming home to collapse in a wet puddle of leg migraines.
 
 ---
 

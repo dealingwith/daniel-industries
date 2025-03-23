@@ -3,7 +3,9 @@ layout: post
 title: "It's ok to be sad, Part 6: postlude"
 excerpt: 
 date: 2022-01-15 18:24:16 -0600
-categories: its-ok-to-be-sad
+categories: 
+ - its-ok-to-be-sad
+ - sad
 ---
 
 How about returning to a series of posts I left behind in [2016](https://www.daniel.industries/2016/03/13/when-it-is-not-ok/)? (Yes, this is because I was contemplating my extensive blog [backlog]({{site.url}}/2021/01/26/in-defense-of-the-backlog/).) ([Part 1]({{site.url}}/2016/02/03/its-ok-to-be-sad-on-the-legitimacy-of-unhappiness/), [Part 2]({{site.url}}/2016/02/09/its-ok-to-be-sad-part-2/), [Part 3]({{site.url}}/2016/02/17/joy-and-sorrow/), [Part 4]({{site.url}}/2016/03/10/on-actual-depression/), [Part 5]({{site.url}}/2016/03/13/when-it-is-not-ok/).)

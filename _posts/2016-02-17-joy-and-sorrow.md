@@ -2,11 +2,13 @@
 layout: post
 title: "It's ok to be sad, part 3"
 date: 2016-02-17 23:42:27 -0600
-comments: true
-categories: its-ok-to-be-sad
+categories: 
+ - its-ok-to-be-sad
+ - sad
 ---
 
 ## On Joy and Sorrow
+
 <span class="small italic">Kahlil Gibran</span>
 
 Your joy is your sorrow unmasked.  
