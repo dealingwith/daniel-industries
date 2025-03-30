@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Beautiful fidelities"
-excerpt: 
+excerpt: You are in service to the world as it presents itself.
 date: 2025-03-30 08:55:56 -0500
 categories: 
+ - faithy
+ - elsewhere
 ---
 
 [Nick Cave -- The Red Hand Files Issue #318](https://www.theredhandfiles.com/balance-creative-family/)
@@ -22,10 +24,10 @@ I capture this mostly for myself, to revisit as needed.
 **You are in service to the world as it presents itself.**
 </aside>
 
-Just yesterday I was thinking to myself: I am constantly having to get into acceptance about the fact that I traded my hobbies for children. This was in a moment when I thought about my guitar, not in the context of using it to create anything, which I haven't done in over a decade, but just to pick it up at all. I thought about the fact that I basically have time for work, family, and just enough exercise to not completely wither away. I realized I was lucky that my son has taken to cycling, so I get to indulge in a thing that gives me joy, some exercise, and spend time with him all at the same time.
+Just yesterday I was thinking to myself that I am constantly having to get into acceptance about the fact that I traded my hobbies for children. This was in a moment when I thought about my guitar, not in the context of using it to create anything, which I haven't done in over a decade, but to just pick it up at all. I thought about the fact that I basically have time for work, family, and just enough exercise to not completely wither away (and the occasional post on this blog). I realized I was lucky that my son has taken to cycling, so I get to indulge in a thing that gives me joy, exercise, and time with him all at the same time.
 
-But this idea of being in service to the world as it presents itself is also how I approach the age-old question of how to conform to the will of God as I understand him. I spent far too much time in my younger years trying to ascertain the exact "will of God", an approach reinforced by the Christian cult in which I spent my entire college career, where the leaders invoked this idea in order to control every aspect of their followers' lives, from who they dated to what car they bought. Thankfully, I was ripped from that environment through circumstances and by virtue of wanting to follow my heart, but this false philosophical residue remained as I continued to explore faith, abandon faith, and finally return to faith through the suggestions in the 12 steps. The third step is _Made a decision to turn our will and our lives over to the care of God as we understood Him._ To say I was not excited about this step is an understatement. It kept me repelled from the steps as a whole for some time. Eventually I just had to admit I needed help and resigned to figuring out the details as I went.
+But this idea of being in service to the world as it presents itself is also how I approach the age-old question of how to conform to the will of God as I understand him. I spent far too much time in my younger years trying to ascertain the exact "will of God", an approach reinforced by the Christian cult in which I spent my entire college career, where the leaders invoked this idea in order to control every aspect of their followers' lives, from who they dated to what car they bought. Thankfully, I was ripped from that environment through circumstances and by following my heart, but this false philosophical residue remained as I continued to explore faith, abandon faith, and finally return to faith through the suggestions in the 12 steps. The third step is _Made a decision to turn our will and our lives over to the care of God as we understood Him._ To say I was not excited about this step is an understatement. It kept me repelled from the steps as a whole for some time. Eventually I just had to admit I needed help and resigned to figuring out the details as I went.
 
-There is a subtle distinction between how I thought and was taught earlier in life and the contents of step three. It is unconcerned with determining the instructions of some higher power that speaks English into my brain, or out of a burning bush, or via some self-ordained spiritual leader. Rather, it suggests simply submitting my own will and my own plans and my own circumstances into the "care of God". As I read Nick Cave's response to that letter I realized he succinctly and beautifully summarized this approach.
+There is a subtle but critical distinction between how I thought and was taught earlier in life and the contents of step three. It is unconcerned with determining the instructions of some higher power that speaks English into my brain, or out of a burning bush, or via some self-ordained spiritual leader. (12 Step programs are also devoid of theology or doctrine.) Rather, it simply suggests submitting my own will, plans, and circumstances into the "care of God". As I read Nick Cave's response to that letter I realized he succinctly and beautifully summarized this approach.
 
 _You are in service to the world as it presents itself._
