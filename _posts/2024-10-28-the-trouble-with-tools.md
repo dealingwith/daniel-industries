@@ -68,7 +68,7 @@ I utilize the [single tasks DB](https://www.notion.vip/insights/golden-rules-of-
 - Views based on filters and sorts, which can also selectively show or hide specific columns. I have 24 views on my Tasks DB. Some get frequent use, some do not. They are added to and culled and modified regularly.
 
 <style>
-  .main-content aside.views { padding-bottom: 0; }
+  /* .main-content aside.views { padding-bottom: 0; } */
   .main-content aside.views img { margin: 1em 0; }
 </style>
 <aside class="views">{% capture details %}Here is a screenshot of the ones that fit above the dialog max height:
