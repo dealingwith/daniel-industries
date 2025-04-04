@@ -144,15 +144,8 @@ h6 a {
     28 / 28px / 0 round;
   border-width: 28px;
   border-style: solid;
-  margin-bottom: 1rem;
+  margin: 1.5rem 0;
 }
-/* @media (prefers-color-scheme: dark) {
-  .main-content aside {
-    border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUAgMAAABhBfhSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURUBMAEBMAP///7EmpFMAAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB+kDHwQWDzlr3WkAAAA/SURBVDjLY2AIxQQMDJSLgiTQQShVREHGo1pGJVEMG6kkimob1URpFL7YADVEaZYeRkVHRUdFR0Wxi9KofgMA+TqorTjcoisAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDMtMzFUMDQ6MTQ6NTcrMDA6MDCcKvhIAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTAzLTMxVDA0OjE0OjQ4KzAwOjAw15UwgwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNS0wMy0zMVQwNDoyMjoxNSswMDowMD1LaL4AAAAASUVORK5CYII=")
-      28 / 28px / 0 round;
-    filter: hue-rotate(90deg);
-  }
-} */
 
 .main-content aside p {
   margin-bottom: 0;
