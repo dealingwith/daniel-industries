@@ -4,18 +4,22 @@ title: Archives
 ---
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul></div>{% endunless %}
-    <div>
-      <a name="y-{{ currentdate }}"></a>
-      <h1>{{ currentdate }}</h1>
-        <ul>
+{% assign currentdate = post.date | date: "%Y" %}
+{% if currentdate != date %}
+{% unless forloop.first %}</ul>
+</div>{% endunless %}
+<div>
+  <a name="y-{{ currentdate }}"></a>
+  <h1>{{ currentdate }} <a href="#">↩</a></h1>
+  <ul>
     {% assign date = currentdate %}
-  {% endif %}
+    {% endif %}
     {% assign wordcount = post.content | number_of_words %}
     <li>
-      <a class="archive_link{% if wordcount < 300 %} short_post{% endif %}" href="{{ post.url }}">{{ post.title }}</a> ({{wordcount}})
+      <a class="archive_link{% if wordcount < 300 %} short_post{% endif %}" href="{{ post.url }}">{{ post.title }}</a>
+      ({{wordcount}})
     </li>
-  {% if forloop.last %}</ul></div>{% endif %}
+    {% if forloop.last %}
+  </ul>
+</div>{% endif %}
 {% endfor %}

@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="/public/favicon.ico">
-    <link href="/assets/reset.css" rel="stylesheet">
-    <link href="/assets/style.css" rel="stylesheet">
+  {% include head.html %}
+
+  <body>
     <style>
       body {
         font-size: 1rem;
@@ -45,9 +43,7 @@
         padding-bottom: 1em;
       }
     </style>
-  </head>
-
-  <body>
+    {% include menu.html %}
     <div class="top_control_area">
       <a id="hideshort" href='javascript:;' onclick="hideShortPosts()">Toggle short posts</a> (<span
         id="shortpostscount"></span>)
@@ -71,7 +67,7 @@
       {% assign count = count | plus: 1 %}
       {% endif %}
       {% endfor %}
-      <a href="#y-{{ year }}" class="year_box"><span style="font-weight: bold">{{ year }}</span>
+      <a href="#y-{{ year }}" class="year_box" style="font-weight: bold">{{ year }}
         ({{ count }})</a>
       {% endfor %}
       <div style="clear:both"></div>
@@ -93,24 +89,27 @@
       }
     }
 
-    document.getElementById('shortpostscount').innerText = document.querySelectorAll(".short_post").length + "/" + document.getElementsByTagName("li").length;
-
-    document.querySelectorAll("#years a").forEach((el) => {
-      el.addEventListener('click', (e) => {
-        let category = e.target.getAttribute('href');
-        let querystring = `a[name="${category.substring(1)}"] ~ ul`;
-        document.querySelectorAll('ul').forEach((el) => {
-          el.classList.remove('highlighted');
-        });
-        document.body.querySelector(querystring).classList.add('highlighted');
+    function highlightSelected(category) {
+      let querystring = `.archivecontainer a[name="${category.substring(1)}"] ~ ul`;
+      document.querySelectorAll('.archivecontainer ul.highlighted').forEach((el) => {
+        el.classList.remove('highlighted');
       });
-    });
-
-    if (window.location.hash) {
-      let category = window.location.hash;
-      let querystring = `a[name="${category.substring(1)}"] ~ ul`;
       document.body.querySelector(querystring).classList.add('highlighted');
     }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      document.getElementById('shortpostscount').innerText = document.querySelectorAll(".short_post").length + "/" + document.getElementsByTagName("li").length;
+
+      document.querySelectorAll("#years a, #cat_toc a").forEach((el) => {
+        el.addEventListener('click', (e) => {
+          highlightSelected(e.target.getAttribute('href'));
+        });
+      });
+
+      if (window.location.hash) {
+        highlightSelected(window.location.hash);
+      }
+    });
   </script>
 
 </html>

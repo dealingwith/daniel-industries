@@ -50,7 +50,7 @@ module Jekyll
         category_name = category[0]
         next if (!category_name)
         formatted_category_name = format_category_name(category_name)
-        html << "<div><a name=\"#{format_name_for_url(category_name)}\"></a><h1>#{formatted_category_name} (#{category[1].size})</h1><ul>"
+        html << "<div><a name=\"#{format_name_for_url(category_name)}\"></a><h1>#{formatted_category_name} (#{category[1].size}) <a href=\"#\">↩</a></h1><ul>"
         category[1].each do |post|
           word_count = post.content.scan(/\S+/).count
           html << '<li class="archive_link'
