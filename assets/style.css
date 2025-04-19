@@ -166,9 +166,6 @@ hr {
   text-align: left;
   width: 40%;
 }
-hr.alt::before {
-  /* content: "🖊️"; */
-}
 
 ul,
 ol {
@@ -201,9 +198,11 @@ h3 + .post-metadata {
 }
 
 h1 + .post-metadata {
-  background-color: var(--lightgrey);
-  border-radius: 0 0 4px 4px;
-  padding: 0.2rem;
+  /* background-color: var(--lightgrey); */
+  border-radius: 0 0 5px 5px;
+  border: solid var(--highlight);
+  border-width: 0px 1px 1px 1px;
+  padding: 0.2rem 0.4rem;
 }
 
 h1 a,
