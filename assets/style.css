@@ -199,10 +199,10 @@ h3 + .post-metadata {
 
 h1 + .post-metadata {
   /* background-color: var(--lightgrey); */
-  border-radius: 0 0 5px 5px;
-  border: solid var(--highlight);
-  border-width: 0px 1px 1px 1px;
-  padding: 0.2rem 0.4rem;
+  /* border-radius: 0 0 5px 5px; */
+  /* border: solid var(--highlight); */
+  /* border-width: 0px 1px 1px 1px; */
+  padding: 0.2rem 0rem;
 }
 
 h1 a,
