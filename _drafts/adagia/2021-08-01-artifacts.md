@@ -5,7 +5,7 @@ date: 2021-08-01 04:11:38
 categories:
 ---
 
-“artifacts:” (2004) is a collection of images and texts exploring journey, and its subsequent themes of will, choice, innocence, loss, death, and rebirth. it is self-referential in that it seeks to narrate journey by exploring other narrations of journey--the notes passed along with peculiar objects from one individual to another... if the elements were found or created is left purposely ambiguous. each of the four elements of “artifacts:” is composed of an image and a text or collection of texts.&nbsp;
+“artifacts:” (2004) is a collection of images and texts exploring journey, and its subsequent themes of will, choice, innocence, loss, death, and rebirth. it is self-referential in that it seeks to narrate journey by exploring other narrations of journey--the notes passed along with peculiar objects from one individual to another... if the elements were found or created is left purposely ambiguous. each of the four elements of “artifacts:” is composed of an image and a text or collection of texts.
 
 daniel miller's photography is primarily concerned with unnoticed textures and the narrative characteristics of objects. daniel has shown at Dada in Delray Beach, Florida, Common Grounds in Arlington, Virginia, and in the US Embassy, Sarajevo, Bosnia-Herzegovina. his work can be found in the various private collections of individuals who discovered personal connections and fascinations with the work.
 
