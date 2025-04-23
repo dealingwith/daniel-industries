@@ -39,9 +39,10 @@ If you are looking for somewhere to start, try these:
 
 ### On the Internet and culture
 
+- [A Quiet Home](/2024/09/30/a-quiet-home/)
 - [To Find an Alternative to Wordpress, Just Go Back to the Beginning](/2024/02/29/to-find-an-alternative-to-wordpress-just-go-back-to-the-beginning/) (2024)
 - [Desperation Algorithms](/2024/01/15/desperation-algorithms/) (2024)
-- [Internet Homesteading Renaissance?](https://www.daniel.industries/2020/08/18/internet-homesteading-renaissance/) (2020)
+- [Internet Homesteading Renaissance?](/2020/08/18/internet-homesteading-renaissance/) (2020)
 - [Rebels: Episode 1](/2016/09/05/rebels/) and [Episode 2](/2016/09/05/rebels-episode-2/) (2016)
 - [Thanks for Ruining the Internet](/2014/02/12/thanks-for-ruining-the-internet/) (2014)
 
@@ -74,9 +75,9 @@ If you are looking for somewhere to start, try these:
     Historical "About" posts
   </summary>
   <div markdown="1">
-  - [About (2009)](/2009/10/26/about/)  
-  - [About (2006)](/2006/12/08/1868/)  
-  - [Interviewed by Jordon Cooper (2004)](/2004/04/06/interviewed-by-jordon-cooper/)  
-  - [About (2003)](/2003/07/28/about/)  
+  - [About (2009)](/2009/10/26/about/)
+  - [About (2006)](/2006/12/08/1868/)
+  - [Interviewed by Jordon Cooper (2004)](/2004/04/06/interviewed-by-jordon-cooper/)
+  - [About (2003)](/2003/07/28/about/)
   </div>
 </details>
