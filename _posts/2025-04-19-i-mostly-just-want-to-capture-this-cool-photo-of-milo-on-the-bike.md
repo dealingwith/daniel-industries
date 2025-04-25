@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "I mostly just want to capture this cool photo of Milo on the bike"
-excerpt: 
+excerpt:
 date: 2025-04-19 13:22:21 -0500
-categories: 
+categories:
  - bicycling
+ - minutia
 ---
 
 ![](/assets/2025/04/milo-bike-rally.jpg)

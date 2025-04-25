@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Naming things is hard, but on rare occasions the robot will make me laugh a little"
-excerpt: 
+excerpt:
 date: 2025-04-18 21:28:21 -0500
-categories: 
+categories:
+ - writing
+ - ai
 ---
 
 I was writing some fiction for fun. Coming up with names is always a challenge for me, and it interrupts my flow especially when the name is just a mention in a passage I otherwise am ready to spill onto the page. So yes, I turned to my LLM robot friend.

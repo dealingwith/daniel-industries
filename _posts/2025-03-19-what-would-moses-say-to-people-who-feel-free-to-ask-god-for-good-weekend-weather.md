@@ -3,9 +3,10 @@ layout: post
 title: "What would Moses say to people who feel free to ask God for good weekend weather"
 excerpt: "The God of Moses is holy, offering no seat belts or other safety features to those who wish to climb the mountain and enter the dark cloud of divine presence. Those who go assume all risk and give up all claim to reward."
 date: 2025-03-19 20:14:29 -0500
-categories: 
+categories:
  - quotable
  - books
+ - faithy
 ---
 
 I'm listening to this audiobook, and this section came up as I drove to a talk at my church tonight:
