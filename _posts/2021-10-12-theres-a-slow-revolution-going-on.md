@@ -27,21 +27,19 @@ Cal's posts on the matter are, in order: ["On Slow Productivity and the Anti-Bus
 
 ["A Pastor Embraces Slowness"](https://www.calnewport.com/blog/2021/10/11/a-pastor-embraces-slowness/) (October 11th)
 
-<p>
-  <details>
-    <summary>"I realized I was on the verge of burnout"</summary>
+<details>
+  <summary>"I realized I was on the verge of burnout"</summary>
 
-    <blockquote>
-      "A few years ago, I realized I was on the verge of burnout with my job," she began. To compensate for this alarming state of affairs, Amy took the following steps...<br><br>
-      She quit social media.<br><br>
-      She took off her phone any site or app that was "refreshable by design."<br><br>
-      She implemented my fixed-schedule productivity strategy by setting her work hours in advance, then later figuring out how to make her efforts fit within these constraints.<br><br>
-      She began to take an actual Sabbath, inspired, in part, by Tiffany Shlain’s book, 24/6: The Power of Unplugging One Day a Week.<br><br>
-      She forwarded all work calls to voicemail and put in place a rule saying she must wait 24 hours before replying to any message that either made her upset or elated.<br><br>
-      Finally, and perhaps most importantly, she began scheduling less work for herself. Following an adage she first heard in seminary, she scheduled only two-thirds of her available work hours, leaving time free to handle pastoral emergencies, and enabling, more generally, margin surrounding her daily activities.
-    </blockquote>
-  </details>
-</p>
+  <blockquote>
+    "A few years ago, I realized I was on the verge of burnout with my job," she began. To compensate for this alarming state of affairs, Amy took the following steps...<br><br>
+    She quit social media.<br><br>
+    She took off her phone any site or app that was "refreshable by design."<br><br>
+    She implemented my fixed-schedule productivity strategy by setting her work hours in advance, then later figuring out how to make her efforts fit within these constraints.<br><br>
+    She began to take an actual Sabbath, inspired, in part, by Tiffany Shlain’s book, 24/6: The Power of Unplugging One Day a Week.<br><br>
+    She forwarded all work calls to voicemail and put in place a rule saying she must wait 24 hours before replying to any message that either made her upset or elated.<br><br>
+    Finally, and perhaps most importantly, she began scheduling less work for herself. Following an adage she first heard in seminary, she scheduled only two-thirds of her available work hours, leaving time free to handle pastoral emergencies, and enabling, more generally, margin surrounding her daily activities.
+  </blockquote>
+</details>
 
 Then, just this week, my cousin, a CEO and figurehead of a leadership-focused nonprofit foundation, wrote this piece on the importance of pausing, using Jesus himself as our example:
 

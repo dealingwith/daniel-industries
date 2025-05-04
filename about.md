@@ -18,7 +18,7 @@ Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Mi
 
 See also: [colophon](/colophon), [uses](/uses), and [now](/now).
 
-The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet. It started as a notebook, then a link log and what is now commonly referred to as a micro-blog, then a proper blog, long after blogging had peaked. There is considerable cringe and broken links in the old stuff, which I am slowly editing over the course of years.
+The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet. It started as a notebook, then a link log and what is now commonly referred to as a micro-blog, then a proper blog (long after blogging had peaked). I like to think of it as a public [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), although that might be aspirational. There is considerable cringe and broken links in the old stuff, which I am slowly editing over the course of years.
 
 If you are looking for somewhere to start, try these:
 
@@ -36,10 +36,14 @@ If you are looking for somewhere to start, try these:
 - [On Humility in Product Development](/2016/02/29/on-humility-in-product-development/) (2016)
 - [Life Is Too Short to Make Shitty Software](/2011/03/15/life-is-too-short-to-make-shitty-software/) (2011)
 
-
 ### On the Internet and culture
 
-- [A Quiet Home](/2024/09/30/a-quiet-home/)
+- [Culture Is What We Collectively Agree upon](/2025/04/27/culture-is-what-we-collectively-agree-upon/) (2025)
+- [Spells and Prayers of Distributed Localism](/2025/03/15/spells-and-prayers-of-distributed-localism/) (2025)
+- [The Utility Is a Bug Not a Feature](/2025/03/01/the-utility-is-a-bug-not-a-feature/) (2025)
+- [We Should All Treasure Our Own Tiny Corners](/2025/01/25/we-should-all-treasure-our-own-tiny-corners/) (2025)
+- [The Ghost of Somebody's KPIs Are Rattling Their Chains in My Forest](/2024/12/30/the-ghost-of-somebodys-kpis-are-rattling-their-chains-in-my-forest/) (2024)
+- [A Quiet Home](/2024/09/30/a-quiet-home/) (2024)
 - [To Find an Alternative to Wordpress, Just Go Back to the Beginning](/2024/02/29/to-find-an-alternative-to-wordpress-just-go-back-to-the-beginning/) (2024)
 - [Desperation Algorithms](/2024/01/15/desperation-algorithms/) (2024)
 - [Internet Homesteading Renaissance?](/2020/08/18/internet-homesteading-renaissance/) (2020)
@@ -54,6 +58,7 @@ If you are looking for somewhere to start, try these:
 
 ### On music and art
 
+- [Helen Thorington](/2024/12/29/helen-thorington/) (2024)
 - [The Music That Made Me](/2021/11/25/the-music-that-made-me/) (2021)
 - [When I Blog About Hip Hop](/2016/08/28/when-i-blog-about-hip-hop/) (2016)
 - [Art Redux Notes](/2008/04/26/art-redux-notes/) (2008)
@@ -75,9 +80,9 @@ If you are looking for somewhere to start, try these:
     Historical "About" posts
   </summary>
   <div markdown="1">
-  - [About (2009)](/2009/10/26/about/)
-  - [About (2006)](/2006/12/08/1868/)
-  - [Interviewed by Jordon Cooper (2004)](/2004/04/06/interviewed-by-jordon-cooper/)
-  - [About (2003)](/2003/07/28/about/)
+  - [About](/2009/10/26/about/) (2009)
+  - [About](/2006/12/08/1868/) (2006)
+  - [Interviewed by Jordon Cooper](/2004/04/06/interviewed-by-jordon-cooper/) (2004)
+  - [About](/2003/07/28/about/) (2003)
   </div>
 </details>

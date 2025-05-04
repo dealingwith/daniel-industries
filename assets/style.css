@@ -5,12 +5,12 @@
   --green: #404c00;
   --grey: #555555;
   --header: "Aleo", serif;
+  --sans: sans-serif;
+  --serif: serif;
   --lightgreen: #7b8545;
   --lightgrey: #eeeeee;
   --my-gradient: linear-gradient(to bottom, #f7f7f7, #f2f7ed);
   --pink: #ffd5dc;
-  --sans: sans-serif;
-  --serif: serif;
   --text: #040404;
   --highlight: var(--lightgreen);
 }
@@ -481,13 +481,6 @@ sup a:hover {
   text-decoration: none;
 }
 
-details > summary {
-  list-style: none;
-  text-decoration: underline;
-}
-details > summary::-webkit-details-marker {
-  display: none;
-}
 div.blog-index-div {
   border-bottom: 1px solid var(--lightgrey);
   margin-bottom: 0.5rem;
@@ -520,8 +513,15 @@ details {
   margin-bottom: 1rem;
 }
 details[open] {
-  /* background: var(--lightgrey); */
   padding: 0px 8px 8px 8px;
+}
+details > summary {
+  list-style: none;
+  text-decoration: underline;
+  color: var(--green);
+}
+details > summary::-webkit-details-marker {
+  display: none;
 }
 summary {
   cursor: pointer;
@@ -529,11 +529,14 @@ summary {
   margin-bottom: 1rem;
   outline: none;
 }
-summary::after {
-  content: " ↘";
+summary::before {
+  content: " ➕";
 }
-details summary {
-  color: var(--green);
+details[open] > summary::before {
+  content: " ➖";
+}
+details[open] > summary {
+  text-decoration: none;
 }
 
 /* for archive and cat index */
