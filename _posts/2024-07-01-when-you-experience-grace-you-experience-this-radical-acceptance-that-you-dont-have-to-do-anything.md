@@ -28,6 +28,8 @@ categories:
 
 > What we're talking about is how do you create communities of Grace as opposed to ideological spaces of self-help.
 
+See [There's No Space for Gift](/2024/03/08/theres-no-space-for-gift/)
+
 ---
 
 [Alcoholics Anonymous, Chapter 5 -- How It Works](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt5.pdf)
