@@ -2,6 +2,8 @@
 layout: page
 title: Blogroll
 ---
+
+- [The Homebound Symphony](https://blog.ayjay.org), blog of Alan Jacobs, soon-to-retire Baylor professor and one of the most thoughtful and best writers on the internet about all things related to being thoughtful and writing (or being creative) (or navigating the modern world with grace)
 - [Labnotes by Assaf Arkin](https://labnotes.org/), the best links, once a week
 - [Adam Keys is Thinking](https://therealadam.com/), good developer, good human
 - [Crooked Timber](https://crookedtimber.org/), group blog on the mundane to the profound
