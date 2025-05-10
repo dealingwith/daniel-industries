@@ -9,7 +9,6 @@ url: "https://daniel.industries"
 baseurl: ""
 exclude:
   - "*.rb"
-  - "*.js"
   - "Rakefile"
   - "*.csv"
   - "rsync-exclude"
