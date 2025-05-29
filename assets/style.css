@@ -422,7 +422,7 @@ pre {
 
 table {
   border-collapse: collapse;
-  margin-bottom: 1rem;
+  min-width: 100%;
 }
 
 tr {
