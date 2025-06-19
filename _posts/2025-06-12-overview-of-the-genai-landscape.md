@@ -47,17 +47,7 @@ There are a lot of different perspectives one can take when approaching new AI t
 >
 > LinkedIn all day -- OMGBBQ THIS CHANGED MY LIFE
 
--- (me)
-
-### The philosopher 
-
-Our attraction to AI is deeper than just a new shiny piece of tech kit.
-
-[foxwizard](https://www.foxwizard.com/) (see [Check Your Paradiastoles](/2025/05/09/check-your-paradiastoles/)). [Kester Brewin](https://www.kesterbrewin.com/). Todd McGowan and Ryan Engley (keep reading below).
-
-### The grizzled pragmatist
-
-They know that [even AI software is still software](/2024/06/30/you-might-think-using-ai-in-your-business-will-save-you-time-and-development-cost-but-youd-be-wrong/) and we've never [really done agile](/2024/10/20/productcamp-2024/). There are quite a few in this camp. [Baldur Bjarnason](https://www.baldurbjarnason.com/) is a good one.
+-- Me, on a specific social network
 
 ### The Pollyanna
 
@@ -65,9 +55,23 @@ The LinkedIn poster who just discovered some new trick with ChatGPT. They're mos
 
 ### The optimistic pragmatist
 
-Most of the builders from above. I would pay attention to people like the [Future of Coding](https://futureofcoding.org/) crew (see [Computing Machinery and Intelligence](/2025/06/02/computing-machinery-and-intelligence/))
+Most of the builders from above. I would pay attention to people like the [Future of Coding](https://futureofcoding.org/) crew (see [Computing Machinery and Intelligence](/2025/06/02/computing-machinery-and-intelligence/)).
 
-Some people move between these modes regularly. Dario Amodei and Demis Hassabis, for example, seem to zoom out and then back in regularly.
+[My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) is making the rounds. 
+
+### The grizzled pragmatist
+
+They know that [even AI software is still software](/2024/06/30/you-might-think-using-ai-in-your-business-will-save-you-time-and-development-cost-but-youd-be-wrong/) and we've never [really done agile](/2024/10/20/productcamp-2024/). There are quite a few in this camp. [Baldur Bjarnason](https://www.baldurbjarnason.com/) is a good one.
+
+[Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) is a counterpoint to the "My AI Skeptic Friends Are All Nuts" article above.
+
+### The philosopher 
+
+Our attraction to AI is deeper than just a new shiny piece of tech kit.
+
+[foxwizard](https://www.foxwizard.com/) (see [Check Your Paradiastoles](/2025/05/09/check-your-paradiastoles/)). [Kester Brewin](https://www.kesterbrewin.com/). Todd McGowan and Ryan Engley (keep reading below).
+
+Some people move between these modes regularly. Dario Amodei and Demis Hassabis, for example, seem to zoom out and then back in regularly, although those are probably bad examples as they're fully submersed in the quicksand and have billions of dollars behind them.
 
 ## And now with that out of the way
 
@@ -119,6 +123,7 @@ Now we get philosophical. This one you're just going to have to search up. It's 
 
 > _[Todd]:_ That's a key point--we're suspicious of knowledge that involves labor. It's a crazy thing, but it's really true. We're more confident in the notion that somebody just spontaneously has a certain knowledge or intelligence than we are of somebody who's labored their whole life to have that same level of intelligence...
 
-> _[Ryan]:_ Right now what AI does is look for people who have attempted things and give you that. That’s where we are--this logic of emergence that completely goes against something like T.S. Eliot’s ‘Tradition and the Individual Talent’ or our friend Danny Cho’s idea of genius. The large language model completely eliminates the individual aspect of a text or of an idea and this total capitulation to a very ideological common that, because it is so confident looking, it seems like the right answer...
+> _[Ryan]:_ Right now what AI does is look for people who have attempted things and give you that. That’s where we are--this logic of emergence that completely goes against something like T.S. Eliot’s ‘Tradition and the Individual Talent’ or our friend Danny Cho’s idea of genius. [An LLM] completely eliminates the individual aspect of a text or of an idea and [is] this total capitulation to a very ideological common that, because it is so confident looking, seems like the right answer...
 
+## The takeaways
 
