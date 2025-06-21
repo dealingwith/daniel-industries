@@ -3,9 +3,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+  {% assign hero_image = page.image %}
+  {% if hero_image == nil %}
   {% assign hero_image = page.content | match_regex: '<img .*?src="([^" ]+)"' %}
   {% if hero_image == nil %}
   {% assign hero_image = "/assets/page/writing/nicole-elliott-N9De44VszLM-unsplash.png" %}
+  {% endif %}
   {% endif %}
   {% unless hero_image contains site.url %}
   {% assign hero_image = hero_image | prepend: site.url %}
