@@ -158,7 +158,8 @@ I repeat myself, only more so: LLM chat UXs are bad:
 
 - They typically do not support full chat export. Copy buttons are only on LLM's responses, but the prompts are equally important. Even the UX itself embodies the tech as a _magic answer machine_, not a _thinking and reasoning machine_.
 - In that vein, there could easily be another LLM agent that does reflection on your prompts. There are "magic prompt" features in some tools--typically the image generation tools--but the regenerated prompt is often buried in the UI. They're also automatically used. I'm more interested in, "How could I have prompted better" after the fact. "Ask the model how to prompt" is a common tip; they could bake that into each request via "instructions":
-> It sounds like you're interested in learning what an expert in [XYZ] might reason about [ABC], here is an example LLM prompt to generate that type of information: [...] ...would you like me to submit that prompt?
+
+  > It sounds like you're interested in learning what an expert in [XYZ] might reason about [ABC], here is an example LLM prompt to generate that type of information: [...] ...would you like me to submit that prompt?
 
 ### Can we educate the public out of this mess?
 
