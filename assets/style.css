@@ -86,6 +86,7 @@ a {
   color: var(--green);
 }
 a:hover {
+  text-decoration-color: var(--pink);
   color: var(--text);
 }
 a:visited {
