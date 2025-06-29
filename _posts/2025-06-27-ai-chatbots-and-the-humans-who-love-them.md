@@ -4,6 +4,8 @@ title: "AI Chatbots and the Humans Who Love Them"
 excerpt: 
 date: 2025-06-27 10:54:28 -0500
 categories: 
+ - ai
+ - elsewhere
 ---
 
 As a "oh, it is already happening" follow up to the philosophical section of my [Overview of the GenAI Landscape](/2025/06/20/overview-of-the-genai-landscape/) post, where I quote Todd McGowan and Ryan Engley:
@@ -29,3 +31,23 @@ If you thought that was weird...
 ([Link](https://www.youtube.com/watch?v=zKCynxiV_8I))
 
 I actually saw the Reddit post mentioned at the start of that video when it was first posted. Lorenz does a good job of answering the question "How did we get here?"
+
+It _turns out_ that people were thinking and writing about this moment last year. [Can you fall in love with AI? Can you get addicted to an AI voice?](https://www.vox.com/future-perfect/367188/love-addicted-ai-voice-human-gpt4-emotion):
+
+> For now, most of us take it as a given that human love, human connection, is a supreme value, in part because it requires so much. But if more of us enter relationships with AI that come to feel just as important as human relationships, that could lead to value drift.
+
+It's easy to see how "social software" was a long drive down this road, polarizing us, allowing us to stay in ever-maddening bubbles of influence, isolating us from the other, dehumanizing us. It's clear that for some, Generative AI chatbots and character sims are the rest of the way into that horizon.
+
+In 2023, the CTO of OpenAI [said](https://thehill.com/policy/technology/4229972-open-ai-exec-warns-ai-can-become-extremely-addictive/):
+
+> With the capability and this enhanced capability comes the other side, the possibility that we design them in the wrong way and they become extremely addictive and we sort of become enslaved to them
+>
+> There is a significant risk in making them, developing them wrong in a way that really doesn’t enhance our lives and in fact it introduces more risk
+
+And yet they--the other companies using their models--have continued to release increasingly powerful-capable-convincing-dangerous models and products.
+
+Another one from the Vox piece above published last year: [We need to prepare for ‘addictive intelligence’](https://thehill.com/policy/technology/4229972-open-ai-exec-warns-ai-can-become-extremely-addictive/)
+
+And I haven't had a chance to read [this paper](https://bhaven.org/uploads/3/4/0/3/34038663/vallor2015_article_moraldeskillingandupskillingin.pdf "Moral Deskilling and Upskilling in a New Machine Age: Reflections on the Ambiguous Future of Character") yet, but this is certainly compelling:
+
+> I conclude that since moral skills are essential prerequisites for the effective development of practical wisdom and virtuous character, and since market and cultural forces are not presently aligned to bring about the more salutary of the ambiguous potentials presented here, the future shape of these developments warrants our close attention—and perhaps active intervention.
