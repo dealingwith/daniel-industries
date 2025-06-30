@@ -47,4 +47,4 @@ This had me asking, "How am I 50 years old and just now finding out about Iris M
 
 ---
 
-The title of this post comes from David Grey's _Late Night Radio_ from 1996's _[Sell, Sell, Sell](https://en.wikipedia.org/wiki/Sell,_Sell,_Sell)_, which is what comes to mind when I hear "Midnight Radio", for some reason.
+The title of this post comes from David Grey's _Late Night Radio_ from 1996's _[Sell, Sell, Sell](https://en.wikipedia.org/wiki/Sell,_Sell,_Sell)_, which is what comes to mind when I hear "Midnight Radio", for some reason. Even though his title comes from a [different piece of 90s music](https://www.youtube.com/watch?v=pkw2kcQ5Lzs).
