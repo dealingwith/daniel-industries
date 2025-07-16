@@ -65,7 +65,7 @@ Just using the base models provides no additional value over your customers just
 - extensive prompt engineering and temperature defaults
 - extensive training and fine tuning
 
-I then listed a couple of exceptions to this trend, and I have some more now, a year later, but I come back to those in a minute. Because I wasn't the only one making these observations last year and every chance since...
+I then listed a couple of exceptions to this trend, and I have some more now, a year later, but I will come back to those in a minute. Because I wasn't the only one making these observations last year and every chance since...
 
 ![](/assets/2025/07/image_1729697533290_0.png)
 <p class="caption" markdown="1">When the product is already a dog, the AI gets a dog's name (apologies to all human Rufuses, especially Rufus Wainwright, who is amazing, and you, if you're a Rufus reading this, you're amazing too).</p>
