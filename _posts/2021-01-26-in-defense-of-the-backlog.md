@@ -4,6 +4,9 @@ title: "In Defense of the Backlog"
 excerpt: 
 date: 2021-01-26 16:11:18 -0600
 categories: 
+ - software
+ - product
+ - leadership
 ---
 
 ![]({{site.url}}/assets/2021/01/backlog.jpg)

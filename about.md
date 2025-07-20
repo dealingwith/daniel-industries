@@ -36,6 +36,15 @@ If you are looking for somewhere to start, try these:
 - [On Humility in Product Development](/2016/02/29/on-humility-in-product-development/) (2016)
 - [Life Is Too Short to Make Shitty Software](/2011/03/15/life-is-too-short-to-make-shitty-software/) (2011)
 
+## On AI
+
+- [The Tyranny of AI Is Not AI Itself, It Is the Lazy, Rushed Product Designers with No Imagination or Sense of Craft](https://daniel.industries/2025/07/13/the-tyranny-of-ai-is-not-ai-itself-it-is-the-lazy-rushed-product-designers-with-no-imagination-or-sense-of-craft/) (2025)
+- [Overview of the GenAI Landscape](https://daniel.industries/2025/06/20/overview-of-the-genai-landscape/) (2025)
+- [General-audience AI Presentation](https://daniel.industries/2025/05/17/general-audience-ai-presentation/) (2025)
+- [Comments on How Software Engineers Actually Use AI](https://daniel.industries/2025/03/29/comments-on-how-software-engineers-actually-use-ai/) (2025)
+- [My Mostly Positive Experience with GitHub Copilot](https://daniel.industries/2024/07/09/my-mostly-positive-experience-with-github-copilot/) (2024)
+- [You Might Think Using AI in Your Business Will Save You Time and Development Cost but You'd Probably Be Wrong](https://daniel.industries/2024/06/30/you-might-think-using-ai-in-your-business-will-save-you-time-and-development-cost-but-youd-be-wrong/) (2024)
+
 ### On the Internet and culture
 
 - [Culture Is What We Collectively Agree upon](/2025/04/27/culture-is-what-we-collectively-agree-upon/) (2025)

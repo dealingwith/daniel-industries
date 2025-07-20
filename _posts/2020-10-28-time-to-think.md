@@ -4,6 +4,9 @@ title: "Time to think"
 excerpt: "& how to think"
 date: 2020-10-28 06:38:59 -0500
 categories: 
+ - software
+ - product
+ - leadership
 ---
 
 Both of my daily email "readings"---the Daily Stoic and Richard Rohr---were about stillness this morning.

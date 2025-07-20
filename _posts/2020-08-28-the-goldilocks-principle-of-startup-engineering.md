@@ -4,9 +4,8 @@ title: The Goldilocks Principle of Startup Engineering
 subtitle: How much tech is just right?
 date: 2020-08-28 23:14:03 -0500
 categories:
- - technology
- - work
- - management
+ - software
+ - leadership
  - product
 ---
 

@@ -1,13 +1,11 @@
 ---
-author: dealingwith
 date: '2011-03-15 05:27:00'
 layout: post
 slug: life-is-too-short-to-make-shitty-software
-status: publish
 title: Life is too short to make shitty software
-wordpress_id: '3268'
 categories:
  - nonlinear
+ - software
 ---
 
 The other day I wrote:

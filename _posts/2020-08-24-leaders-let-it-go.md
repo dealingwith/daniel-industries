@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Leaders Let it Go"
-excerpt:
+excerpt: "The fancier your title, the more you must avoid causing chaos."
 date: 2020-08-24 14:46:35 -0500
 categories: 
+ - elsewhere
+ - software
+ - product
+ - leadership
 ---
 
-Somehow this all threads together, I just haven't figured out how yet
-
----
+Somehow this all threads together...
 
 Today, via the Daily Stoic email that I just recently subscribed to, I learned about _Pyrrhonism_ and _phantasiai:_ _pre-cognitive judgments originating from our previous experiences or our subconscious thinking._
 
@@ -16,15 +18,11 @@ Today, via the Daily Stoic email that I just recently subscribed to, I learned a
 
 -- Wikipedia
 
----
-
 Also today, from the daily email from the Center for Contemplation and Action, I learned the term _transrational_:
 
 > People are so afraid of being considered pre-rational that they avoid and deny the very possibility of the transrational. Others substitute mere pre-rational emotions for authentic religious experience, which is always transrational.
 
 -- Ken Wilber
-
----
 
 I think I aspire to be a transrational Pyrrhonist.
 
@@ -48,7 +46,9 @@ Then I stumbled upon [Stay SaaSy](https://staysaasy.com/) and it was like every 
 
 > My litmus test for effective leadership: any room that you enter should have more certainty and a firmer plan by the time that you leave it. Good leaders can walk into a situation where people have lost track of their goals and get everyone aligned on a clear path forward. They remove unimportant details, distill complex situations to their essence, and get the right decision-maker to make a call--even if it’s not them. They’re able to not only stop bad plans before it’s too late, but get them moving again in the right direction.
 
-> The fancier your title, the more you must avoid causing chaos. If Bob the Intern frantically flip-flops on the plan for his summer project, people will patiently help him towards a good path and perhaps make sure he has less caffeine tomorrow. If Bob the CEO flip-flops on his strategy, people will capsize the ship trying to enact his will.
+> **The fancier your title, the more you must avoid causing chaos. If Bob the Intern frantically flip-flops on the plan for his summer project, people will patiently help him towards a good path and perhaps make sure he has less caffeine tomorrow. If Bob the CEO flip-flops on his strategy, people will capsize the ship trying to enact his will.**
+
+(emphasis mine)
 
 And [this tweet](https://twitter.com/staysaasy/status/1290454870261223424):
 

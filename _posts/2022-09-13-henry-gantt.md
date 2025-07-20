@@ -5,6 +5,8 @@ excerpt: Gantt charts are a lagging indicator of dysfunction, specifically a lac
 date: 2022-09-13 08:35:33 -0500
 categories: 
   - product
+  - software
+  - leadership
 ---
 
 Gantt charts are a lagging indicator of dysfunction, specifically a lack of trust within an organization. When used as a planning tool, they're fine. When used as a tool for "accountability", they become the proverbial canary in your software coalmine.

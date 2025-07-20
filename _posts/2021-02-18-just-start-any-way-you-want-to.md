@@ -4,6 +4,7 @@ title: "Just start any way you want to"
 excerpt: 
 date: 2021-02-18 06:02:09 -0600
 categories: 
+ - software
 ---
 
 There is one thing infinitely more important than ability, skill, talent, intellect, domain knowledge, or prior experience. That thing is just starting.

@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "The defining trait of a senior software engineer"
-excerpt:
+excerpt: "An inexperienced technologist provides answers with words and creates problems with code. An experienced engineer asks questions with words and solves problems with code."
 date: 2022-12-08 13:09:08 -0600
 categories:
+ - software
+ - product
+ - leadership
 ---
 
 The defining trait of a senior software engineer is empathy and understanding for those who came before them in a codebase.

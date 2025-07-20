@@ -3,9 +3,8 @@ layout: post
 title: The Three Paths
 date: 2017-04-22 23:14:03 -0500
 categories:
- - technology
- - work
- - management
+ - software
+ - leadership
  - product
 ---
 

@@ -4,11 +4,10 @@ title: "On Management"
 date: 2017-04-23 23:14:03 -0500
 categories:
  - technology
- - work
- - management
+ - leadership
 ---
 
-One great article and one great podcast, both focused on managment...
+One great article and one great podcast, both focused on management...
 
 [The missing piece of a manager’s responsibilities](https://medium.com/@uicynthia/the-missing-piece-of-a-managers-responsibilities-bc64fa2678a1):
 
