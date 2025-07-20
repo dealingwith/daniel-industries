@@ -86,8 +86,8 @@ a {
   color: var(--green);
 }
 a:hover {
-  text-decoration-color: var(--pink);
-  color: var(--text);
+  color: var(--highlight);
+  text-decoration-color: var(--highlight);
 }
 a:visited {
   color: var(--text);
@@ -97,7 +97,7 @@ a strong {
 }
 a.dead {
   color: var(--grey);
-  text-decoration-line: underline;
+  text-decoration-line: line-through;
   text-decoration-style: wavy;
   text-decoration-color: var(--pink);
 }
@@ -250,7 +250,7 @@ img {
 }
 .excerpt,
 .caption {
-  color: var(--grey);
+  color: var(--green);
   font-size: 0.9rem;
   line-height: 1.4rem;
 }
