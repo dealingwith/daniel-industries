@@ -97,6 +97,7 @@ a strong {
 }
 a.dead {
   color: var(--grey);
+  cursor: pointer;
   text-decoration-line: line-through;
   text-decoration-style: wavy;
   text-decoration-color: var(--pink);

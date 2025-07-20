@@ -122,7 +122,7 @@ Or _Nugget:_
 > While heavy torsos that heave and hurl  
 > Will crunch like nuts in the mouths of squirrels
 
-<aside>
+<aside markdown="1">
 1996’s Fashion Nugget sold 1.2 million copies, thanks to the single _The Distance_, a song which was turned into a jock anthem. When the Indianapolis 500 wanted to license the song, Cake said no.
 </aside>
 

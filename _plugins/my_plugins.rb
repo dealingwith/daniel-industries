@@ -11,8 +11,14 @@ def titleize(string)
   array.join(" ")
 end
 
-Jekyll::Hooks.register :posts, :pre_render do |post|
-  post.data["title"] = titleize(post.data["title"])
+# Jekyll::Hooks.register :posts, :pre_render do |post|
+#   post.data["title"] = titleize(post.data["title"])
+# end
+
+Jekyll::Hooks.register :site, :pre_render do |site|
+  site.posts.docs.each do |post|
+    post.data["title"] = titleize(post.data["title"])
+  end
 end
 
 def format_category_name(category_name)
@@ -30,7 +36,7 @@ module Jekyll
       site = @context.registers[:site]
       site.posts.docs.each do |post|
         if post&.content&.include? input
-          backlinks << "<a href=\"#{post.url}\">#{titleize(post.data["title"])}</a>"
+          backlinks << "<a href=\"#{post.url}\">#{post.data["title"]}</a>"
         end
       end
       if (backlinks.length > 0)
