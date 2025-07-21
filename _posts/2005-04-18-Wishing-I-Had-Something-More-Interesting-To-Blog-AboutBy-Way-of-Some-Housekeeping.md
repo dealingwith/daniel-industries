@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wishing I Had Something More Interesting To Blog AboutBy Way of Some Housekeeping'
+title: 'Wishing I Had Something More Interesting To Blog About -- By Way of Some Housekeeping'
 categories:
  - minutia
 ---

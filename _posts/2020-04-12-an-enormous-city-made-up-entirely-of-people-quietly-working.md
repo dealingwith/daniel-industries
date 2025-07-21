@@ -4,6 +4,8 @@ title: "an enormous city made up entirely of people quietly working"
 excerpt: "On the internet, if you stop speaking: you disappear. And, by corollary: on the internet, you only notice the people who are speaking nonstop."
 date: 2020-04-12 23:25:16 -0500
 categories: 
+ - elsewhere
+ - immediatism
 ---
 
 <a class="dead" title="dead link">Week 43, popular, wide-ranging, functional</a>
