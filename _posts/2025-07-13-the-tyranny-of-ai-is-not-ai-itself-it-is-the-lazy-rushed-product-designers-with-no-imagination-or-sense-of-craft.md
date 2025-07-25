@@ -59,7 +59,7 @@ LLMs can offer significant value to your business. Slapping an LLM-backed chatbo
 
 The companies developing the models, hoping to find revenue that can sustain that development, were also just perpetuating the first and most obvious UX pattern for leveraging the models (chat, and now voice, which is the same thing). Chat is boring, lazy UX design, perpetuated throughout the AI product bubble.
 
-Just using the base models provides no additional value over your customers just using those providers' products directly; in fact, it might be worse if you've half-assed your initial prompt instructions. Using an LLM in the context of your business value requires:
+Just using the base models provides no additional value over your customers just using those providers' products directly; in fact, it might be worse if you've half-assed your initial prompt instructions. Using an LLM in the context of your business requires:
 
 - understanding the additional tech (e.g., RAG and vector DBs [2025: and now, MCP servers and advanced 'memory' techniques]) required to leverage your business's intelligence/context
 - extensive prompt engineering and temperature defaults
@@ -116,7 +116,8 @@ She links to [Natural language is the lazy user interface](https://austinhenley.
 
 > The thing is: ChatBots are just a really bad interface for a lot of tasks that they're supposedly the future of.   
 > 
-> "AI"==chatbot mostly comes from the fact that this is very easy to build. Especially if - as it is with most modern AI tools - you don't actually know what the real use case is as a developer.  
+> "AI"==chatbot mostly comes from the fact that this is very easy to build. Especially if - as it is with most modern AI tools - you don't actually know what the real use case is as a developer.
+> 
 > Good interfaces derive their structure from the task the user is trying to solve and the expected knowledge and domain model that user has. This is not how most "AI" solutions' interfaces are built.  
 > 
 > It is kinda funny. Terminal applications are always seen as too clunky and unwieldy for average non-nerds to use but that's exactly what chatbots are: Command line apps with unspecified parameters and outcomes.  
@@ -146,7 +147,7 @@ Besides Maggie's prototypes, here are some interesting outliers:
   
   (Emphasis mine.) I have tried Dia a few times but the main interface is still the chat textbox.
 
-I could be wrong. I'm using these tools that almost exclusively offer me just the dreaded Small White Box. Claude Projects looked promising, but it's just a way to persist some context across chats. ChatGPT's projects are exactly the same (clearly neither company knows what _project_ means). Notion's AI-in-every-context-menu is just a nuisance. The agentic workflows we're exploring at my day job will be almost entirely behind-the-scenes, just putting words and data in very standard UIs. If anything, we'll have a handful of [Unixy](https://en.wikipedia.org/wiki/Unix_philosophy) apps for kicking off and observing workflows, getting a particular piece of data, or entering new context into a workflow.
+I could be wrong. I'm using these tools that almost exclusively offer me just the dreaded Small White Box. Claude Projects looked promising, but it's just a way to persist some context across chats. ChatGPT's projects are exactly the same (clearly neither company knows what _project_ means). Notion's AI-in-every-context-menu is just a nuisance. The agentic workflows we're exploring at my day job will be almost entirely behind-the-scenes, just putting words and data in very standard UIs. If anything, we'll have a handful of [Unixy](https://en.wikipedia.org/wiki/Unix_philosophy "The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development.") apps for kicking off and observing workflows, getting a particular piece of data, or entering new context into a workflow.
 
 So far, my favorite interaction has been with Claude Code, which is still just prompting an agent, but because it is more like chatting with a project manager with multiple developers on its team, it hits different. It still takes considerable experience with software to get it to work, and it is still better with some languages than others. But once again, that's a subject for another post.
 
