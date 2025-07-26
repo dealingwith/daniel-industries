@@ -59,9 +59,9 @@ LLMs can offer significant value to your business. Slapping an LLM-backed chatbo
 
 The companies developing the models, hoping to find revenue that can sustain that development, were also just perpetuating the first and most obvious UX pattern for leveraging the models (chat, and now voice, which is the same thing). Chat is boring, lazy UX design, perpetuated throughout the AI product bubble.
 
-Just using the base models provides no additional value over your customers just using those providers' products directly; in fact, it might be worse if you've half-assed your initial prompt instructions. Using an LLM in the context of your business requires:
+Just using the base models provides no additional value over your customers just using those providers' products directly--in fact, it might be worse if you've half-assed your initial prompt instructions. Using an LLM in the context of your business requires:
 
-- understanding the additional tech (e.g., RAG and vector DBs [2025: and now, MCP servers and advanced 'memory' techniques]) required to leverage your business's intelligence/context
+- understanding the additional tech--RAG and vector databases, MCP servers, and advanced memory techniques--required to leverage your business's intelligence/context
 - extensive prompt engineering and temperature defaults
 - extensive training and fine tuning
 

@@ -5,12 +5,20 @@ layout: page
 
 <style>
   img {
-    max-width: 150px;
     float: right;
+    background-color: #eee;
     border-radius: 75px;
-    border: 2px solid #eee;
+    border: 1px solid #555;
+    max-width: 150px;
+  }
+  @media (prefers-color-scheme: dark) {
+    img {
+      border: 1px solid #fff;
+    }
   }
 </style>
+
+![](/assets/page/d-glif.png)
 
 Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Milo and stepdad of Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and [stories](/writing). Cyclist. Indieweb advocate.
 
@@ -18,7 +26,7 @@ Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Mi
 
 See also: [colophon](/colophon), [uses](/uses), and [now](/now).
 
-The [blog](/blog) started in 2001 and now has over 3,000 posts. Some are single links or thoughts, or collections of links, or journals of moments in my life, or longer posts about philosophy, bicycling, music, or the internet. It started as a notebook, then a link log and what is now commonly referred to as a micro-blog, then a proper blog (long after blogging had peaked). I like to think of it as a public [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), although that might be aspirational. There is considerable cringe and broken links in the old stuff, which I am slowly editing over the course of years.
+The [blog](/blog) started in 2001 and now has over 3,000 posts. Posts are single links/thoughts, collections of links, journals, or longer posts about philosophy, bicycling, music, or the internet. It started as a notebook, became a micro-blog, then a proper blog (long after blogging had peaked). I like to think of it as a public [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), although that feels aspirational. There is ample cringe and broken links in the old stuff, which I am slowly editing over the course of years.
 
 If you are looking for somewhere to start, try these:
 

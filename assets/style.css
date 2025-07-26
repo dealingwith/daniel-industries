@@ -48,14 +48,12 @@ h6 {
   font-family: var(--header);
   letter-spacing: 0.03rem;
   line-height: 1em;
-  /* margin: 0 10px 1.1rem 0; */
   margin-bottom: 1rem;
   padding: 10px 10px 0 0;
 }
 
 h1 {
   font-size: 2.1rem;
-  border-bottom: 3px solid var(--highlight);
 }
 h2 {
   font-size: 1.5rem;
@@ -86,8 +84,10 @@ a {
   color: var(--green);
 }
 a:hover {
+  /* border-bottom: 2px dotted var(--highlight); */
   color: var(--highlight);
   text-decoration-color: var(--highlight);
+  text-decoration-style: dotted;
 }
 a:visited {
   color: var(--text);
@@ -362,20 +362,30 @@ pre {
   padding: 0;
 }
 .menu ul li {
+  background-color: var(--lightgrey);
+  border-radius: 5px;
   display: inline-block;
   list-style: none;
-  margin: 0;
-  padding: 0 5px;
+  margin: 0 2px;
+  padding: 0 10px;
   text-align: left;
 }
 .menu a {
   text-decoration: none;
 }
-.menu a:hover {
-  text-decoration: wavy;
-}
 .menu a:visited {
   color: var(--green);
+}
+@media screen and (max-width: 700px) {
+  .menu {
+    font-size: 1rem;
+  }
+  .menu ul li {
+    display: block;
+    margin: 10px 0;
+    padding: 5px 10px;
+    text-align: right;
+  }
 }
 
 .footer {
@@ -426,11 +436,12 @@ table {
   border-collapse: collapse;
   min-width: 100%;
 }
-
+table, th, td {
+  font-size: 1rem;
+}
 tr {
   border-bottom: 1px solid var(--green);
 }
-
 td:not(:last-child),
 th:not(:last-child) {
   border-right: 1px solid var(--green);
@@ -487,10 +498,15 @@ sup a:hover {
 
 div.blog-index-div {
   border-bottom: 1px solid var(--lightgrey);
-  margin-bottom: 0.5rem;
+  padding: 1rem 0;
+}
+div.blog-index-div h3 {
+  padding: 0;
 }
 div.blog-index-div .post-metadata {
+  color: var(--grey);
   margin-bottom: 1rem;
+  margin-top: -1.1rem;
 }
 
 img.float-left {
