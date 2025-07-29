@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-12 13:47:00'
 layout: post
 slug: many-thoughts-after-my-show-and-the-chemistry-set-show-last-night
-status: publish
 title: Many thoughts after my show and the Chemistry Set show last night
-wordpress_id: '2445'
 categories:
  - art
  - bullshit
