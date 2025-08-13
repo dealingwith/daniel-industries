@@ -9,7 +9,7 @@ categories:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u7ziwuIpnVY" frameborder="0" allowfullscreen></iframe>
 
-Last December I paid Dave Pell a compliment on Twitter and he replied "<a class="dead" title="dead link">Learning a lot from your blog</a>." I thought, "Uh oh, which blog?" and asked him as much in a direct message. Twitter gave way to email and he asked if he could use material from my post _[The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy](/2010/11/29/connected/)_ Dave starts his piece:
+Last December I paid Dave Pell a compliment on Twitter and he replied "<a class="dead" title="dead link">Learning a lot from your blog</a>." I thought, "Uh oh, which blog?" and asked him as much in a direct message. Twitter gave way to email and he asked if he could use material from my post _[The Infinitely Connected Triggers of Her Memory and the Dumb Machines of the Technopathocracy](/2010/11/29/connected/)_. Dave starts his piece:
 
 > I think about a lot of things before I share online. But here's one thing I never think about:
 
