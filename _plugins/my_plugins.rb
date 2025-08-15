@@ -48,27 +48,46 @@ module Jekyll
   end
 
   class CategoryListTag < Liquid::Tag
+    CATEGORY_TEMPLATE = ERB.new(<<~HTML.strip)
+      <div>
+        <a name="<%= format_name_for_url(category_name) %>"></a>
+        <h1><%= formatted_category_name %> (<%= post_count %>) <a href="#">↩</a></h1>
+        <ul>
+          <% posts.each do |post| %>
+            <a class="archive_link<%= ' short_post' if post[:word_count] < 300 %>" href="<%= post[:url] %>">
+              <li class="archive_link">
+                <%= post[:title] %>
+                <span class="wordcount">(<%= post[:word_count] %>)
+                (<%= post[:date] %>)</span>
+              </li>
+            </a> 
+          <% end %>
+        </ul>
+      </div>
+    HTML
+
     def render(context)
       html = ""
       categories = context.registers[:site].categories
       sorted_categories = categories.sort_by { |category| category[1].size }
+      
       sorted_categories.reverse.each do |category|
         category_name = category[0]
-        next if (!category_name)
+        next if category_name.nil? || category_name.strip.empty?
+        
         formatted_category_name = format_category_name(category_name)
-        html << "<div><a name=\"#{format_name_for_url(category_name)}\"></a><h1>#{formatted_category_name} (#{category[1].size}) <a href=\"#\">↩</a></h1><ul>"
-        category[1].each do |post|
-          word_count = post.content.scan(/\S+/).count
-          html << '<li class="archive_link'
-          html << '">'
-          html << '<a class="archive_link'
-          if (word_count < 300)
-            html << " short_post"
-          end
-          html << "\" href=\"#{post.url}\">#{post.data["title"]}</a> (#{word_count}) (#{post.date.strftime("%m/%Y")})"
-          html << "</li>"
+        post_count = category[1].size
+        
+        posts = category[1].map do |post|
+          {
+            word_count: post.content.scan(/\S+/).count,
+            url: post.url,
+            title: post.data["title"],
+            date: post.date.strftime("%m/%Y")
+          }
         end
-        html << "</div>"
+        
+        html << CATEGORY_TEMPLATE.result(binding)
       end
       html
     end
@@ -78,12 +97,24 @@ module Jekyll
     def render(context)
       html = ""
       categories = context.registers[:site].categories
+      # puts "Total categories found: #{categories.length}"
+      # puts "Categories: #{categories.map(&:first).join(", ")}"
       sorted_categories = categories.sort_by { |category| category[1].size }
-      # remove cats with < 3 posts
-      sorted_categories = sorted_categories.delete_if { |category| category[1].size < 6 }
+      # Remove this line to show all categories:
+      # sorted_categories = sorted_categories.delete_if { |category| category[1].size < 6 }
+      
+      # Or change the threshold:
+      # sorted_categories = sorted_categories.delete_if { |category| category[1].size < 3 }
+      
       sorted_categories.reverse.each do |category|
         category_name = category[0]
-        next if (!category_name)
+        # puts "Processing category: '#{category_name}' (#{category_name.class}) with #{category[1].size} posts"
+        
+        if category_name.nil? || category_name.strip.empty?
+          # puts "Skipping empty/nil category"
+          next
+        end
+        
         formatted_category_name = format_category_name(category_name)
         html << "<div data-numposts=\"#{category[1].size}\" data-category=\"#{format_name_for_url(category_name)}\"><a href=\"##{format_name_for_url(category_name)}\" class=\"year_box\">#{formatted_category_name} (#{category[1].size})</a></div>"
       end

@@ -9,6 +9,7 @@ layout: page
     background-color: #eee;
     border-radius: 75px;
     border: 1px solid #555;
+    margin: 0.25rem;
     max-width: 150px;
   }
   @media (prefers-color-scheme: dark) {

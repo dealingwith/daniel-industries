@@ -37,7 +37,9 @@
   <link rel="icon" href="/public/stones.png">
   <meta name="fediverse:creator" content="@dealingwith@indieweb.social" />
   <link href="/assets/reset.css" rel="stylesheet">
-  <link href="/assets/style.css" rel="stylesheet">
+  {%- assign style_file = site.static_files | where: "path", "/assets/style.css" | first -%}
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}?v={{ style_file.modified_time | date: "%s" }}">
+  <!-- <link href="/assets/style.css" rel="stylesheet"> -->
   <link href="/assets/code.css" rel="stylesheet">
   <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/assets/code-dark.css">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for daniel.industries" href="/atom.xml" />

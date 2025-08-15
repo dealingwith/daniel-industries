@@ -10,8 +10,24 @@
         margin: 20px;
       }
 
+      .archivecontainer a {
+        line-height: 1.3rem;
+        text-decoration: none;
+      }
+
+      .archivecontainer a:hover {
+        color: var(--highlight);
+        /* text-decoration-color: var(--highlight);
+        text-decoration: underline;
+        text-decoration-style: inherit; */
+      }
+
       .archivecontainer a:not(.short_post) {
         font-weight: bold;
+      }
+
+      .archivecontainer a span.wordcount {
+        font-weight: normal;
       }
 
       .archivecontainer ul {
@@ -26,11 +42,21 @@
       }
 
       ul.highlighted {
-        border: 2px solid var(--pink);
+        border: 4px solid var(--pink);
+        padding: 0.5rem;
       }
 
       .archivecontainer ul li {
+        border: 1px solid var(--lightgrey);
+        border-radius: .5rem;
+        display: block;
         list-style: none;
+        margin: .5rem;
+        padding: 0.25rem .5rem;
+      }
+
+      .archivecontainer ul li:hover {
+        border: 1px solid var(--grey);
       }
 
       .hidden {
