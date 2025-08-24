@@ -82,7 +82,7 @@ h6 {
 
 a {
   color: var(--green);
-  text-decoration-style: dotted;
+  /* text-decoration-style: dotted; */
 }
 a:hover {
   /* border-bottom: 2px dotted var(--highlight); */
