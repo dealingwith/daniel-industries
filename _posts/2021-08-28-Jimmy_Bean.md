@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Jimmy Bean
-date: 2021-08-28 02:05:41
-categories:
+title: "Jimmy Bean"
+date: 2021-08-28 02:05:41 -0500
+excerpt: "Everyone loved Jimmy Bean and Jimmy loved everyone. Except when he didn't."
+categories: 
+ - fiction
  - 100 200-word character sketches
 ---
 
