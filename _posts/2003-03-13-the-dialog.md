@@ -13,7 +13,7 @@ Like any night, it was a toss-up between stepping off said porch for a quick and
 
 She shouted goodbye to Rodger, still high and half-comatose on the bedroom floor and let the door slam shut behind her.
 
-She was shocked by the steel elevator-button plate, just like every time. Since she was high, the electricity kind of felt good going through her hand and up to her elbow. Angie imagined the blue icicle then shooting across to the wall opposite, her body simply a conduit to the eternal living thing; this energy that never seems to just stay with her, it always must go on, moving on to the starving kids in South America, the children that pick the poppies that then fuel her existence.
+She was shocked by the steel elevator-button plate, just like every time. Since she was high, the electricity kind of felt good going through her hand and up to her elbow. Angie imagined the blue icicle then shooting across to the wall opposite, her body simply a conduit to the eternal living thing, this energy that never seems to just stay with her, it always must go on, moving on to the starving kids in South America, the children that pick the poppies that then fuel her existence.
 
 The elevator door opened. Angie entered and hit P like she had a thousand times before.
 

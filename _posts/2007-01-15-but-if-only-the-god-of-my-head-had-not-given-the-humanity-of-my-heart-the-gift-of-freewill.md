@@ -1,15 +1,9 @@
 ---
-author: dealingwith
 date: '2007-01-15 04:14:00'
 layout: post
 slug: but-if-only-the-god-of-my-head-had-not-given-the-humanity-of-my-heart-the-gift-of-freewill
-status: publish
 title: "but if only the god of my head had not given the humanity of my heart the gift of freewill"
 categories:
- - fiction
- - ideas
- - life
- - love
 ---
 
 It's just that choice is so powerful.

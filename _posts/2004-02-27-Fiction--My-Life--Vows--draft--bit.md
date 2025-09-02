@@ -2,7 +2,6 @@
 layout: post
 title: 'My Life--Vows'
 categories:
- - fiction
 ---
 
 <em>The events and characters depicted in this work are fictitious. Any similarity to actual persons, living or dead, is purely coincidental.</em>

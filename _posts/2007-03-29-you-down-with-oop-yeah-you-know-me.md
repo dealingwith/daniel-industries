@@ -1,16 +1,12 @@
 ---
-author: dealingwith
 date: '2007-03-29 13:24:00'
 layout: post
 slug: you-down-with-oop-yeah-you-know-me
-status: publish
 title: You down with OOP? Yeah you know me!
-wordpress_id: '2127'
 categories:
  - comedy
  - development
  - fiction
- - geek
  - writing
 ---
 
@@ -18,10 +14,7 @@ categories:
 
 "It depends. They both inherit from each other."
 
-"How can they inherit from each other, wouldn't that be impossible? Wait. Are
-they in different includes? So if I do include Love then I can instantiate Sex
-and it will inherit from Love, but if I do an include Sex then I can
-instantiate Love and it will inherit from Sex?"
+"How can they inherit from each other, wouldn't that be impossible? Wait. Are they in different includes? So if I do include Love then I can instantiate Sex and it will inherit from Love, but if I do an include Sex then I can instantiate Love and it will inherit from Sex?"
 
 "Something like that. No. Wait."
 
@@ -35,8 +28,7 @@ instantiate Love and it will inherit from Sex?"
 
 "Ooh. But I could swear sometimes Love inherits from Sex and vice versa."
 
-"I think the namespaces are all fucked up. Love is under Life but also under
-Sex which is also under Life. And Fucking is under all of the above."
+"I think the namespaces are all fucked up. Love is under Life but also under Sex which is also under Life. And Fucking is under all of the above."
 
 "You have to be really careful how you instantiate those classes, man."
 
@@ -49,4 +41,3 @@ Sex which is also under Life. And Fucking is under all of the above."
 "Well, would _you_ want the job?"
 
 "I would do Sex but only if they moved it into the root namespace."
-
