@@ -555,10 +555,10 @@ summary {
   outline: none;
 }
 summary::before {
-  content: " +";
+  content: " + ";
 }
 details[open] > summary::before {
-  content: " -";
+  content: " - ";
 }
 details[open] > summary {
   text-decoration: none;
