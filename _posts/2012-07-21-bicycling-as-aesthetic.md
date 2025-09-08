@@ -2,7 +2,6 @@
 layout: post
 title: "Bicycling as an Aesthetic and Ascetic Pursuit"
 date: 2012-07-21 15:34
-comments: true
 categories: bicycling
 ---
 

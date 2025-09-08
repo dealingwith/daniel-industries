@@ -4,6 +4,7 @@ title: "Good people on the internet"
 excerpt: "They still exist"
 date: 2020-05-10 23:25:10 -0500
 categories: 
+ - elsewhere
 ---
 
 [Leland Sklar's YouTube channel](https://www.youtube.com/channel/UCs5yDeiOgkyRZGZGphlSbIw). You know Leland Sklar as the bass player with the giant beard in Phil Collin's band. He [also played with less-known bands](https://en.wikipedia.org/wiki/Leland_Sklar#Selected_albums) such as Jackson Browne, Lyle Lovett, Warren Zevon, Toto, James Taylor, Linda Ronstadt, Dolly Parton, Reba McEntire and like, I don't know, literally 100 other artists you have absolutely heard of. Well it turns out he's exactly the wise man speaking into a webcam we need in this economy.

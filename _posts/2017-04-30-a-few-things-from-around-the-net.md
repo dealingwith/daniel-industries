@@ -6,7 +6,6 @@ date: 2017-04-30 23:01:50 -0500
 categories: 
  - bicycling
  - elsewhere
- - sad
  - design
 ---
 

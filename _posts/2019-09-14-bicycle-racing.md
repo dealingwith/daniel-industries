@@ -3,8 +3,8 @@ layout: post
 title: "Bicycle racing, 1982"
 excerpt: 
 date: 2019-09-14 14:35:33 -0500
-comments: true
 categories: 
+ - bicycling
 ---
 
 There's so much going on in this video.

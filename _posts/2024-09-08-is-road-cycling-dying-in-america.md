@@ -7,9 +7,9 @@ categories:
  - bicycling
 ---
 
-I noticed this Reddit post: [Is road cycling dying in America?](https://www.reddit.com/r/cycling/comments/1f6lc85/is_road_cycling_dying_in_america/) and ended up leaving a comment a couple of days later that was a good postmortem on the [bicycling-related venture I explored last year](https://www.daniel.industries/2024/01/06/2023-in-review/#txyc):
+I noticed this Reddit post: _[Is road cycling dying in America?](https://www.reddit.com/r/cycling/comments/1f6lc85/is_road_cycling_dying_in_america/)_ and ended up leaving a comment a couple of days later that was a good postmortem on the [bicycling-related venture I explored last year](https://www.daniel.industries/2024/01/06/2023-in-review/#txyc):
 
-I researched this for about three months last year trying to get [something going](https://txyouthcycling.org/) after seeing this gap and wondering what happened to the thriving junior racing scene I enjoyed in the 90s in PA. Here is what I found, and what led me to give up.
+I researched this for about three months last year trying to get something going (TXYC, RIP) after seeing this gap and wondering what happened to the thriving junior racing scene I enjoyed in the 90s in PA. Here is what I found, and what led me to give up.
 
 1. There aren't as many races because costs and logistical hassles have made organizing one untenable. See "[What the hell happened to road racing](https://www.reddit.com/r/Velo/comments/udbejk/what_the_hell_happened_to_bicycle_road_racing_in/)" on here and [this article](https://peterabraham.medium.com/what-happened-to-bike-racing-in-the-us-e849cf6a517d).
 

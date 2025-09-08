@@ -3,8 +3,8 @@ layout: post
 title: "Race numbers"
 excerpt: "I found these in my shed along with some trophies..."
 date: 2017-07-29 15:11:14 -0500
-comments: true
 categories: 
+ - bicycling
 ---
 
 I found these in my shed along with some trophies. I threw away the trophies immediately, but the numbers I had to scan (or at least some of them). They're crumpled because you would crumple your number before pinning it on your jersey to keep it from flapping in the wind.

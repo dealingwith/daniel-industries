@@ -30,8 +30,15 @@
 
 html,
 body {
-  font-size: 1rem;
+  font-size: 1.05rem;
   line-height: 1.5rem;
+}
+@media screen and (max-width: 700px) {
+  html,
+  body {
+    font-size: 1.15rem;
+    line-height: 1.6rem;
+  }
 }
 body {
   background: var(--bg);
@@ -74,18 +81,12 @@ h6 {
 ::selection {
   background: var(--highlight);
   color: var(--bg);
-  /* border-bottom: 2px;
-  border-style: wavy;
-  border-color: var(--highlight);
-  */
 }
 
 a {
   color: var(--green);
-  /* text-decoration-style: dotted; */
 }
 a:hover {
-  /* border-bottom: 2px dotted var(--highlight); */
   color: var(--highlight);
   text-decoration-color: var(--highlight);
   text-decoration-style: solid;
@@ -121,11 +122,11 @@ h6 a {
   margin: 2rem auto;
   min-height: 100vh;
   padding: 1rem;
-  width: 700px;
+  width: 600px;
 }
 @media screen and (max-width: 700px) {
   .main-content {
-    margin: 3rem auto;
+    margin: 0rem auto;
     width: auto;
   }
 }
@@ -366,6 +367,7 @@ pre {
 }
 .menu ul li {
   background-color: var(--lightgrey);
+  border: 2px solid var(--green);
   border-radius: 5px;
   display: inline-block;
   list-style: none;
@@ -373,6 +375,12 @@ pre {
   padding: 0 10px;
   text-align: left;
 }
+/* @supports (corner-shape: squircle) {
+  .menu ul li {
+    border-radius: 10px;
+    corner-shape: squircle;
+  }
+} */
 .menu a {
   text-decoration: none;
 }
@@ -381,13 +389,13 @@ pre {
 }
 @media screen and (max-width: 700px) {
   .menu {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   .menu ul li {
-    display: block;
+    display: inline-block;
     margin: 10px 0;
-    padding: 5px 10px;
-    text-align: right;
+    padding: 3px 7px;
+    text-align: left;
   }
 }
 
