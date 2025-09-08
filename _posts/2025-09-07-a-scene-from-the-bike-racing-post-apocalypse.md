@@ -15,7 +15,7 @@ They set off in a group of boys and girls in two age groups each (9-12 and 13-14
 
 The first boys came in, the big 13 and 14-year-olds, as always. Then we waited for Milo to appear. And waited. And waited. Finally, as I could see him in the distance, a boy was crossing the finish line screaming, "We went a mile off course!" About 30 seconds later Milo crossed the line just in front of the broom wagon and the sweep rider (a dad who had raced earlier). I saw a bike on the back of the broom wagon and knew that except for that one DNF (who was a very young boy, maybe not even 9), Milo had come in last.
 
-It took a while to walk back down the hill to the start area, where we found Milo, who immediately broke into tears and told us they had gone off course, explaining that a sheriff's officer had directed them straight at the first turn, a few miles into the race. Apparently someone caught up to them in a vehicle and told them to turn around.
+It took a while to walk back down the hill to the start area, where we found Milo, who immediately burst into tears and told us they had gone off course, explaining that a sheriff's officer had directed them straight at the first turn, a few miles into the race. Apparently someone caught up to them in a vehicle and told them to turn around.
 
 Race over.
 
@@ -29,6 +29,6 @@ My 11-year-old son, along with two more boys aged 9 and 10, were riding by thems
 
 Milo was crushed, and for obvious reasons neither he nor I want him participating in such an event again. The thing is, there are no other events for him.
 
-When we got back to Dallas we discovered he had a 102°F fever. He's spent the rest of the weekend convalescing. I've spent the rest of the weekend cooling off emotionally. The good news is he told me today, "We should go bike camping." That's the spirit.
+When we got back to Dallas we discovered he had a 102°F fever. He's spent the rest of the weekend convalescing. I've spent the rest of the weekend cooling off emotionally. The good news is he told me today, "We should go bikepacking." That's the spirit.
 
 And seriously, fuck bike racing in this country. [It's not what it used to be](/2008/10/05/rapha-gentlemens-race/ "By the time I was most of the way through college, bicycle racing had started to be more the domain of the overcompensating and asinine"), it's [entirely lost any of the souplesse](/2012/07/21/bicycling-as-aesthetic/ "Bike racing attracts a certain kind of douchebag") it used to have.
