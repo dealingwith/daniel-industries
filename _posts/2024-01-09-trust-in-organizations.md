@@ -26,6 +26,6 @@ The post I was looking for is: [The Three Paths](/2017/04/22/the-three-paths/ "T
 
 > In my experience, I have seen three methods for developing software products: trust, process or misery.
 
-There is also: [Henry Gantt](/2022/09/13/henry-gantt/ "Henry Gantt") (which quotes three other John Cutler (The Beautiful Mess) posts).
+There is also: [Henry Gantt](/2022/09/13/henry-gantt/ "Henry Gantt") (which itself quotes three other John Cutler's _The Beautiful Mess_ posts).
 
 > Gantt charts are a lagging indicator of dysfunction, specifically a lack of trust within an organization. When used as a planning tool, they're fine. When used as a tool for "accountability", they become the proverbial canary in your software coalmine.
