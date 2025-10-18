@@ -410,9 +410,14 @@ pre {
   }
 }
 
+header {
+  padding: 0.5rem 1rem;
+}
+
 .footer {
   font-family: var(--sans);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  padding: 0.5rem 0.7rem;
   text-align: right;
 }
 
@@ -420,7 +425,7 @@ pre {
 .postscript,
 .blog_nav,
 .post-footer {
-  border-top: 1px dashed var(--grey);
+  border-top: 1px solid var(--lightgrey);
   font-size: 0.95rem;
 }
 .postscript,
