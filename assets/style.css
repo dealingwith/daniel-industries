@@ -369,7 +369,14 @@ pre {
   padding: 0;
 }
 .menu ul li {
-  background-color: var(--lightgrey);
+  /* background-color: var(--lightgrey); */
+  background-image: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 4px,
+    rgba(0, 0, 0, 0.08) 4px,
+    rgba(0, 0, 0, 0.08) 5px
+  );
   border-left: 1px solid var(--green);
   display: inline-block;
   font-size: 0.9rem;
