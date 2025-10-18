@@ -23,9 +23,19 @@
         {{ content }}
       </article>
 
-      {% assign backlinks_content = page.url | backlink %}
-      {% if backlinks_content != "" %}
-      <p class="backlinks">Backlinks: {{ backlinks_content }}</p>
+      {% assign backlinks = page.url | backlinks_array %}
+      {% if backlinks.size > 0 %}
+      <div class="backlinks">
+        <h4>Backlinks</h4>
+        <ul>
+          {% for link in backlinks %}
+          <li>
+            <a href="{{ link.url }}">{{ link.title }}</a>
+            <span class="backlink-meta">{{ link.date | date: "%B %-d, %Y" }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
       {% endif %}
 
       <div class="blog_nav">

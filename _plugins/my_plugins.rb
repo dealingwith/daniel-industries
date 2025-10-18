@@ -31,6 +31,25 @@ end
 
 module Jekyll
   module Backlinks
+    # Returns array of backlink hashes with url, title, date, and word_count
+    def backlinks_array(input)
+      backlinks = []
+      site = @context.registers[:site]
+      site.posts.docs.each do |post|
+        if post&.content&.include? input
+          backlinks << {
+            "url" => post.url,
+            "title" => post.data["title"],
+            "date" => post.date,
+            "word_count" => post.content.scan(/\S+/).count,
+            "categories" => post.data["categories"] || []
+          }
+        end
+      end
+      backlinks
+    end
+
+    # Legacy filter for backwards compatibility - returns comma-separated HTML string
     def backlink(input)
       backlinks = []
       site = @context.registers[:site]

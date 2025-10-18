@@ -13,7 +13,7 @@
   --text: #040404;
   --highlight: var(--lightgreen);
   --diagonal-stripe: repeating-linear-gradient(
-    45deg,
+    -45deg,
     transparent,
     transparent 4px,
     rgba(0, 0, 0, 0.08) 4px,
@@ -226,13 +226,10 @@ h3 a:hover,
   text-decoration: underline;
 }
 
-blockquote,
-.backlinks {
+blockquote {
   margin-bottom: 1rem;
   margin-left: 0;
   padding-left: 1rem;
-}
-blockquote {
   border-left: 2px solid var(--lightgreen);
 }
 .main-content blockquote p:first-of-type {
@@ -241,10 +238,33 @@ blockquote {
 .main-content blockquote p:last-of-type {
   margin-bottom: 0;
 }
+
 .backlinks {
+  background: var(--lightgrey) var(--diagonal-stripe);
   border-radius: 5px;
-  background-color: var(--lightgrey);
-  padding: 0.8rem 1rem 0.7rem;
+  margin-bottom: 1rem;
+  padding: 0.8rem 1rem;
+}
+.backlinks h3 {
+  margin-bottom: 0.5rem;
+  padding: 0;
+}
+.backlinks ul {
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.backlinks li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+}
+.backlinks li:last-child {
+  margin-bottom: 0;
+}
+.backlink-meta {
+  color: var(--grey);
+  display: block;
+  font-size: 0.85rem;
+  margin-top: 0.1rem;
 }
 
 img {
