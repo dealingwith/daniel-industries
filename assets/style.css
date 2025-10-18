@@ -355,47 +355,51 @@ pre {
 }
 
 .menu {
+  border-bottom: 1px solid var(--green);
   font-family: var(--sans);
   font-size: 0.9rem;
   margin: 0;
-  padding: 0 1rem;
+  padding: 0;
   text-align: right;
 }
 .menu ul {
+  font-size: 0;
   list-style: none;
+  margin: 0;
   padding: 0;
 }
 .menu ul li {
   background-color: var(--lightgrey);
-  border: 2px solid var(--green);
-  border-radius: 5px;
+  border-left: 1px solid var(--green);
   display: inline-block;
+  font-size: 0.9rem;
   list-style: none;
-  margin: 0 2px;
-  padding: 0 10px;
+  margin: 0;
+  padding: 0;
   text-align: left;
 }
-/* @supports (corner-shape: squircle) {
-  .menu ul li {
-    border-radius: 10px;
-    corner-shape: squircle;
-  }
-} */
 .menu a {
+  display: block;
+  padding: 0.5rem 1rem;
   text-decoration: none;
 }
 .menu a:visited {
   color: var(--green);
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 500px) {
   .menu {
     font-size: 0.9rem;
   }
   .menu ul li {
-    display: inline-block;
-    margin: 10px 0;
-    padding: 3px 7px;
+    border-bottom: 1px solid var(--green);
+    border-left: none;
+    display: block;
+    margin: 0;
+    padding: 0;
     text-align: left;
+  }
+  .menu a {
+    padding: 0.5rem 1rem;
   }
 }
 
