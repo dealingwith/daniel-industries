@@ -414,11 +414,60 @@ header {
   padding: 0.5rem 1rem;
 }
 
-.footer {
-  font-family: var(--sans);
-  font-size: 0.85rem;
-  padding: 0.5rem 0.7rem;
+footer {
+  border-top: 1px solid var(--green);
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+footer ul {
+  font-size: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
   text-align: right;
+}
+footer ul li {
+  background-color: var(--lightgrey);
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 4px,
+    rgba(0, 0, 0, 0.08) 4px,
+    rgba(0, 0, 0, 0.08) 5px
+  );
+  border-left: 1px solid var(--green);
+  display: inline-block;
+  font-size: 0.85rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+footer a {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+footer a:visited {
+  color: var(--green);
+}
+footer img {
+  display: inline;
+  height: 1em;
+  margin: 0;
+  vertical-align: text-bottom;
+  width: auto;
+}
+@media screen and (max-width: 500px) {
+  footer ul li {
+    border-bottom: 1px solid var(--green);
+    border-left: none;
+    display: block;
+  }
+  footer a {
+    padding: 0.5rem 1rem;
+  }
 }
 
 .footnotes,
