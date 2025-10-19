@@ -1,4 +1,11 @@
-<br style="clear:both">
-<footer class="footer">
-  <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons licensed</a> 2001&ndash;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+<footer>
+  <ul>
+    {% if page.layout == "post" or page.url == "/blog/" or page.url == "/blog/index.html" %}
+    <li><a href="/archives">Archives</a></li>
+    <li><a href="/blogroll">Blogroll</a></li>
+    {% endif %}
+    <li><a href="/atom.xml">RSS</a></li>
+    <li><a href="http://creativecommons.org/licenses/by/4.0/"><img src="/assets/page/cc.svg" alt="CC Licensed" />
+        2001&ndash;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time></a></li>
+  </ul>
 </footer>

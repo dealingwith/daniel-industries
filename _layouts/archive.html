@@ -7,7 +7,10 @@
     <style>
       body {
         font-size: 1rem;
-        margin: 20px;
+      }
+
+      .archive-main {
+        margin: 1rem;
       }
 
       .archivecontainer a {
@@ -17,9 +20,6 @@
 
       .archivecontainer a:hover {
         color: var(--highlight);
-        /* text-decoration-color: var(--highlight);
-        text-decoration: underline;
-        text-decoration-style: inherit; */
       }
 
       .archivecontainer a:not(.short_post) {
@@ -70,41 +70,41 @@
       }
     </style>
     {% include menu.html %}
-    <div class="top_control_area">
-      <a id="hideshort" href='javascript:;' onclick="hideShortPosts()">Toggle short posts</a> (<span
-        id="shortpostscount"></span>)
-    </div>
-    {% unless page.title == "Categories" %}
-    <div id="years" class="top_control_area">
-      {% assign years = "" | split: "," %}
+    <div class="archive-main">
+      <div class="top_control_area">
+        <a id="hideshort" href='javascript:;' onclick="hideShortPosts()">Toggle short posts</a> (<span
+          id="shortpostscount"></span>)
+      </div>
+      {% unless page.title == "Categories" %}
+      <div id="years" class="top_control_area">
+        {% assign years = "" | split: "," %}
 
-      {% for post in site.posts %}
-      {% assign year = post.date | date: "%Y" %}
-      {% unless years contains year %}
-      {% assign years = years | push: year %}
+        {% for post in site.posts %}
+        {% assign year = post.date | date: "%Y" %}
+        {% unless years contains year %}
+        {% assign years = years | push: year %}
+        {% endunless %}
+        {% endfor %}
+
+        {% for year in years %}
+        {% assign count = 0 %}
+        {% for post in site.posts %}
+        {% assign post_year = post.date | date: "%Y" %}
+        {% if post_year == year %}
+        {% assign count = count | plus: 1 %}
+        {% endif %}
+        {% endfor %}
+        <a href="#y-{{ year }}" class="year_box" style="font-weight: bold">{{ year }}
+          ({{ count }})</a>
+        {% endfor %}
+        <div style="clear:both"></div>
+      </div>
       {% endunless %}
-      {% endfor %}
-
-      {% for year in years %}
-      {% assign count = 0 %}
-      {% for post in site.posts %}
-      {% assign post_year = post.date | date: "%Y" %}
-      {% if post_year == year %}
-      {% assign count = count | plus: 1 %}
-      {% endif %}
-      {% endfor %}
-      <a href="#y-{{ year }}" class="year_box" style="font-weight: bold">{{ year }}
-        ({{ count }})</a>
-      {% endfor %}
-      <div style="clear:both"></div>
+      <div class="archivecontainer">
+        {{ content }}
+      </div>
     </div>
-    {% endunless %}
-    <div class="archivecontainer">
-      {{ content }}
-    </div>
-    <div class="container content">
-      {% include footer.html %}
-    </div>
+    {% include footer.html %}
   </body>
 
   <script>

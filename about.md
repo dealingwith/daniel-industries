@@ -4,7 +4,7 @@ layout: page
 ---
 
 <style>
-  img {
+  .main-content img {
     float: right;
     background-color: #eee;
     border-radius: 75px;
@@ -13,7 +13,7 @@ layout: page
     max-width: 150px;
   }
   @media (prefers-color-scheme: dark) {
-    img {
+    .main-content img {
       border: 1px solid #fff;
     }
   }
