@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Highlights from Anne Lamott's \"Somehow\""
-excerpt: 
+excerpt: "I wish the movement of love in our lives more closely resembled the grace of a ballerina, but no, love mainly tromps and plops, falls over and tiptoes through our lives."
 date: 2025-09-29 07:32:25 -0500
 categories: 
 ---
