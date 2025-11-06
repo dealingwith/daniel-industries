@@ -8,7 +8,7 @@ categories:
  - product
 ---
 
-In my experience, I have seen three methods for developing software products: trust, process or misery. 
+In my experience, I have seen three methods for developing software products: trust, process, or misery. 
 
 It could be said that trust in one's colleagues is a requirement of product development, but it's really only a requirement if one is adverse to misery. Sharing or delegating work, with the honest expectation that everyone is working towards the same end with the same effort, willing to help one another along the way---this is the way most people like to work. 
 

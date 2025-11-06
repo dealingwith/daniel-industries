@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Five random thoughts"
-excerpt: "I thought these were going somewhere, and maybe they were, but I ran out of rabbit-hole time"
+excerpt: 
 date: 2025-10-26 22:14:04 -0500
 categories: 
  - thoughts
 ---
+
+I thought these were going somewhere, and maybe they were, but I ran out of rabbit-hole time.
 
 ### Systems impact lives
 
