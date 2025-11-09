@@ -7,7 +7,7 @@
   --header: "Aleo", serif;
   --sans: sans-serif;
   --serif: serif;
-  --lightgreen: #7b8545;
+  --lightgreen: #b8c189; /* #a4b067 #7b8545 */
   --lightgrey: #eeeeee;
   --pink: #ffd5dc;
   --text: #040404;
@@ -166,8 +166,8 @@ h6 a {
 
 hr {
   border: 0;
-  border-top: 1px solid var(--green);
-  width: 80%;
+  border-top: 1px solid var(--lightgreen);
+  /* width: 80%; */
 }
 .main-content hr.alt {
   margin: 1rem 0;
@@ -544,7 +544,7 @@ sup a:hover {
 }
 
 div.blog-index-div {
-  border-bottom: 1px solid var(--lightgrey);
+  border-bottom: 1px solid var(--lightgreen);
   padding: 0.5rem 0;
 }
 div.blog-index-div h3 {

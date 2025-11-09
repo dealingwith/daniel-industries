@@ -75,7 +75,7 @@ When she was debriefed in horrible detail about the activities on the island, it
 
 The captain said nothing in reply. He just gave her an imperious look.
 
-And so it wasn't until the boat was pulling away, leaving her alone on the island with a backpack, a tent, a sleeping bag, a trunk full of MREs and testing equipment, that she realized that then and only then was it too late to back out.
+And so it wasn't until the boat was pulling away, leaving her alone on the island with a backpack, a tent, a sleeping bag, and a trunk full of MREs and testing equipment, that she realized that then and only then was it too late to back out.
 
 It was dusk, so she set about setting up her tent. She cooked an MRE. She contemplated the mutant sea life around the shores of the island. She contemplated the poisoned soil. She contemplated her health. She contemplated the rippling effects of the terrible pollutants that might be evident on the island.
 
@@ -313,9 +313,9 @@ Dave stood up and straightened his lab coat. “Thanks,” he said.
 
 “Well, thanks just the same,” Dave said and walked into the dark towards the compound.
 
-Away from him for the first time in hours, Naomi’s body relaxed just a little bit, and exhaustion washed over her. She walked towards the ocean and stood in the quiet for a while, thinking. On one hand, it was obvious what had happened here, on the other hand, there were far too many unanswered questions. Dave was a victim, obviously. But what was he now, physically? Were they engineering superhumans? Flesh and bone weapons? Were they just testing drugs and this was the result? Why were they so careless as to leave a subject behind? How had he lived here on his own for so long, and how did he not have any sense for the time that had passed? She didn’t like having so many unanswered questions. She hadn’t even found anything in the environment here to give her any clues in terms of her original purpose. She didn’t like having more questions now. Well, she liked it a little bit.
+Away from him for the first time in hours, Naomi’s body relaxed just a little bit, and exhaustion washed over her. She walked towards the ocean and stood in the quiet for a while, thinking. On one hand, it was obvious what had happened here, on the other hand, there were far too many unanswered questions. Dave was a victim, obviously. But what was he now, physically? Were they engineering superhumans, flesh and bone weapons? Were they just testing drugs and this was the result? Why were they so careless as to leave a subject behind? How had he lived here on his own for so long, and how did he not have any sense for the time that had passed? She didn’t like having so many unanswered questions. She hadn’t even found anything in the environment here to give her any clues in terms of her original purpose. She didn’t like having more questions now. Well, she liked it a little bit.
 
-Still, the entire thing kept her under threat. Dave was a complete unknown. He might kill her in her sleep. Although he could have done that at any moment thus far. The government people who sent her here could do anything. Clearly, they were capable of unspeakable things and were interested in keeping those things a secret. If she now knew that secret, what would keep them from keeping her locked up for life?
+Still, the entire thing kept her under threat. Dave was a complete unknown. He might kill her in her sleep, although he could have done that at any moment thus far. The government people who sent her here could do anything. Clearly, they were capable of unspeakable things and were interested in keeping those things a secret. If she now knew that secret, what would keep them from keeping her locked up for life?
 
 It was starting to feel like too much. She walked back to her tent and laid down. She couldn’t sleep, but just being horizontal felt good. She closed her eyes but kept her ears alert.
 
@@ -365,13 +365,13 @@ As her stomach started reminding her it was lunchtime, she thought about Dave. S
 
 “What are you sorry for?”
 
-“For being here,” he said. “But I’m ok, you can go back to your work. I’ll pop out later to see if you’ve found anything else.”
+“For being here,” he said. “But I’m ok, you can go back to your work. I’ll come out later to see if you’ve found anything else.”
 
 Naomi didn’t know how to respond. “Ok,” she said. She paused, feeling like she should say something more, but couldn’t think of anything, so she turned and headed back to her campground.
 
-Since all the objects from the compound’s labs were seemingly clean and data-free, Naomi went back to collecting samples from the environment. She’d focused on the land so far, but it was time to focus on the water. She didn’t have the equipment to do any testing whatsoever on the water, and she had no plans on taking any living creatures back to her lab with her, so she had simply brought a number of vessels with which to collect seawater samples with.
+Since all the objects from the compound’s labs were seemingly clean and data-free, Naomi went back to collecting samples from the environment. She’d focused on the land so far, but it was time to focus on the water. She didn’t have the equipment to do any testing whatsoever on the water, and she had no plans on taking any living creatures back to her lab with her, so she had simply brought a number of vessels with which to collect seawater samples.
 
-She made her way along the shore where she could -- on either side of the long fence -- collecting samples. She tried to focus on tide pools or other areas where water had collected and been still for a while, hoping that water might have picked up some traces of...anything. It was while crouched down to scoop some water out of a tide pool that she saw it. It was fish that looked very much like a large piranha. It was about twice the size of a normal piranha and had accentuated, sharp scales on its back and a boney face. It was looking right at her, easily controlling its movements and remaining still in the swells along the shore. 
+She made her way along the shore where she could--on either side of the long fence--collecting samples. She tried to focus on tide pools or other areas where water had collected and been still for a while, hoping that water might have picked up some traces of...anything. It was while crouched down to scoop some water out of a tide pool that she saw it. It was fish that looked very much like a large piranha. It was about twice the size of a normal piranha and had accentuated, sharp scales on its back and a boney face. It was looking right at her, easily controlling its movements and remaining still in the swells along the shore. 
 
 Naomi stood, startled, and dropped her collection vessel. It bounced off the rocks at her feet and the fish leaped from the water towards it -- and her. She yelped and stumbled backward, almost falling but managing to get one foot back off the wet rocks and onto drier land. The fish, now on the rocks just before her, didn’t flap. It almost stood, using its unusual ventral fins to steady itself. Then, using coordinated movements of its clearly strong muscles, it gradually spun itself around and lept back into the water.
 
