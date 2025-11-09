@@ -238,6 +238,9 @@ blockquote {
 .main-content blockquote p:last-of-type {
   margin-bottom: 0;
 }
+blockquote blockquote {
+  margin-top: 1rem;
+}
 
 .backlinks {
   background: var(--lightgrey) var(--diagonal-stripe);

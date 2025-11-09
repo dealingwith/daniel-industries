@@ -1,18 +1,14 @@
 ---
-author: dealingwith
 date: '2007-11-25 16:48:00'
 layout: post
 slug: more-johnny-in-yer-podcasts
-status: publish
 title: more Johnny in yer podcasts
-wordpress_id: '2378'
 categories:
  - johnny citizen
  - music
  - podcast
 ---
 
-[the delicate art of noise pollution podcast plays Johnny Citizen][1].
+<a class="dead">the delicate art of noise pollution podcast plays Johnny Citizen</a>.
 
-   [1]: http://www.noisepollution.nl/blog/?p=44
-
+[Update 2025: I wish I'd saved this podcast episode. I think they played [4 a.m. at Charles de Gaulle Airport](https://danielmiller.bandcamp.com/track/4-a-m-at-charles-de-gaulle-airport)]

@@ -3,8 +3,9 @@ layout: post
 title: "Two compliments"
 excerpt: "This one is for me"
 date: 2019-08-16 09:34:02 -0500
-comments: true
 categories: 
+ - bicycling
+ - minutia
 ---
 
 I've received two really meaningful compliments in the last week:
