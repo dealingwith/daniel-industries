@@ -31,6 +31,8 @@ categories:
 
 >> Ambition abstracts us from the underlying elemental nature of the creative conversation while providing us the cover of a target that has become false through over-description, overfamiliarity or too much understanding. The ease of having an ambition is that it can be explained to others; the very disease of ambition is that it can be so easily explained to others.
 
+[![](/assets/2025/11/jenga.jpg)](https://www.asofterworld.com/index.php?id=235)
+
 I have various ill-defined things I'm working on, things called _The Hypothesis_ or _The Project_ (_two_ of those) in my notes, etc. Some things are reasonably defined and named! That always feels like progress, like the _start_ of something. Hell, I might even spin up a shitty logo using some generator or AI. But they're no further along than the ambiguous ones, and they don't feel as important, and often less exciting.
 
 > The suspense is terrible. I hope it will last.
