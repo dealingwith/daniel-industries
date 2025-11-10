@@ -30,9 +30,9 @@ She plays drums and Paper Jamz guitar.
 
 She says *"Baby Milo in Mommy's tummy."*
 
-![]({{site.url}}/images/DSC_3903.jpg)
+![]({{site.url}}/assets/2014/02/DSC_3903.jpg)
 
-![]({{site.url}}/images/DSC_4327-2.jpg)
+![]({{site.url}}/assets/2014/02/DSC_4327-2.jpg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=72457702/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sonlux.bandcamp.com/album/we-are-rising-remixed">We Are Rising - REMIXED by Son Lux</a></iframe>
 

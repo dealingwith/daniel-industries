@@ -18,7 +18,7 @@ Lucy turned 1 on Friday and yesterday we had some friends over for a celebration
 
 ![Our friends Camille and Eric of bandofpuppets.com came with guitars, voices and puppets](http://farm9.staticflickr.com/8338/8256519172_f8426a7ddc_o.jpg)
 
-![Carissa and Lucy]({{site.url}}/images/c_l_flowers.jpg)
+![Carissa and Lucy]({{site.url}}/assets/2012/12/c_l_flowers.jpg)
 
 > She is clothed with strength and dignity; she can laugh at the days to come.  
 She speaks with wisdom, and faithful instruction is on her tongue.  

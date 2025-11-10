@@ -3,7 +3,7 @@ layout: post
 title: "[the title of this poem is redacted]"
 ---
 
-<img src="/images/personalheader.jpg" title="John Heron Project">
+<img src="/assets/2011/11/personalheader.jpg" title="John Heron Project">
 
 My friend Wood wrote this poem. He recently decided to let his domain name go and shutter the site it was published on, so I felt the need to preserve it here.
 
