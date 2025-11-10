@@ -22,6 +22,6 @@ from [In quotes: Aaron Draplin](https://www.umbrellamagazine.co.uk/feature/in-qu
 
 Previously:
 
-![meeting the famous Aaron Draplin]({{site.url}}/images/xoxo2.jpg)
+![meeting the famous Aaron Draplin]({{site.url}}/assets/2012/09/xoxo2.jpg)
 
 [Also previously]({{site.url}}/2008/07/31/draplin-on-why-america-is-fked-graphically-at-least/)

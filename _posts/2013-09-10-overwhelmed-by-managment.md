@@ -2,11 +2,8 @@
 layout: post
 title: "Overwhelmed by Management"
 date: 2013-09-10 23:41
-comments: true
 categories: minutia, thoughts
 ---
-
-![Shelf of things](http://farm6.staticflickr.com/5535/9720057139_84e1ae7284_z.jpg "I'm not sure what this photo has to do with this post, but I like it. It's a shelf in my late grandfather's shop. He was one of those people who really did seem to have everything together")
 
 Somehow in the last 9-10 months I've gone from managing (seemingly) almost nothing to managing (seemingly) _everything_. This had made me feel very old. Like somehow one hits some age where one looks around and realizes _no one is in control here_ and instead of continuing about one's life one _takes control_. And it all feels very overwhelming. I am now in a job with more responsibility (which, yea!), part (most?) of which is managing (three! just three people! it's _so_ much of my time). I manage the family finances. I plan and execute vacations. I am producing and releasing a record (_way_ more work--when you're doing it entirely on your own--than most people realize). I am managing a Minecraft server for a handful of 9 year old boys (which, _OMFG!_). I organize a _weekly bike ride_ from a _Facebook group_ that I'm trying to form into a _proper road bicycle club_. I'd like to actually _blog_ more than once a month! My [read later](http://www.instapaper.com/) queue, for goodness sake.
 
@@ -28,6 +25,6 @@ Sure there are the exceptions we all aspire to be. The _overachievers_. But I be
 
 Lucy remains amazing. I've missed so much in terms of documenting said amazingness on this blog. But she plays the drums, holds impromptu dance parties, is affectionate, opinionated, demanding and just so darn cute no one can even stand it, and I keep double checking my own prejudice against 3rd party exclamations of the same!
 
-![Lucy drums]({{site.url}}/images/lucy_drums.jpg)
+![Lucy drums]({{site.url}}/assets/2013/09/lucy_drums.jpg)
 
 (Seriously, just go [follow my wife on Instagram](http://instagram.com/carissabyers).)
