@@ -6,7 +6,7 @@ categories:
  - Integration Research
 ---
 
-I don't really go by Relevant Magazine anymore because the content there reeks of their evangelical and modern roots. However today I was perchance at <a class="dead" title="dead link">a blog</a> that linked to them, and I cam across this atrocity: <a class="dead" title="dead link">When Artists Say "Give Peace a Chance"</a> and I'm so livid I have to respond.
+I don't really go by Relevant Magazine anymore because the content there reeks of their evangelical and modern roots. However today I was perchance at <a class="dead" title="dead link">a blog</a> that linked to them, and I came across this atrocity: <a class="dead" title="dead link">When Artists Say "Give Peace a Chance"</a> and I'm so livid I have to respond.
 
 If you read it, and read my stuff at all, you'll realize why I'm so pissed. The anti-artistry and just war themes are evident in each paragraph.
 

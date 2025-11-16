@@ -12,7 +12,7 @@ In completely unrelated events...Yes this sounds about right. Almost makes me no
 
 > Why I Live In South Florida
 
-> The Miami Herald reports today that the chief of police of my town, Coral Gables, accidentally shot his gun in the bathroom of the police department Wednesday. Last year he accidentally shot his gun in a fitness club. Sooner or later, he is bound to hit a criminal. I say this because our criminals are not the sharpest knives in the drawer; if you scroll down from the police-chief item -- past the item about the trial of the gastroenterologist charged with having sex with a patient who was under anestheisia while being treated for varicose veins -- you come to the item about the sentencing of a man who robbed a bank and then, during the getaway, shot himself in the pants.
+> The Miami Herald reports today that the chief of police of my town, Coral Gables, accidentally shot his gun in the bathroom of the police department Wednesday. Last year he accidentally shot his gun in a fitness club. Sooner or later, he is bound to hit a criminal. I say this because our criminals are not the sharpest knives in the drawer; if you scroll down from the police-chief item -- past the item about the trial of the gastroenterologist charged with having sex with a patient who was under anesthesia while being treated for varicose veins -- you come to the item about the sentencing of a man who robbed a bank and then, during the getaway, shot himself in the pants.
 > 
 > Two items below that is an update on an injured pygmy sperm whale, Kokomo, who had been staying in the swimming pool of a motel.
 >
