@@ -80,15 +80,6 @@ On Tuesday, August 17th many dear friends of ours gathered to remember our perfe
 
 ---
 
-## Wake Up John
-<p class="post-metadata"><time>December 2009</time></p>
-
-My friend Jon Broom was in a motorcycle accident on September 5, 2009 and suffered a severe brain injury. At the time we started writing and recording this song, he was still in a coma. We recorded this song to help his family during that time. 
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1606456035/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://wakeupjon.bandcamp.com/track/wake-up-jon">Wake Up Jon by Friends of Jon Broom</a></iframe>
-
----
-
 ## l'objet petit a
 <p class="post-metadata"><time>March 2009</time></p>
 
