@@ -3,8 +3,7 @@ layout: post
 title: "From around the web"
 excerpt: "On a variety of subjects"
 date: 2017-11-04 22:19:36 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 On freedom and the World Wide Web's demise:

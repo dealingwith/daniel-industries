@@ -3,8 +3,7 @@ layout: post
 title: "From around the web"
 excerpt: "More random tidbits from around the world wide web"
 date: 2018-02-10 23:21:32 -0600
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 [Bertrand Russell’s Ten Commandments of Critical Thinking ](https://www.brainpickings.org/2012/05/02/a-liberal-decalogue-bertrand-russell/)

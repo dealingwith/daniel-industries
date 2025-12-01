@@ -3,7 +3,6 @@ layout: post
 title: "From Around the Web / Facebook is Evil Edition Part 3"
 excerpt: 
 date: 2017-11-20 19:51:22 -0600
-comments: true
 categories: elsewhere, facebook
 ---
 

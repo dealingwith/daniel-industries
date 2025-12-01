@@ -3,8 +3,7 @@ layout: post
 title: "From around the web"
 excerpt: "More interesting tidbits"
 date: 2017-11-30 23:01:46 -0600
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 ["Definitely Not Trying to Fit In" with Tobias van Schneider](https://www.indiehackers.com/podcast/035-tobias-van-schneider-of-semplice)

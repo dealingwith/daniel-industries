@@ -3,8 +3,7 @@ layout: post
 title: "From around the web / music edition"
 excerpt: 
 date: 2017-11-13 19:15:16 -0600
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 <iframe style="border: 0; width: 500px; height: 620px;" src="https://bandcamp.com/EmbeddedPlayer/album=3686116059/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://ianyhchang.bandcamp.com/album/spiritual-leader">Spiritual Leader by Ian Chang</a></iframe>

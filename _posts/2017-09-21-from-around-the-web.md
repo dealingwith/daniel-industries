@@ -3,8 +3,7 @@ layout: post
 title: "From Around the Web"
 excerpt: 
 date: 2017-09-21 18:40:36 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 [Dan Wilson On World Cafe](http://www.npr.org/sections/world-cafe/2017/08/25/546074522/dan-wilson-on-world-cafe)

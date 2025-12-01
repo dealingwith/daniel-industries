@@ -3,8 +3,7 @@ layout: post
 title: "More from around the web"
 excerpt: "I'm getting even less inventive with the titles for these posts"
 date: 2018-09-25 20:09:02 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 [Scientists Gave MDMA to Octopuses--and What Happened Was Profound](https://gizmodo.com/scientists-gave-mdma-to-octopuses-and-what-happened-was-1829191638)

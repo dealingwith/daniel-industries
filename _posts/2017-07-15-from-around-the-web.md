@@ -3,8 +3,7 @@ layout: post
 title: "From around the web"
 excerpt: "Podcasts and a book"
 date: 2017-07-15 11:41:03 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 [Reply All -- Friends and Blasphemers](https://gimletmedia.com/episode/100-friends-blasphemers/), "An online diary used by American teenagers finds a strange and terrifying enemy," or how Russia co-opted LiveJournal.

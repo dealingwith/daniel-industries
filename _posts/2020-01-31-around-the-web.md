@@ -3,8 +3,7 @@ layout: post
 title: "Around the web"
 excerpt: "A couple podcasts, etc..."
 date: 2020-01-31 22:18:51 -0600
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 [Full Stack Radio 131: Ryan Singer--How Basecamp Builds Software](http://www.fullstackradio.com/131). Obviously the Basecamp crew have strong and sometimes unpopular opinions about how to build product, but in there are some of the most sound product ideas I've heard in a while.

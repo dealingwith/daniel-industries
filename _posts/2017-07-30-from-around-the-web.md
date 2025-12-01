@@ -3,8 +3,7 @@ layout: post
 title: "From around the web"
 excerpt: "Again..."
 date: 2017-07-30 21:42:01 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 I get all my good stuff from [Labnotes](https://labnotes.org/)

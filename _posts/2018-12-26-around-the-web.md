@@ -3,8 +3,7 @@ layout: post
 title: "Around the web, holiday and getting towards the end of the year edition"
 excerpt: ""
 date: 2018-12-26 10:26:19 -0600
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 **Music**

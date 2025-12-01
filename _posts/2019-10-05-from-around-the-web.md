@@ -3,8 +3,7 @@ layout: post
 title: "From around the web"
 excerpt: "Random stuff, as usual"
 date: 2019-10-05 10:37:31 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 This image I found while looking for images to describe "roadmap tetris":

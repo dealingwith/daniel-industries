@@ -3,8 +3,7 @@ layout: post
 title: "Around the web"
 excerpt: "Various things..."
 date: 2018-09-23 13:18:42 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 [How to Use Patience and Empathy to Reach Millions with Ben Halpern of Dev.to](https://www.indiehackers.com/podcast/069-ben-halpern-of-dev-to). I've really enjoyed [dev.to](https://dev.to/). Hearing some from behind the scenes was really cool.

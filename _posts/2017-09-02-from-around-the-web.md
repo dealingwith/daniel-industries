@@ -3,8 +3,7 @@ layout: post
 title: "From Around the Web"
 excerpt: "Mostly videos"
 date: 2017-09-02 21:42:25 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 First up is Deep Cut's _5 Albums to Get You Into IDM_. 

@@ -3,8 +3,7 @@ layout: post
 title: "More notes"
 excerpt: "More things I found around the web."
 date: 2017-02-15 00:15:52 -0600
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 ### Life Lessons From 100-Year-Olds

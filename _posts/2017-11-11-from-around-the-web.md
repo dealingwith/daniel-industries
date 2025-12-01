@@ -3,7 +3,6 @@ layout: post
 title: "From Around the Web"
 excerpt: 
 date: 2017-11-11 14:52:38 -0600
-comments: true
 categories: elsewhere
 ---
 

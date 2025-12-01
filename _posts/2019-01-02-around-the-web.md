@@ -3,8 +3,7 @@ layout: post
 title: "Around the web, happy new year edition"
 excerpt: ""
 date: 2019-01-02 12:28:49 -0600
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 The internet has been bestowing its blessings to me, in the few moments I've had at my computer these last few days. Sometimes, the internet is just a series of banal dead-ends--especially true if one's starting point is social media. Other times, it's a seemingly endless series of amazingly interesting rabbit holes--more often true when starting with a well [curated email newsletter]({{site.url}}/2018/04/15/where-do-you-get-information-when-twitter-is-gone/) or simply a really smart person's website.

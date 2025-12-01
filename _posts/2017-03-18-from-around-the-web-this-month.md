@@ -3,8 +3,7 @@ layout: post
 title: "From around the web this month"
 excerpt: "Here is a small collection of stuff I've found on the internet in the last month or so."
 date: 2017-03-18 17:49:42 -0500
-comments: true
-categories: 
+categories: [elsewhere]
 ---
 
 Here is a small collection of stuff I've found on the internet in the last month or so.
