@@ -166,7 +166,7 @@ h6 a {
 
 hr {
   border: 0;
-  border-top: 1px solid var(--lightgreen);
+  border-top: 1px solid var(--green);
   /* width: 80%; */
 }
 .main-content hr.alt {
@@ -465,7 +465,7 @@ footer img {
 .postscript,
 .blog_nav,
 .post-footer {
-  border-top: 1px solid var(--lightgrey);
+  border-top: 1px solid var(--green);
   font-size: 0.95rem;
 }
 .postscript,
@@ -547,7 +547,7 @@ sup a:hover {
 }
 
 div.blog-index-div {
-  border-bottom: 1px solid var(--lightgreen);
+  border-bottom: 1px solid var(--green);
   padding: 0.5rem 0;
 }
 div.blog-index-div h3 {
