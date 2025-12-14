@@ -2,7 +2,7 @@
 
 :root {
   --bg: #f7f7f7;
-  --green: #404c00;
+  --green: #495500;
   --grey: #555555;
   --header: "Aleo", serif;
   --sans: sans-serif;
@@ -547,8 +547,24 @@ sup a:hover {
 }
 
 div.blog-index-div {
-  border-bottom: 1px solid var(--green);
-  padding: 0.5rem 0;
+  position: relative;
+  background: var(--bg);
+  border: 1px solid var(--green);
+  border-radius: 0.3em;
+  padding: 0.75rem;
+}
+div.blog-index-div::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translate(6px, 6px); /* shadow offset */
+  z-index: -1;
+
+  background:
+    var(--lightgrey)
+    var(--diagonal-stripe);
+
+  border-radius: inherit;
 }
 div.blog-index-div h3 {
   padding: 0;
@@ -557,6 +573,9 @@ div.blog-index-div .post-metadata {
   color: var(--grey);
   margin-bottom: 0.5rem;
   margin-top: -1.1rem;
+}
+div.blog-index-div p:last-of-type {
+  margin-bottom: 0;
 }
 
 img.float-left {
