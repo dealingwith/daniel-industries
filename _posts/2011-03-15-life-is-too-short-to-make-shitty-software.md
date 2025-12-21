@@ -14,7 +14,7 @@ The other day I wrote:
 
 And I just had some more thoughts about that:
 
-I don't want to make or work on software that sucks anymore. Life is too short to work on something that is shit to begin with. Just because a piece of software improves your process or workflow over the paper version you used in the 80's does not mean that it is not shitty software. Just because a piece of software is better than its competition in X, Y and Z ways does not mean that it is not shitty software. Just because a piece of software just like its competition except in that one way you need it to be different does not mean it's not shitty software.
+I don't want to make or work on software that sucks anymore. Life is too short to work on something that is shit to begin with. Just because a piece of software improves your process or workflow over the paper version you used in the 80's does not mean that it is not shitty software. Just because a piece of software is better than its competition in X, Y and Z ways does not mean that it is not shitty software. Just because a piece of software is just like its competition except in that one way you need it to be different does not mean it's not shitty software.
 
 If we are to take our craft seriously, to consider ourselves worthy of our work, to join in a lineage of artisans and, most importantly, enjoy ourselves while we work and work in a way worthy of the life we have been given, then we must make software that is a delight to use, that makes our customer's lives not just seem to be easier, but actually brings them joy in their lives.
 

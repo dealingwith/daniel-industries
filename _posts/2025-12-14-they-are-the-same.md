@@ -4,11 +4,13 @@ title: "They are the same"
 excerpt: "I'm finding that the journey through, if there is one, involves sacrificing a personally meaningful narrative"
 date: 2025-12-14 15:21:07 -0600
 categories: 
+ - elsewhere
+ - thehypothesis
 ---
 
 It started in my RSS reader (Feedbin). I tend to subscribe to people's feeds pretty liberally--have one or two interesting posts in the last dozen and I'll add you. But I don't check my feed reader very often, usually about once or twice a week, so that means I'll often see a post and not recognize the author. As was this morning when I cracked open [anhvn.com/.../weeknotes-35](https://anhvn.com/posts/2025/weeknotes-35/) (always a sucker for weeknotes!), then immediately hit [anhvn.com/about](https://anhvn.com/about/) (eventually realizing I recognize [latte](https://mastodon.online/@latte) from the occasional Mastodon post, although I've been on there less as of late). That in turn made me wonder what my [about](/about/) said about me. That in turn led me down a rabbit hole on this very blog.
 
-I'm going to try going in chronological order instead of rabbit-hole order:
+I'm going to try to go in chronological order instead of rabbit-hole order:
 
 [Nonlinear: Web Content Management](/2001/09/19/37/) (2001)
 
@@ -30,7 +32,7 @@ That's not really my point today other than in a, "Ha ha it happened again," way
 
 ...and I realized I'm experiencing the same thing right now. In other words, same shit, different day, except in these cases the shit is a product I've been pursuing passionately enough to write about publically for 24 years, and an existential crisis that has lasted at least eight.
 
-Now I have to rabbit out of that hole and go back to yesterday's. I spent the 2h22m watching Lindsay Ellis' [The Unforgivable Sin of Ms Rachel ](https://www.youtube.com/watch?v=QwpanShgOp4), which is time well spent as far as I'm concerned. The style is like mine, though, so I might be biased. That is: here are three or four giant info-dumps-slash-history-lessons, I have no bold conclusions or calls-to-action, sorry, it's complicated...hope you can introspect at least a little.
+Now I have to rabbit out of that hole and go back to yesterday's. I spent the 2h22m watching Lindsay Ellis' [The Unforgivable Sin of Ms Rachel](https://www.youtube.com/watch?v=QwpanShgOp4), which is time well spent as far as I'm concerned. The style is like mine, though, so I might be biased. That is: here are three or four giant info-dumps-slash-history-lessons, I have no bold conclusions or calls-to-action, sorry, it's complicated...hope you can introspect at least a little.
 
 I was led to that video essay by this one: [The Right's Religious Revival Won't Work](https://www.youtube.com/watch?v=y26ixP1Ilmo), which might work better as a follow-up to the Lindsay Ellis one.
 
@@ -46,9 +48,9 @@ Many people never grow out of that phase, and they spend the rest of their lives
 
 [insert Stryper photo here, next to a photo of "The King's Army", who are "Raising Soldiers", whose website also features a prominent CTA to "Shop", with the tagline "Evangelism Made Easy"]
 
-Or they never grow out of that phase, but just don the fleese vest uniform and drive the SUV, living the cold comfort of their beliefs about how things should be, which are conveniently the way that brings them the most comfort and the fewest questions.
+Or they never grow out of that phase, but just don the fleese vest uniform and drive the SUV, living the cold comfort of their beliefs about how things should be, which are conveniently the ways that brings them the most comfort and the fewest questions.
 
-But I'm finding that the journey through, if there is one, involves sacrificing a personally _meaningful narrative_. Not exactly great for someone who titles their blog "seeking stories beauty *meaning*".
+But I'm finding that the journey through, if there is one, involves sacrificing a personally _meaningful narrative_. Not exactly great for someone who titles their blog "seeking stories beauty **meaning**".
 
 All I know is I cried when, at the 2h20m mark, Lindsay said:
 

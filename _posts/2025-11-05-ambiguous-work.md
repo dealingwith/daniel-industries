@@ -4,6 +4,8 @@ title: "Ambiguous Work"
 excerpt: "I have various ill-defined things I'm working on..."
 date: 2025-11-05 21:05:54 -0600
 categories: 
+ - elsewhere
+ - thehypothesis
 ---
 
 ![](/assets/2025/11/508722ldsdl.jpg)
