@@ -239,7 +239,7 @@ Then the thoughts turned into others' thoughts and their accompanying feelings. 
 
 Then the effective distance started to grow.
 
-The drinks helped, at first. They quieted the voices in his head to a low roar. Once his own apartment was no longer a refuge, he was forced to stay in some state of inebriation at all times. But he could keep it all under control with a delicate balancing act; enough drink to not go crazy from the voices, not so much drink as to become crazy from the drink.
+The drinks helped, at first. They quieted the voices in his head to a dull roar. Once his own apartment was no longer a refuge, he was forced to stay in some state of inebriation at all times. But he could keep it all under control with a delicate balancing act; enough drink to not go crazy from the voices, not so much drink as to become crazy from the drink.
 
 She started to lose patience with him. He couldn't concentrate on much of anything anymore, let alone her or the words coming out of her mouth. There was far too much competition for his ears. When he started to smell of alcohol more-or-less around the clock, she naturally blamed it for their troubles. "Why?" she would ask, and he would shrug. Obviously, he couldn't tell her what was really happening.
 
