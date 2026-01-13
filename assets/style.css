@@ -37,6 +37,7 @@ html,
 body {
   font-size: 1.05rem;
   line-height: 1.5rem;
+  -webkit-font-smoothing: antialiased;
 }
 @media screen and (max-width: 700px) {
   html,
@@ -479,6 +480,7 @@ footer img {
   grid-template-columns: repeat(2, 1fr);
   line-height: 1.3rem;
   margin-bottom: 0 !important;
+  margin-top: 2rem;
 }
 .blog_nav li {
   list-style: none;
