@@ -73,7 +73,7 @@
     <div class="archive-main">
       <div class="top_control_area">
         <a id="hideshort" href='javascript:;' onclick="hideShortPosts()">Toggle short posts</a> (<span
-          id="shortpostscount"></span>)
+          id="shortpostscount"></span>){% unless page.title == "Categories" %} | <a href="/categories/">View by category</a>{% endunless %}
       </div>
       {% unless page.title == "Categories" %}
       <div id="years" class="top_control_area">
