@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Life--Night draft bit'
+title: 'My Life: Night draft bit'
 categories:
 ---
 

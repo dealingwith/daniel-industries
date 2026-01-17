@@ -1,14 +1,11 @@
 ---
-title: "Spiritual Conflict in the Everyday"
+title: "Spiritual Conflict in the Everyday: Honesty, Power, Suburbia, and Death"
 category: Nonfiction
 subcategory: Christian
 layout: writing-page
 pubdate: "2004"
 excerpt: "Honesty, Power, Suburbia, and Death"
 ---
-
-Spiritual Conflict In The Everyday:
-Honesty, Power, Suburbia, and Death
 
 We rail against suburbia, but it is not the enemy: it is only our version of the enemy. And enemy is not even the right word for it, this unseen power we feel over and around us, pushing us from behind into the crowd, or a dark pit, the fall and the feel of the bottom we know and dread.
 
@@ -24,7 +21,7 @@ But it is not this accumulation of small deaths. It is how the small deaths prev
 
 And the more we rail, and the more we divert, and the more we wield our wild power over others, the more we begin to enter this game first cheering, then standing, then fighting with the other side--the side of the dead but never dying, the undead.
 
-YAJMF
+### YAJMF
 
 A few days ago I tried to explain to my parents how I was able to forgive so easily. I tried to explain that I understand that we all build these stories to disable the dissonance our decisions cause. Truth and lies aren't so much about right and wrong as about the state of our fragile psychologies. The forgiveness of Christ, as I have come to understand it, gives us the freedom to accept that fragility, the horrors that are our actions, the dead bodies on the floor, the knives in our hands.
 
@@ -32,19 +29,20 @@ The gospels aren't so much about miracles as they are about dismantling the pref
 
 Sanctification isn't about becoming perfect, it's about coming to terms with the fact that we are the scum of the earth. "The last will be first." "The least of these." Yet Another Jesus Mind-Fuck.
 
-> I say, stop being perfect.
-> -- Fight Club
+> _I say, stop being perfect._
+> 
+> -- Fight Club (Chuck Palahniuk)
 
 So many people coming out of Christian culture are really postmoderns but have a hard time with some things because the Christianity they learned was built on modern binaries...but modernism isn't old. It wasn't modernism since the time of Christ and then postmodernism. These issues of ambiguity (moral or otherwise) are not new. Modern/evangelical Christianity didn't solve the problem of life, despite their advertisements to the contrary.
 
 These are the persistent problems of humanity and the permanent problems in a human life. Christ didn't come to answer the questions or solve the problems, he came to be a co-journeyman with us, and to reconcile us with the fact that we're never going to get it, never going to solve this problem, never going to be holy.
 
-> They never tell you the truth is subjective
-> They only tell you not to lie
-> They never tell you there’s strength in vulnerability
-> They only tell you not to cry
+> _They never tell you the truth is subjective_  
+> _They only tell you not to lie_  
+> _They never tell you there’s strength in vulnerability_  
+> _They only tell you not to cry_
 > 
-> -- Gary Jules, “Something Else” from _Trading Snakeoil for Wolftickets_.
+> -- Gary Jules, _Something Else_ from _Trading Snakeoil for Wolftickets_.
 
 The church doesn’t prepare you for suffering, for the whole of life in which both happiness and sadness, victory and tragedy are certain to occur. The only real sin is in the lies that cover up the sin, that sin when spoken about loses all its power to destroy us.
 
@@ -66,11 +64,11 @@ We can live. We can learn. We can accept our fates of suffering, and if we are l
 
 > Whenever we're led out of normalcy into sacred space, it's going to feel like suffering. It's letting go of what we're used to. That causes suffering. But part of us always has to die. If that readiness isn't there, we won't enter into sacred space. The prophet leads us into sacred space by showing us the insufficiency of the old order; the role of the priest is to teach us how to live in the new realm. Unfortunately, the priest too often operates separately from the prophet. He talks of a new realm but never leads us out of the old order where we are still largely trapped. (Such priesthood is ineffective, though quite popular.) In this new realm, everything belongs. This awareness is often called a second naiveté. It is a return to simple consciousness. The first awareness is a dangerous naiveté. As I've said, it doesn't know but thinks it does. In the second naiveté the darkness and light coexist, paradox is revealed, and we are finally at home in the only world that ever existed. This is true knowing. Here death is a part of life, and failure is a part of victory. Opposites collide and unite, and everything belongs.
 > 
-> -- Richard Rohr, Everything Belongs
+> -- Richard Rohr, _Everything Belongs_
 
 I think that where the post-War church has failed is where the conversion experience has turned into a self-help program, when really much of what Jesus said was a self-destruction program..."If you can't leave your mother and father and follow me..." "Sell all your possessions..." etc., etc. It's material destruction, even the material of our emotions; but the point is spiritual gain.
 
-The CLOP
+### The CLOP
 
 My experience with the divorce is like the poster story for the false validity of my earlier best attempts at the idealistic Evangelical Christian Life of Perfection (CLOP): This is what you DO: You Get Married. Marriage, in fact, and along with it sex and divorce, are the touchstone issues in the CLOP. There are perfectly good reasons for this: sex and committed, lifelong partnership are two of the most psychologically profound issues of the human soul. I don't wish to diminish that. But for a young, single, lonely, horny Christian person, marriage is it. The more important issues surrounding the decision for marriage and the personal requirements of such are rarely given their deserving light. Sure you'll sit through the church-sponsored pre-marriage counseling...but it's still all in the context of, "Here's how a marriage is supposed to be. Here's the CLOP marriage," if you will. There's little talk of the realities of conflict, desires, what unconditional love is and what we can expect in the way of giving or receiving it. If there are horror stories, they always end in victory.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Life--Vows'
+title: 'My Life: Vows'
 categories:
 ---
 
