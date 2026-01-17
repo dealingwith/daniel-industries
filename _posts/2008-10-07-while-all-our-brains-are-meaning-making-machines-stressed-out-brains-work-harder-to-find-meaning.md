@@ -2,8 +2,7 @@
 date: '2008-10-07 15:29:00'
 layout: post
 slug: while-all-our-brains-are-meaning-making-machines-stressed-out-brains-work-harder-to-find-meaning
-title: '"While all our brains are meaning-making machines, stressed out brains work
-  harder to find meaning."'
+title: "Our brains are meaning-making machines"
 categories:
  - community
  - design
