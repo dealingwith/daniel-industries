@@ -48,6 +48,9 @@ The church doesn’t prepare you for suffering, for the whole of life in which b
 
 Rolling around in the dirt is essential to the spiritual life.
 
+![](/assets/page/writing/dirt_1.jpg)
+<p class="caption" markdown="1">[Vaux / God is found in the shit / 01-2002](https://www.smallfire.org/vaux_2002-01-dirt.html)</p>
+
 What is curious is that in church, where things should be the most open and expectation-less, they are the most closed and expectation-ridden, and in bars all across the country people are welcomed with open arms regardless. People in churches expect their music to be a certain way, their theology to be a certain way, and especially their leaders to be a certain way.
 
 Maybe being totally perfect isn't all it's cracked up to be. Maybe there is a fear that comes late at night, on a rare night alone, in the dark of a cold winter after the city has quieted its daily celebration. Maybe there is a fear that it might not last. Maybe there is a knowledge of terror, of that sun of success and comfort and ease making its way towards the horizon. Maybe there is an uncertainty of how long the ensuing night will last. A lack of experience of how long that closest star will be pointed at the other side of the world.

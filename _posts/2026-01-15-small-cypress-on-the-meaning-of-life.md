@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "small cypress on the meaning of life"
-excerpt: 
+excerpt: "TLDR; it's love"
 date: 2026-01-15 12:14:43 -0600
 categories: 
  - quotable
