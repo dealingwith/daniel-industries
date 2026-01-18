@@ -69,4 +69,6 @@ Music appears to be one of the strongest of the invisible connective tissues of 
 
 ---
 
+### PS
+
 Today I attended [Homebrew Website Club - Writing Edition](https://events.indieweb.org/2026/01/homebrew-website-club-writing-edition-vXocJMdNFV18), having found out via [Tracy Durnell's Weeknotes](https://tracydurnell.com/2026/01/16/weeknotes-jan-10-16-2026/), and it was delightful, perhaps even magical. A moment of connection during what has been a [season of isolation](/2026/01/10/how-to-horribly-end-a-year/).
