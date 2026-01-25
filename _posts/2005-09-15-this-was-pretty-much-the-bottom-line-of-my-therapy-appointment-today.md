@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-09-15 17:57:00'
 layout: post
 slug: this-was-pretty-much-the-bottom-line-of-my-therapy-appointment-today
-status: publish
 title: this was pretty much the bottom line of my therapy appointment today
-wordpress_id: '566'
 ---
 
 <a class="dead">Search For Self Called Off After 38 Years</a>
@@ -19,4 +16,3 @@ wordpress_id: '566'
 > ...Speth said he will no longer lament his coding job at Eagle Client Services, but will rather "embrace the fact that I have a job that makes enough money to pay for cable." Additionally, Speth has vowed to marry "the first woman who will have me, whether I love her or not."
 
 > ..."Trust me—there's nothing out there for you to find," Speth said. "You're wasting your life. The sooner you realize you have no self to discover, the sooner you can get on with what's truly important: celebrity magazines, snack foods, and Internet porn."
-

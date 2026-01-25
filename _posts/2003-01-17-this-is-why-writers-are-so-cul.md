@@ -5,21 +5,14 @@ categories:
  - quotable
 ---
 
-<em>Jenny's dead, but that won't be a problem.</em>
+> Jenny's dead, but that won't be a problem.
 
+-- a <a href="http://monkhouse.blogspot.com">friend</a>
 
-
---a <a href="http://monkhouse.blogspot.com">friend</a>
-
-
-
-"If writers were good businessmen, they'd have too much sense to be writers."
+> If writers were good businessmen, they'd have too much sense to be writers.
  
--Irvin S. Cobb
+-- Irvin S. Cobb
 
+> If you want to make an apple pie from scratch, you must first create the universe.
 
-
-"If you want to make an apple pie from scratch, you must first create the universe." 
-
--Carl Sagan 
-
+-- Carl Sagan 
