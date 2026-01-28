@@ -179,7 +179,7 @@ Liquid::Template.register_tag("category_list", Jekyll::CategoryListTag)
 Liquid::Template.register_tag("category_toc", Jekyll::CategoryListTOCTag)
 Liquid::Template.register_tag("custom_excerpt", Jekyll::CustomExcerptTag)
 
-# Add IDs to HR tags to make them linkable anchors
+# Add IDs to HR tags and make headers and HRs clickable anchors
 Jekyll::Hooks.register [:posts, :pages, :documents], :post_render do |doc|
   # Only process HTML output
   if doc.output_ext == ".html"
@@ -194,6 +194,26 @@ Jekyll::Hooks.register [:posts, :pages, :documents], :post_render do |doc|
         hr_counter += 1
         "<hr id=\"hr-#{hr_counter}\">"
       end
+    end
+
+    # Make headers with IDs clickable by wrapping content in anchor links
+    doc.output = doc.output.gsub(/<(h[1-6])\s+id="([^"]+)"[^>]*>(.*?)<\/\1>/m) do |match|
+      tag = $1
+      id = $2
+      content = $3
+
+      # Skip if content is already wrapped in an anchor
+      if content.strip.start_with?('<a ')
+        match
+      else
+        "<#{tag} id=\"#{id}\"><a href=\"##{id}\">#{content}</a></#{tag}>"
+      end
+    end
+
+    # Add clickable anchor links after HR tags with IDs
+    doc.output = doc.output.gsub(/<hr\s+id="([^"]+)"\s*\/?>/) do |match|
+      id = $1
+      "<a href=\"##{id}\" class=\"hr-anchor\" aria-label=\"Link to this section break\">#{match}</a>"
     end
   end
 end

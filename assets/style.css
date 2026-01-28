@@ -140,7 +140,6 @@ h6 a {
 .main-content div,
 .main-content iframe,
 .main-content table,
-.main-content hr,
 .main-content aside,
 .main-content wave-audio-path-player {
   margin-bottom: 1rem;
@@ -161,13 +160,9 @@ h6 a {
   margin-bottom: 0;
 }
 
-.main-content hr {
-  margin: 2rem auto;
-}
-
 hr {
   border: 0;
-  border-top: 1px solid var(--green);
+  border-top: 7px dotted var(--lightgreen);
   /* width: 80%; */
 }
 .main-content hr.alt {
