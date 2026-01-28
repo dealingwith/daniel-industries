@@ -41,7 +41,7 @@ One of the biggest problems of any hype cycle like AI isn't the tech, it's the b
 
 > I just worry that there is a dearth of willingness to be vulnerable in a way that I think is not only bad for individuals but bad for politics, because it diminishes our ability to connect with one another and understand one another's differences.
 
-I spent the first part of my life in conservative circles that demonized sex outside of marriage, and most of my extended family still holds that view under the guise of God-given morality frameworks. The fact that that framing isn't about morality but power would be incomprehensible to them. This results in dishonesty, divorce, and Pinocchio-style escapes to [The Land of Toys]((https://en.wikipedia.org/wiki/Land_of_Toys)). And, more generally, is one of many similar onramps to the misogynist-incel-racist-nationalist Christian hypocrisphere.
+I spent the first part of my life in conservative circles that demonized sex outside of marriage, and most of my extended family still holds that view under the guise of God-given morality frameworks. The fact that that framing isn't about morality but power would be incomprehensible to them. This results in dishonesty, divorce, and Pinocchio-style escapes to [The Land of Toys](https://en.wikipedia.org/wiki/Land_of_Toys). And, more generally, is one of many similar onramps to the misogynist-incel-racist-nationalist Christian hypocrisphere.
 
 ---
 
