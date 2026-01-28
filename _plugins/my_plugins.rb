@@ -178,3 +178,22 @@ Liquid::Template.register_filter(Jekyll::Backlinks)
 Liquid::Template.register_tag("category_list", Jekyll::CategoryListTag)
 Liquid::Template.register_tag("category_toc", Jekyll::CategoryListTOCTag)
 Liquid::Template.register_tag("custom_excerpt", Jekyll::CustomExcerptTag)
+
+# Add IDs to HR tags to make them linkable anchors
+Jekyll::Hooks.register [:posts, :pages, :documents], :post_render do |doc|
+  # Only process HTML output
+  if doc.output_ext == ".html"
+    hr_counter = 0
+
+    # Find all <hr> tags without id attributes and add numbered IDs
+    doc.output = doc.output.gsub(/<hr\s*\/?>/) do |match|
+      # Check if this hr already has an id attribute (from HTML source)
+      if match.include?('id=')
+        match
+      else
+        hr_counter += 1
+        "<hr id=\"hr-#{hr_counter}\">"
+      end
+    end
+  end
+end
