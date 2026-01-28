@@ -180,7 +180,7 @@ Liquid::Template.register_tag("category_toc", Jekyll::CategoryListTOCTag)
 Liquid::Template.register_tag("custom_excerpt", Jekyll::CustomExcerptTag)
 
 # Add IDs to HR tags and make headers and HRs clickable anchors
-Jekyll::Hooks.register [:posts, :pages, :documents], :post_render do |doc|
+Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
   # Only process HTML output
   if doc.output_ext == ".html"
     hr_counter = 0
