@@ -197,23 +197,36 @@ Jekyll::Hooks.register [:posts, :pages, :documents], :post_render do |doc|
     end
 
     # Make headers with IDs clickable by wrapping content in anchor links
-    doc.output = doc.output.gsub(/<(h[1-6])\s+id="([^"]+)"[^>]*>(.*?)<\/\1>/m) do |match|
-      tag = $1
-      id = $2
-      content = $3
+    doc.output = doc.output.gsub(
+      /<(h[1-6])\b([^>]*)\bid="([^"]+)"([^>]*)>(.*?)<\/\1>/m
+    ) do
+      md = Regexp.last_match
+      tag      = md[1]
+      pre      = md[2] # attrs before id
+      id       = md[3]
+      post     = md[4] # attrs after id
+      content  = md[5]
 
-      # Skip if content is already wrapped in an anchor
-      if content.strip.start_with?('<a ')
-        match
+      if content.lstrip =~ /\A<a\b/i
+        md[0]
       else
-        "<#{tag} id=\"#{id}\"><a href=\"##{id}\">#{content}</a></#{tag}>"
+        # preserve attributes exactly as they were
+        "<#{tag}#{pre}id=\"#{id}\"#{post}><a href=\"##{id}\" class=\"header-anchor\">#{content}</a></#{tag}>"
       end
     end
 
-    # Add clickable anchor links after HR tags with IDs
-    doc.output = doc.output.gsub(/<hr\s+id="([^"]+)"\s*\/?>/) do |match|
-      id = $1
-      "<a href=\"##{id}\" class=\"hr-anchor\" aria-label=\"Link to this section break\">#{match}</a>"
+    doc.output = doc.output.gsub(
+      /<hr\b([^>]*)\bid="([^"]+)"([^>]*)\/?>/i
+    ) do
+      md = Regexp.last_match
+
+      pre  = md[1]   # attributes before id
+      id   = md[2]
+      post = md[3]
+
+      hr_tag = "<hr#{pre}id=\"#{id}\"#{post}>"
+
+      "<a href=\"##{id}\" class=\"hr-anchor\" aria-label=\"Link to this section break\">#{hr_tag}</a>"
     end
   end
 end
