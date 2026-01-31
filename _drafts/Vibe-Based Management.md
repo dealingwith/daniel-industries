@@ -218,3 +218,7 @@ You may find these useful in writing or internal discussions:
 * **Mood-substituted prioritization**
 * **Affective decision compression**
 * **Emotional authority leakage**
+
+---
+
+[Startup Culture: Values vs. Vibe - Feld Thoughts](https://feld.com/archives/2012/06/startup-culture-values-vs-vibe/)
