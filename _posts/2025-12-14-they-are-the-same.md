@@ -50,7 +50,7 @@ Many people never grow out of that phase, and they spend the rest of their lives
 
 Or they never grow out of that phase, but just don the fleese vest uniform and drive the SUV, living the cold comfort of their beliefs about how things should be, which are conveniently the ways that brings them the most comfort and the fewest questions.
 
-But I'm finding that the journey through, if there is one, involves sacrificing a personally _meaningful narrative_. Not exactly great for someone who titles their blog "seeking stories beauty **meaning**".
+But I'm finding that the journey through, if there is one, involves sacrificing a personally _meaningful narrative_. Not exactly great for someone who titles their blog "seeking stories beauty *meaning*".
 
 All I know is I cried when, at the 2h20m mark, Lindsay said:
 
