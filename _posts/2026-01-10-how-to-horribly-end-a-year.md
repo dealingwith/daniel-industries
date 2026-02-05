@@ -25,7 +25,7 @@ After a minute I realized I still could not move my right leg and that this simp
 
 Another nice cyclist rolled up and helped me get my phone out of my jersey pocket. I called Carissa, who answered on the first ring despite it being 7am on a non-school day. I told her I'd crashed and needed to be picked up.
 
-Quite a few minutes later and I began to come to the realization that I was going to need EMS help to move. I was just about to call 911 when two bicycle police officers rolled up and *immediately* called for an ambulance. This situation was really shitty, but their timing was fortuitous---no explaining the a 911 operator what had happened and where I was. The ambulance arrived before Carissa did---I was up on a bike trail inaccessible by civilian cars. She ran up the trail right as they were lifting me into the wagon.
+Quite a few minutes later and I began to come to the realization that I was going to need EMS help to move. I was just about to call 911 when two bicycle police officers rolled up and *immediately* called for an ambulance. This situation was really shitty, but their timing was fortuitous---no explaining to a 911 operator what had happened and where I was. The ambulance arrived before Carissa did---I was up on a bike trail inaccessible by civilian cars. She ran up the trail right as they were lifting me into the wagon.
 
 In the ambulance I started to go into shock.
 
@@ -43,7 +43,7 @@ Surgery happened the afternoon of Christmas Eve. I now have a stainless steel sc
 ![](/assets/2026/01/xmas.jpg)
 <p class="caption" markdown="1">Christmas in the hospital</p>
 
-The four days immediately post-op were bad but manageable. I celebrated Christmas from my hospital room via FaceTime. I had a session with the occupational therapist to teach me how to move around without putting weight on the leg and got home late on Christmas.
+The first couple of days post-op were bad but manageable. I celebrated Christmas from my hospital room via FaceTime. I had a session with the occupational therapist to teach me how to move around without putting weight on the leg and got home late on Christmas.
 
 The week and a half following was hell. I don't really have it in me to relive it in writing, but I did manage to complain on Mastodon throughout:
 

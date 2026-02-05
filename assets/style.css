@@ -11,7 +11,7 @@
   --lightgrey: #eeeeee;
   --pink: #ffd5dc;
   --text: #040404;
-  --highlight: var(--lightgreen);
+  --highlight: #e5e5c5;
   --diagonal-stripe: repeating-linear-gradient(
     -45deg,
     transparent,
@@ -24,9 +24,9 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #262626;
-    --green: #f0fff0;
+    --green: #f2ece1;
     --grey: #bdbdbd;
-    --lightgreen: #d5d9bc;
+    --lightgreen: var(--pink);
     --lightgrey: #484848;
     --text: #fcf7ed;
     --highlight: var(--pink);
@@ -75,7 +75,7 @@ h3 {
   font-size: 1.3rem;
 }
 h4 {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
 }
 h5 {
   font-size: 1rem;
@@ -92,14 +92,33 @@ h6 {
 a {
   color: var(--green);
 }
-a:hover {
+.main-content article a:not(:has(hr)):not(:is(h1, h2, h3, h4) *) {
+  text-decoration: none;
+  background-image: linear-gradient(var(--lightgreen), var(--lightgreen));
+  background-size: 100% 0.08em;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  /* transition: background-size .3s ease-in-out; */
+}
+.main-content article a:hover:not(:has(hr)):not(:is(h1, h2, h3, h4) *) {
+  background-image: linear-gradient(var(--highlight), var(--highlight));
+  background-size: 100% 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  .main-content article a:hover:not(:has(hr)):not(:is(h1, h2, h3, h4) *) {
+    color: var(--bg);
+  }
+}
+
+/* a:hover {
   color: var(--highlight);
   text-decoration-color: var(--highlight);
   text-decoration-style: solid;
-}
-a:visited {
+} */
+/* a:visited {
   color: var(--text);
-}
+} */
 a strong {
   color: inherit;
 }
@@ -210,6 +229,7 @@ h1 + .post-metadata {
 h1 a,
 h2 a,
 h3 a,
+h4 a,
 header a,
 .post-metadata a {
   border: none;
@@ -217,7 +237,10 @@ header a,
   text-decoration: none;
 }
 
+h1 a:hover,
+h2 a:hover,
 h3 a:hover,
+h4 a:hover,
 .post-metadata a:hover {
   text-decoration: underline;
 }

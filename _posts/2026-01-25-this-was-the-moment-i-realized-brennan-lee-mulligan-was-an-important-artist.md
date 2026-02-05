@@ -16,9 +16,9 @@ I was already a fan of [Brennan Lee Mulligan](https://en.wikipedia.org/wiki/Bren
 
 I'm dropping you straight to the pertinent bit in the link above, but there were quite a few other moments in the discussion that were powerful and led up to this one. (Edited for clarity in text.)
 
-> ...the point of storytelling or the point of, like any kind of art in general, is to try to talk about your experience of life in the world as faithfully as possible. 
+> ...the point of storytelling or the point of any kind of art in general, is to try to talk about your experience of life in the world as faithfully as possible. 
 
-> And I do sort of subscribe to, like, the first moment you misrepresent the feelings or argument of your opponent is where you slip into making propaganda...In other words, if there's something you disagree with and you start to reframe it and straw-man it and go, "Let's make a less compelling version of their argument, or let's make a less compelling version of this other ideology," I think that you betray your own faith and your own notions of the world. 
+> And I do sort of subscribe to: the first moment you misrepresent the feelings or argument of your opponent is where you slip into making propaganda...In other words, if there's something you disagree with and you start to reframe it and straw-man it and go, "Let's make a less compelling version of their argument, or let's make a less compelling version of this other ideology," I think that you betray your own faith and your own notions of the world. 
 
 > If you think that you're right, you shouldn't have to misrepresent what people you disagree with are saying, and I think that within the <abbr title="The dominant, but new, religious movement in this season's world. Any similarities to American Christianity are unintentional I'm sure.">Candescent Creed</abbr>...there are certain constants that feel true to life to me, which is that, any large enough institution will have tremendous privilege and power for the people at the top, and therefore people who, as a core tenet of their personality, seek position, privilege and power, will be drawn to that. 
 
