@@ -6,25 +6,27 @@ date: 2022-05-14 07:09
 
 {% assign sorted_array = site.writings | sort: "pubdate" | reverse %}
 {% for piece in sorted_array %}
-  <div class="blog-index-div">
-    <h3>
-      <a href="{{ piece.url }}">{{ piece.title }}</a>
-    </h3>
-    
-    <div class="post-metadata">
-      {% if piece.pubdate %}
-        {{ piece.pubdate }}
-      {% endif %}
-      / 
-      {{ piece.content | number_of_words }} words / 
-      {{ piece.category }} / 
-      {% if piece.subcategory %}
-        {{ piece.subcategory }}
-      {% endif %}
-    </div>
+  <a href="{{ piece.url }}" class="blog-index-a">
+    <div class="blog-index-div">
+      <h3>
+        {{ piece.title }}
+      </h3>
       
-    <p class="small">{{ piece.excerpt }}</p>
-  </div>
+      <div class="post-metadata">
+        {% if piece.pubdate %}
+          {{ piece.pubdate }}
+        {% endif %}
+        / 
+        {{ piece.content | number_of_words }} words / 
+        {{ piece.category }} / 
+        {% if piece.subcategory %}
+          {{ piece.subcategory }}
+        {% endif %}
+      </div>
+        
+      <p class="small">{{ piece.excerpt }}</p>
+    </div>
+  </a>
 {% endfor %}
 
 # Short Fiction on the Blog

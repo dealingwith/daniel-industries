@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
-  {% include menu.html %}
-  <div class="main-content writing">
-    <h1>{{ page.title }}</h1>
-    {% if page.pubdate %}
+  <body>
+    {% include menu.html %}
+    <header>
+      <h1>{{ page.title }}</h1>
+      {% if page.pubdate %}
       <div class="post-metadata">{{ page.pubdate }} / {{ page.content | number_of_words }} words</div>
-    {% endif %}
-    <article>
-      {{ content }}
-    </article>
-    <p><a href="/writing">Back to writing</a></p>
-  </div>
-  {% include footer.html %}
-</body>
+      {% endif %}
+    </header>
+    <div class="main-content writing">
+      <article>
+        {{ content }}
+      </article>
+      <p><a href="/writing">Back to writing</a></p>
+    </div>
+    {% include footer.html %}
+  </body>
 
 </html>
