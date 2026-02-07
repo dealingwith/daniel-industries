@@ -3,12 +3,10 @@ layout: post
 title: "Disappeared"
 excerpt: "More about _why"
 date: 2018-01-22 23:14:54 -0600
-comments: true
 categories: 
 ---
 
-[Yesterday]({{ site.basurl }}/2018/01/21/dean-allen.html) when I mentioned \_why, I was uncoincidentally reading _[Where's \_why? --
-What happened when one of the world’s most unusual, and beloved, computer programmers disappeared](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.single.html)_. It's an excellent read.
+[Yesterday]({{ site.baseurl }}/2018/01/21/dean-allen.html) when I mentioned \_why, I was uncoincidentally reading _[Where's \_why? -- What happened when one of the world’s most unusual, and beloved, computer programmers disappeared](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.single.html)_. It's an excellent read.
 
 > \_why himself repeatedly stressed programming's creative potential. In the (poignant) Guide, he writes, "Vitamin R goes straight to the head. Ruby will teach you to express your ideas through a computer. You will be writing stories for a machine," he says. "The language will become a tool for you to better connect your mind to the world."
 

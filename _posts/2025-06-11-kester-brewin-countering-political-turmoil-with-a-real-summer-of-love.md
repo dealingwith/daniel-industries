@@ -7,6 +7,7 @@ categories:
  - hope
  - elsewhere
  - quotable
+ - immediatism
 ---
 
 From a talk given in 2017, all the more pertinent today.

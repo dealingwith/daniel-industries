@@ -177,7 +177,7 @@ del {
 hr {
   border: 0;
   border-top: 5px dotted var(--lightgreen);
-  padding: 0.45em 0 0;
+  padding: 0.4em 0 0;
 }
 .main-content hr.alt {
   margin: 1rem 0;
