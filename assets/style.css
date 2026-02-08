@@ -42,6 +42,7 @@
 
 html,
 body {
+  background: var(--bg);
   font-size: 1.05rem;
   line-height: 1.5rem;
   -webkit-font-smoothing: antialiased;
@@ -54,7 +55,6 @@ body {
   }
 }
 body {
-  background: var(--bg);
   color: var(--text);
   font-family: var(--sans);
 }
@@ -202,7 +202,7 @@ ol li {
 }
 li > ul,
 li > ol {
-  margin: 0.3rem 0 0;
+  margin: 0;
 }
 
 h1 + .post-metadata,
@@ -431,8 +431,6 @@ footer a:visited {
 /* Menu specific */
 .menu {
   border-bottom: 1px solid var(--green);
-  margin: 0;
-  padding: 0;
   text-align: right;
 }
 
@@ -440,11 +438,20 @@ footer a:visited {
   border-left: 1px solid var(--green);
 }
 
+.menu, footer {
+  background: var(--bg) url('page/header_bg_flowers.png');
+  margin: 0;
+  padding: 0;
+}
+@media (prefers-color-scheme: dark) {
+  .menu, footer {
+    background: var(--bg) url('page/footer_bg_flowers_flip_opac.png');
+  }
+}
+
 /* Footer specific */
 footer {
   border-top: 1px solid var(--green);
-  margin: 0;
-  padding: 0;
   text-align: left;
 }
 
