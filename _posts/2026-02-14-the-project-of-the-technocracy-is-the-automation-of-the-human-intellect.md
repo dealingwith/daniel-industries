@@ -40,33 +40,24 @@ It took me multiple sessions to finish watching this talk, as it is dense in ter
 
 > To create that second future, we will need some kind of revitalized moral and political imagination.
 
-> As Frederick Jameson once roofily observed, it seems easier now to imagine the end of the world than to imagine the end of capitalism. The ubiquitous but unavowed despair many, who long for something different, is camouflaged rhetorically by calls for subversion, transgression, or resistance, none of which amount to a clear and convincing project of social and political transformation. At some point you have to be for something, not simply and rightly against something horrible.
+> As Frederick Jameson once ruefully observed, it seems easier now to imagine the end of the world than to imagine the end of capitalism. The ubiquitous but unavowed despair many, who long for something different, is camouflaged rhetorically by calls for subversion, transgression, or resistance, none of which amount to a clear and convincing project of social and political transformation. At some point you have to be for something, not simply and rightly against something horrible.
 
 > But it's the very capacity to imagine alternatives that neoliberalism seems to have effectively paralyzed. What was and is still called the left was marked in part by faith in the ability of human beings to collectively construct a world in which all of us could live and flourish, but it's precisely that ability that neoliberalism's capitulation to the market has so successfully called into question. 
 
 > So perhaps the thing most needful right now is imagination, not resistance, or perhaps better, the imagination of a future in terms of which resistance makes sense.
 
-> As an eros so in politics, you are what you desire. Right now, I think that too many of our desires are not strong enough. They're not large enough. They're not bold and generous enough. And they're not strong and large and bold because we seem to have forgotten who we are.
+> As in eros so in politics, you are what you desire. Right now, I think that too many of our desires are not strong enough. They're not large enough. They're not bold and generous enough. And they're not strong and large and bold because we seem to have forgotten who we are.
 
-> But let's C.S. Lewis be kind enough to remind you, in that magnificent last paragraph of his essay, _The Weight of Glory:_
+> But let C.S. Lewis be kind enough to remind you, in that magnificent last paragraph of his essay, _The Weight of Glory:_
 
 > _It is a serious thing to live in a society of possible gods and goddesses, to remember that the dullest and most uninteresting person you talk to may one day be a creature which, if you saw it now, you would be strongly tempted to worship, or else a horror and a corruption such as you now meet, if at all, only in a nightmare._
 >  
-> _It is in the light of these overwhelming possibilities, it is with the awe and the circumspection proper to them, that we should conduct all our dealings with one another, all friendships, all loves, all play, all politics There are no ordinary people. You have never talked to a mere mortal. Nations, cultures, arts, civilization—these are mortal, and their life is to ours as the life of a gnat. But it is immortals whom we joke with, work with, marry, snub, and exploit._
+> _...It is in the light of these overwhelming possibilities, it is with the awe and the circumspection proper to them, that we should conduct all our dealings with one another, all friendships, all loves, all play, all politics There are no ordinary people. You have never talked to a mere mortal. Nations, cultures, arts, civilization—these are mortal, and their life is to ours as the life of a gnat. But it is immortals whom we joke with, work with, marry, snub, and exploit._
+>  
+> _...your neighbor is the holiest object presented to your senses._
 
+> In other words, like Howard Beale, you have seen the face of God. The spirit of that paragraph is the basis of the most radical critique you can make of neoliberalism and it should send all of us out marching against every injustice and indignity in the world.
 
-It is a serious thing to live in a society of possible gods and goddesses.
-To remember that the dullest and most uninteresting person you talked to, a loser may one day be a creature which, if you saw it now, would be strongly tempted to worship or else a horror and a corruption such as you now meet, if at all, only in a nightmare.
-It is in the light of these overwhelming possibilities. It is with the awe and the circumspection proper to them that we should conduct all our dealings with one another, all friendships, all loves, all play, all politics. 
-
-
-There are no ordinary people. You have never talked to a mere mortal. It is immortals whom we joke with, work with, marry, snub and exploit. 
-
-
-Your neighbor is the holiest object presented to your senses. 
-
-In other words, like Howard Beale, you have seen the face of God.
-The spirit of that paragraph is the basis of the most radical critique you can make of neoliberalism and it should send all of us out marching against every injustice and indignity in the world.
-It demolishes every idol of progress, every chivaliff of productivity, and every banality about value and innovation. And it is the spirit from which any alternative to neoliberalism must in the end draw its imagination.
+> It demolishes every idol of progress, every shibboleth of productivity, and every banality about value and innovation. And it is the spirit from which any alternative to neoliberalism must in the end draw its imagination.
 
 [^1]: It is horrifying to listen to this in 2026.
