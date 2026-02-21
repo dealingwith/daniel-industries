@@ -3,7 +3,7 @@ title: "Important"
 layout: page
 ---
 
-**_Artists and thinkers I find essential to navigating life, with an emphasis on lesser-known people_**
+**_Artists and thinkers I find essential to navigating life, or think will be (or should be) historically important, with an emphasis on lesser-known people_**
 
 <small markdown="1">_Last updated 2026-02-21_</small>
 
@@ -33,3 +33,4 @@ In 2004 I initiated the opening of a local art gallery in Dallas, TX. (I had jus
 ### Other Creatives
 
 - Brennan Lee Mulligan
+
