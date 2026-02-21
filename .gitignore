@@ -79,3 +79,4 @@ _site/*
 
 assets/ots_test/
 CLAUDE.md
+assets/data/category_graph.json
