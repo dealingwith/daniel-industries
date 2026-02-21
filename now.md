@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<small><i>here's what I'm up to right now (last updated on 02/08/2026)</i></small>
+<small>here's what I'm up to right now. <i>last updated on 02/08/2026</i></small>
 
 At the end of 2024 I took a new role as CTO at a multifamily software startup.
 

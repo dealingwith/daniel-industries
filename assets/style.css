@@ -105,8 +105,9 @@ a.blog-index-a {
   text-decoration: none;
 }
 .main-content article p a,
-.main-content article blockquote a {
-  text-decoration: none;
+.main-content article blockquote a,
+.main-content article li a {
+text-decoration: none;
   background-image: linear-gradient(var(--lightgreen), var(--lightgreen));
   background-size: 100% 0.08em;
   background-repeat: no-repeat;
@@ -114,7 +115,8 @@ a.blog-index-a {
   transition: background-size .2s ease-in-out;
 }
 .main-content article p a:hover,
-.main-content article blockquote a:hover {
+.main-content article blockquote a:hover,
+.main-content article li a:hover {
   background-image: linear-gradient(var(--highlight), var(--highlight));
   background-size: 100% 100%;
 }

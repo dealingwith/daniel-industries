@@ -25,9 +25,11 @@ Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Mi
 
 [You can get in contact with me here](https://letterbird.co/dealingwith).
 
-See also: [colophon](/colophon), [uses](/uses), and [now](/now).
-
 The [blog](/blog) started in 2001 and now has over 3,000 posts. Posts are single links/thoughts, collections of links, journals, or longer posts about philosophy, bicycling, music, or the internet. It started as a notebook, became a micro-blog, then a proper blog (long after blogging had peaked). I like to think of it as a public [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), although that feels aspirational. There is ample cringe and broken links in the old stuff, which I am slowly editing over the course of years.
+
+<aside markdown="1">
+See also: [colophon](/colophon "Technical details about the construction of this website"), [uses](/uses "The software I use"), [important](/important "Artists I find important"), and [now](/now "What I'm up to now").
+</aside>
 
 If you are looking for somewhere to start, try these:
 
@@ -76,6 +78,7 @@ If you are looking for somewhere to start, try these:
 
 ### On music and art
 
+- [This Was the Moment I Realized Brennan Lee Mulligan Was an Important Artist](/2026/01/25/this-was-the-moment-i-realized-brennan-lee-mulligan-was-an-important-artist/) (2026)
 - [Helen Thorington](/2024/12/29/helen-thorington/) (2024)
 - [The Music That Made Me](/2021/11/25/the-music-that-made-me/) (2021)
 - [When I Blog About Hip Hop](/2016/08/28/when-i-blog-about-hip-hop/) (2016)
