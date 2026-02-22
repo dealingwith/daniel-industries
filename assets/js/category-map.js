@@ -153,8 +153,13 @@
     line.setAttribute("x2", b.x);
     line.setAttribute("y2", b.y);
     line.setAttribute("stroke", "currentColor");
-    line.setAttribute("opacity", String(0.12 + 0.35 * (e.weight / maxW)));
-    line.setAttribute("stroke-width", String(1 + 6 * (e.weight / maxW)));
+
+    const wNorm = e.weight / maxW;
+    // lighter baseline + narrower range
+    line.setAttribute("opacity", String(0.06 + 0.18 * wNorm));
+    // slightly thinner overall
+    line.setAttribute("stroke-width", String(0.8 + 4 * wNorm));
+
     line.dataset.source = e.source;
     line.dataset.target = e.target;
     line.dataset.weight = e.weight;
