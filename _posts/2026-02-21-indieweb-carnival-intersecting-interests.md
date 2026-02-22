@@ -54,7 +54,7 @@ In terms of understanding the interconnectedness of posts here, it's more or les
 
 ### 03
 
-That's probably because while I know there are through-lines here like grief, I don't even know what they all are. Yesterday was my second time attending the Homebrew Website Club (I mentioned the last one in [last month's Indieweb Carnival post!](/2026/01/17/indieweb-carnival-the-meaning-of-life/#ps)), and this topic came up, and I confessed this fact. I also confessed to being more drawn to questions than answers. I mentioned my post about [ambiguous work](/2025/11/05/ambiguous-work/). I complimented Tracy Durnell on her [Big Questions](https://tracydurnell.com/questions/) framework.
+That's probably because while I know there are through-lines here like grief, I don't even know what they all are. Today was my second time attending the Homebrew Website Club (I mentioned the last one in [last month's Indieweb Carnival post!](/2026/01/17/indieweb-carnival-the-meaning-of-life/#ps)), and this topic came up, and I confessed this fact. I also confessed to being more drawn to questions than answers. I mentioned my post about [ambiguous work](/2025/11/05/ambiguous-work/). I complimented Tracy Durnell on her [Big Questions](https://tracydurnell.com/questions/) framework.
 
 I thought about, but did not mention, Over the Rhine's track _Nobody Number One_[^3], a song with smokily-spoken verses, the last of which ends with:
 
