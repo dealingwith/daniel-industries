@@ -2,7 +2,6 @@ Rakefile
 package*
 postcss*
 *.rb
-*.json
 *.csv
 about_content.md
 README.md
