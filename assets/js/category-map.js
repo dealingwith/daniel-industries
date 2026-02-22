@@ -1,5 +1,12 @@
 (async function () {
   const container = document.getElementById("viz");
+  container.style.width = "100%";
+  container.style.height = "100vh";
+  container.style.margin = "0";
+  container.style.padding = "0";
+  // Full-viewport canvas (adjust the 0 if you want to account for header/nav height)
+  const width = Math.floor(window.innerWidth);
+  const height = Math.floor(window.innerHeight);
   const dataUrl = container.dataset.graphUrl;
   const res = await fetch(dataUrl);
   const graph = await res.json();
@@ -31,8 +38,6 @@
   const maxCount = Math.max(...nodes.map(n => n.count));
   const maxW = edges.length ? Math.max(...edges.map(e => e.weight)) : 1;
 
-  const width = 1000;
-  const height = 700;
   const cx = width / 2;
   const cy = height / 2;
   const R = Math.min(width, height) * 0.35;
@@ -132,9 +137,10 @@
   const svg = document.createElementNS(svgNS, "svg");
   svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
   svg.setAttribute("width", "100%");
-  svg.setAttribute("height", `${height}px`);
-  svg.style.border = "1px solid rgba(0,0,0,0.1)";
-  svg.style.borderRadius = "8px";
+  svg.setAttribute("height", "100vh");
+  svg.style.display = "block"; // removes inline-gap quirks
+  svg.style.border = "none";
+  svg.style.borderRadius = "0";
 
   // edges
   const edgeLayer = document.createElementNS(svgNS, "g");
@@ -199,6 +205,7 @@
 
   svg.appendChild(edgeLayer);
   svg.appendChild(nodeLayer);
+  addLegend(svg, width, height);
   svg.addEventListener("click", () => {
     if (active !== null) clearSelection();
   });
@@ -287,5 +294,50 @@
     }
 
     showDetails(cat);
+  }
+
+  function addLegend(svg, width, height) {
+    const padding = 16;
+    const boxW = 360;
+    const boxH = 70;
+
+    const x = width - boxW - padding;
+    const y = padding;
+
+    const g = document.createElementNS(svgNS, "g");
+    g.setAttribute("transform", `translate(${x}, ${y})`);
+
+    const bg = document.createElementNS(svgNS, "rect");
+    bg.setAttribute("x", "0");
+    bg.setAttribute("y", "0");
+    bg.setAttribute("width", String(boxW));
+    bg.setAttribute("height", String(boxH));
+    bg.setAttribute("rx", "10");
+    bg.setAttribute("fill", "white");
+    bg.setAttribute("opacity", "0.85");
+    bg.setAttribute("stroke", "rgba(0,0,0,0.15)");
+
+    const text1 = document.createElementNS(svgNS, "text");
+    text1.setAttribute("x", "14");
+    text1.setAttribute("y", "28");
+    text1.setAttribute("font-size", "14");
+    text1.setAttribute("fill", "currentColor");
+    text1.textContent = "Node size = # posts in category";
+
+    const text2 = document.createElementNS(svgNS, "text");
+    text2.setAttribute("x", "14");
+    text2.setAttribute("y", "52");
+    text2.setAttribute("font-size", "14");
+    text2.setAttribute("fill", "currentColor");
+    text2.textContent = "Edge thickness = # posts with both";
+
+    g.appendChild(bg);
+    g.appendChild(text1);
+    g.appendChild(text2);
+
+    // optional: clicking legend shouldn't clear selection
+    g.addEventListener("click", (ev) => ev.stopPropagation());
+
+    svg.appendChild(g);
   }
 })();
