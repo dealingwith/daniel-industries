@@ -3,7 +3,6 @@ layout: post
 title: "SWIM stock-take part 1"
 excerpt: "If this is a career-long project, where is it?"
 date: 2017-12-23 19:13:19 -0600
-comments: true
 categories: 
  - swim
  - nonlinear
