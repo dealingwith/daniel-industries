@@ -197,9 +197,55 @@
     g.appendChild(c);
     g.appendChild(t);
 
-    nodeEls.set(n.id, { g, circle: c, text: t });
+    // Background rect sized to text bbox (must be after text is in DOM)
+    const labelBg = document.createElementNS(svgNS, "rect");
+    labelBg.setAttribute("rx", "4");
+    labelBg.setAttribute("ry", "4");
+    labelBg.setAttribute("fill", "white");
+    labelBg.setAttribute("opacity", "0.92");
+    labelBg.setAttribute("stroke", "currentColor");
+    labelBg.setAttribute("stroke-opacity", "0.35");
+    labelBg.setAttribute("stroke-width", "1");
+    labelBg.style.display = "none"; // default off
 
-    g.addEventListener("mouseenter", () => showDetails(n.id));
+    // Insert bg *behind* the text (but after circle)
+    g.insertBefore(labelBg, t);
+
+    // Now that bg is in DOM (and text is too), measure text
+    const bb = t.getBBox();
+    const padX = 6;
+    const padY = 3;
+
+    labelBg.setAttribute("x", String(bb.x - padX));
+    labelBg.setAttribute("y", String(bb.y - padY));
+    labelBg.setAttribute("width", String(bb.width + padX * 2));
+    labelBg.setAttribute("height", String(bb.height + padY * 2));
+
+    // Save refs (add labelBg)
+    nodeEls.set(n.id, { g, circle: c, text: t, labelBg });
+
+    g.addEventListener("mouseenter", () => {
+      // If a node is selected, we only show emphasis for selected cluster,
+      // but still allow hover emphasis if you're hovering within that cluster.
+      if (active) {
+        const nbrs = neighbors.get(active) || new Set();
+        if (n.id === active || nbrs.has(n.id)) setLabelEmphasis(n.id, true);
+      } else {
+        setLabelEmphasis(n.id, true);
+      }
+      showDetails(n.id);
+    });
+
+    g.addEventListener("mouseleave", () => {
+      // On hover out, revert: if selection exists keep emphasis only for selected cluster
+      if (active) {
+        const nbrs = neighbors.get(active) || new Set();
+        setLabelEmphasis(n.id, n.id === active || nbrs.has(n.id));
+      } else {
+        setLabelEmphasis(n.id, false);
+      }
+    });
+
     g.addEventListener("click", (ev) => {
       ev.stopPropagation();     // prevent svg background handler
       highlight(n.id);
@@ -249,16 +295,23 @@
     // reset edges
     [...edgeLayer.children].forEach(el => {
       const w = Number(el.dataset.weight);
-      el.setAttribute("opacity", String(0.12 + 0.35 * (w / maxW)));
+      const wNorm = w / maxW;
+      el.setAttribute("opacity", String(0.06 + 0.18 * wNorm)); // your lighter baseline
     });
 
     // reset nodes + labels
     for (const n of nodes) {
       const el = nodeEls.get(n.id);
       if (!el) continue;
+
       el.circle.setAttribute("opacity", "0.85");
+
+      // IMPORTANT: restore display, not just opacity
       el.text.style.display = "";
       el.text.setAttribute("opacity", "0.9");
+
+      // turn off label highlight (also hides labelBg + removes text stroke)
+      setLabelEmphasis(n.id, false);
     }
   }
 
@@ -270,6 +323,13 @@
 
     active = cat;
     const nbrs = neighbors.get(cat) || new Set();
+
+    // labels: emphasize active + neighbors, remove from others
+    for (const n of nodes) {
+      const isActive = n.id === cat;
+      const isNeighbor = nbrs.has(n.id);
+      setLabelEmphasis(n.id, isActive || isNeighbor);
+    }
 
     // edges: keep only incident edges prominent
     [...edgeLayer.children].forEach(el => {
@@ -293,7 +353,7 @@
         el.text.style.display = "";
         el.text.setAttribute("opacity", "0.9");
       } else {
-        el.circle.setAttribute("opacity", "0.10");
+        setLabelEmphasis(n.id, false);
         el.text.style.display = "none"; // hide labels entirely
       }
     }
@@ -344,5 +404,25 @@
     g.addEventListener("click", (ev) => ev.stopPropagation());
 
     svg.appendChild(g);
+  }
+
+  function setLabelEmphasis(id, on) {
+    const el = nodeEls.get(id);
+    if (!el) return;
+
+    if (on) {
+      el.labelBg.style.display = "";
+      // outline around text itself
+      el.text.setAttribute("paint-order", "stroke");
+      el.text.setAttribute("stroke", "white");
+      el.text.setAttribute("stroke-width", "3");
+      el.text.setAttribute("stroke-linejoin", "round");
+    } else {
+      el.labelBg.style.display = "none";
+      el.text.removeAttribute("paint-order");
+      el.text.removeAttribute("stroke");
+      el.text.removeAttribute("stroke-width");
+      el.text.removeAttribute("stroke-linejoin");
+    }
   }
 })();
