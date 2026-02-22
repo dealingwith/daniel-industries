@@ -9,7 +9,7 @@ title: seeking stories beauty meaning
     <h3>{{ post.title }}</h3>
     <p class="post-metadata">
       {{ post.content | number_of_words }} words on <time
-        datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %-d %Y" }}</time>{% if
+        datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %B %-d, %Y" }}</time>{% if
             post.categories.size > 0 %} in {% for category in post.categories %} #{{
               category | downcase | replace: " ", "-"}}{% endfor %}{% endif %}
     </p>

@@ -11,7 +11,7 @@
       {% endif %}
       <div class="post-metadata">
         <a href="{{ page.url }}">{{ page.content | number_of_words }} words on <time
-            datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>{% if
+            datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%a, %B %-d, %Y" }}</time></a>{% if
         page.categories.size > 0 %} in {% for category in page.categories %} <a
           href="/categories#{{ category | replace: ' ', '' | replace: '_', '' }}">#{{
           category |
