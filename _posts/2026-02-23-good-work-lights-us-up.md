@@ -22,7 +22,7 @@ This one surfaced 14 months after I captured it:
 
 > It is useless work that darkens the heart. But good work? Work that serves the living, that brings us into alignment with ourselves and with each other and with the earth? Good work lights us right up.
 
-It currently pairs well with the more recent [The empire always falls](https://www.joanwestenberg.com/the-empire-always-falls/):
+It pairs well with the more recent [The empire always falls](https://www.joanwestenberg.com/the-empire-always-falls/):
 
 > The posting classes...
 
