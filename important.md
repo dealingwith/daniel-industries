@@ -10,6 +10,7 @@ layout: page
 ### Music
 
 - Tom Conlon
+- Damien Jurado
 - Eef Barzelay / Clem Snide
 - Ours
 - Innocence Mission
