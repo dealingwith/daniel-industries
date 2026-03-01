@@ -4,7 +4,8 @@ title: "Pile of rubble"
 excerpt: 
 date: 2026-03-01 13:06:27 -0600
 categories: 
- - the project
+ - theproject
+ - thehypothesis
 ---
 
 _I posted this thread on Mastodon on Feb 27th. I would link to the original posts, but they will be automatically deleted in three months. I will make small edits here._
