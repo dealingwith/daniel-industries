@@ -11,7 +11,7 @@
   --lightgrey: #eeeeee;
   --pink: #ffd5dc;
   --text: #040404;
-  --highlight: #e5e5c5;
+  --highlight: var(--pink);
   --diagonal-stripe: repeating-linear-gradient(
     -45deg,
     transparent,
@@ -94,7 +94,12 @@ h6 {
 
 ::selection {
   background: var(--highlight);
-  color: var(--bg);
+  /* color: var(--bg); */
+}
+@media (prefers-color-scheme: dark) {
+  ::selection {
+    color: var(--bg);
+  }
 }
 
 a {
@@ -112,7 +117,7 @@ text-decoration: none;
   background-size: 100% 0.08em;
   background-repeat: no-repeat;
   background-position: 0 100%;
-  transition: background-size .2s ease-in-out;
+  transition: background-size .1s ease-in-out;
 }
 .main-content article p a:hover,
 .main-content article blockquote a:hover,
@@ -129,12 +134,14 @@ text-decoration: none;
 a strong {
   color: inherit;
 }
-a.dead {
+.main-content article p a.dead {
+  background-image: none;
   color: var(--grey);
-  cursor: pointer;
-  text-decoration-line: line-through;
-  text-decoration-style: wavy;
-  text-decoration-color: var(--pink);
+  cursor: default;
+  /* text-decoration-line: line-through;
+  text-decoration-style: wavy; */
+  text-decoration: underline;
+  text-decoration-color: var(--grey);
 }
 
 del {
@@ -179,7 +186,9 @@ del {
 hr {
   border: 0;
   border-top: 5px dotted var(--lightgreen);
-  padding: 0.4em 0 0;
+  margin: 0 auto;
+  padding: 0.5em 0 0.1em;
+  width: 90%;
 }
 .main-content hr.alt {
   margin: 1rem 0;
