@@ -5,7 +5,7 @@ categories:
  - comment
 ---
 
-Well, this has been a long time coming. I started a series called "Fairness" with this [blog post]({{site.url}}/2002/12/23/Fairness-part-I/). [Chris Woody](http://qahal.blogspot.com/) replied to that post, and a fairly (yuk yuk) thorough discussion ensued. I have been meaning to post it for some time, and I'm finally tying up these loose ends. 
+Well, this has been a long time coming. I started a series called "Fairness" with this [blog post]({{site.url}}/2002/12/23/Fairness-part-I/). <a class="dead">Chris Woody</a>[^1] replied to that post, and a fairly (yuk yuk) thorough discussion ensued. I have been meaning to post it for some time, and I'm finally tying up these loose ends.
 
 I may yet continue my ideas on how we see values (like fairness) and issues (like with authority), interpreted in different ways...but for now this thread should do it.
 
@@ -17,7 +17,7 @@ Here are couple pertinant links as well, before we get started:
 
 ---
 
-[lucky ducky pergative](http://ftrain.com/luckyducky.html)
+[lucky ducky pergative](https://www.ftrain.com/luckyducky)
 
 ---
 
@@ -261,3 +261,5 @@ Don't get it.
 ---
 
 endnote: Chris and I cleared things up in a couple more emails that I, for some unknown reason, do not have anymore. We realized we agreed on more than we disagreed on and left it at that. Just wanted to clear that up, based on the tone of the last couple sentences there.
+
+[^1]: Most recent [archive.org archive link](https://web.archive.org/web/20231126102524/https://qahal.blogspot.com/), last post is from May, 2003. I do not remember this person, sadly; I assume I knew them only via the Internet. I did notice they linked to my blog in their sidebar blogroll, and in a post to a band I was briefly the drummer for.

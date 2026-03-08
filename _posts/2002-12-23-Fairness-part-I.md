@@ -9,7 +9,7 @@ So I got an email yesterday that was flatly offensive to me. Instead of replying
 
 ### the email:  
 
-subject: This is Priceless - Explains A Lot
+_Subject: This is Priceless - Explains A Lot_
 
 > Some articles say it better than I can...
 
@@ -27,11 +27,11 @@ subject: This is Priceless - Explains A Lot
 
 ...because what is described in this less-than-witty anecdote is communism, not a welfare system (these were actually Miriam's first words in response to this, and she has lived under communism and in the U.S. both--14 years each this May).
 
-**communism** n. A scheme of equalizing the social conditions of life; specifically, a scheme which contemplates the abolition of inequalities in the possession of property, as by distributing all wealth equally to all, or by holding all wealth in common for the equal use and advantage of all (<a href="http://dictionary.reference.com/search?q=communism">source</a>)
+**communism** n. A scheme of equalizing the social conditions of life; specifically, a scheme which contemplates the abolition of inequalities in the possession of property, as by distributing all wealth equally to all, or by holding all wealth in common for the equal use and advantage of all.
 
-**socialism** n. A theory or system of social reform which contemplates a complete reconstruction of society, with a more just and equitable distribution of property and labor. In popular usage, the term is often employed to indicate any lawless, revolutionary social scheme. (<a href="http://dictionary.reference.com/search?q=socialism">source</a>)
+**socialism** n. A theory or system of social reform which contemplates a complete reconstruction of society, with a more just and equitable distribution of property and labor. In popular usage, the term is often employed to indicate any lawless, revolutionary social scheme.
 
-**welfare** n. 1. Health, happiness, and good fortune; well-being. Prosperity. Welfare work. 2. Financial or other aid provided, especially by the government, to people in need. Corporate welfare. (<a href="http://dictionary.reference.com/search?q=welfare">source</a>)
+**welfare** n. 1. Health, happiness, and good fortune; well-being. Prosperity. Welfare work. 2. Financial or other aid provided, especially by the government, to people in need. Corporate welfare.
 
 It seems that the author of this story is confusing their definitions a tad, in the name of propaganda. It is probably trying to argue that the government is redistributing wealth, ala socialism or communism, through taxation and the welfare system, however the grades analogy does not--cannot--represent that. It is simply a poor analogy which must only resonate with those unwilling to pursue the matter with a little more rigor. Our economic system, and the government's involvement in that system by way of taxes, expenditures, and allowances, and humanity's history, even our nation's recent history, is much more complicated than that; but it certainly does not allow for the redistribution of wealth for economic equality across its citizenship.
 
@@ -45,6 +45,6 @@ It seems that the author of this story is confusing their definitions a tad, in 
 
 > He then asked his daughter why she didn't go to the Dean's office and ask why she couldn't take 1.0 off her 4.0 and give it to her friend that only had a 2.0. That way they would both have a 3.0 GPA.
 
-> She fired back and said "that wouldn't be fair, I worked really hard for mine and my friend has done nothing". After a moment of silence, she replied, "I guess I will never vote Democrat again--I've earned my life of privilege, damnit, and the only way they are going to get me to stop being self serving and merciless is to rip this gun out of my cold dead hands!"
+> She fired back and said, "That wouldn't be fair, I worked really hard for mine and my friend has done nothing". After a moment of silence, she replied, "I guess I will never vote Democrat again--I've earned my life of privilege, damnit, and the only way they are going to get me to stop being self serving and merciless is to rip this gun out of my cold dead hands!"
 
 Ok, so I might have gone a little overboard with the NRA thing right there at the end, but there are a couple things--deep values (like fairness) and issues (like with authority), interpreted in different ways--that I do want to explore more deeply...that exploration will be soon to follow...
