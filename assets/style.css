@@ -303,7 +303,7 @@ img {
 .small,
 .excerpt,
 .caption {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   line-height: 1.4rem;
 }
 
@@ -312,7 +312,7 @@ img {
   color: var(--green);
 }
 
-.small {
+.small, .grey {
   color: var(--grey);
 }
 
