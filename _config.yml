@@ -13,7 +13,7 @@ exclude:
   - "*.csv"
   - "rsync-exclude"
   - "README.md"
-
+excerpt_separator: ""
 highlighter: rouge
 
 # About/contact

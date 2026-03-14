@@ -150,26 +150,26 @@ module Jekyll
     def render(context)
       post = context[@post]
 
-      stripped_excerpt = post["excerpt"].gsub(/<\/?[^>]*>/, "")
+      # use a specified "excerpt" from frontmatter
+      # this only works if in _config.yml: `excerpt_separator: ""`
+      return post["excerpt"] if !post["excerpt"].empty?
 
-      # if excerpt and stripped_excerpt are the same, it was probably the YAML excerpt which I want to use regardless of length...unless it was an empty string...
-      if stripped_excerpt.length > 0 && post["excerpt"] === stripped_excerpt
-        return post["excerpt"]
-      end
-
-      unless stripped_excerpt && stripped_excerpt.chomp.length > 0
-        stripped_excerpt = post["content"].gsub(/<\/?[^>]*>/, "")
-      end
+      # grab the first paragraph
+      excerpt = post["content"].partition(/\n{2}/).first.gsub(/<\/?[^>]*>/, "")
 
       max_length = 200
-      if stripped_excerpt.length > max_length
-        truncated_excerpt = stripped_excerpt[0...max_length]
-        truncated_excerpt = truncated_excerpt.rpartition(/(?<=[.!?:])\s/).first
-      else
-        truncated_excerpt = stripped_excerpt
+      if excerpt.length > max_length
+        # Try to avoid cutting in the middle of a sentence.
+        #   (?<=[.!?:])  -- positive lookbehind: position must follow sentence punctuation
+        #   \s           -- a whitespace character
+        # rpartition finds the last match of that pattern and splits there,
+        # keeping only the text up to the previous sentence boundary.
+        if excerpt.match?(/(?<=[.!?:])\s/)
+          excerpt = excerpt[0...max_length].rpartition(/(?<=[.!?:])\s/).first
+        end
       end
-      truncated_excerpt = truncated_excerpt.chomp().sub(/[.!?:"\s]+$/, "")
-      "#{truncated_excerpt}..."
+      excerpt = excerpt.sub(/[.!?:"\s]+$/, "")
+      "#{excerpt}..."
     end
   end
 end
