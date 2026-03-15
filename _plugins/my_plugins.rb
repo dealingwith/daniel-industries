@@ -155,22 +155,23 @@ module Jekyll
       return post["excerpt"] if !post["excerpt"].empty?
 
       # grab the first paragraph
-      excerpt = post["content"].partition(/\n{2}/).first.gsub(/<\/?[^>]*>/, "")
+      excerpt = post["content"].partition(/\n{2}/).first
+      excerpt.gsub!(/<\/?[^>]*>/, "")
 
       max_length = 300
       if excerpt.length > max_length
         # Try to avoid cutting in the middle of a sentence.
-        #   (?<=[.!?:])  -- positive lookbehind: position must follow sentence punctuation
-        #   \s           -- a whitespace character
-        # rpartition finds the last match of that pattern and splits there,
-        # keeping only the text up to the previous sentence boundary.
-        if excerpt[0...max_length].match?(/(?<=[.!?:])\s/)
-          excerpt = excerpt[0...max_length].rpartition(/(?<=[.!?:])\s/).first
-        elsif excerpt.match?(/(?<=[.!?:])\s/)
-          excerpt = excerpt.partition(/(?<=[.!?:])\s/).first
-        end
+        truncated = excerpt[0...max_length]
+        # grab as many sentences fit in max_length
+        # [.!?:]\s -- any of those punctuation followed by a space
+        # rpartition finds the last match of that pattern and splits there
+        head, separator, = truncated.rpartition(/[.!?:"]\s/)
+        # if the first sentence is > max_length, just use the entire first sentence
+        excerpt = separator.empty? ? excerpt.partition(/[.!?:"]\s/).first : head
       end
-      excerpt.sub!(/[.!?:"\s]+\z/, "...")
+      # cleanup ending punctuation before appending the ellipsis 
+      excerpt.sub!(/[.!?:"\s]+\z/, "")
+      excerpt << "..."
     end
   end
 end
