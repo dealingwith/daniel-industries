@@ -112,12 +112,12 @@ a.blog-index-a {
 .main-content article p a,
 .main-content article blockquote a,
 .main-content article li a {
-text-decoration: none;
+  text-decoration: none;
   background-image: linear-gradient(var(--lightgreen), var(--lightgreen));
   background-size: 100% 0.08em;
   background-repeat: no-repeat;
   background-position: 0 100%;
-  transition: background-size .1s ease-in-out;
+  transition: background-size 0.1s ease-in-out;
 }
 .main-content article p a:hover,
 .main-content article blockquote a:hover,
@@ -138,10 +138,9 @@ a strong {
   background-image: none;
   color: var(--grey);
   cursor: default;
-  /* text-decoration-line: line-through;
-  text-decoration-style: wavy; */
-  text-decoration: underline;
-  text-decoration-color: var(--grey);
+  text-decoration-line: line-through;
+  text-decoration-style: wavy;
+  text-decoration-color: var(--lightgrey);
 }
 
 del {
@@ -169,6 +168,9 @@ del {
   margin-bottom: 1rem;
   overflow-wrap: break-word;
 }
+.main-content iframe {
+  display: block;
+}
 
 .main-content aside {
   padding: 2rem 1rem 0.75rem;
@@ -186,9 +188,12 @@ del {
 hr {
   border: 0;
   border-top: 5px dotted var(--lightgreen);
-  margin: 0 auto;
-  padding: 0.5em 0 0.1em;
+  margin: 1rem auto;
+  /* padding: 0.5em 0 0.1em; */
   width: 90%;
+}
+.main-content a.hr-anchor {
+  display: block;
 }
 .main-content hr.alt {
   margin: 1rem 0;
@@ -312,7 +317,8 @@ img {
   color: var(--green);
 }
 
-.small, .grey {
+.small,
+.grey {
   color: var(--grey);
 }
 
@@ -449,14 +455,16 @@ footer a:visited {
   border-left: 1px solid var(--green);
 }
 
-.menu, footer {
-  background: var(--bg) url('page/header_bg_flowers.png');
+.menu,
+footer {
+  background: var(--bg) url("page/header_bg_flowers.png");
   margin: 0;
   padding: 0;
 }
 @media (prefers-color-scheme: dark) {
-  .menu, footer {
-    background: var(--bg) url('page/footer_bg_flowers_flip_opac.png');
+  .menu,
+  footer {
+    background: var(--bg) url("page/footer_bg_flowers_flip_opac.png");
   }
 }
 
@@ -536,7 +544,9 @@ table {
   border-collapse: collapse;
   min-width: 100%;
 }
-table, th, td {
+table,
+th,
+td {
   font-size: 1rem;
 }
 tr {
@@ -592,9 +602,7 @@ div.blog-index-div::after {
   inset: 0;
   transform: translate(7px, 7px); /* shadow offset */
   z-index: -1;
-  background:
-    var(--lightgrey)
-    var(--diagonal-stripe);
+  background: var(--lightgrey) var(--diagonal-stripe);
   border-radius: inherit;
 }
 div.blog-index-div h3 {

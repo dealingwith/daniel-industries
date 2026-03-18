@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-17 16:40:00'
 layout: post
 slug: mp3-of-the-day-my-new-star-crush
-status: publish
 title: mp3 of the day / my new star crush
-wordpress_id: '1661'
 categories:
  - cyber stalking
  - love
@@ -13,45 +10,48 @@ categories:
  - music
 ---
 
-[my new desktop][1]
+![](/assets/2006/09/spree14.jpg)
 
-http://gorillavsbear.blogspot.com/2006/09/fragile-army.html
+<!-- I've moved the above photo here but it was still at http://photos1.blogger.com/blogger2/6012/1424/1600/spree14.jpg in March 2026 -->
 
-http://gorillavsbear.blogspot.com/2006/02/st-vincent.html#c115454898387060030
+[Editor, 2026: What followed were three links to the now long-gone-from-the-Internet blog _Gorilla vs Bear_, and I'm feeling too lazy to go find them on the Wayback Machine right now, so I'm hiding them]
 
+<!-- 
+http://gorillavsbear.blogspot.com/2006/09/fragile-army.html  
+http://gorillavsbear.blogspot.com/2006/02/st-vincent.html#c115454898387060030  
 more fodder: http://gorillavsbear.blogspot.com/2006/05/birdmonster-st-vincent-
 live-in-dallas.html
+-->
 
-etc.
+...etc.
 
-this song is on almost constant repeat
+This song is on almost constant repeat:
 
-[St. Vincent - Paris is Burning][2]
+[Editor, 2026: The original post had a bootleg of the original _Paris is Burning_ from [St. Vincent's debut EP](https://www.discogs.com/release/2036298-St-Vincent-Paris-Is-Burning). As a replacement I offer you the following live rendition from the era.]
 
-since the myspace suck player is as always less than steller never mind having
-to look at the funk ass in a bad way page layout do your best design etc.
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=735579002/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3133684502/transparent=true/" seamless><a href="https://planetclaire.bandcamp.com/album/st-vincent-planet-claire-session-2007-12-12">St. Vincent : Planet Claire Session (2007-12-12) by St. Vincent</a></iframe>
 
-her 2007 release is going to be my most anticipated of the year. that and
-mine. :)
+You can also still download the mp3s of this performance [here](http://prevot.denis.free.fr/Stvincent/).
 
-there's a dirty joke in there.
+[/end 2026 editor]
 
-but i was being sincere. i think i'm pushing back the goal release of my
-record. i have a handful of more dates in http://www.pleasantrylane.com in
-Oct/Nov this year. my artist has disappeared. funds are low. gotta figure some
-stuff out and that will take time.
+Since the myspace suck player is as always less than stellar never mind having to look at the funk ass in a bad way page layout do your best design etc.
+
+Her 2007 release is going to be my most anticipated of the year. That and mine. 🙂
+
+There's a dirty joke in there.
+
+But I was being sincere. I think I'm pushing back the goal release of my record. I have a handful of more dates at Pleasantry Lane in Oct/Nov this year. My artist has disappeared. Funds are low. Gotta figure some stuff out and that will take time.
 
 also via GvB:
 
-[My Brightest Diamond - Something of an End][3]
+[ed. here again: I've updated the below as well]
 
-[Sufjan Stevens - Godbird][4]
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4022093413/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=643095707/transparent=true/" seamless><a href="https://mybrightestdiamond.bandcamp.com/album/bring-me-the-workhorse">Bring Me The Workhorse by My Brightest Diamond</a></iframe>
 
-   [1]: http://photos1.blogger.com/blogger2/6012/1424/1600/spree14.jpg
+<p style="text-align: center"><audio controls>
+ <source src="/assets/2006/09/20050706_atc_godbird.mp3" type="audio/mpeg">
+</audio></p>
+<p class="caption" markdown="1">[Download Sufjan Stevens, "God Bird"](/assets/2006/09/20050706_atc_godbird.mp3). This was originally (and still is) on NPR, but I'm not sure from what show. Based on a 2026 Google search, nobody can even agree on what the song is called. "The Lord God Bird" seems to be the consensus.</p>
 
-   [2]: http://media.libsyn.com/media/indieinterviews/Paris_is_Burning.mp3
-
-   [3]: http://asthmatickitty.com/mp3/my_brightest_diamond_-_workhorse_-_something_of_an_end.mp3
-
-   [4]: http://anon.npr-mp3.speedera.net/anon.npr-mp3/atc/20050706_atc_godbird.mp3
-
+<!-- http://anon.npr-mp3.speedera.net/anon.npr-mp3/atc/20050706_atc_godbird.mp3 -->
