@@ -11,9 +11,7 @@ title: "Uses"
 - **RSS**: Feedbin
 - **Read Later**: Folio
 - **Contacts**: Google
-- **Browser**:  
-  - Work: Brave  
-  - Personal/Phone: Vivaldi  
+- **Browser**: Vivaldi  
 - **Chat**: 
   - SMS: Google Messages.  
   - Other: Discord, Signal, some Slack, some GroupMe.
@@ -23,16 +21,16 @@ title: "Uses"
 - **Spreadsheets**: Google Sheets
 - **Shopping Lists**: Google Keep
 - **Personal Finance**: Tiller
-- **News**: Mastodon, AP News website, on rare occasions Google News
+- **News**: Mastodon, AP News website, Kagi News
 - **Photo Management**: Google Photos
 - **Photo Editing**: Google Photos, Krita when on Linux
 - **Music**: YouTube Music. I was on Spotify for a year or two because I'd canceled my YT Premium account because Google is (societally) bad, but Spotify is worse 😕
-- **Podcasts**: AntennaPod. I used to happily use Pocket Casts, but their owned by a [now problematic person]({{ site.baseurl }}/2024/02/29/to-find-an-alternative-to-wordpress-just-go-back-to-the-beginning/)
+- **Podcasts**: AntennaPod
 - **Passwords**: 1Password
 - **Code Editing**: VSCode. Have been trying out Zed repeatedly without enough success to move over.
 - **Terminal**
   - Linux: GNOME terminal. 
-  - Mac: iTerm (Still. I tried Ghostty but it crashed on me.)
+  - Mac: iTerm
 
 ---
 
