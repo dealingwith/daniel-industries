@@ -40,4 +40,28 @@ I hadn't really followed Sufjan closely in a while.
  
 -- [We Can't Stop Wondering if Sufjan Stevens Sings About God or Being Gay](https://www.vice.com/en/article/we-cant-stop-wondering-if-sufjan-stevens-sings-about-god-or-being-gay/)
 
+---
+
+### Update March 21, 2026
+
+I forgot the rest of the rabbit hole in my original draft and it's not worth a fresh post.
+
+From Sufjan I had to see what Half-handed Cloud was up to. Turns out they have record out this decade: 📻️ [Flutterama](https://half-handedcloud.bandcamp.com/album/flutterama)
+
+Then Danielson, who did a collab with Steve Taylor 10 years ago: 📻️ [Wow To The Deadness](https://soundsfamilyre.bandcamp.com/album/wow-to-the-deadness) ...as well as what sounds like an authentic tribute to Petra, Stryper, and 70s Christian music: 📻️ [Electric Jesus (Music From and Inspired By the Motion Picture)](https://danielson.bandcamp.com/album/electric-jesus-music-from-and-inspired-by-the-motion-picture) (or authentic music & satirical lyrics, I can't tell which yet).
+
+Searching this very blog for Sufjan led me to [this post](/2006/09/17/mp3-of-the-day-my-new-star-crush/) which unbelievably still had a working link to a blogger image URL which I moved here. Although [based on this post](/2006/09/14/ive-found-my-soldier-girl/) with a broken image link, I'm not sure if I took the photo or got it from that long-gone Flickr user.
+
+Nostalgia for the first time I discovered St. Vincent and her very first indie EP led me to:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=735579002/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://planetclaire.bandcamp.com/album/st-vincent-planet-claire-session-2007-12-12">St. Vincent : Planet Claire Session (2007-12-12) by St. Vincent</a></iframe>
+
+Which is still available for download on [this impressively long-lived site](http://prevot.denis.free.fr/Stvincent/).
+
+Which led me to:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3534387613/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://planetclaire.bandcamp.com/album/king-of-convenience-planet-claire-session">King Of Convenience : Planet Claire Session by Planet Claire</a></iframe>
+
+And _that_ was the end of the rabbit hole.
+
 [^1]: ...despite not being mentioned in the Wikipedia article for it. 😠 He worked on most of my records. He came up with the idea for the almost-two-beat rest that totally makes the cover of _[God](https://danielmiller.bandcamp.com/track/god)_ on _Form_, sung by his partner Vanessa Peters.
