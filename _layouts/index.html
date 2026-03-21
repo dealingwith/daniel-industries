@@ -1,18 +1,81 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   {% include head.html %}
+  <style>
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      background: url("/assets/page/header_bg_flowers.png");
+      background-size: auto;
+      background-position: top left;
+      background-repeat: repeat;
+    }
+
+    .index-container {
+      flex: 1;
+      min-height: 0;
+      overflow: hidden;
+    }
+
+    .index-container::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+
+      background-image: url("/assets/page/d-glif2.svg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+      opacity: 0.05;
+      z-index: 0;
+    }
+
+
+    .menu {
+      background-color: #f7f7f7;
+      z-index: 1;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: url("/assets/page/footer_bg_flowers_flip_opac.png");
+      }
+
+      .index-container::before {
+        background-image: url("/assets/page/d-glif.svg");
+        opacity: 0.4;
+      }
+
+      .menu {
+        background-color: #3b3b3b;
+      }
+    }
+
+    h1 {
+      font-size: 5rem;
+      opacity: .1;
+      padding: 1rem;
+    }
+
+    @media screen and (max-width: 700px) {
+      h1 {
+        font-size: 3rem;
+      }
+    }
+  </style>
 
   <body class="index">
-    <style>
-      img {
-        max-width: 150px;
-        float: right;
-        border-radius: 75px;
-        border: 2px solid #eee;
-      }
-    </style>
     {% include menu.html %}
-
+    <div class="index-container">
+      <h1>seeking<br />stories<br />beauty<br />meaning</h1>
+    </div>
   </body>
 
 </html>
