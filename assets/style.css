@@ -414,6 +414,9 @@ pre {
 header {
   padding: 0.5rem 1rem;
 }
+.main-content header {
+  padding: 0;
+}
 
 /* Shared navigation styles for menu and footer */
 .menu ul,
