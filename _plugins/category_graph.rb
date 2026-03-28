@@ -39,15 +39,8 @@ module Jekyll
     def build_category_graph_payload(site)
       posts = site.posts.docs
 
-      # Collect categories per post; support both `categories:` and `category:`
       post_cats = posts.map do |p|
-        cats = []
-        cats.concat(Array(p.data["categories"]))
-        cats << p.data["category"] if p.data.key?("category")
-        cats.map { |c| normalize_category(c) }
-            .reject(&:empty?)
-            .uniq
-            .sort
+        Array(p.data["normalized_categories"]).map { |c| normalize_category(c) }
       end
 
       freq = Hash.new(0)

@@ -22,9 +22,6 @@ author:
   url: "http://daniel.industries"
   email: "dealingwith@gmail.com"
 
-plugins:
-  - match_regex
-
 collections:
   writings:
     output: true
