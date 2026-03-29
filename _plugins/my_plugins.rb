@@ -46,8 +46,12 @@ module Jekyll
       return explicit_excerpt unless explicit_excerpt.empty?
 
       source = doc.content.to_s
+      # skip if a template, determined by inclusion of Liquid syntax
       return "" if source.include?("{%") || source.include?("{{")
 
+      # `&:dup)` duplicates each string block
+      # - this avoids mutating the original split strings in-place in any surprising way
+      # filter_map returns an array containing truthy elements returned by the block
       excerpt = source.split(/\n{2,}/).map(&:dup).filter_map do |paragraph|
         cleaned = BuildMetadata.cleanup_excerpt_paragraph(paragraph)
         next if cleaned.empty? || BuildMetadata.media_or_caption_block?(paragraph, cleaned)
@@ -71,8 +75,10 @@ module Jekyll
     def resolve_hero_image(doc, site)
       explicit_image = doc.data["image"].to_s.strip
       image = if explicit_image.empty?
-          match = doc.content.to_s.match(/<img .*?src="([^" ]+)"/m)
-          match && match[1]
+          content = doc.content.to_s
+          markdown_match = content.match(/!\[[^\]]*\]\((\S+?)(?:\s+"[^"]*")?\)/m)
+          html_match = content.match(/<img .*?src="([^" ]+)"/m)
+          markdown_match&.[](1) || html_match&.[](1)
         else
           explicit_image
         end
@@ -94,6 +100,7 @@ module Jekyll
     def normalized_categories(doc)
       categories = []
       categories.concat(Array(doc.data["categories"]))
+      # this supports blog and writing frontmatter ("categories" and "category" respectively)
       categories << doc.data["category"] if doc.data.key?("category")
       categories.map { |category| category.to_s.strip.downcase }
                 .reject(&:empty?)
@@ -260,7 +267,8 @@ module Jekyll
       html = +""
       categories = context.registers[:site].categories
       sorted_categories = categories.sort_by { |category| category[1].size }
-
+      # Add to only show categories with N posts:
+      # sorted_categories = sorted_categories.delete_if { |category| category[1].size < 6 }
       sorted_categories.reverse_each do |category|
         category_name = category[0]
         next if category_name.nil? || category_name.strip.empty?
@@ -296,15 +304,18 @@ module Jekyll
 
       max_length = 300
       if excerpt.length > max_length
+        # Try to avoid cutting in the middle of a sentence
+        # [.!?:]\s -- any of those punctuation followed by a space
+        # rpartition finds the last match of that pattern and splits there
         truncated = excerpt[0...max_length]
         head, separator, = truncated.rpartition(/[.!?:"]\s/)
+        # if the first sentence is > max_length, just use the entire first sentence
         excerpt = separator.empty? ? excerpt.partition(/[.!?:"]\s/).first : head
       end
 
       excerpt.sub!(/[.!?:"\s]+\z/, "")
       excerpt << "..."
     end
-
   end
 end
 
@@ -313,6 +324,7 @@ Liquid::Template.register_tag("category_list", Jekyll::CategoryListTag)
 Liquid::Template.register_tag("category_toc", Jekyll::CategoryListTOCTag)
 Liquid::Template.register_tag("custom_excerpt", Jekyll::CustomExcerptTag)
 
+# Add IDs to HR tags and make headers and HRs clickable anchors
 Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
   next unless doc.output_ext == ".html"
 
@@ -322,12 +334,15 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
   if output.include?("<hr")
     hr_counter = 0
 
-    output = output.gsub(/<hr\s*\/?>/) do |match|
+    output = output.gsub(/<hr\b([^>]*)\/?>/i) do
+      match = Regexp.last_match[0]
+      attrs = Regexp.last_match[1].to_s
+
       if match.include?("id=")
         match
       else
         hr_counter += 1
-        "<hr id=\"hr-#{hr_counter}\">"
+        "<hr#{attrs} id=\"hr-#{hr_counter}\">"
       end
     end
 
