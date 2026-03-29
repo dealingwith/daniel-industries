@@ -10,14 +10,14 @@ categories:
 
 > A lot of people forget that you don't know what you don't know yet.[^1]
 
-<hr style="width:50%" />
+---
 
 ![](/assets/2026/02/hallway.jpg)
 <p class="caption" markdown="1">[Hallway](https://artvee.com/dl/hallway/), by Søren Jacob Grønvald, edited (inverted)</p>
 
 Scout woke up lacquered in sweat again. The dream started to fade, its details sprinting ahead leaving only the gruesome knot in her stomach. She reached for the notepad and pen on the floor next to the mattress. These scribbles wouldn't matter, but she wrote them anyway. They were data points without use other than to validate the pattern.
 
-<hr style="width:50%" />
+---
 
 Scout sat on the floor, back against the cold metal wall. She'd just let the bloody body of Avenir slide out of her arms and onto the floor. She swallowed a single sob, wiped her hands on her pants, pulled her notepad out of her pocket, and flipped through the pages.
 
@@ -27,7 +27,7 @@ Metal. Cold. Blood. Avenir? Run away after.
 
 She sighed, stood up, and looked for an exit.
 
-<hr style="width:50%" />
+---
 
 Scout woke up lacquered in sweat again. She hatefully muttered, "I wish I could dream _past_ it."[^2]
 

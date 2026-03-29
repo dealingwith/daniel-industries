@@ -68,7 +68,7 @@ h6 {
   color: var(--text);
   font-family: var(--header);
   letter-spacing: 0.03rem;
-  line-height: 1em;
+  line-height: 1.1em;
   margin-bottom: 1rem;
   padding: 10px 10px 0 0;
 }
