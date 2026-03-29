@@ -15,4 +15,10 @@ I'm currently using asdf:
 asdf exec jekyll s --config _config.yml,_config.dev.yml
 ```
 
+or
+
+```sh
+asdf exec jekyll s --incremental --config _config.yml,_config.dev.yml
+```
+
 `_config.dev.yml` enables incremental builds and skips the heaviest archive/category pages during normal local iteration.
