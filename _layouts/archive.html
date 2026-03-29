@@ -77,25 +77,9 @@
       </div>
       {% unless page.title == "Categories" %}
       <div id="years" class="top_control_area">
-        {% assign years = "" | split: "," %}
-
-        {% for post in site.posts %}
-        {% assign year = post.date | date: "%Y" %}
-        {% unless years contains year %}
-        {% assign years = years | push: year %}
-        {% endunless %}
-        {% endfor %}
-
-        {% for year in years %}
-        {% assign count = 0 %}
-        {% for post in site.posts %}
-        {% assign post_year = post.date | date: "%Y" %}
-        {% if post_year == year %}
-        {% assign count = count | plus: 1 %}
-        {% endif %}
-        {% endfor %}
-        <a href="#y-{{ year }}" class="year_box" style="font-weight: bold">{{ year }}
-          ({{ count }})</a>
+        {% for year_data in site.archive_years %}
+        <a href="#y-{{ year_data.year }}" class="year_box" style="font-weight: bold">{{ year_data.year }}
+          ({{ year_data.count }})</a>
         {% endfor %}
         <div style="clear:both"></div>
       </div>

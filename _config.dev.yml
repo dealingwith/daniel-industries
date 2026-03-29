@@ -1,0 +1,9 @@
+collections:
+  writings:
+    output: true
+
+exclude:
+  - archives.html
+  - categories.html
+  - category-map.md
+  - _site
