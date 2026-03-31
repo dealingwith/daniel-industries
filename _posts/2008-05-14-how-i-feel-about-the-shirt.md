@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-14 01:05:00'
 layout: post
 slug: how-i-feel-about-the-shirt
-status: publish
 title: How I feel about The Shirt
-wordpress_id: '2632'
 categories:
  - brilliant
  - consumption

@@ -11,6 +11,7 @@ categories:
  - minutia
  - nostalgia
  - faithy
+ - weird
 ---
 
 > Social media is weird. It’s like, “I don’t want to sit here and think my own random thoughts. I’d much rather read the random thoughts of hundreds of other people instead.”
