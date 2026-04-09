@@ -37,7 +37,4 @@ Daniel Miller -- _American Dream Town_ (2006)
 
 > The one thing I don't understand about technology is it's ability to change without request. I don't understand how, for a non-tech example, I can put a brick on a table in a controlled environment, lock the door and of course the brick just sits there. Then one undefined amount of time later I come back and the brick has decided to be a cupcake and chill in the corner.
 
--- [Carissa][9], yesterday, in response to my tech difficulties with the new
-design
-
-   [9]: http://carissabyers.blogspot.com/
+-- Carissa, yesterday, in response to my tech difficulties with the new design
