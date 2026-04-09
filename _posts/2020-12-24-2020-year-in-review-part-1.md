@@ -8,7 +8,7 @@ categories:
  - year-in-review
 ---
 
-**The Sale**
+### The Sale
 
 In early 2020, the company where I worked for the last seven years sold. I was one of the very first employees. I watched the company grow from four of us to 70. I hired at least 20 engineers and almost as many contractors. I brought on board some lifelong friends and made some new lifelong friendships. I had the most rewarding working experiences of my career.
 

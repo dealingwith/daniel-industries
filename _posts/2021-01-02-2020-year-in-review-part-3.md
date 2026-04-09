@@ -10,7 +10,7 @@ categories:
  - minutia
 ---
 
-**The Job**
+### The Job
 
 [I covered this one pretty well in this post about Epic React]({{site.url}}/2020/09/29/epic-react/).
 

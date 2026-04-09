@@ -8,7 +8,7 @@ categories:
  - year-in-review
 ---
 
-**The Pivot**
+### The Pivot
 
 I've been producing in-person summer coding camps for kids aged 6-16, using Minecraft, since 2014. My business partner had long been running camps at private schools here in Dallas, and upon hearing from me about the way Minecraft gameplay correlates to the basic skills required for software engineering, he suggested we put together a camp to teach coding through Minecraft. He had just started a partnership with [The Hockaday School](https://www.hockaday.org/)'s co-ed summer camp program. I led the development of an [open-source curriculum](https://github.com/MinecraftU/mcu-curriculum). This has been a fun and fulfilling "side hustle" for me. I've had the privilege of watching several kids work their way through from beginner to becoming a camp instructor to applying for computer science programs at university.
 
