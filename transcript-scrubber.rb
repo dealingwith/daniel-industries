@@ -1,10 +1,9 @@
 #!/usr/bin/env ruby
-# scrub_transcript.rb
+# transcript-scrubber.rb
 #
 # Usage:
-#   ruby scrub_transcript.rb transcript.txt
-#   ruby scrub_transcript.rb --keep-like transcript.txt
-#   cat transcript.txt | ruby scrub_transcript.rb --keep-like
+#   ruby transcript-scrubber.rb transcript.txt -o scrubbed.txt
+#   cat transcript.txt | ruby transcript-scrubber.rb --keep-like -o scrubbed.txt
 
 class TranscriptScrubber
   DEFAULT_FILLERS = [
@@ -103,11 +102,46 @@ class TranscriptScrubber
   end
 end
 
-args = ARGV.dup
-keep_like = args.delete("--keep-like")
+def usage
+  <<~USAGE
+    Usage:
+      ruby transcript-scrubber.rb [--keep-like] [input.txt] [-o output.txt]
+      ruby transcript-scrubber.rb [--keep-like] [input.txt] [--output output.txt]
+      cat input.txt | ruby transcript-scrubber.rb [--keep-like] [-o output.txt]
+  USAGE
+end
 
-input = if args[0]
-    File.read(args[0])
+args = ARGV.dup
+keep_like = false
+output_path = nil
+input_path = nil
+
+until args.empty?
+  arg = args.shift
+
+  case arg
+  when "--keep-like"
+    keep_like = true
+  when "-o", "--output"
+    abort "Missing output path.\n\n#{usage}" if args.empty?
+
+    output_path = args.shift
+  when /\A--output=(.+)\z/
+    output_path = Regexp.last_match(1)
+  when "-h", "--help"
+    puts usage
+    exit
+  when /\A-/
+    abort "Unknown option: #{arg}\n\n#{usage}"
+  else
+    abort "Too many input files.\n\n#{usage}" if input_path
+
+    input_path = arg
+  end
+end
+
+input = if input_path
+    File.read(input_path)
   else
     $stdin.read
   end
@@ -115,4 +149,10 @@ input = if args[0]
 fillers = TranscriptScrubber::DEFAULT_FILLERS.dup
 fillers.delete("like") if keep_like
 
-puts TranscriptScrubber.new(input, fillers: fillers).scrub
+output = TranscriptScrubber.new(input, fillers: fillers).scrub
+
+if output_path
+  File.write(output_path, "#{output}\n")
+else
+  puts output
+end

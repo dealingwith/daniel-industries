@@ -2,8 +2,8 @@
 # transcript-paragrapher.rb
 #
 # Usage:
-#   ruby transcript-paragrapher.rb input.txt > output.txt
-#   cat input.txt | ruby transcript-paragrapher.rb > output.txt
+#   ruby transcript-paragrapher.rb input.txt -o output.txt
+#   cat input.txt | ruby transcript-paragrapher.rb -o output.txt
 
 TRANSITION_STARTERS = [
   "however", "but", "so", "anyway", "meanwhile", "instead",
@@ -68,9 +68,54 @@ def paragraphize(sentences, target_sentences: 4, max_sentences: 6)
   paragraphs
 end
 
-input = ARGF.read
+def usage
+  <<~USAGE
+    Usage:
+      ruby transcript-paragrapher.rb [input.txt] [-o output.txt]
+      ruby transcript-paragrapher.rb [input.txt] [--output output.txt]
+      cat input.txt | ruby transcript-paragrapher.rb [-o output.txt]
+  USAGE
+end
+
+args = ARGV.dup
+output_path = nil
+input_path = nil
+
+until args.empty?
+  arg = args.shift
+
+  case arg
+  when "-o", "--output"
+    abort "Missing output path.\n\n#{usage}" if args.empty?
+
+    output_path = args.shift
+  when /\A--output=(.+)\z/
+    output_path = Regexp.last_match(1)
+  when "-h", "--help"
+    puts usage
+    exit
+  when /\A-/
+    abort "Unknown option: #{arg}\n\n#{usage}"
+  else
+    abort "Too many input files.\n\n#{usage}" if input_path
+
+    input_path = arg
+  end
+end
+
+input = if input_path
+    File.read(input_path)
+  else
+    $stdin.read
+  end
+
 text = normalize_text(input)
 sentences = split_into_sentences(text)
 paragraphs = paragraphize(sentences)
+output = paragraphs.join("\n\n")
 
-puts paragraphs.join("\n\n")
+if output_path
+  File.write(output_path, "#{output}\n")
+else
+  puts output
+end
