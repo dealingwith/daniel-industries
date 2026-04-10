@@ -15,10 +15,9 @@ title: Archives
     {% assign date = currentdate %}
     {% endif %}
     {% assign wordcount = post.word_count %}
-    <a class="archive_link{% if wordcount < 300 %} short_post{% endif %}" href="{{ post.url }}"
-      title="{{ post.date | date: "%b %d" }}">
+    <a class="archive_link{% if wordcount < 300 %} short_post{% endif %}" href="{{ post.url }}">
       <li>{{ post.title }}
-        <span class="wordcount">({{wordcount}})</span>
+        <span class="wordcount">({{ post.date | date: "%b %d" }}) ({{wordcount}})</span>
       </li>
     </a>
     {% if forloop.last %}
