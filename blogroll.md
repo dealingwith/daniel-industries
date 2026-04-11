@@ -24,6 +24,8 @@ layout: page
 - [Robin Rendle](https://robinrendle.com/notes/): design and type and heart
 - [Stay SaaSy](https://staysaasy.com/): practical advice for building software teams/orgs
 - [Robin Berjon](https://berjon.com/): very smart words about the internet
+- [Writing Slowly](https://writingslowly.com/)
+- [James A. Reeves](https://www.jamesreeves.co/)
 
 ---
 
