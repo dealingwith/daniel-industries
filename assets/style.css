@@ -510,6 +510,7 @@ footer ul li {
 }
 
 footer img {
+  box-shadow: none;
   display: inline;
   height: 1em;
   margin: 0;
@@ -621,7 +622,7 @@ div.blog-index-div {
   border: 1px solid var(--green);
   border-radius: 0.3em;
   padding: 0.75rem;
-  box-shadow: var(--shadow-elevation-medium);
+  box-shadow: var(--shadow-elevation-low);
 }
 div.blog-index-div h3 {
   padding: 0;
@@ -635,7 +636,8 @@ div.blog-index-div p:last-of-type {
   margin-bottom: 0;
 }
 div.blog-index-div:hover {
-  border-color: var(--pink);
+  /* border-color: var(--pink); */
+  box-shadow: var(--shadow-elevation-medium);
 }
 
 img.float-left {
