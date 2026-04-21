@@ -24,7 +24,7 @@ Damn artists always gittin people to think!
 
 <a class="dead" title="dead link">this from a safari developer?</a>
 
->This led me to wonder: should RSS capabilities and browsing capabilities be merged into a single "uber-browser" application?
+> This led me to wonder: should RSS capabilities and browsing capabilities be merged into a single "uber-browser" application?
 
 No shit! Just hang on, I want/am slowly working on the one app that does literally all of my IM in one, simply and intuitively (because we all gave up on Outlook years ago). Read RSS, email, post to blog, site, calendar, organize life and share it with the world all in one. (No emails saying "Yes we call it an iMac" please.)
 

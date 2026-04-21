@@ -4,6 +4,8 @@ title: "The Suffering God"
 excerpt: 
 date: 2026-03-21 12:01:44 -0500
 categories: 
+ - faithy
+ - poetry
 ---
 
 Last Wednesday night at my church's Lent speaker series, the speaker used G. A. Studdert Kennedy's _The Suffering God_ to anchor his talk. In fact, he read it twice, at the start and end. The next morning I felt prompted to read it out loud myself. I've edited the below to remove era-specific linguistic affectations (like o'er) so it reads like I read it. I've also emphasized the sections that I then added my own affectations to. The final section uses the casually abused war metaphor, which I've never appreciated even before 2026. Given Kennedy's witness to the atrocities of WWI, I'm surprised he stuck with it. Part of me wants to rework this to better capture the nuance of active resistance ala Jesus or Walter Benjamin.
