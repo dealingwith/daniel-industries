@@ -65,7 +65,7 @@
 html,
 body {
   background: var(--bg);
-  font-size: 1rem;
+  font-size: 1.05rem;
   line-height: 1.5rem;
   -webkit-font-smoothing: antialiased;
 }
