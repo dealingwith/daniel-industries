@@ -66,7 +66,7 @@ html,
 body {
   background: var(--bg);
   font-size: 1.05rem;
-  line-height: 1.5rem;
+  line-height: 1.55rem;
   -webkit-font-smoothing: antialiased;
 }
 @media screen and (max-width: 700px) {
@@ -135,7 +135,10 @@ a.blog-index-a {
 .main-content article blockquote a,
 .main-content article li a {
   text-decoration: none;
-  background-image: linear-gradient(var(--lightgreen), var(--lightgreen));
+  background-image: linear-gradient(
+    var(--lightgreen),
+    var(--lightgreen)
+  );
   background-size: 100% 0.08em;
   background-repeat: no-repeat;
   background-position: 0 100%;
@@ -144,7 +147,10 @@ a.blog-index-a {
 .main-content article p a:hover,
 .main-content article blockquote a:hover,
 .main-content article li a:hover {
-  background-image: linear-gradient(var(--highlight), var(--highlight));
+  background-image: linear-gradient(
+    var(--highlight),
+    var(--highlight)
+  );
   background-size: 100% 100%;
 }
 @media (prefers-color-scheme: dark) {
