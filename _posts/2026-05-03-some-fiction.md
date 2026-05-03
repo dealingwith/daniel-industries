@@ -20,4 +20,8 @@ But yesterday morning these delightful pieces of short fiction crossed my desk:
 
 The author of the last two, Ben Werdmuller (who I have read on the internet longer than I can remember), is hosting this month's [IndieWeb Fiction Carnival](https://werd.io/indieweb-fiction-carnival-may-2026/). I have an idea, but haven't figured out how to start it, so I'm posting this instead.
 
+---
+
+After posting this I realized I had purchased another Shiraki book, [Wine for Roses](https://shirakipress.com/products/wine-for-roses?variant=47887276310698) and just not uploaded it to my e-reader yet. This is probably my move.
+
 [^1]: Because said collecting is very aspirational; but then, I find non-fiction harder to finish.
