@@ -1,8 +1,0 @@
----
-date: '2005-09-28T19:10:00Z'
-title: architect Steve Collins on narrative spaces
-category:
-layout: post
----
-
-<blockquote>it occurs to me that <a href="http://smallritual.blogs.com/photos/london_design_festival/index.html">designersblock</a> can be thought of as <a href="http://www.btinternet.com/%7Esmallritual/page15.html">'just because you're in the kitchen...'</a> in action - just change the captions.<br /><br />like i said somewhere in the photo album, it reminded me of the installations of the 90s such as <a href="http://www.artangel.org.uk/pages/past/95/95_wilson.htm">HG</a> and <a href="http://www.artangel.org.uk/pages/past/95/95_anderson.htm">self storage</a>. a warehouse in a decaying part of town, wondering whether you're at the right address, trying to find the actual entrance; following a trail through a musty warehouse or cellar, wondering whether what you find is art or just left by squatters... i learned that narrative was more important than technical polish; that discovery and lack of explanation were good; that time should be taken to gather meaning... so all this prepared me for alt worship.<br /><br />except alt worship is still mostly too tidy and too church. we should be in warehouses. or <em>ruined</em> churches.<br /><br />and then it would be an event, not a 'church service'. so you'd run it&nbsp; every day for a month, and then do nothing for six. forget all this 'how do you do it every week' nonsense. why would you want to go every week, if you're going to remember it for ten years after one visit, like art?</blockquote>from <a href="http://smallritual.blogs.com/small_ritual">his blog</a>. <a href="http://www.smallritual.org/">his main site</a> is a wealth of original content on such matters.
