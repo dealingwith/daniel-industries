@@ -3,6 +3,7 @@
 
 require "date"
 require "cgi"
+require "fileutils"
 require "optparse"
 require "set"
 require "time"
@@ -12,9 +13,9 @@ DEFAULT_OPTIONS = {
   posts_dir: File.expand_path("../../_posts", __dir__),
   output: File.expand_path("blogger_match_report.txt", __dir__),
   source_dir: nil,
+  unmatched_dir: nil,
   date_window: 3,
   min_score: 0.22,
-  top: 5,
   progress_every: 25,
   yes: false
 }.freeze
@@ -26,25 +27,15 @@ OptionParser.new do |parser|
   parser.on("--posts-dir PATH", "Jekyll _posts directory. Default: ../../_posts") { |value| options[:posts_dir] = File.expand_path(value) }
   parser.on("--output PATH", "Report path. Default: blogger_match_report.txt") { |value| options[:output] = File.expand_path(value) }
   parser.on("--source-dir PATH", "Only parse markdown files in this source directory") { |value| options[:source_dir] = File.expand_path(value, __dir__) }
+  parser.on("--unmatched-dir PATH", "Directory for copies of unmatched source files. Default: SOURCE_DIR/unmatched") { |value| options[:unmatched_dir] = File.expand_path(value, __dir__) }
   parser.on("--date-window DAYS", Integer, "Only compare posts within this many days. Default: 3") { |value| options[:date_window] = value }
-  parser.on("--min-score SCORE", Float, "Minimum score to report. Default: 0.22") { |value| options[:min_score] = value }
-  parser.on("--top N", Integer, "Maximum matches per source file. Default: 5") { |value| options[:top] = value }
+  parser.on("--min-score SCORE", Float, "Minimum similarity threshold for a match. Default: 0.22") { |value| options[:min_score] = value }
+  parser.on("--top N", Integer, "Accepted for compatibility; ignored") { |_value| }
   parser.on("--progress-every N", Integer, "Print progress every N source files. Default: 25") { |value| options[:progress_every] = value }
   parser.on("-y", "--yes", "Run without continue prompts") { options[:yes] = true }
 end.parse!
 
 ROOT = __dir__
-REPORT_HEADER = <<~TEXT
-  Blogger fuzzy match report
-  Generated: #{Time.now.iso8601}
-  Source root: #{ROOT}
-  Source dir: #{options[:source_dir] || "all"}
-  Posts dir: #{options[:posts_dir]}
-  Date window: +/- #{options[:date_window]} days
-  Minimum score: #{options[:min_score]}
-
-TEXT
-
 Post = Struct.new(
   :path,
   :relative_path,
@@ -63,6 +54,12 @@ end
 def compact_path(path)
   parts = relative(path).split("/")
   parts.length >= 2 ? parts.last(2).join("/") : parts.join("/")
+end
+
+def inside_dir?(path, dir)
+  expanded_path = File.expand_path(path)
+  expanded_dir = File.expand_path(dir)
+  expanded_path == expanded_dir || expanded_path.start_with?("#{expanded_dir}/")
 end
 
 def read_post(path)
@@ -201,8 +198,10 @@ if options[:source_dir] && !Dir.exist?(options[:source_dir])
 end
 
 source_root = options[:source_dir] || ROOT
+unmatched_dir = options[:unmatched_dir] || File.join(source_root, "unmatched")
 source_paths = Dir.glob(File.join(source_root, "**", "*.md"))
                   .reject { |path| File.expand_path(path) == options[:output] }
+                  .reject { |path| inside_dir?(path, unmatched_dir) }
                   .sort
 post_paths = Dir.glob(File.join(options[:posts_dir], "*.md")).sort
 
@@ -214,10 +213,9 @@ posts = post_paths.map { |path| read_post(path) }
 posts_by_date = posts.group_by(&:date)
 
 puts "Writing no-match report to #{options[:output]}"
-puts "Scoring uses normalized text shingles, title overlap, containment, and date proximity."
+puts "Copying unmatched source files to #{unmatched_dir}"
 
 processed = 0
-with_matches = 0
 without_matches = []
 previous_dir = nil
 
@@ -230,79 +228,34 @@ sources.each do |source|
   previous_dir = current_dir
 
   candidates = candidate_posts(source, posts_by_date, posts, options[:date_window])
-  scored = candidates.map do |candidate|
-    total, body, containment, title, date, days = score(source, candidate, options[:date_window])
-    {
-      post: candidate,
-      total: total,
-      body: body,
-      containment: containment,
-      title: title,
-      date: date,
-      days: days
-    }
+  matched = candidates.any? do |candidate|
+    total, = score(source, candidate, options[:date_window])
+    total >= options[:min_score]
   end
-
-  matches = scored
-            .select { |item| item[:total] >= options[:min_score] }
-            .sort_by { |item| -item[:total] }
-            .first(options[:top])
-
-  best = scored.max_by { |item| item[:total] }
 
   processed += 1
-  if matches.empty?
-    without_matches << { source: source, best: best }
-  else
-    with_matches += 1
-  end
+  without_matches << source unless matched
 
   if (processed % options[:progress_every]).zero?
-    status = if matches.any?
-               "match=#{format("%.3f", matches.first[:total])} -> #{compact_path(matches.first[:post].path)}"
-             elsif best
-               "no match; best=#{format("%.3f", best[:total])} -> #{compact_path(best[:post].path)}"
-             else
-               "no candidates"
-             end
+    status = matched ? "matched" : "no match"
     puts "[#{processed}/#{sources.length}] #{compact_path(source.path)}: #{status}"
   end
 
 end
 
-no_match_by_dir = without_matches.group_by { |item| File.dirname(item[:source].relative_path) }
-total_by_dir = sources.first(processed).group_by { |source| File.dirname(source.relative_path) }
-
 File.open(options[:output], "w") do |report|
-  report.write(REPORT_HEADER)
-  report.puts "SUMMARY"
-  report.puts "Processed: #{processed}/#{sources.length}"
-  report.puts "Files with potential matches: #{with_matches}"
-  report.puts "Files without potential matches: #{without_matches.length}"
-  report.puts
-  report.puts "No-match files by folder:"
-  total_by_dir.sort.each do |folder, sources_in_folder|
-    no_match_count = no_match_by_dir.fetch(folder, []).length
-    report.puts "  #{folder}: #{no_match_count}/#{sources_in_folder.length}"
+  without_matches.sort_by(&:relative_path).each do |source|
+    report.puts source.relative_path
   end
-  report.puts
+end
 
-  no_match_by_dir.sort.each do |folder, items|
-    report.puts "## #{folder}"
-    items.sort_by { |item| item[:source].relative_path }.each do |item|
-      source = item[:source]
-      best = item[:best]
-      report.print "- #{compact_path(source.path)}"
-
-      if best
-        report.print " (best below threshold: #{format("%.3f", best[:total])} -> #{compact_path(best[:post].path)})"
-      end
-
-      report.puts
-    end
-    report.puts
-  end
+without_matches.each do |source|
+  source_relative_path = source.path.sub(%r{\A#{Regexp.escape(source_root)}/?}, "")
+  destination = File.join(unmatched_dir, source_relative_path)
+  FileUtils.mkdir_p(File.dirname(destination))
+  FileUtils.cp(source.path, destination)
 end
 
 puts "Done. Processed #{processed}/#{sources.length}; no-match files: #{without_matches.length}."
 puts "Report: #{options[:output]}"
+puts "Unmatched copies: #{unmatched_dir}"
