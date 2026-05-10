@@ -135,10 +135,7 @@ a.blog-index-a {
 .main-content article blockquote a,
 .main-content article li a {
   text-decoration: none;
-  background-image: linear-gradient(
-    var(--lightgreen),
-    var(--lightgreen)
-  );
+  background-image: linear-gradient(var(--lightgreen), var(--lightgreen));
   background-size: 100% 0.08em;
   background-repeat: no-repeat;
   background-position: 0 100%;
@@ -147,10 +144,7 @@ a.blog-index-a {
 .main-content article p a:hover,
 .main-content article blockquote a:hover,
 .main-content article li a:hover {
-  background-image: linear-gradient(
-    var(--highlight),
-    var(--highlight)
-  );
+  background-image: linear-gradient(var(--highlight), var(--highlight));
   background-size: 100% 100%;
 }
 @media (prefers-color-scheme: dark) {
@@ -333,6 +327,9 @@ img {
   margin: 0 auto;
   max-width: 100%;
   box-shadow: var(--shadow-elevation-medium);
+}
+img.no-shadow {
+  box-shadow: none;
 }
 .small,
 .excerpt,
