@@ -24,7 +24,7 @@ categories:
 > 
 > But then when we actually finally get the thing, we're almost immediately bored and then we start reaching for the next thing. And well, his conclusion was basically that most of human activity is just like an elaborate boredom avoidance process. Which you might see as a pretty dark perspective...but...have you been on the internet lately?
 >
-> What Schopenhauer saying said tracks and I think about [Hirayama](https://en.wikipedia.org/wiki/Perfect_Days) in that context because he's essentially doing the thing that Schopenhauer identified as the hardest thing. He stepped off the oscillation somehow and he didn't do it because he got everything he wanted. He just stopped the chasing. And...I think the thing that makes his life look so strange to most people is his contentment...in spite of the toilet cleaning.
+> What Schopenhauer said tracks and I think about [Hirayama](https://en.wikipedia.org/wiki/Perfect_Days) in that context because he's essentially doing the thing that Schopenhauer identified as the hardest thing. He stepped off the oscillation somehow and he didn't do it because he got everything he wanted. He just stopped the chasing. And...I think the thing that makes his life look so strange to most people is his contentment...in spite of the toilet cleaning.
 >
 > We don't really have a framework for that anymore because in our culture, contentment reads as a sort of failure or delusion. And the gap, you know, the one that the algorithm depends on, contentment closes that gap. And a closed gap is bad for business.
 > 
