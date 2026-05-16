@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Claude Parent"
-excerpt: 
+excerpt: "Twelve Subversive Acts to Dodge the System"
 date: 2019-04-06 23:42:56 -0500
-comments: true
 categories: 
+ - elsewhere
+ - trickster
 ---
 
 ### Twelve Subversive Acts to Dodge the System
@@ -34,4 +35,4 @@ categories:
 
 > Parent was celebrated as a hero of deconstruction, as one of the first to implement Derrida’s theory – to take an established system and not destroy it, but rather to take it apart and put it back together in a new, playful, less hierarchical way – in the field of construction.
 
-[Claude Parent: The Supermodernist](https://032c.com/the-supermodernist-architect-claude-parent/)
+[Claude Parent: The Supermodernist](https://web.archive.org/web/20190620052730/https://032c.com/the-supermodernist-architect-claude-parent/)
