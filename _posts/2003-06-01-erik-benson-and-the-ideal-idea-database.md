@@ -7,9 +7,7 @@ categories:
 
 I am not one for spilling too many beans at once or ahead of time, but since I didn't actually write this and its thread seems to be so close to closure, I thought I'd point out this amazing coincidink.
 
-I was just now catching up a little bit on a new-to-me and very interesting blog (via <a href="http://interconnected.org/home/2003_05_25_archive.shtml#200363332">interconnected</a>), <a href="http://busterbenson.com/">Erik Benson</a>'s (RSS).
-
-
+I was just now catching up a little bit on a new-to-me and very interesting blog (via interconnected [now a dead link]), <a href="http://busterbenson.com/">Erik Benson</a>'s (RSS).
 
 As I read this entry, <a class="dead">_the ideal idea database_ (dead link)</a>, my jaw hit the floor as he came the closest to describing SWIM as anyone has:
 
