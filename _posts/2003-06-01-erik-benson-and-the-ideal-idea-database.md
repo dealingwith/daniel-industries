@@ -9,7 +9,7 @@ I am not one for spilling too many beans at once or ahead of time, but since I d
 
 I was just now catching up a little bit on a new-to-me and very interesting blog (via interconnected [now a dead link]), <a href="http://busterbenson.com/">Erik Benson</a>'s (RSS).
 
-As I read this entry, <a class="dead">_the ideal idea database_ (dead link)</a>, my jaw hit the floor as he came the closest to describing SWIM as anyone has:
+As I read this entry, <a class="dead">_the ideal idea database_</a> (dead link), my jaw hit the floor as he came the closest to describing SWIM as anyone has:
 
 > the ideal tool for brainstorming ideas and ranking them hasn't yet been invented for the web, and that both the wiki and the weblog have some deficiencies that a ideal idea database would have. 
 
@@ -17,7 +17,7 @@ As I read this entry, <a class="dead">_the ideal idea database_ (dead link)</a>,
 
 > In my ideal idea tool I'd also like to have a mechanism for people to assign value to the idea along a bunch of different axes...
 
-48 hours later, he's prototyped the _idea database_ (dead link) and honestly, it doesn't look anything like what I have in mind. But that's cool.
+48 hours later, he's prototyped the <a class="dead">_idea database_</a> (dead link) and honestly, it doesn't look anything like what I have in mind. But that's cool.
 
 The other thing is he also runs his site with a homemade pseudo blogging tool, because he also was not happy with the way traditional blogging tools worked. Now, what about combining that piece with the idea database? Then we are really getting close to my SWIM project. Throw in some native semantic features, ease of use and a constant eye for end-user experience, and then you have (I hope) SWIM.
 
