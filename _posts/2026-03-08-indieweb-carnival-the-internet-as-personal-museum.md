@@ -32,7 +32,7 @@ Any search of an archive surfaces interesting nodes in a graph. Music is always 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1958015903/size=small/bgcol=ffffff/linkcol=0687f5/track=3913179717/transparent=true/" seamless><a href="https://keithmichaud.bandcamp.com/album/charm-wrestling">Charm Wrestling by Summer Blanket</a></iframe>
 
-Keith Michaud was a musician friend in south FL before we moved to DC but especially after I briefly returned, licking my wounds from a stint in Europe and the resulting divorce. The most emo singer-songwriter during the heyday of emo, his gigs in Palm Beach were always reasons for every member of the tiny music scene there to gather and get drunk and love on each other. This track was always a giant sing-along.
+Keith Michaud is a musician friend in south FL before we moved to DC but especially after I briefly returned, licking my wounds from a stint in Europe and the resulting divorce. The most emo singer-songwriter during the heyday of emo, his gigs in Palm Beach were always reasons for every member of the tiny music scene there to gather and get drunk and love on each other. This track was always a giant sing-along.
 
 Of greater import to the present is Sondre Lerche's _Tragic Mirror_, off his 2007 record _[Phantom Punch](https://en.wikipedia.org/wiki/Phantom_Punch_(album))_. Carissa and I went to see him at least once at our favorite music venue, [Club Dada](https://dadadallas.com) (also miraculously still in operation). Someone recorded his show there and I still have the mp3s, which are remarkably good.
 
