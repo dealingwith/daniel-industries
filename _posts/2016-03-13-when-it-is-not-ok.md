@@ -5,6 +5,7 @@ date: 2016-03-13 22:56:40 -0500
 categories: 
  - its-ok-to-be-sad
  - sad
+ - mike riddell
 ---
 
 It's not ok to be sad if it causes or excuses you to hurt or neglect others or yourself, or get angry or be manipulative. It's not ok to be sad if it is your reason for remaining a practicing alcoholic, or for keeping an extra bottle of pills in the cabinet. [It's not ok to be sad if you have guns](https://www.youtube.com/watch?v=lgD9AlxZxNE).

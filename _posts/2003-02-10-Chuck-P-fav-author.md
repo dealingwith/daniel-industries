@@ -3,6 +3,7 @@ layout: post
 title: 'Chuck P fav author'
 categories:
  - elsewhere
+ - chuck palahniuk
 ---
 
 <a href="http://www.chuckpalahniuk.net/books/nonfiction/hempel.htm">She Breaks Your Heart</a>

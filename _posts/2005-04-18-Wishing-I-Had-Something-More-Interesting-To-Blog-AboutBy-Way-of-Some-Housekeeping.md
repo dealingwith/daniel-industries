@@ -3,6 +3,8 @@ layout: post
 title: 'Wishing I Had Something More Interesting To Blog About -- By Way of Some Housekeeping'
 categories:
  - minutia
+ - mike riddell
+ - chuck palahniuk
 ---
 
 VAST -- _Dont Take your Love Away From Me_

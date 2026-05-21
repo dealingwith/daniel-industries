@@ -6,6 +6,8 @@ date: 2025-12-14 15:21:07 -0600
 categories: 
  - elsewhere
  - thehypothesis
+ - chuck palahniuk
+ - richard rohr
 ---
 
 It started in my RSS reader (Feedbin). I tend to subscribe to people's feeds pretty liberally--have one or two interesting posts in the last dozen and I'll add you. But I don't check my feed reader very often, usually about once or twice a week, so that means I'll often see a post and not recognize the author. As was this morning when I cracked open [anhvn.com/.../weeknotes-35](https://anhvn.com/posts/2025/weeknotes-35/) (always a sucker for weeknotes!), then immediately hit [anhvn.com/about](https://anhvn.com/about/) (eventually realizing I recognize [latte](https://mastodon.online/@latte) from the occasional Mastodon post, although I've been on there less as of late). That in turn made me wonder what my [about](/about/) said about me. That in turn led me down a rabbit hole on this very blog.

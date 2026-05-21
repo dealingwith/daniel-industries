@@ -3,6 +3,8 @@ layout: post
 title: 'the art of the summer that has saved me pt 4'
 categories:
  - comment
+ - chuck palahniuk
+ - ethan hawke
 ---
 
 Ethan Hawke's _Ash Wednesday_...

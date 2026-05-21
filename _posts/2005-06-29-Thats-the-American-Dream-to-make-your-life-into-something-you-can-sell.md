@@ -3,9 +3,10 @@ layout: post
 title: 'Thats the American Dream to make your life into something you can sell'
 categories:
  - quotable
+ - chuck palahniuk
 ---
 
-<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0385509480/ref=wl_it_dp/102-5131049-5514530?%5Fencoding=UTF8&coliid=I2DTQTMA844WJO&v=glance&colid=1IE1ZRAEO5E1F"><img src="http://danielsjourney.com/blog/files/2005/06/buynow.jpg" style="float: left; margin: 0 10px 10px 0">From Chuck Palahniuk's <em>Haunted</em></a>:
+From Chuck Palahniuk's _Haunted_:
 
 > Really, he says, he should write a godd**m book. That's the American Dream: to make your life into something you can sell.
 

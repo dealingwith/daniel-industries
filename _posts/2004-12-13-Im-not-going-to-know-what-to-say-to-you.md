@@ -4,6 +4,7 @@ title: "I'm not going to know what to say to you"
 excerpt: "If that's going to be the end result of China's development then I'm really in despair."
 categories:
  - elsewhere
+ - chuck palahniuk
 ---
 
 [California dreaming through Chinese eyes](http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/4085607.stm)

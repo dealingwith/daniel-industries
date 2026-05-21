@@ -4,6 +4,7 @@ title: 'on art and my favorite subject me'
 categories:
  - comment
  - Integration Research
+ - chuck palahniuk
 ---
 
 Most of our CD's are currently on the docks somewhere in the US, or if we're lucky on the high seas somewhere, but we brought a few with us, and there were a few we had put in storage last June (and got back already). Many of these are independent records from friends in Florida. I've been listening to those particular CD's this morning, and thinking to myself, "There are so many great artists out there!" I wonder what became of some of the friends I lost touch with, whose records I still enjoy. I wonder how their creative unfolding continues now. I wonder if they still record, write, have friends who do the same.

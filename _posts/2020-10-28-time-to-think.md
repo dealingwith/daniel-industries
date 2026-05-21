@@ -7,6 +7,7 @@ categories:
  - software
  - product
  - leadership
+ - richard rohr
 ---
 
 Both of my daily email "readings"---the Daily Stoic and Richard Rohr---were about stillness this morning.

@@ -4,6 +4,7 @@ title: Choosing a Narcissus
 date: 2021-04-20 03:46:27
 categories:
  - Echo and the Bunnymen
+ - chuck palahniuk
 ---
 
 My first and naggingly consistent thought is Chuck Palahniuk. He's long been one of my favorite fiction authors. I have copied his style quite a bit in the past. I'm curious what would be different if I more intentionally copied him.

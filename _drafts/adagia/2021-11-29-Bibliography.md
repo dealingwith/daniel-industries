@@ -3,6 +3,7 @@ layout: post
 title: Bibliography
 date: 2021-11-29 19:33:37
 categories:
+ - mike riddell
 ---
 
 I'm working on a personal bibliography (a literary _uses_ page if you will). Here's what I have so far.

@@ -3,6 +3,8 @@ layout: post
 title: 'Wanting to change the world is not a noble calling its a primal calling'
 categories:
  - comment
+ - mike riddell
+ - richard rohr
 ---
 
 I've been resonating with [Hugh](http://www.gapingvoid.com)'s thoughts on creativity from the day he started posting. Hugh's posts come during a time when I spend a lot of cycles thinking about calling, destiny, and time--considering the next few months and next few years, and narrowing my focus, deciding if something must be done, <em>when</em> it will fit into this timetable, which, oh yeah, also has to account for paying rent and buying food.

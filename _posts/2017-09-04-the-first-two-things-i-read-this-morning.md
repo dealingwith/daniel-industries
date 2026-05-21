@@ -4,6 +4,8 @@ title: "The first two things I read this morning"
 excerpt: 
 date: 2017-09-04 10:58:57 -0500
 categories: 
+ - richard rohr
+ - faithy
 ---
 
 [Entering the Dark Wood](https://cac.org/entering-the-dark-wood-2017-09-04/)

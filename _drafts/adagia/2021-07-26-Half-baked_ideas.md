@@ -4,6 +4,7 @@ title: Half-baked ideas
 date: 2021-07-26 04:38:17
 categories:
  - minutia
+ - chuck palahniuk
 ---
 
 My head is forever thinking of things to write, maybe the first or the last sentence or two. They travel into space and don't return. There's not enough RAM to store them for the length of time it takes to get out of the shower, dry off, and get to a computer or pen.

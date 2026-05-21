@@ -3,6 +3,7 @@ layout: post
 title: 'ring around the rosey blah blah blah'
 categories:
  - comment
+ - mike riddell
 ---
 
 
@@ -21,7 +22,6 @@ I feel like everything that is being said is just long-winded versions of what I
 I feel like asking, "What did you expect?" It was a <strong>conference</strong>, after all. A programatic event for people who expect programs. You <strong>presented</strong> on alt.worship programs and disliked the programmatic worship. If it looked like UK alt.worship would you have liked it more? Because it still wouldn't have worked because it would have been out of context. We simply need to be creative within our own contexts, but the overpowering context of programmatic worship has not yet been shed, and that paradigm is antithetical to the ethos of alt.worship. Stop showing US evan's how to loop video and start convincing them that there is no reproducible method for authentic worship. (Yet alone a sustainable model for the same anywhere in our near future. "...setting up an emerging church for a maximum of 50-100 people for not very much salary or working part-time in Pizza Hut does appeal very much at all to pastors." So why are we still talking to pastors?)
 
 If I sound frustrated it is because I am. And this frustration is the reason I gave up on this conversation a year and a half ago. Re-entering it for one morning it seems like all the words are the same, just the people saying them are different (save the full-time people). And so I will again exit stage left and get back into the <a href="http://www.bluejake.com/archives/2004/05/29/cortlandt_alley_2.php">alley</a>. 
-
 
 > Steve: i guess the other thing is that in england alt w got a very public kick-start from NOS...
 

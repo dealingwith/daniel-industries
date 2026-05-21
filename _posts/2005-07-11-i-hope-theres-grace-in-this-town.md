@@ -3,6 +3,7 @@ layout: post
 title: 'i hope theres grace in this town'
 categories:
  - announcements
+ - mike riddell
 ---
 
 ### danielsjourney.com blog
