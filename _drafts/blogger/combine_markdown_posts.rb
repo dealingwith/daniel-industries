@@ -60,6 +60,10 @@ def clean_markdown(markdown)
   strip_html(strip_frontmatter(markdown)).strip
 end
 
+def output_filename(source_dir)
+  "#{File.basename(source_dir).gsub(/\s+/, "-")}.md"
+end
+
 source_dir = options[:source_dir] || choose_source_dir
 
 unless Dir.exist?(source_dir)
@@ -67,7 +71,7 @@ unless Dir.exist?(source_dir)
   exit 1
 end
 
-output_path = options[:output] || File.join(ROOT, "#{File.basename(source_dir)}.md")
+output_path = options[:output] || File.join(ROOT, output_filename(source_dir))
 markdown_paths = Dir.glob(File.join(source_dir, "**", "*.md")).sort
 
 if markdown_paths.empty?
