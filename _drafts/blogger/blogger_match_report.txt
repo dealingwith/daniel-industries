@@ -1,3 +1,991 @@
+Matched posts:
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-19-5786178.md
+Post: file://${workspaceFolder}/_posts/2001-09-19-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-19-5789645.md
+Post: file://${workspaceFolder}/_posts/2001-09-19-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-19-5789674.md
+Post: file://${workspaceFolder}/_posts/2001-09-19-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-20-5794655.md
+Post: file://${workspaceFolder}/_posts/2001-09-19-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-20-5804429.md
+Post: file://${workspaceFolder}/_posts/2001-09-20-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-21-5828758.md
+Post: file://${workspaceFolder}/_posts/2001-09-21-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-22-5838798.md
+Post: file://${workspaceFolder}/_posts/2001-09-22-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-05-6132560.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-14-6329879.md
+Post: file://${workspaceFolder}/_posts/2001-10-14-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-16-6389840.md
+Post: file://${workspaceFolder}/_posts/2001-10-16-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-17-6406629.md
+Post: file://${workspaceFolder}/_posts/2001-10-17-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-17-6408246.md
+Post: file://${workspaceFolder}/_posts/2001-10-17-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-19-6449836.md
+Post: file://${workspaceFolder}/_posts/2001-10-18-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-19-6457585.md
+Post: file://${workspaceFolder}/_posts/2001-10-19-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-22-6531758.md
+Post: file://${workspaceFolder}/_posts/2001-10-22-vaux.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-25-6615438.md
+Post: file://${workspaceFolder}/_posts/2001-10-25-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-11-22-7323781.md
+Post: file://${workspaceFolder}/_posts/2001-11-22-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-03-7610110.md
+Post: file://${workspaceFolder}/_posts/2001-12-03-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-05-7675504.md
+Post: file://${workspaceFolder}/_posts/2001-12-05-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-05-7675509.md
+Post: file://${workspaceFolder}/_posts/2001-12-05-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-08-7762196.md
+Post: file://${workspaceFolder}/_posts/2001-12-08-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-09-7767264.md
+Post: file://${workspaceFolder}/_posts/2001-12-08-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-12-7852906.md
+Post: file://${workspaceFolder}/_posts/2001-12-11-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-15-7943795.md
+Post: file://${workspaceFolder}/_posts/2001-12-14-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-21-8110967.md
+Post: file://${workspaceFolder}/_posts/2001-12-21-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-21-8111016.md
+Post: file://${workspaceFolder}/_posts/2001-12-21-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-23-8139343.md
+Post: file://${workspaceFolder}/_posts/2001-12-23-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-12-31-8306667.md
+Post: file://${workspaceFolder}/_posts/2001-12-31-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8446857.md
+Post: file://${workspaceFolder}/_posts/2002-01-05-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8446868.md
+Post: file://${workspaceFolder}/_posts/2002-01-05-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8446888.md
+Post: file://${workspaceFolder}/_posts/2002-01-05-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8446916.md
+Post: file://${workspaceFolder}/_posts/2002-01-05-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8446960.md
+Post: file://${workspaceFolder}/_posts/2002-01-05-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8458316.md
+Post: file://${workspaceFolder}/_posts/2002-01-06-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8458631.md
+Post: file://${workspaceFolder}/_posts/2002-01-06-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-06-8458809.md
+Post: file://${workspaceFolder}/_posts/2002-01-06-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-07-8467795.md
+Post: file://${workspaceFolder}/_posts/2002-01-06-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-07-8472646.md
+Post: file://${workspaceFolder}/_posts/2002-01-06-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-07-8484168.md
+Post: file://${workspaceFolder}/_posts/2002-01-07-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-07-8485828.md
+Post: file://${workspaceFolder}/_posts/2002-01-07-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-11-8602955.md
+Post: file://${workspaceFolder}/_posts/2002-01-11-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-11-8603338.md
+Post: file://${workspaceFolder}/_posts/2002-01-11-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-11-8603436.md
+Post: file://${workspaceFolder}/_posts/2002-01-11-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-11-8603443.md
+Post: file://${workspaceFolder}/_posts/2002-01-11-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-15-8704547.md
+Post: file://${workspaceFolder}/_posts/2002-01-15-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-15-8715044.md
+Post: file://${workspaceFolder}/_posts/2002-01-15-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-15-8715100.md
+Post: file://${workspaceFolder}/_posts/2002-01-15-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-27-9076973.md
+Post: file://${workspaceFolder}/_posts/2002-01-26-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-02-9310369.md
+Post: file://${workspaceFolder}/_posts/2002-02-02-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-03-9328231.md
+Post: file://${workspaceFolder}/_posts/2002-02-03-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-03-9328252.md
+Post: file://${workspaceFolder}/_posts/2002-02-03-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-03-9328356.md
+Post: file://${workspaceFolder}/_posts/2002-02-03-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-03-9328716.md
+Post: file://${workspaceFolder}/_posts/2002-02-03-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-03-9328735.md
+Post: file://${workspaceFolder}/_posts/2002-02-03-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-03-9329067.md
+Post: file://${workspaceFolder}/_posts/2002-02-03-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-04-9374041.md
+Post: file://${workspaceFolder}/_posts/2002-02-04-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-08-9515542.md
+Post: file://${workspaceFolder}/_posts/2002-02-08-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-08-9515694.md
+Post: file://${workspaceFolder}/_posts/2002-02-08-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-09-9540093.md
+Post: file://${workspaceFolder}/_posts/2002-02-09-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-09-9540228.md
+Post: file://${workspaceFolder}/_posts/2002-02-09-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-09-9540248.md
+Post: file://${workspaceFolder}/_posts/2002-02-09-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-09-9540428.md
+Post: file://${workspaceFolder}/_posts/2002-02-09-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-09-9540464.md
+Post: file://${workspaceFolder}/_posts/2002-02-09-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-09-9540813.md
+Post: file://${workspaceFolder}/_posts/2002-02-09-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-02-19-9865206.md
+Post: file://${workspaceFolder}/_posts/2002-02-18-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-01-10272497.md
+Post: file://${workspaceFolder}/_posts/2002-03-01-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-02-10300054.md
+Post: file://${workspaceFolder}/_posts/2002-03-02-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-02-10301100.md
+Post: file://${workspaceFolder}/_posts/2002-03-02-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-02-10301152.md
+Post: file://${workspaceFolder}/_posts/2002-03-02-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-07-10500258.md
+Post: file://${workspaceFolder}/_posts/2002-03-07-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-08-10513973.md
+Post: file://${workspaceFolder}/_posts/2002-03-07-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-10-10590126.md
+Post: file://${workspaceFolder}/_posts/2002-03-10-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-11-10619325.md
+Post: file://${workspaceFolder}/_posts/2002-03-11-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-11-10619502.md
+Post: file://${workspaceFolder}/_posts/2002-03-11-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-11-10620967.md
+Post: file://${workspaceFolder}/_posts/2002-03-11-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-12-10664219.md
+Post: file://${workspaceFolder}/_posts/2002-03-12-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-14-10732299.md
+Post: file://${workspaceFolder}/_posts/2002-03-14-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-26-11139028.md
+Post: file://${workspaceFolder}/_posts/2002-03-26-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-26-11139162.md
+Post: file://${workspaceFolder}/_posts/2002-03-26-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-27-11157437.md
+Post: file://${workspaceFolder}/_posts/2002-03-26-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-27-11178537.md
+Post: file://${workspaceFolder}/_posts/2002-03-27-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-29-11251771.md
+Post: file://${workspaceFolder}/_posts/2002-03-29-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-03-31-11292498.md
+Post: file://${workspaceFolder}/_posts/2002-03-30-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-06-75111474.md
+Post: file://${workspaceFolder}/_posts/2002-04-06-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-07-75123472.md
+Post: file://${workspaceFolder}/_posts/2002-04-06-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-13-75362445.md
+Post: file://${workspaceFolder}/_posts/2002-04-13-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-20-75628170.md
+Post: file://${workspaceFolder}/_posts/2002-04-20-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-27-75893575.md
+Post: file://${workspaceFolder}/_posts/2002-04-27-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-27-75893668.md
+Post: file://${workspaceFolder}/_posts/2002-04-27-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-27-75895010.md
+Post: file://${workspaceFolder}/_posts/2002-04-27-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-27-75895297.md
+Post: file://${workspaceFolder}/_posts/2002-04-27-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-27-75895463.md
+Post: file://${workspaceFolder}/_posts/2002-04-27-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-27-75895769.md
+Post: file://${workspaceFolder}/_posts/2002-04-27-8.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-04-27-75895796.md
+Post: file://${workspaceFolder}/_posts/2002-04-27-9.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-02-76080071.md
+Post: file://${workspaceFolder}/_posts/2003-06-01-the-rdfnet-challenge.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76863694.md
+Post: file://${workspaceFolder}/_posts/2002-05-22-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76864040.md
+Post: file://${workspaceFolder}/_posts/2002-05-22-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76864561.md
+Post: file://${workspaceFolder}/_posts/2002-05-22-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76879756.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76880468.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76880591.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76882894.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76883406.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76886260.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-23-76890440.md
+Post: file://${workspaceFolder}/_posts/2002-05-23-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-25-76962287.md
+Post: file://${workspaceFolder}/_posts/2002-05-25-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-25-76962317.md
+Post: file://${workspaceFolder}/_posts/2002-05-25-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-05-25-76962874.md
+Post: file://${workspaceFolder}/_posts/2002-05-25-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-01-77221229.md
+Post: file://${workspaceFolder}/_posts/2002-06-01-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-01-77221394.md
+Post: file://${workspaceFolder}/_posts/2002-06-01-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-07-77462082.md
+Post: file://${workspaceFolder}/_posts/2002-06-07-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-08-77498600.md
+Post: file://${workspaceFolder}/_posts/2002-06-08-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-08-77498622.md
+Post: file://${workspaceFolder}/_posts/2002-06-08-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-08-77499932.md
+Post: file://${workspaceFolder}/_posts/2002-06-08-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-13-77698144.md
+Post: file://${workspaceFolder}/_posts/2002-06-13-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-13-77702173.md
+Post: file://${workspaceFolder}/_posts/2002-06-13-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-13-77704007.md
+Post: file://${workspaceFolder}/_posts/2002-06-13-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-13-77705973.md
+Post: file://${workspaceFolder}/_posts/2002-06-13-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-14-77719257.md
+Post: file://${workspaceFolder}/_posts/2002-06-13-11.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-15-77789265.md
+Post: file://${workspaceFolder}/_posts/2002-06-15-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-20-77958205.md
+Post: file://${workspaceFolder}/_posts/2002-06-19-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-21-78001658.md
+Post: file://${workspaceFolder}/_posts/2002-06-20-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-21-78001954.md
+Post: file://${workspaceFolder}/_posts/2002-06-20-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-21-78022683.md
+Post: file://${workspaceFolder}/_posts/2002-06-21-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-21-78044498.md
+Post: file://${workspaceFolder}/_posts/2002-06-21-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-23-78081473.md
+Post: file://${workspaceFolder}/_posts/2002-06-22-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-06-30-78367681.md
+Post: file://${workspaceFolder}/_posts/2002-06-29-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-10-78756589.md
+Post: file://${workspaceFolder}/_posts/2002-07-09-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-10-78756967.md
+Post: file://${workspaceFolder}/_posts/2002-07-09-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-10-78771938.md
+Post: file://${workspaceFolder}/_posts/2002-07-10-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-11-78817680.md
+Post: file://${workspaceFolder}/_posts/2002-07-11-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-11-78828605.md
+Post: file://${workspaceFolder}/_posts/2002-07-11-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-11-78829295.md
+Post: file://${workspaceFolder}/_posts/2002-07-11-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-12-78843947.md
+Post: file://${workspaceFolder}/_posts/2002-07-11-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-12-78870995.md
+Post: file://${workspaceFolder}/_posts/2002-07-12-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-12-78872909.md
+Post: file://${workspaceFolder}/_posts/2002-07-12-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-13-78903781.md
+Post: file://${workspaceFolder}/_posts/2002-07-13-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-18-79090242.md
+Post: file://${workspaceFolder}/_posts/2002-07-26-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-22-79257239.md
+Post: file://${workspaceFolder}/_posts/2002-07-22-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-22-79258190.md
+Post: file://${workspaceFolder}/_posts/2002-07-22-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-22-79258435.md
+Post: file://${workspaceFolder}/_posts/2002-07-22-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-22-79258838.md
+Post: file://${workspaceFolder}/_posts/2002-07-22-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-22-79259312.md
+Post: file://${workspaceFolder}/_posts/2002-07-22-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-23-79298002.md
+Post: file://${workspaceFolder}/_posts/2002-07-23-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-24-79351544.md
+Post: file://${workspaceFolder}/_posts/2002-07-24-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-25-79389200.md
+Post: file://${workspaceFolder}/_posts/2002-07-25-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-25-79389935.md
+Post: file://${workspaceFolder}/_posts/2002-07-25-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-26-79434935.md
+Post: file://${workspaceFolder}/_posts/2002-07-26-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-26-79441169.md
+Post: file://${workspaceFolder}/_posts/2002-07-26-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-26-79441466.md
+Post: file://${workspaceFolder}/_posts/2002-07-26-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-26-79441725.md
+Post: file://${workspaceFolder}/_posts/2002-07-26-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-27-79458422.md
+Post: file://${workspaceFolder}/_posts/2002-07-26-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-27-79458471.md
+Post: file://${workspaceFolder}/_posts/2002-07-26-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-27-79481556.md
+Post: file://${workspaceFolder}/_posts/2002-07-27-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-28-79493581.md
+Post: file://${workspaceFolder}/_posts/2002-07-27-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-28-79493652.md
+Post: file://${workspaceFolder}/_posts/2002-07-27-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-28-79494309.md
+Post: file://${workspaceFolder}/_posts/2002-07-27-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-28-79494529.md
+Post: file://${workspaceFolder}/_posts/2002-07-27-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-07-31-79636576.md
+Post: file://${workspaceFolder}/_posts/2002-07-31-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-02-79729451.md
+Post: file://${workspaceFolder}/_posts/2002-08-02-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-02-79747755.md
+Post: file://${workspaceFolder}/_posts/2002-08-02-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-03-79771502.md
+Post: file://${workspaceFolder}/_posts/2002-08-03-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-08-79979520.md
+Post: file://${workspaceFolder}/_posts/2002-08-08-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-09-80007337.md
+Post: file://${workspaceFolder}/_posts/2002-08-08-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-09-80007828.md
+Post: file://${workspaceFolder}/_posts/2002-08-08-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-09-80024320.md
+Post: file://${workspaceFolder}/_posts/2002-08-09-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-09-80040799.md
+Post: file://${workspaceFolder}/_posts/2002-08-09-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-10-80069880.md
+Post: file://${workspaceFolder}/_posts/2002-08-10-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-10-80070218.md
+Post: file://${workspaceFolder}/_posts/2002-08-10-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-10-80070414.md
+Post: file://${workspaceFolder}/_posts/2002-08-10-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-10-80071848.md
+Post: file://${workspaceFolder}/_posts/2002-08-10-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-10-80072751.md
+Post: file://${workspaceFolder}/_posts/2002-08-10-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-10-80072798.md
+Post: file://${workspaceFolder}/_posts/2002-08-10-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-14-80232417.md
+Post: file://${workspaceFolder}/_posts/2002-08-14-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-14-80232790.md
+Post: file://${workspaceFolder}/_posts/2002-08-14-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-14-80233718.md
+Post: file://${workspaceFolder}/_posts/2002-08-14-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-14-80233762.md
+Post: file://${workspaceFolder}/_posts/2002-08-14-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-14-80235105.md
+Post: file://${workspaceFolder}/_posts/2002-08-14-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-14-80237567.md
+Post: file://${workspaceFolder}/_posts/2002-08-14-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-14-80237957.md
+Post: file://${workspaceFolder}/_posts/2002-08-14-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-15-80295907.md
+Post: file://${workspaceFolder}/_posts/2002-08-15-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-15-80296229.md
+Post: file://${workspaceFolder}/_posts/2002-08-15-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-16-80296296.md
+Post: file://${workspaceFolder}/_posts/2002-08-15-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-16-80315819.md
+Post: file://${workspaceFolder}/_posts/2002-08-16-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-16-80316057.md
+Post: file://${workspaceFolder}/_posts/2002-08-16-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-16-80316252.md
+Post: file://${workspaceFolder}/_posts/2002-08-16-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-17-80357224.md
+Post: file://${workspaceFolder}/_posts/2002-08-17-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-17-80357623.md
+Post: file://${workspaceFolder}/_posts/2002-08-17-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-17-80359825.md
+Post: file://${workspaceFolder}/_posts/2002-08-17-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-17-80360136.md
+Post: file://${workspaceFolder}/_posts/2002-08-17-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-18-80394343.md
+Post: file://${workspaceFolder}/_posts/2002-08-18-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-18-80394364.md
+Post: file://${workspaceFolder}/_posts/2002-08-18-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-19-80436300.md
+Post: file://${workspaceFolder}/_posts/2002-08-19-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-19-80436515.md
+Post: file://${workspaceFolder}/_posts/2002-08-19-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-19-80436537.md
+Post: file://${workspaceFolder}/_posts/2002-08-19-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-21-80519026.md
+Post: file://${workspaceFolder}/_posts/2002-08-21-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-21-80519916.md
+Post: file://${workspaceFolder}/_posts/2002-08-21-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-23-80634488.md
+Post: file://${workspaceFolder}/_posts/2002-08-23-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-25-80669980.md
+Post: file://${workspaceFolder}/_posts/2002-08-24-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-25-80703045.md
+Post: file://${workspaceFolder}/_posts/2002-08-25-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-27-80774543.md
+Post: file://${workspaceFolder}/_posts/2002-08-27-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-27-80774581.md
+Post: file://${workspaceFolder}/_posts/2002-08-27-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-28-80819323.md
+Post: file://${workspaceFolder}/_posts/2002-08-28-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-08-31-80955165.md
+Post: file://${workspaceFolder}/_posts/2002-08-31-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-02-81031743.md
+Post: file://${workspaceFolder}/_posts/2002-09-02-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-02-81031937.md
+Post: file://${workspaceFolder}/_posts/2002-09-02-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-02-81034398.md
+Post: file://${workspaceFolder}/_posts/2002-09-02-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-02-81036616.md
+Post: file://${workspaceFolder}/_posts/2002-09-02-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-03-81067581.md
+Post: file://${workspaceFolder}/_posts/2002-09-02-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-04-81116850.md
+Post: file://${workspaceFolder}/_posts/2002-09-03-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-04-81117448.md
+Post: file://${workspaceFolder}/_posts/2002-09-03-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-04-81149414.md
+Post: file://${workspaceFolder}/_posts/2002-09-04-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-04-81160232.md
+Post: file://${workspaceFolder}/_posts/2002-09-04-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-05-81167569.md
+Post: file://${workspaceFolder}/_posts/2002-09-04-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-05-81208923.md
+Post: file://${workspaceFolder}/_posts/2002-09-05-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-06-81217394.md
+Post: file://${workspaceFolder}/_posts/2002-09-05-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-06-81253368.md
+Post: file://${workspaceFolder}/_posts/2002-09-06-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-06-81254421.md
+Post: file://${workspaceFolder}/_posts/2002-09-06-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-06-81256306.md
+Post: file://${workspaceFolder}/_posts/2002-09-06-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-07-81286836.md
+Post: file://${workspaceFolder}/_posts/2002-09-07-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-07-81291167.md
+Post: file://${workspaceFolder}/_posts/2002-09-07-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-08-81295839.md
+Post: file://${workspaceFolder}/_posts/2002-09-07-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-08-81296599.md
+Post: file://${workspaceFolder}/_posts/2002-09-07-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-08-81300247.md
+Post: file://${workspaceFolder}/_posts/2002-09-07-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81332201.md
+Post: file://${workspaceFolder}/_posts/2002-09-08-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81333278.md
+Post: file://${workspaceFolder}/_posts/2002-09-08-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81375713.md
+Post: file://${workspaceFolder}/_posts/2002-09-09-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81375923.md
+Post: file://${workspaceFolder}/_posts/2002-09-09-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-10-81390116.md
+Post: file://${workspaceFolder}/_posts/2002-09-10-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-10-81400678.md
+Post: file://${workspaceFolder}/_posts/2002-09-10-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-10-81419082.md
+Post: file://${workspaceFolder}/_posts/2002-09-10-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-10-81419493.md
+Post: file://${workspaceFolder}/_posts/2002-09-10-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-12-81500417.md
+Post: file://${workspaceFolder}/_posts/2002-09-12-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-13-81536980.md
+Post: file://${workspaceFolder}/_posts/2002-09-12-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-13-81538012.md
+Post: file://${workspaceFolder}/_posts/2002-09-12-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-14-81608339.md
+Post: file://${workspaceFolder}/_posts/2002-09-14-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-15-81632425.md
+Post: file://${workspaceFolder}/_posts/2002-09-15-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-15-81633052.md
+Post: file://${workspaceFolder}/_posts/2002-09-15-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-16-81694548.md
+Post: file://${workspaceFolder}/_posts/2002-09-16-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-17-81729997.md
+Post: file://${workspaceFolder}/_posts/2002-09-17-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-18-81787836.md
+Post: file://${workspaceFolder}/_posts/2002-09-18-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-19-81840449.md
+Post: file://${workspaceFolder}/_posts/2002-09-19-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-20-81888028.md
+Post: file://${workspaceFolder}/_posts/2002-09-20-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-20-81888378.md
+Post: file://${workspaceFolder}/_posts/2002-09-20-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-20-81889954.md
+Post: file://${workspaceFolder}/_posts/2002-09-20-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-20-81890087.md
+Post: file://${workspaceFolder}/_posts/2002-09-20-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-21-81901510.md
+Post: file://${workspaceFolder}/_posts/2002-09-21-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-21-81916092.md
+Post: file://${workspaceFolder}/_posts/2002-09-21-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-21-81916847.md
+Post: file://${workspaceFolder}/_posts/2002-09-21-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-21-81917411.md
+Post: file://${workspaceFolder}/_posts/2002-09-21-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-27-82192989.md
+Post: file://${workspaceFolder}/_posts/2002-09-27-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-27-82193874.md
+Post: file://${workspaceFolder}/_posts/2002-09-27-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-27-82193989.md
+Post: file://${workspaceFolder}/_posts/2002-09-27-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-27-82194185.md
+Post: file://${workspaceFolder}/_posts/2002-09-27-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-27-82204545.md
+Post: file://${workspaceFolder}/_posts/2002-09-27-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-28-82228300.md
+Post: file://${workspaceFolder}/_posts/2002-09-28-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-28-82228754.md
+Post: file://${workspaceFolder}/_posts/2002-09-28-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-08-82671288.md
+Post: file://${workspaceFolder}/_posts/2002-10-07-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-08-82699268.md
+Post: file://${workspaceFolder}/_posts/2002-10-08-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-08-82700733.md
+Post: file://${workspaceFolder}/_posts/2002-10-08-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-08-82701966.md
+Post: file://${workspaceFolder}/_posts/2002-10-08-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-09-82739539.md
+Post: file://${workspaceFolder}/_posts/2002-10-09-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-09-82741290.md
+Post: file://${workspaceFolder}/_posts/2002-10-09-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-09-82742761.md
+Post: file://${workspaceFolder}/_posts/2002-10-09-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-10-82794557.md
+Post: file://${workspaceFolder}/_posts/2002-10-10-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-11-82841983.md
+Post: file://${workspaceFolder}/_posts/2002-10-11-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-11-82842247.md
+Post: file://${workspaceFolder}/_posts/2002-10-11-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-11-82842428.md
+Post: file://${workspaceFolder}/_posts/2002-10-11-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-11-82844087.md
+Post: file://${workspaceFolder}/_posts/2002-10-11-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-11-82845502.md
+Post: file://${workspaceFolder}/_posts/2002-10-11-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-12-82886360.md
+Post: file://${workspaceFolder}/_posts/2002-10-11-lullaby.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-13-82930732.md
+Post: file://${workspaceFolder}/_posts/2002-10-13-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-14-82949134.md
+Post: file://${workspaceFolder}/_posts/2002-10-14-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-14-82970076.md
+Post: file://${workspaceFolder}/_posts/2002-10-14-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-15-83014440.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-15-83022126.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-15-83035354.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-15-83036011.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-16-83038575.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-16-83043872.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-16-83044075.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-16-83044197.md
+Post: file://${workspaceFolder}/_posts/2002-10-15-8.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-16-83066812.md
+Post: file://${workspaceFolder}/_posts/2002-10-16-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-17-83097291.md
+Post: file://${workspaceFolder}/_posts/2002-10-16-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-17-83097621.md
+Post: file://${workspaceFolder}/_posts/2002-10-16-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-17-83097876.md
+Post: file://${workspaceFolder}/_posts/2002-10-16-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-17-83097890.md
+Post: file://${workspaceFolder}/_posts/2002-10-16-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-17-83121788.md
+Post: file://${workspaceFolder}/_posts/2002-10-17-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-17-83122417.md
+Post: file://${workspaceFolder}/_posts/2002-10-17-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-17-83123830.md
+Post: file://${workspaceFolder}/_posts/2002-10-17-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-18-83151017.md
+Post: file://${workspaceFolder}/_posts/2002-10-17-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-18-83151729.md
+Post: file://${workspaceFolder}/_posts/2002-10-17-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-18-83170980.md
+Post: file://${workspaceFolder}/_posts/2002-10-18-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-18-83173986.md
+Post: file://${workspaceFolder}/_posts/2002-10-18-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-18-83177011.md
+Post: file://${workspaceFolder}/_posts/2002-10-18-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-18-83177227.md
+Post: file://${workspaceFolder}/_posts/2002-10-18-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-19-83200505.md
+Post: file://${workspaceFolder}/_posts/2002-10-19-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-19-83215719.md
+Post: file://${workspaceFolder}/_posts/2002-10-19-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-19-83216767.md
+Post: file://${workspaceFolder}/_posts/2002-10-19-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-19-83217617.md
+Post: file://${workspaceFolder}/_posts/2002-10-19-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-20-83253425.md
+Post: file://${workspaceFolder}/_posts/2002-10-20-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-20-83253929.md
+Post: file://${workspaceFolder}/_posts/2002-10-20-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-20-83254118.md
+Post: file://${workspaceFolder}/_posts/2002-10-20-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-20-83254647.md
+Post: file://${workspaceFolder}/_posts/2002-10-20-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-21-83295936.md
+Post: file://${workspaceFolder}/_posts/2002-10-21-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-21-83296930.md
+Post: file://${workspaceFolder}/_posts/2002-10-21-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-21-83297839.md
+Post: file://${workspaceFolder}/_posts/2002-10-21-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-21-83299071.md
+Post: file://${workspaceFolder}/_posts/2002-10-21-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-21-83302824.md
+Post: file://${workspaceFolder}/_posts/2002-10-21-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-21-83304692.md
+Post: file://${workspaceFolder}/_posts/2002-10-21-6.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-22-83326674.md
+Post: file://${workspaceFolder}/_posts/2002-10-21-7.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-22-83353183.md
+Post: file://${workspaceFolder}/_posts/2002-10-22-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-22-83363431.md
+Post: file://${workspaceFolder}/_posts/2002-10-22-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-22-83376019.md
+Post: file://${workspaceFolder}/_posts/2002-10-22-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-23-83406796.md
+Post: file://${workspaceFolder}/_posts/2002-10-23-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-23-83407670.md
+Post: file://${workspaceFolder}/_posts/2002-10-23-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-23-83408139.md
+Post: file://${workspaceFolder}/_posts/2002-10-23-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-24-83469132.md
+Post: file://${workspaceFolder}/_posts/2002-10-24-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-24-83469269.md
+Post: file://${workspaceFolder}/_posts/2002-10-24-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-24-83469342.md
+Post: file://${workspaceFolder}/_posts/2002-10-24-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-24-83473292.md
+Post: file://${workspaceFolder}/_posts/2002-10-24-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-24-83476414.md
+Post: file://${workspaceFolder}/_posts/2002-10-24-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-25-83510373.md
+Post: file://${workspaceFolder}/_posts/2002-10-25-1.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-25-83510544.md
+Post: file://${workspaceFolder}/_posts/2002-10-25-2.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-25-83511021.md
+Post: file://${workspaceFolder}/_posts/2002-10-25-3.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-25-83523086.md
+Post: file://${workspaceFolder}/_posts/2002-10-25-4.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-25-83529533.md
+Post: file://${workspaceFolder}/_posts/2002-10-25-5.md
+
+Source: file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-10-27-83581588.md
+Post: file://${workspaceFolder}/_posts/2002-10-27-1.md
+
+Unmatched source posts:
+
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-20-5795241.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-24-5872713.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-09-24-5886105.md
@@ -16,7 +1004,6 @@ file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-04-6104841.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-11-6253591.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-17-6407788.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-21-6504637.md
-file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-22-6531758.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2001-10-24-6588060.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-10-8569346.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-01-22-8927642.md
@@ -560,6 +1547,7 @@ file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-07-81291188.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81332165.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81333572.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81374638.md
+file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-09-81376225.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-10-81420083.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-15-81633295.md
 file://${workspaceFolder}/_drafts/blogger/danielBsLOG/2002-09-17-81704115.md
