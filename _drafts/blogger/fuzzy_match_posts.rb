@@ -36,6 +36,8 @@ OptionParser.new do |parser|
 end.parse!
 
 ROOT = __dir__
+WORKSPACE_ROOT = File.expand_path("../..", __dir__)
+FILE_WORKSPACE_PREFIX = 'file://${workspaceFolder}/'
 Post = Struct.new(
   :path,
   :relative_path,
@@ -54,6 +56,11 @@ end
 def compact_path(path)
   parts = relative(path).split("/")
   parts.length >= 2 ? parts.last(2).join("/") : parts.join("/")
+end
+
+def workspace_file_url(path)
+  relative_path = path.sub(%r{\A#{Regexp.escape(WORKSPACE_ROOT)}/?}, "")
+  "#{FILE_WORKSPACE_PREFIX}#{relative_path}"
 end
 
 def inside_dir?(path, dir)
@@ -171,6 +178,30 @@ def ask_continue(message)
   normalized.empty? || normalized.start_with?("y")
 end
 
+def choose_source_dir
+  source_dirs = Dir.children(ROOT)
+                   .map { |name| File.join(ROOT, name) }
+                   .select { |path| File.directory?(path) }
+                   .sort
+
+  if source_dirs.empty?
+    puts "No source folders found in #{ROOT}; using #{ROOT}."
+    return ROOT
+  end
+
+  puts "Choose a source folder:"
+  source_dirs.each.with_index(1) do |path, index|
+    puts "  #{index}. #{File.basename(path)}"
+  end
+  print "Source folder number: "
+
+  selected = STDIN.gets&.strip.to_i
+  return source_dirs[selected - 1] if selected.between?(1, source_dirs.length)
+
+  warn "Invalid source folder selection."
+  exit 1
+end
+
 def candidate_posts(source, posts_by_date, all_posts, date_window)
   return all_posts unless source.date
 
@@ -197,7 +228,7 @@ if options[:source_dir] && !Dir.exist?(options[:source_dir])
   exit 1
 end
 
-source_root = options[:source_dir] || ROOT
+source_root = options[:source_dir] || choose_source_dir
 unmatched_dir = options[:unmatched_dir] || File.join(source_root, "unmatched")
 source_paths = Dir.glob(File.join(source_root, "**", "*.md"))
                   .reject { |path| File.expand_path(path) == options[:output] }
@@ -212,11 +243,11 @@ puts "Loading #{post_paths.length} target markdown files from #{options[:posts_d
 posts = post_paths.map { |path| read_post(path) }
 posts_by_date = posts.group_by(&:date)
 
-puts "Writing no-match report to #{options[:output]}"
-puts "Copying unmatched source files to #{unmatched_dir}"
+puts "Writing match report to #{options[:output]}"
 
 processed = 0
 without_matches = []
+matched_pairs = []
 previous_dir = nil
 
 sources.each do |source|
@@ -228,13 +259,21 @@ sources.each do |source|
   previous_dir = current_dir
 
   candidates = candidate_posts(source, posts_by_date, posts, options[:date_window])
-  matched = candidates.any? do |candidate|
+  matched_post = candidates.find do |candidate|
     total, = score(source, candidate, options[:date_window])
     total >= options[:min_score]
   end
+  matched = !!matched_post
 
   processed += 1
   without_matches << source unless matched
+  matched_pairs << [source, matched_post] if matched_post
+
+  if matched_post
+    puts "Source: #{workspace_file_url(source.path)}"
+    puts "Post: #{workspace_file_url(matched_post.path)}"
+    puts
+  end
 
   if (processed % options[:progress_every]).zero?
     status = matched ? "matched" : "no match"
@@ -244,18 +283,30 @@ sources.each do |source|
 end
 
 File.open(options[:output], "w") do |report|
+  report.puts "Matched posts:"
+  report.puts
+
+  matched_pairs.sort_by { |source, _matched_post| source.relative_path }.each do |source, matched_post|
+    report.puts "Source: #{workspace_file_url(source.path)}"
+    report.puts "Post: #{workspace_file_url(matched_post.path)}"
+    report.puts
+  end
+
+  report.puts "Unmatched source posts:"
+  report.puts
+
   without_matches.sort_by(&:relative_path).each do |source|
-    report.puts source.relative_path
+    report.puts workspace_file_url(source.path)
   end
 end
 
-without_matches.each do |source|
-  source_relative_path = source.path.sub(%r{\A#{Regexp.escape(source_root)}/?}, "")
-  destination = File.join(unmatched_dir, source_relative_path)
-  FileUtils.mkdir_p(File.dirname(destination))
-  FileUtils.cp(source.path, destination)
-end
+# without_matches.each do |source|
+#   source_relative_path = source.path.sub(%r{\A#{Regexp.escape(source_root)}/?}, "")
+#   destination = File.join(unmatched_dir, source_relative_path)
+#   FileUtils.mkdir_p(File.dirname(destination))
+#   FileUtils.cp(source.path, destination)
+# end
 
 puts "Done. Processed #{processed}/#{sources.length}; no-match files: #{without_matches.length}."
 puts "Report: #{options[:output]}"
-puts "Unmatched copies: #{unmatched_dir}"
+# puts "Unmatched copies: #{unmatched_dir}"
