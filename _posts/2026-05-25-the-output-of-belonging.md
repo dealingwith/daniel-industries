@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "The output of belonging"
-excerpt: 
+excerpt: "The problem with allowing our work to be enclosed and captured by large language models does seem to be in the zeitgeist"
 date: 2026-05-25 09:09:26 -0500
 categories:
- - thehypothesis
- - grace
  - theproject
- - 
+ - ai
 ---
 
 [The Homebound Symphony: Rowan Williams on solidarity](https://blog.ayjay.org/rowan-williams-on-solidarity/)
@@ -22,12 +20,14 @@ categories:
 >
 > LLMs can pattern-match around culture, but they cannot be inside it. They cannot live it.
 
-The above two posts were back-to-back in my feed reader this morning and felt linked, one about "solidarity in this broad, moral, philosophical, and theological sense" and the other about the very practical problem with allowing our work to be captured and enclosed by large language models.
+The above two posts were back-to-back in my feed reader this morning and felt linked, one about "solidarity in this broad, moral, philosophical, and theological sense" and the other about the very practical problem with allowing our work to be enclosed and captured by large language models.
 
 This does seem to be in the zeitgeist.
 
-I immediately thought of [Good Work Lights Us up](/2026/02/23/good-work-lights-us-up/), and searched this site for the word "work", which returned more results than I anticipated (2176 results in 893 files, or put another way, fully 25% of posts on this site contain the term).
+I immediately thought of [Good Work Lights Us up](/2026/02/23/good-work-lights-us-up/), and searched this site for the word "work", which returned more results than I anticipated--2176 results in 893 files, or put another way, fully 25% of posts on this site contain the term.
 
-[Pathologizing Our Own Humanity](/2026/05/11/pathologizing-our-own-humanity/) and [We Spend a Lot of Energy Pretending We Aren't All Just Tired and Terrified to Varying Degrees](/2026/03/20/we-spend-a-lot-of-energy-pretending-we-arent-all-just-tired-and-terrified-to-varying-degrees/)
+There is the Functional Melancholic's [Pathologizing Our Own Humanity](/2026/05/11/pathologizing-our-own-humanity/) and [We Spend a Lot of Energy Pretending We Aren't All Just Tired and Terrified to Varying Degrees](/2026/03/20/we-spend-a-lot-of-energy-pretending-we-arent-all-just-tired-and-terrified-to-varying-degrees/), just two I've plucked from his regular output about how to survive in a soulless, [financialized](https://en.wikipedia.org/wiki/Financialization) world.
 
-[Pull](/2026/05/09/pull/) and [Gravity](/2026/05/02/gravity/)
+Also recently was [Gravity](/2026/05/02/gravity/) via Simone Weil, who despite physical limitations insisted in working with laborers. More of her here in the months to come, for sure...
+
+And I'm not sure if the connection to _gravity_ in [Pull](/2026/05/09/pull/) was as obvious to the reader as it was to me as I wrote it, but yeah...
