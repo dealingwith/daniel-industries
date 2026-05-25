@@ -1,0 +1,347 @@
+Passport ⇢ rg -I -l "greenbelt.org.uk/insight"
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog_new/data/2004_01.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/old_data_1/2004_01.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/old_data_1/2002_09_15_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/old_data_1/2002_04_21_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/jekyll_transform/data/2004_01.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/jekyll_transform/data/2002_09_15_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/jekyll_transform/data/2002_04_21_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/blog/blog-11-16-2011.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/data/2004_01.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/data/2002_09_15_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/djdc_archives/2004/blog/data/2002_04_21_new_archive.xml
+MYBOOK/MacBook/danielmiller/work/blog/2001.djdc/source/_posts/2002-09-19-1.markdown
+MYBOOK/daniel/SWIM/bak_bak/Copy of admin/bak/data.bak/data/danielsblog/2004_01.xml
+MYBOOK/daniel/SWIM/bak_bak/Copy of admin/bak/data.bak/data/danielsblog/2002_09_15_new_archive.xml
+MYBOOK/daniel/SWIM/bak_bak/Copy of admin/bak/data.bak/data/danielsblog/2002_04_21_new_archive.xml
+MYBOOK/MacBook/danielmiller/Documents/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2004_01.xml
+MYBOOK/MacBook/danielmiller/Documents/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2002_09_15_new_archive.xml
+MYBOOK/MacBook/danielmiller/Documents/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/daniel/work/blog/blog-11-16-2011.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog_new/data/2004_01.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/old_data_1/2004_01.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/old_data_1/2002_09_15_new_archive.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/old_data_1/2002_04_21_new_archive.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/data/2004_01.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/jekyll_transform/data/2004_01.xml
+MYBOOK/elements hd/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2004_01.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/jekyll_transform/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/daniel/work/djdc_archives/2004/blog/jekyll_transform/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2009.03.07 djdc off server/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2009.03.07 djdc off server/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2009.03.07 djdc off server/blog/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/daniel/work/blog/2001.djdc/source/_posts/2002-09-19-1.markdown
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/iaspire/bak/v.0.1/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/iaspire/bak/v.0.1/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog_new/data/2004_01.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/iaspire/bak/v.0.1/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/old_data_1/2004_01.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/old_data_1/2002_09_15_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/old_data_1/2002_04_21_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/jekyll_transform/data/2004_01.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/jekyll_transform/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/jekyll_transform/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/swim/cache/fc1a78d224128f6441fbb9f81cc5e775.spc
+MYBOOK/daniel/iomega/~2008.06/htdocs/swim/cache/c2e9406fb35e0235178a6add3d100fa0.spc
+MYBOOK/daniel/iomega/~2008.06/htdocs/swim/cache/63eba1247cde3ebeee781c178c6d393b.spc
+MYBOOK/elements hd/work/djdc_archives/2004/blog/data/2004_01.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/work/djdc_archives/2004/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/~2007.05/iaspire/bak/v.0.1/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2007.05/iaspire/bak/v.0.1/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2007.05/iaspire/bak/v.0.1/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2005.05/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2005.05/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2005.05/blog/data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/daniel/SWIM/bak_bak/Copy of admin/bak/data.bak/data/danielsblog/2004_01.xml
+MYBOOK/elements hd/daniel/SWIM/bak_bak/Copy of admin/bak/data.bak/data/danielsblog/2002_09_15_new_archive.xml
+MYBOOK/elements hd/daniel/SWIM/bak_bak/Copy of admin/bak/data.bak/data/danielsblog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data_new/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data_new/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data_new/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/08.05.08/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/08.05.08/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/08.05.08/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/Copy (2) of data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/Copy (2) of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel_bak/03/blog/Copy (2) of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/htdocs/iaspire/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/integration/daniel/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/integration/daniel/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/integration/daniel/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/elements hd/daniel/server backup/2001.danielsjourney.com/blog/page/128/index.html
+MYBOOK/elements hd/daniel/server backup/2001.danielsjourney.com/blog/2002/09/19/1/index.html
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/~2008.06/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/integration/daniel/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/integration/daniel/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/integration/daniel/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/htdocs/danielsjourney_svn/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/htdocs/danielsjourney_svn/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/htdocs/danielsjourney_svn/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/integration/daniel/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/integration/daniel/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/integration/daniel/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/htdocs/danielsjourney/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/htdocs/danielsjourney/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/htdocs/danielsjourney/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2009.02.06 off D2 HP/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2004_01.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2004_01.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_09_15_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2004_01.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/old_old_del_laptop_bak/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/2002_09_01_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/workdir/archive02/blog/blog.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/underde/admin/bak/data.bak/data/danielsblog/2004_01.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/underde/admin/bak/data.bak/data/danielsblog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/underde/admin/bak/data.bak/data/danielsblog/2002_04_21_new_archive.xml
+MYBOOK/elements hd/daniel/Documents/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2004_01.xml
+MYBOOK/elements hd/daniel/Documents/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2002_09_15_new_archive.xml
+MYBOOK/elements hd/daniel/Documents/workspace/djdc_backup/daniel.iaspiretonothing.com/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/sites/dj2_2/writings.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/sites/dj2_2/photos.html.bak
+MYBOOK/daniel/iomega/~2005.11.01/webdev/sites/dj2_2/photos.html
+MYBOOK/daniel/iomega/~2006.06.02/webdev/integration/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/integration/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/integration/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/sites/arch/dj2_1/writings.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/sites/arch/dj2_1/photos.html
+MYBOOK/daniel/iomega/~2005.11.01/alt-worship.htm
+MYBOOK/daniel/iomega/~2005.11.01/favorites.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/seven/sept02/new_church_3b.htm
+MYBOOK/daniel/iomega/~2005.11.01/webdev/seven/sept02/092002.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/seven/oct02/new_church_3b.htm
+MYBOOK/daniel/iomega/~2005.11.01/webdev/seven/oct02/Copy of 092002.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/seven/oct02/092002.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/seven/nov02/092002.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/arch/dj2_3/writings.html
+MYBOOK/daniel/iomega/site backups/ir.org backup complete july 6 2005/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/site backups/ir.org backup complete july 6 2005/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/site backups/ir.org backup complete july 6 2005/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/arch/dj2_3/2002_04_01_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/arch/dj2_2/writings.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/arch/dj2_2/photos.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/arch/dj2_2/index2.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/arch/dj2_1/writings.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/arch/dj2_1/photos.html
+MYBOOK/daniel/iomega/site backups/ir bu/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/site backups/ir bu/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/site backups/ir bu/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/site backups/ir.org backup complete may 21 2006/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/site backups/ir.org backup complete may 21 2006/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/site backups/ir.org backup complete may 21 2006/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/workdir/archive02/blog/blog.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/workdir/archive02/2002_09_01_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/mysites/dj2_2/writings.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/mysites/dj2_2/photos.html.bak
+MYBOOK/daniel/iomega/~2005.11.01/webdev/mysites/dj2_2/photos.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/mysites/dj2_2/index2.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/sites/dj2_2/writings.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/sites/dj2_2/photos.html.bak
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/sites/dj2_2/photos.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/mysites/arch/dj2_1/writings.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/mysites/arch/dj2_1/photos.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/sites/arch/dj2_1/writings.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/sites/arch/dj2_1/photos.html
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/iaspire/bak/v.0.1/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/iaspire/bak/v.0.1/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/iaspire/bak/v.0.1/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/integration/daniel/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/integration/daniel/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/integration/daniel/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/mysites/dj2_2/writings.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/mysites/dj2_2/photos.html.bak
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/mysites/dj2_2/photos.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/mysites/dj2_2/index2.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/dj2_4/writings.html
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/mysites/arch/dj2_1/writings.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/mysites/arch/dj2_1/photos.html
+MYBOOK/daniel/iomega/~2005.11.01/webdev/dj2_4/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/dj2_4/2002_09_01_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/dj2_4/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/dj2_4/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/danielsjourney-12_03-/blog/2004_01.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/danielsjourney-12_03-/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/danielsjourney-12_03-/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/danielsjourney-12_03-/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2005.11.01/webdev/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2004_01.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/tower backup 11 07/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2004_01.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/~2006.06.02/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4.1/blog_data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4.1/blog_data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4.1/blog_data/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4/writings.html
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4/2002_09_01_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/webdev/dj2_4/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/integration/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/integration/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/integration/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/favorites.html
+MYBOOK/daniel/iomega/off old 20G/partition 2/Shared/dwm/Favorites/reading/online mag/Insight.URL
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/integration/daniel/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/integration/daniel/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/integration/daniel/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/integration/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/integration/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/integration/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/laptop backup march 25 2006/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/off macwin/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2005.05/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2004.06/blog/data_new/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2004_01.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/iomega/laptop backups/data on dealingwith (Delllaptop01)/webdev/archive/danielsjourney/daniel.2004.06/blog/data/2002_04_01_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/swim/cache/fc1a78d224128f6441fbb9f81cc5e775.spc
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/swim/cache/c2e9406fb35e0235178a6add3d100fa0.spc
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/swim/cache/63eba1247cde3ebeee781c178c6d393b.spc
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/danielsjourney-08_03-12_03/blog/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/danielsjourney-08_03-12_03/blog/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/danielsjourney-08_03-12_03/blog/2002_04_01_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2005.05/blog/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2005.05/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2005.05/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data_new/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data_new/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data_new/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/daniel.2004.06/blog/data/2002_04_01_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/08.05.08/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/08.05.08/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/08.05.08/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/Copy (2) of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/Copy (2) of data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel_bak/03/blog/Copy (2) of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel/blog/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/htdocs/iaspire/daniel/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/iaspire backup 27.06.07/daniel.iaspiretonothing.com/blog/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/integration/daniel/blog_new/data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/integration/daniel/blog_new/data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/integration/daniel/blog/Copy of data/2002_09_15_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/integration/daniel/blog/Copy of data/2002_04_21_new_archive.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/integration/daniel/blog/Copy of data/2004_01.xml
+MYBOOK/daniel/hp_laptop/2008.06.05/dwm/webdev/Archive/integration/daniel/blog_new/data/2002_04_21_new_archive.xml
