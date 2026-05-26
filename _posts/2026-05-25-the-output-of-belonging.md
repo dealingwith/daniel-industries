@@ -24,7 +24,7 @@ The above two posts were back-to-back in my feed reader this morning and felt li
 
 This does seem to be in the zeitgeist.
 
-I immediately thought of [Good Work Lights Us up](/2026/02/23/good-work-lights-us-up/), and searched this site for the word "work", which returned more results than I anticipated--2176 results in 893 files, or put another way, fully 25% of posts on this site contain the term.
+I immediately thought of [Good Work Lights Us Up](/2026/02/23/good-work-lights-us-up/), and searched this site for the word "work", which returned more results than I anticipated--2176 results in 893 files, or put another way, fully 25% of posts on this site contain the term.
 
 There is the Functional Melancholic's [Pathologizing Our Own Humanity](/2026/05/11/pathologizing-our-own-humanity/) and [We Spend a Lot of Energy Pretending We Aren't All Just Tired and Terrified to Varying Degrees](/2026/03/20/we-spend-a-lot-of-energy-pretending-we-arent-all-just-tired-and-terrified-to-varying-degrees/), just two I've plucked from his regular output about how to survive in a soulless, [financialized](https://en.wikipedia.org/wiki/Financialization) world.
 
