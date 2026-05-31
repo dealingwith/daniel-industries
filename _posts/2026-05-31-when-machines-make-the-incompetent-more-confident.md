@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When machines make the incompetent more confident"
-excerpt: "PRIORITY: 🔴 High – Immediate Roadmap Consideration Required"
+excerpt: "PRIORITY: 🔴 High – Immediate Consideration Required"
 date: 2026-05-31 08:10:52 -0500
 categories: 
 ---
@@ -32,7 +32,11 @@ Actual documentation used to be the safe-from-stupidity domain of actual profess
 >
 > [ _Two paragraphs of slop_ ]
 >
-> ⚠️ These features must be prioritized in the next sprint cycle.
+>> ⚠️ These features must be prioritized in the next sprint cycle.
+>
+> [ _~1000 more words of slop_ ]
+
+_Just recreating the bold text here makes me a little ill_
 
 There is more going on that would lead someone to generate such a document _and_ immediately share it with their coworkers--her pain is real and should not be dismissed[^1]--but the fact that the AI became the intermediary for this communication simply intensified all the pitfalls of less experienced product thinking:
 
@@ -47,6 +51,10 @@ There is more going on that would lead someone to generate such a document _and_
   - what it actually takes to maintain software in production
   - what it actually takes to support software in production
 
+I use AI to generate documents at work _all the time_. It often helps me put things into words I hope coworkers will better understand. But I've first used the LLM to think through the problem: I've given it instructions to try to make it less sycophantic and get it to challenge me[^2], I've asked it to critique my original thinking, I've read its massive outputs, asked it more questions, instructed it very specifically about the document I would like, read that document, asked it to make edits, then made final edits myself. This results in a _draft_ that I then socialize with the _relevant_ and _capable_ coworkers, and we all leave comments and make edits. The robot is then really good at reading all of that, plus the relevant documents and comments from last year we've all forgotten about, and we start the entire process all over again. I use the robot to _not_ just make assumptions. I use it to _try_ to capture all the context.
+
 The Internet gave everyone a voice to complain (and complain about complaining, see, I'm self-aware), best described in one of my favorite posts of all time, Paul Ford's 2011 _[The Web Is a Customer Service Medium](https://www.ftrain.com/wwic)_. Now AI is making everyone _feel_ and _present_ like an expert without any expertise. Part of me wants to offer them my job. After all, Claude Code can develop their software too, can it not?
 
 [^1]: And much more: the acute pain, and potentially a feeling of helplessness, might have led to prompts that led a sycophantic and very _helpful_ LLM to produce such a document. _We have to get through to those Product people!_ I can hear the robot saying.
+
+[^2]: I think the jury is still out on whether this is effective, or if it's just placebo
