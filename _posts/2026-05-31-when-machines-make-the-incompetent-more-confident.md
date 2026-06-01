@@ -58,6 +58,10 @@ I use AI to generate documents at work _all the time_. It often helps me put thi
 
 The Internet gave everyone a voice to complain (and complain about complaining...see, I'm self-aware), best described in one of my favorite posts of all time, Paul Ford's 2011 _[The Web Is a Customer Service Medium](https://www.ftrain.com/wwic)_. Now AI is making everyone _feel_ and _present_ like an expert without any expertise. Part of me wants to offer them my job. After all, Claude Code can develop their software too, can it not?
 
+---
+
+Postscript: no sooner had I posted this than I found [On Humility in Product Development](/2016/02/29/on-humility-in-product-development/), another reference to Fight Club about almost the same topic.
+
 [^1]: The acute pain, and potentially a feeling of helplessness, might have led to prompts that led a sycophantic and very _helpful_ LLM to produce such a document. _We have to get through to those Product people!_ I can hear the robot saying.
 
 [^2]: In [Henry Gantt](/2022/09/13/henry-gantt/), I mention Hofstadter's law, Goodhart's law, and Campbell's law. Lately I've been saying [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law "Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.") repeatedly. Conway's law is essentially the entire point of this post, hidden in a footnote. It deserves it's own, more thought through post.

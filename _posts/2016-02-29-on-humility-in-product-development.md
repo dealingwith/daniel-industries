@@ -18,14 +18,16 @@ But I've yet to hear or read a [lean](https://en.wikipedia.org/wiki/Lean_product
 
 ### This is not about empathy
 
-I have heard product design and develoment educators talk about the necessity of empathy. I have [written about that before]({{site.url}}/2010/07/17/its-all-about-meaning/). Empathy is a great trait for product people to have and it will allow them to get things right more often than those without empathy.
+I have heard product design and development educators talk about the necessity of empathy. I have [written about that before]({{site.url}}/2010/07/17/its-all-about-meaning/). Empathy is a great trait for product people to have and it will allow them to get things right more often than those without empathy.
 
 ---
+
 > No matter how smart and experienced you are or how clever and thought-out your idea is, it will not survive contact with real customers.  
-> --- Daniel Miller (@dealingwith) February 11, 2016
+> -- me, February 11, 2016
 
 > What&#39;s the opposite of Occam&#39;s razor?  
-> --- Daniel Miller (@dealingwith) February 24, 2016
+> -- me, February 24, 2016
+
 ---
 
 ## This is about the opportunity cost of your ego
@@ -34,8 +36,8 @@ Everyone has ideas. Ideas about what feature to build, which user experience "ha
 
 The longer your idea takes to implement while not 
 
-a. based on data, or while not 
-b. collecting data about itself
+- a. based on data, or while not 
+- b. collecting data about itself
 
 the more it is costing you in time you could be spending on an idea that _is_ doing either.
 
