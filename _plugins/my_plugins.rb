@@ -4,7 +4,7 @@ require "erb"
 require "set"
 
 def titleize(string)
-  nocap = ["a", "an", "the", "and", "as", "if", "at", "but", "by", "for", "from", "in", "into", "like", "near", "now", "that", "nor", "of", "off", "on", "once", "onto", "or", "over", "past", "so", "than", "till", "to", "up", "upon", "with", "when", "yet"]
+  nocap = ["a", "an", "the", "and", "as", "if", "at", "but", "by", "for", "from", "in", "into", "like", "now", "that", "nor", "of", "off", "on", "once", "onto", "or", "over", "so", "than", "till", "to", "up", "upon", "with", "when", "yet"]
   words = string.to_s.split(" ")
 
   words.map.with_index do |word, index|
