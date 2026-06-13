@@ -195,14 +195,14 @@ del {
   display: block;
 }
 
-.main-content aside {
+/* .main-content aside {
   padding: 2rem 1rem 0.75rem;
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUAgMAAABhBfhSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURf/V3P/V3P///yFfjxQAAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB+kDHwQYJ5JdWB0AAAA/SURBVDjLY2AIxQQMDJSLgiTQQShVREHGo1pGJVEMG6kkimob1URpFL7YADVEaZYeRkVHRUdFR0Wxi9KofgMA+TqorTjcoisAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDMtMzFUMDQ6MTQ6NTcrMDA6MDCcKvhIAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTAzLTMxVDA0OjE0OjQ4KzAwOjAw15UwgwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNS0wMy0zMVQwNDoyNDozOSswMDowMLXQdfAAAAAASUVORK5CYII=")
     28 / 28px / 0 round;
   border-width: 28px;
   border-style: solid;
   margin: 1.5rem 0;
-}
+} */
 
 .main-content aside p {
   margin-bottom: 0;
@@ -298,7 +298,8 @@ blockquote blockquote {
   margin-top: 1rem;
 }
 
-.backlinks {
+.backlinks,
+.main-content aside {
   background: var(--lightgrey) var(--diagonal-stripe);
   border-radius: 5px;
   margin-bottom: 1rem;
