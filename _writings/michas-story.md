@@ -21,8 +21,6 @@ The middle-aged woman walks from the store on a million CCTV tapes, out a millio
 
 ---
 
-![](/assets/page/writing/housescan3_street1_ii.jpg)
-
 Micha is 47 years old. She's got a man's name, so she thinks. But it's just as well. She has a man's profession: she's a thief. Today she slipped into a gated community behind someone and traded in her Astro van for a nice new Lexus. No one looked twice. She's got a nice beehive, plenty of the gaudy gold that people her age seem to love so much. She looks like she has two boys in college. Oh, wait; she does have two boys in college.
 
 This job she pulled today, for example, is what Micha calls the "soccer mom." After her morning routine--CNN, a pot of coffee, masturbation, and an hour in front of the mirror with Cover Girl--she decides what to do with her day. Today it was cars, so she called up her first car guy. We'll call him Vinnie. She has a system, you see. She has a list of about 20 names--just for cars--and she cycles through that list. One phone call is it and she's on to the next one. If Vinnie hadn't been home today, it would have been on to the next guy. We'll call him Joe. Micha never works with women. Women criminals are all bitches. It would inevitably lead to a fight. Fisticuffs. Why when bitches fight it's called a catfight she'll never know.
@@ -52,6 +50,8 @@ Driving around, it's slim pickings--all the men drove the good cars to work toda
 Gonna have to pick a winner soon. A Lexus. Has to be the top of the line model. Yes.
 
 Micha pulls into the empty driveway of the next-door neighbor. These places are all the same--the houses are two feet from each other and there are no windows on the sides of them so the neighbor can't film you screwing your lover at two in the afternoon. Not that you know your neighbor anyway. Just keep talking on the phone. Micha walks across the perfectly manicured lawn to the Lexus next-door. Same routine and in one minute flat she's pulling out of the driveway. 15 minutes later she's at Vinnie's. He's got that horny glint in his eye. Dumbass.
+
+![](/assets/page/writing/housescan3_street1_ii.jpg)
 
 ---
 
