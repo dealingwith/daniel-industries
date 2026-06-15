@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Over the Rhine record review, 2001"
-excerpt: 
+excerpt: "Over the Rhine is an ethos, an awareness, a media of consciousness on a Jungian scale."
 date: 2026-06-14 18:34:29 -0500
 categories: 
  - music
