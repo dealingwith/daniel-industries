@@ -21,6 +21,8 @@ The middle-aged woman walks from the store on a million CCTV tapes, out a millio
 
 ---
 
+![](/assets/page/writing/housescan3_street1_ii.jpg)
+
 Micha is 47 years old. She's got a man's name, so she thinks. But it's just as well. She has a man's profession: she's a thief. Today she slipped into a gated community behind someone and traded in her Astro van for a nice new Lexus. No one looked twice. She's got a nice beehive, plenty of the gaudy gold that people her age seem to love so much. She looks like she has two boys in college. Oh, wait; she does have two boys in college.
 
 This job she pulled today, for example, is what Micha calls the "soccer mom." After her morning routine--CNN, a pot of coffee, masturbation, and an hour in front of the mirror with Cover Girl--she decides what to do with her day. Today it was cars, so she called up her first car guy. We'll call him Vinnie. She has a system, you see. She has a list of about 20 names--just for cars--and she cycles through that list. One phone call is it and she's on to the next one. If Vinnie hadn't been home today, it would have been on to the next guy. We'll call him Joe. Micha never works with women. Women criminals are all bitches. It would inevitably lead to a fight. Fisticuffs. Why when bitches fight it's called a catfight she'll never know.
@@ -324,6 +326,7 @@ Gefiltefish and all that.
 He looked like the Jewish guy from the Sopranos, but shorter and fatter.
 
 And in his fat left hand, a hand so big and brawny that one could notice such features at such a distance, he held something out in front of him like a prize.
+
 There it was--plain and clear as the weather on this sunny morning in January. In the grasp of that hairy Jew's big freaking paws--oh and now we realize the sick, sick Freudian just committed--was a dog. Presumably dead, by the way it just hung there in front of him. Last time I checked a dog wouldn't let someone carry them around by the tail without some argument. Please, no Marmaduke letters.
 
 George from St. Paul, MN, writes, "Our little schnauzer loves to be carried around by the tail...."
@@ -395,6 +398,8 @@ Good Son's mother had never even used the word score before, certainly not in th
 
 Micha doesn't even know what a future progressive verb is.
 
+![](/assets/page/writing/street2_i.jpg)
+
 ---
 
 Micha and GS are back at her rental. GS sits on the small couch tucked up behind the small dividing wall between the front room and the main room. Micha dashes back and forth between the bedroom, off to the right, and the kitchen, directly in front. It's a small enough house that two people could have a conversation from the far two corners if they wanted to. Hollow enough for it, too.
@@ -461,7 +466,7 @@ And yes, he's actually in Micha's rental.
 
 Just no machete.
 
-…No Jewish Dog Killing Guy either, just in case you were wondering.
+...No Jewish Dog Killing Guy either, just in case you were wondering.
 
 Stay with me.
 
@@ -699,6 +704,7 @@ The first canister lands a few feet from the burning dog and spills its contents
 
 1. In reality, though, it ends up landing surprisingly close to the dog, although just a hair farther away than the first. In fact, there were two facts in this little can's favor:
 1. Its manner of flying through the air, and thus landing on the ground, was such that it landed on its edge with great force--as opposed to evenly on one side or the other, top or bottom, entirely.
+
 It still had its lid on, a lid that violently ejected itself from the can upon impact, thanks to aforementioned fact number one.
 
 Along with the rest of the contents.
@@ -718,6 +724,8 @@ The warm pool. The very, very warm pool.
 The initial sword of flame came to rest on about three dogs altogether, immediately transforming them into black burning balls of sickening smoke. Above the pool of flames on the ground were another three dogs, which were a little more slowly, paws and legs first, doing the same. The flames also were making their way up the back wall and onto the ceiling in a very rapid manner. They were in fact licking right across the ceiling, coming across the room like a hand of red, yellow, and orange.
 
 But by this time GS and Micha were out the door and around the corner.
+
+![](/assets/page/writing/fire-paper4.png)
 
 ---
 
