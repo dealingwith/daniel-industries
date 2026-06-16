@@ -88,10 +88,10 @@ module Jekyll
 
     def absolutize_site_url(path_or_url, site)
       value = path_or_url.to_s.strip
-      return value if value.empty? || value.start_with?("http://", "https://")
-
       site_url = site.config["url"].to_s.sub(%r{/\z}, "")
-      return value if site_url.empty?
+      value.gsub!(/\{\{\s*site\.url\s*\}\}/, site_url)
+
+      return value if value.empty? || site_url.empty? || value.start_with?("http://", "https://")
 
       normalized_path = value.start_with?("/") ? value : "/#{value}"
       "#{site_url}#{normalized_path}"
