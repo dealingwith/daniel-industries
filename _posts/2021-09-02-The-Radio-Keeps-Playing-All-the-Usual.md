@@ -1,14 +1,15 @@
 ---
 layout: post
 title: The Radio Keeps Playing All the Usual
-date: 2021-09-02 04:03:08
+date: 2021-09-02 04:03:08 -0500
 categories:
+ - fiction
  - 100 200-word character sketches
 ---
 
-"What's a 'wonderwall', anyway?"
+"What's a _wonderwall_, anyway?"
 
-"Wonderwall was a 1968 British psychedelic film with a soundtrack famously composed by George Harrison. I thought you would have known that."
+"_Wonderwall_ was a 1968 British psychedelic film with a soundtrack famously composed by George Harrison. I thought you would have known that."
 
 "I'm more of an _All Things Must Pass_ person."
 
@@ -16,7 +17,7 @@ categories:
 
 "But, so, like, 'You're going to be the one that saves me, after all, you're a 1968 British psychedelic film'?"
 
-"No, not like that.&nbsp;_Wonderwall Music_, the soundtrack album, was the first solo record by a Beatle."
+"No, not like that. _Wonderwall Music_, the soundtrack album, was the first solo record by a Beatle."
 
 "Ah, so, like, 'You're going to be the one that saves me, after all, your my version of stepping out from within the shadow of something I'm a part of that's so big and all-encompassing that having my own identity outside of it is scary and almost unfathomable.'"
 

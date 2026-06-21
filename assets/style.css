@@ -366,10 +366,9 @@ img.no-shadow {
   div.small_img {
     align-content: center;
     text-align: center;
+    margin: 0 auto;
   }
   div.small_img img {
-    border-radius: 5px;
-    margin: 0 auto;
     max-width: 50%;
   }
 }
