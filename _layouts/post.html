@@ -39,10 +39,10 @@
       {% endif %}
 
       <div class="blog_nav">
-        <div>{% if page.previous.url %}Previous: <a
-            href="{{page.previous.url}}">{{ page.previous.title }}</a>{% endif %}
+        <div>{% if page.previous.url %}&#8612; <a href="{{page.previous.url}}">{{ page.previous.title }}</a>{% endif %}
         </div>
-        <div class="right">{% if page.next.url %}Next: <a href="{{page.next.url}}">{{ page.next.title }}</a>{% endif %}
+        <div class="right">{% if page.next.url %}<a href="{{page.next.url}}">{{ page.next.title }}</a>
+          &#8614;{% endif %}
         </div>
       </div>
     </div>
