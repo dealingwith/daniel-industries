@@ -6,22 +6,21 @@ layout: page
 <style>
   .main-content img {
     float: right;
-    background-color: #eee;
-    border-radius: 75px;
-    border: 1px solid #555;
-    margin: 0.25rem;
-    max-width: 150px;
+    background-color: #ffd7fc;
+    border-radius: 50%;
+    border: 1px solid #71003e;
+    max-width: 40%;
   }
   @media (prefers-color-scheme: dark) {
     .main-content img {
-      border: 1px solid #fff;
+      border: 1px solid #ffd7fc;
     }
   }
 </style>
 
 ![](/assets/page/d-glif.png)
 
-Married to [Carissa Byers](http://carissabyers.com/). Father of Margot, Lucy, Milo and stepdad of Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and [stories](/writing). Cyclist. Indieweb advocate.
+Married to [Carissa Byers](http://carissabyers.com/). Father of Margot (2009-2010), Lucy, Milo and stepdad to Penn. [Educator](http://minecraftu.org/). Writer of [songs](/music) and [stories](/writing). Indieweb advocate.
 
 [You can get in contact with me here](https://letterbird.co/dealingwith).
 
@@ -49,12 +48,14 @@ If you are looking for somewhere to start, try these:
 
 ## On AI
 
-- [The Tyranny of AI Is Not AI Itself, It Is the Lazy, Rushed Product Designers with No Imagination or Sense of Craft](https://daniel.industries/2025/07/13/the-tyranny-of-ai-is-not-ai-itself-it-is-the-lazy-rushed-product-designers-with-no-imagination-or-sense-of-craft/) (2025)
-- [Overview of the GenAI Landscape](https://daniel.industries/2025/06/20/overview-of-the-genai-landscape/) (2025)
-- [General-audience AI Presentation](https://daniel.industries/2025/05/17/general-audience-ai-presentation/) (2025)
-- [Comments on How Software Engineers Actually Use AI](https://daniel.industries/2025/03/29/comments-on-how-software-engineers-actually-use-ai/) (2025)
-- [My Mostly Positive Experience with GitHub Copilot](https://daniel.industries/2024/07/09/my-mostly-positive-experience-with-github-copilot/) (2024)
-- [You Might Think Using AI in Your Business Will Save You Time and Development Cost but You'd Probably Be Wrong](https://daniel.industries/2024/06/30/you-might-think-using-ai-in-your-business-will-save-you-time-and-development-cost-but-youd-be-wrong/) (2024)
+- [When Machines Make the Incompetent More Confident](/2026/05/31/when-machines-make-the-incompetent-more-confident/) (2026)
+- [Helping Define This Thing We Feel Lacking in LLM Responses](/2025/09/14/helping-define-this-thing-we-feel-lacking-in-llm-responses/) (2025)
+- [The Tyranny of AI Is Not AI Itself, It Is the Lazy, Rushed Product Designers with No Imagination or Sense of Craft](/2025/07/13/the-tyranny-of-ai-is-not-ai-itself-it-is-the-lazy-rushed-product-designers-with-no-imagination-or-sense-of-craft/) (2025)
+- [Overview of the GenAI Landscape](/2025/06/20/overview-of-the-genai-landscape/) (2025)
+- [General-audience AI Presentation](/2025/05/17/general-audience-ai-presentation/) (2025)
+- [Comments on How Software Engineers Actually Use AI](/2025/03/29/comments-on-how-software-engineers-actually-use-ai/) (2025)
+- [My Mostly Positive Experience with GitHub Copilot](/2024/07/09/my-mostly-positive-experience-with-github-copilot/) (2024)
+- [You Might Think Using AI in Your Business Will Save You Time and Development Cost but You'd Probably Be Wrong](/2024/06/30/you-might-think-using-ai-in-your-business-will-save-you-time-and-development-cost-but-youd-be-wrong/) (2024)
 
 ### On the Internet and culture
 

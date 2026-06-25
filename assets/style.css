@@ -279,7 +279,8 @@ blockquote blockquote {
 }
 
 .backlinks,
-.main-content aside {
+.main-content aside,
+details {
   background: var(--diagonal-stripe);
   border: 1px solid var(--pink);
   border-radius: 5px;
@@ -652,10 +653,7 @@ img.float-right {
 details {
   border-radius: 10px;
   margin-bottom: 1rem;
-  padding: 0.5rem;
-}
-details[open] {
-  background-color: var(--lightgrey);
+  padding: 1rem 1rem 0;
 }
 details > summary {
   list-style: none;
