@@ -60,6 +60,14 @@ body {
   line-height: 1.5rem;
   -webkit-font-smoothing: antialiased;
 }
+@media screen and (max-width: 700px) {
+  html,
+  body {
+    font-size: 1.25rem;
+    line-height: 1.7rem;
+    -webkit-font-smoothing: antialiased;
+  }
+}
 body {
   color: var(--text);
   font-family: var(--sans);
@@ -232,9 +240,8 @@ h2 + .post-metadata,
 h3 + .post-metadata {
   color: var(--grey);
   font-family: var(--sans);
-  font-size: 0.85rem;
-  line-height: 0.9rem;
-  /* margin-bottom: 1.5rem; */
+  font-size: 0.95rem;
+  line-height: 1.2rem;
   margin-top: -1.2rem;
   padding: 0;
 }
@@ -467,14 +474,14 @@ footer ul li {
 }
 
 /* Mobile responsive for menu and footer */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
   .menu ul li,
   footer ul li {
     border-bottom: 1px solid var(--color1);
     border-left: none;
     display: block;
-    font-size: 1rem;
-    padding: 0.25em 0.5em;
+    font-size: 1.1rem;
+    padding: 0.25em 0.5em 0.2em;
   }
   footer ul li:last-of-type {
     border-bottom: none;
