@@ -430,6 +430,12 @@ header {
   padding: 0;
 }
 
+.menu,
+footer {
+  margin: 0;
+  padding: 0;
+}
+
 /* Shared navigation styles for menu and footer */
 .menu ul,
 footer ul {
@@ -453,16 +459,29 @@ footer ul li {
   background: var(--bg) var(--diagonal-stripe);
   border-left: 1px solid var(--color1);
   display: inline-block;
-  font-size: 0.95rem;
+  font-size: 1.1rem;
   list-style: none;
   margin: 0;
   padding: 0.5em 1em;
   width: auto;
 }
 
-.menu a,
-footer a {
-  text-decoration: none;
+/* Mobile responsive for menu and footer */
+@media screen and (max-width: 500px) {
+  .menu ul li,
+  footer ul li {
+    border-bottom: 1px solid var(--color1);
+    border-left: none;
+    display: block;
+    font-size: 1rem;
+    padding: 0.25em 0.5em;
+  }
+  footer ul li:last-of-type {
+    border-bottom: none;
+  }
+  footer ul li:first-of-type {
+    border-top: 1px solid var(--color1);
+  }
 }
 
 .menu a:visited,
@@ -476,10 +495,9 @@ footer a:visited {
   text-align: right;
 }
 
-.menu,
-footer {
-  margin: 0;
-  padding: 0;
+.menu a,
+footer a {
+  text-decoration: none;
 }
 
 /* Footer specific */
@@ -490,11 +508,6 @@ footer {
 
 footer ul {
   text-align: right;
-}
-
-footer ul li {
-  /* border-left: 1px solid var(--color1); */
-  font-size: 0.85rem;
 }
 
 .cc-license {
@@ -510,24 +523,6 @@ footer ul li {
   .cc-license {
     background-image: url("page/cc-dark.svg");
     color: var(--color1);
-  }
-}
-
-/* Mobile responsive for menu and footer */
-@media screen and (max-width: 500px) {
-  .menu ul li,
-  footer ul li {
-    border-bottom: 1px solid var(--color1);
-    border-left: none;
-    display: block;
-    font-size: 0.85rem;
-    padding: 0.25em 0.5em;
-  }
-  footer ul li:last-of-type {
-    border-bottom: none;
-  }
-  footer ul li:first-of-type {
-    border-top: 1px solid var(--color1);
   }
 }
 
