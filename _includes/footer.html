@@ -5,8 +5,9 @@
     <li><a href="/blogroll">Blogroll</a></li>
     {% endif %}
     <li><a href="/atom.xml">RSS</a></li>
+    {% assign current_year = site.time | date: '%Y' %}
     <li><a class="cc-license" href="http://creativecommons.org/licenses/by/4.0/"
-        aria-label="Creative Commons licensed, 2001&ndash;{{ site.time | date: '%Y' }}">2001&ndash;<time
-          datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time></a></li>
+        aria-label="Creative Commons licensed, 2001&ndash;{{ current_year }}">2001&ndash;{{ current_year }}</time></a>
+    </li>
   </ul>
 </footer>

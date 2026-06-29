@@ -11,7 +11,7 @@
 /tmp/
 
 # Used by dotenv library to load environment variables.
-# .env
+.env
 
 # Ignore Byebug command history file.
 .byebug_history
@@ -62,10 +62,18 @@ public/lucys-server
 public/mcu-server
 public/audio
 
-Rakefile
-
 .jekyll-cache
 .jekyll-metadata
+.pygments-cache/
+.gist-cache/
+.sass-cache/
+
+# Rake task output and temporary files
+_stash/
+.preview-mode
+sass.old/
+source.old/
+source/stylesheets/screen.css
 
 google*.html
 keybase.txt

@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "stringex"
 gem "rake"
+gem "dotenv"
 gem "match_regex"
 gem "amazing_print"
 

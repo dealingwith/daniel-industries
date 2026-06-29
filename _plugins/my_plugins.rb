@@ -156,12 +156,6 @@ module Jekyll
     priority :high
 
     def generate(site)
-      style_file = site.static_files.find do |static_file|
-        static_file.relative_path == "/assets/style.css" || static_file.path == "/assets/style.css"
-      end
-
-      site.config["style_version"] = style_file&.modified_time&.to_i
-
       posts = site.posts.docs
       post_urls = posts.map(&:url).to_set
       archive_counts = Hash.new(0)

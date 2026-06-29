@@ -29,10 +29,14 @@
   <link rel="me" href="https://indieweb.social/@dealingwith" />
   <link rel="me" href="https://github.com/dealingwith" />
   <link rel="me" href="https://www.linkedin.com/in/dealingwith/" />
-  <link href="/assets/reset.css" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}{% if site.style_version %}?v={{ site.style_version }}{% endif %}">
-  <link href="/assets/code.css" rel="stylesheet">
-  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/assets/code-dark.css">
+  {% assign reset_css = site.static_files | where: "path", "/assets/reset.css" | first %}
+  {% assign site_css = site.static_files | where: "path", "/assets/style.css" | first %}
+  {% assign code_css = site.static_files | where: "path", "/assets/code.css" | first %}
+  {% assign code_dark_css = site.static_files | where: "path", "/assets/code-dark.css" | first %}
+  <link href="{{ "/assets/reset.css" | relative_url }}?v={{ reset_css.modified_time | date: '%s' }}" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}?v={{ site_css.modified_time | date: '%s' }}">
+  <link href="{{ "/assets/code.css" | relative_url }}?v={{ code_css.modified_time | date: '%s' }}" rel="stylesheet">
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="{{ "/assets/code-dark.css" | relative_url }}?v={{ code_dark_css.modified_time | date: '%s' }}">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for daniel.industries" href="/atom.xml" />
   <script data-goatcounter="https://daniel-industries.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   <script>

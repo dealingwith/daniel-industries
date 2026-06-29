@@ -9,6 +9,7 @@ GEM
     colorator (1.1.0)
     concurrent-ruby (1.3.6)
     csv (3.3.5)
+    dotenv (3.2.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -87,6 +88,7 @@ PLATFORMS
 
 DEPENDENCIES
   amazing_print
+  dotenv
   jekyll
   match_regex
   rake
