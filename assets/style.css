@@ -366,7 +366,8 @@ pre,
 code:not(pre code) {
   background-color: var(--lightgrey);
   border-radius: 5px;
-  padding: 2px 4px;
+  font-size: 0.9em;
+  padding: 0px 4px;
 }
 pre {
   margin-bottom: 1rem;
