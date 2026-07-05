@@ -39,11 +39,10 @@
       {% endif %}
 
       <div class="blog_nav">
-        <div>{% if page.previous.url %}&#8612; <a href="{{page.previous.url}}">{{ page.previous.title }}</a>{% endif %}
-        </div>
-        <div class="right">{% if page.next.url %}<a href="{{page.next.url}}">{{ page.next.title }}</a>
-          &#8614;{% endif %}
-        </div>
+        {% if page.previous.url %}<div class="left">&#8612;<a href="{{page.previous.url}}">{{ page.previous.title }}</a>
+        </div>{% endif %}
+        {% if page.next.url %}<div class="right"><a href="{{page.next.url}}">{{ page.next.title }}</a>&#8614;
+        </div>{% endif %}
       </div>
     </div>
     {% include footer.html %}

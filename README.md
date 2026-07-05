@@ -27,7 +27,7 @@ I have a bash script aliased so I can
 be jekyll s --incremental --config _config.yml,_config.dev.yml
 ```
 
-`_config.dev.yml` enables incremental builds and skips the heaviest archive/category pages during normal local iteration.
+`_config.dev.yml` skips the heaviest archive/category pages during normal local iteration.
 
 ## Build and deploy checks
 
