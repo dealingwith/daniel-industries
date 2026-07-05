@@ -50,34 +50,6 @@ So the work became a true integration of two trips into my world, a trip to anot
 
 Perhaps you have been able to construct some meaning from this, but if not, please accept my encouragement to create your own meanings for the tragic events of our lives. Just don't implicate me. I'm guilty already.
 
-# 2001-09-24 ...
-
-<a href="http://hopeagainsthope.blogspot.com"></a>More in this space as it comes.
-
-See also:  <a href="http://hopeagainsthope.blogspot.com">finding meaning in tragedy log (mult. contrib.)</a>
-
-See also:  <a href="http://dealingwith.blogspot.com">my personal log</a>
-
-See also:  <a href="http://danielsjourney.blogspot.com">current news on danielsjourney dot com</a>
-
-See also:  <a href="http://nonlinear.blogspot.com">information about non-linear story, which this installation has very much to do with</a>
-
-# 2001-09-25 ...
-
-<a href="http://www.time.com/time/photoessays/">http://www.time.com/time/photoessays/</a>
-
-<a href="http://www.worldnewyork.org/">http://www.worldnewyork.org/</a>
-
-As I fall deeper into my art as I deal with everything, I am actually jealous of those who were able capture images in NYC itself. However I also realize that meanings that relate to this tragedy can be found anywhere.
-
-I want to make something alive in your eyes.
-
-# 2001-09-25 ...
-
-I've recorded a new demo which is sort of a theme song for this project. It's called "You Say." You can get it here: <a href="http://www.geocities.com/dealingwith/you_say.htm">http://www.geocities.com/dealingwith/you_say.htm</a>.
-
-I will also be putting up a list of soundtrack songs for this project, for those of you savy enough to go find the music and make a CD, or you could con me into making you one...
-
 # 2001-09-26 ...
 
 >Works Echo Differently When Life Overtakes Art
