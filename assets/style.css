@@ -45,7 +45,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #3b3b3b;
+    --bg: #282828;
     --text: #fcf7ed;
     --color1: var(--pink);
     --grey: #bdbdbd;
@@ -317,13 +317,9 @@ details {
 }
 
 img {
-  border-radius: 5px;
+  border-radius: 10px;
   margin: 0 auto;
   max-width: 100%;
-  box-shadow: var(--shadow-elevation-medium);
-}
-img.no-shadow {
-  box-shadow: none;
 }
 .small,
 .excerpt,
@@ -481,27 +477,6 @@ footer ul li a {
   padding: 0.5em 1em;
 }
 
-/* Mobile responsive for menu and footer */
-@media screen and (max-width: 700px) {
-  .menu ul li,
-  footer ul li {
-    border-bottom: 1px solid var(--color1);
-    border-left: none;
-    display: block;
-    font-size: 1.1rem;
-  }
-  .menu ul li a,
-  footer ul li a {
-    padding: 0.25em 0.5em 0.2em;
-  }
-  footer ul li:last-of-type {
-    border-bottom: none;
-  }
-  footer ul li:first-of-type {
-    border-top: 1px solid var(--color1);
-  }
-}
-
 .menu a:visited,
 footer a:visited {
   color: var(--color1);
@@ -544,6 +519,27 @@ footer ul li a {
   color: var(--text);
   padding-left: 1.2em;
   margin-left: 1em;
+}
+
+/* Mobile responsive for menu and footer */
+@media screen and (max-width: 700px) {
+  .menu ul li,
+  footer ul li {
+    border-bottom: 1px solid var(--color1);
+    border-left: none;
+    display: block;
+    font-size: 1.1rem;
+  }
+  /* .menu ul li a,
+  footer ul li a {
+    padding-bottom: 0em;
+  } */
+  footer ul li:last-of-type {
+    border-bottom: none;
+  }
+  footer ul li:first-of-type {
+    border-top: 1px solid var(--color1);
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -593,7 +589,8 @@ footer ul li a {
     grid-template-columns: repeat(1, 1fr);
   }
   .main-content .blog_nav .right {
-    text-align: left;
+    border-top: 2px solid var(--color1);
+    /* text-align: left; */
   }
 }
 
@@ -647,7 +644,7 @@ div.blog-index-div {
   border: 1px solid var(--color1);
   border-radius: 0.3em;
   padding: 0.75rem;
-  box-shadow: var(--shadow-elevation-low);
+  /* box-shadow: var(--shadow-elevation-low); */
 }
 div.blog-index-div h3 {
   padding: 0;
@@ -661,7 +658,9 @@ div.blog-index-div p:last-of-type {
   margin-bottom: 0;
 }
 div.blog-index-div:hover {
-  box-shadow: var(--shadow-elevation-medium);
+  /* box-shadow: var(--shadow-elevation-medium); */
+  background: color-mix(in srgb, var(--pink) 30%, transparent)
+    var(--diagonal-stripe);
 }
 
 img.float-left {
