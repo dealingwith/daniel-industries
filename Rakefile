@@ -11,7 +11,7 @@ document_root = "~/daniel.industries/"
 rsync_delete = true
 rsync_args = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
-jekyll_build_command = "bundle exec jekyll build --incremental"
+jekyll_build_command = "bundle exec jekyll build"
 
 # This will be configured for you when you run config_deploy
 deploy_branch = "gh-pages"
