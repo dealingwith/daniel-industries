@@ -24,9 +24,8 @@ layout: page
 - [Robin Rendle](https://robinrendle.com/notes/): design and type and heart
 - [Stay SaaSy](https://staysaasy.com/): practical advice for building software teams/orgs
 - [Robin Berjon](https://berjon.com/): very smart words about the internet
-- [Writing Slowly](https://writingslowly.com/)
-- [James A. Reeves](https://www.jamesreeves.co/)
-
----
-
-- [linklings.club](https://linklings.club): "a directory of people with personal websites organised by specific interests", is my current favorite indieweb directory. [Here is my entry](https://linklings.club/person/00018/).
+- [Writing Slowly](https://writingslowly.com/): writing about writing, reading, and other important things
+- [James A. Reeves](https://www.jamesreeves.co/): _Midnight Radio_ gets frequent mentioned on here
+- [sweetfish.site](https://sweetfish.site/): such a beautiful website. Great art and links
+- [sean goedecke](https://www.seangoedecke.com/): grizzled but thoughtful posts about software development at big orgs
+- [Dr. Jason Fox](https://www.foxwizard.com/): a wizard-philosopher on a quest to co-create a world more curious and kind (and a future less grim)
