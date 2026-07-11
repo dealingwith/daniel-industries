@@ -303,6 +303,7 @@ details {
   padding-left: 0;
 }
 .backlinks li {
+  font-size: 0.9em;
   list-style: none;
   margin-bottom: 0.5rem;
 }
