@@ -9,7 +9,7 @@ AI coding tools have been used in the coding aspects of this site, e.g. in [impr
 
 This site is built using the [Jekyll Ruby-based static site generator](https://jekyllrb.com/) and has been for the last decade or so. Prior to that, many Content Management Systems were used, including a home-spun PHP-based CMS called [SWIM](/2017/12/26/swim-stock-take-part-2/). It started its life in 2001 on [Blogger](https://www.blogger.com/).
 
-I have removed any font style specifics except for post titles and _sans-serif_ for body text. If you don't like the font, change your browser default for sans. I do set _font-size_ to 1.1rem and _line-height_ to 1.5rem based on my own preferences for reading.
+I have removed any font style specifics except for post titles and _sans-serif_ for body text. If you don't like the font, change your browser default for sans. I do set _font-size_ to 1.05rem and _line-height_ to 1.4rem based on my own preferences for reading.
 
 It is built on my personal computer, a Dell XPS laptop running PopOS with the default GNOME desktop.
 
