@@ -1,4 +1,5 @@
-@import url(https://fonts.bunny.net/css?family=aleo:400,400i,700,700i);
+/* @import url(https://fonts.bunny.net/css?family=aleo:400,400i,700,700i); */
+@import url(https://fonts.bunny.net/css?family=bitter:400,500,600,700,800);
 
 :root {
   --bg: #fffcfc;
@@ -9,7 +10,7 @@
   --highlight: var(--pink);
   --grey: #555555;
   --lightgrey: #eeeeee;
-  --header: "Aleo", serif;
+  --header: "Bitter", serif; /* "Aleo", */
   --sans: sans-serif;
   --serif: serif;
   --diagonal-stripe: repeating-linear-gradient(
@@ -90,6 +91,9 @@ h6 {
 
 h1 {
   font-size: 2.1rem;
+  transform: skewX(12deg);
+  font-style: normal;
+  font-weight: 700;
 }
 h2 {
   font-size: 1.5rem;

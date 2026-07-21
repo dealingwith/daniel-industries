@@ -11,7 +11,7 @@ categories:
 
 It started from a newsletter from the beautiful, kind [Lowland Hum](https://www.lowlandhum.com), who have done an episode of the new-to-me podcast [Podsongs](https://podsongs.com), an episode I still haven't watched/listened to because I immediately noticed an episode with Peter Rollins, and I'm a big fan and still maybe two degrees of separation from based on my intense (pushy, IRL) research into the UK-and-adjacent alt-worship scene of the early '00s. I've mentioned Peter quite a bit on this blog, more so in the late '00s and early '10s, although [as recently as '24](/2024/07/01/when-you-experience-grace-you-experience-this-radical-acceptance-that-you-dont-have-to-do-anything/).
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tdbsw2Uf3j8?si=aCBRyiHDafBAbqxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/tdbsw2Uf3j8?si=rWG7tiPDdvMv6PnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
