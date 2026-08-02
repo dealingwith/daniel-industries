@@ -16,7 +16,7 @@ I managed to make it to church this morning. The old testament reading was from 
 
 > Why do you spend your money for that which is not bread, and your labor for that which does not satisfy? Listen carefully to me, and eat what is good, and delight yourselves in rich food.
 
-Our priest referenced [Babette's Feast](https://en.wikipedia.org/wiki/Babette) in her sermon. During the service, as I struggled to stand up and sit down, failed entirely to kneel, and declined the wine at communion, I had the strange thought: "Don't drink, can't walk, what do you do?"[^1] On the way home I randomly listened to _[Die Young](/2026/04/12/its-hard-living-in-the-21st-century-everything-comes-with-a-price/)_.
+Our priest referenced [Babette's Feast](https://en.wikipedia.org/wiki/Babette's_Feast) in her sermon. During the service, as I struggled to stand up and sit down, failed entirely to kneel, and declined the wine at communion, I had the strange thought: "Don't drink, can't walk, what do you do?"[^1] On the way home I randomly listened to _[Die Young](/2026/04/12/its-hard-living-in-the-21st-century-everything-comes-with-a-price/)_.
 
 ## In this paper, I will...
 
