@@ -4,51 +4,80 @@ title: "Writing"
 date: 2022-05-14 07:09
 ---
 
-{% if site.writings %}
-{% assign sorted_array = site.writings | sort: "pubdate" | reverse %}
-{% for piece in sorted_array %}
-<a href="{{ piece.url }}" class="blog-index-a">
-  <div class="blog-index-div">
-    <h3>
-      {{ piece.title }}
-    </h3>
+<style>
+  .main-content {
+    width: auto;
+  }
 
-    <div class="post-metadata">
-      {% if piece.pubdate %}
-      {{ piece.pubdate }}
-      {% endif %}
-      /
-      {{ piece.word_count }} words /
-      {{ piece.category }} /
-      {% if piece.subcategory %}
-      {{ piece.subcategory }}
-      {% endif %}
+  article {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+
+  .left-column {
+    grid-column: 1;
+  }
+
+  .right-column {
+    grid-column: 2;
+  }
+
+  @media screen and (max-width: 700px) {
+    article {
+      display: block;
+    }
+  }
+</style>
+
+<div class="left-column">
+  {% if site.writings %}
+  {% assign categories = site.writings | group_by: "category" | sort: "name" %}
+  {% for category in categories %}
+  <h2>{{ category.name }}</h2>
+
+  {% assign sorted_pieces = category.items | sort: "pubdate" | reverse %}
+  {% for piece in sorted_pieces %}
+  <a href="{{ piece.url }}" class="blog-index-a">
+    <div class="blog-index-div">
+      <h3>
+        {{ piece.title }}
+      </h3>
+
+      <div class="post-metadata">
+        {% if piece.pubdate %}
+        {{ piece.pubdate }}
+        {% endif %}
+        /
+        {{ piece.word_count }} words
+        {% if piece.subcategory %}
+        / {{ piece.subcategory }}
+        {% endif %}
+      </div>
+
+      <p class="small">{{ piece.excerpt }}</p>
     </div>
-
-    <p class="small">{{ piece.excerpt }}</p>
-  </div>
-</a>
-{% endfor %}
-{% endif %}
-
-<h2>Short Fiction on the Blog</h2>
-
-{% assign fiction_posts = site.posts | where: "categories", "fiction" %}
-{% for post in fiction_posts  %}
-{% assign post_categories = post.categories | where_exp: "category", "category != 'fiction'" %}
-<div class="blog-index-div">
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p class="post-metadata">
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time> / {{ post.word_count }}
-    words
-    {% if post_categories.size > 0 %}
-    {% for category in post_categories %}
-    / {{ category | titleize }}
-    {% endfor %}
-    {% endif %}
-  </p>
-  <p class="small">
-    {{ post.computed_excerpt }}
-  </p>
+  </a>
+  {% endfor %}
+  {% endfor %}
+  {% endif %}
 </div>
-{% endfor %}
+
+<div class="right-column">
+  <h2>Short Fiction on the Blog</h2>
+
+  {% assign fiction_posts = site.posts | where: "categories", "fiction" %}
+  {% for post in fiction_posts  %}
+  {% assign post_categories = post.categories | where_exp: "category", "category != 'fiction'" %}
+  <div class="blog-index-div">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="post-metadata">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time> / {{ post.word_count }}
+      words
+    </p>
+    <p class="small">
+      {{ post.computed_excerpt }}
+    </p>
+  </div>
+  {% endfor %}
+</div>

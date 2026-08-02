@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Indieweb Fiction Carnival: We've got to dream past it"
+title: "These scribbles wouldn't matter"
 excerpt: "Scout woke up lacquered in sweat again."
 date: 2026-02-22 09:31:06 -0600
 categories: 
