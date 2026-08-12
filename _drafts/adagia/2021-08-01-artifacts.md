@@ -1,6 +1,6 @@
 ---
 layout: post
-title: artifacts:
+title: artifacts
 date: 2021-08-01 04:11:38
 categories:
 ---
