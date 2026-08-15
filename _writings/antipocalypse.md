@@ -47,11 +47,15 @@ and magazine articles that told this entire story before it began.
 
 ## Part 1.1
 
-> Man's desire is the desire of the Other.  
-> -- Jacques Lacan
+<aside style="font-family: monospace" markdown="1">
+Man's desire is the desire of the Other.  
+-- Jacques Lacan
+</aside>
 
-> Civilization merely hides from itself---behind a thin static scrim of rationality---the truth that only desire creates values.  
-> -- Hakim Bey
+<aside style="font-family: monospace" markdown="1">
+Civilization merely hides from itself---behind a thin static scrim of rationality---the truth that only desire creates values.  
+-- Hakim Bey
+</aside>
 
 "At least I'm not trying to throw us right back into the conditions that got us here in the first place," Johnny replied, "Talk about trying to put out a fire with gasoline."
 
@@ -79,8 +83,10 @@ Me, I'm a cautious combination of Capitalist and Optimist ideals. I mean, capita
 
 "Anyway, we need to get back to the radio tower." Johnny stood up, again lost in the sincerity of everyday life. He works with me in one of the last vestiges of mediation, a hub in the network of analog transmissions that keep us all connected like ants in a line. We are human routers on a web of waves. Show him a flier from a far-off land and he'll decry the motives of the paper mill workers, but he's able to change history with a simple intonation or subconscious slip of the tongue.
 
-> There is no language without deceit.  
-> -- Italo Calvino
+<aside style="font-family: monospace" markdown="1">
+There is no language without deceit.  
+-- Italo Calvino
+</aside>
 
 ## Documentation
 
@@ -122,9 +128,6 @@ The wildly speculative little philosophical superfecta I was attempting in part 
 The technologies we employ to facilitate these social transactions, they so often seem to be built with the intention of removing deceit, but in the end all seem to fall on to the same bell curve. Realization of best intentions on the Y axis, number of users on the X.[^2]
 
 The tools communicating meaning have replaced actual meaningfulness. And without actual meaningfulness we lose context. And without context we become vapid. We become an un-unified theory of everything. Just as many Christians have come to worship the text instead of the God who presumably authored it, we will continue to make attempts at tools that will give agency to what essentially amounts to some vaguely aesthetic abstraction of our desires.[^3]
-Of course, this all applies to many other areas of life as well.
-
----
 
 [^1]: This might be my most unpopular premise, since the implication is that all humans lie all the time. It may be helpful if one broadens the definition of lying to manipulation, even the unintentional kind. We all communicate in an attempt to be understood, and from our own contexts and prejudices. I would take it a bit further and say that we are always trying to manipulate other humans in order to extract those bits of the Other that will validate our own existence; but I am going to take the easy way out and just say that the defence of that position is outside the scope of this piece. Read some Lacan, and feel free to disagree.
 
