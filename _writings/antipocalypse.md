@@ -6,6 +6,10 @@ pubdate: "2008"
 excerpt: "Post-apocalyptic? It's been so anti-climactic, though. What happened to the skies on fire, dragons, and white horses? So the average temperature has gone up 30 degrees. I wanted the fire and brimstone falling from the sky, not creeping up at me from the equator."
 ---
 
+<aside class="small" markdown="1">
+This piece was originally solicited for a small British publication. I've kept the editor's original British English spelling corrections here to the best of my ability to spot them.
+</aside>
+
 "What I like about theory," Johnny offered between sips of his Siberian Darjeeling-Green blend, "is it never becomes redundant. Restated, remonetized, yes, but never silly and retrograde in the traditional sense."
 
 "But markets!" I replied. "The marketplace is the only constraint that has any agency for change."
@@ -69,7 +73,7 @@ Me, I'm a cautious combination of Capitalist and Optimist ideals. I mean, capita
 
 "Or the monetary system in the Nordics?"
 
-"What's next? An arms race? 'Language should be angelic, instead it is infected with a virus.'" Johnny was poorly quoting anarchists again. "If we require another Hermes to carry our messages, he'll eventually get bored and kill our cows, leaving us hungry and very pissed off." I assumed he was referring to the bee hive AI inhabiting the sweltering, overgrown technologies of our ancestors. Many of us suffer from a raving curiosity about what it is like down there, the other side of the barricades, as it were. If I ever lose the will to live, I might just make the trip. Most people hope, and I assume, that they've burned themselves out. There was a nuclear station reclaimed late in the game, down in one of the former 'Stans, but the fallout---literally---was bad. It turns out that if you create a technological system that pollutes, it will do exactly that. We were the only ones saving us from ourselves. "I, for one, am willing to learn the lessons of his trickery and move on with my life."
+"What's next? An arms race? 'Language should be angelic, instead it is infected with a virus.'" Johnny was poorly quoting anarchists again. "If we require another Hermes to carry our messages, he'll eventually get bored and kill our cows, leaving us hungry and very pissed off." I assumed he was referring to the beehive AI inhabiting the sweltering, overgrown technologies of our ancestors. Many of us suffer from a raving curiosity about what it is like down there, the other side of the barricades, as it were. If I ever lose the will to live, I might just make the trip. Most people hope, and I assume, that they've burned themselves out. There was a nuclear station reclaimed late in the game, down in one of the former 'Stans, but the fallout---literally---was bad. It turns out that if you create a technological system that pollutes, it will do exactly that. We were the only ones saving us from ourselves. "I, for one, am willing to learn the lessons of his trickery and move on with my life."
 
 "Ah ha! But we are not God, and without Hermes we wouldn't even know he exists." I considered my reversal of his linguistic veil plucky and couldn't help a silly grin. I was returned a look that communicated either contempt or abdication. For the time being, I had just won or lost the argument. Damned if I could figure out which.
 
@@ -80,18 +84,23 @@ Me, I'm a cautious combination of Capitalist and Optimist ideals. I mean, capita
 
 ## Documentation
 
-> _Instructions for Radio Tower 14_  
-> 1. Keep equipment powered on only during hours of operation.  
-> 2. Repeat tower code sequence at the beginning and end of every transmission.  
-> 3. Repeat every transmission twice.  
-> 4. Copy every transmission carefully and confirm accuracy during second repetition.  
-> 5. All original transmissions must be vetted by station manager.  
-> 6. Transmissions are to consist ONLY of EXACTLY that which is received from Tower 13, Tower 15, or vetted by station manager. NO OTHER transmission is permitted.  
-> 7. Read #6 again.
+<aside style="font-family: monospace" markdown="1">
+_Instructions for Radio Tower 14_
+
+1. Keep equipment powered on only during hours of operation.  
+2. Repeat tower code sequence at the beginning and end of every transmission.  
+3. Repeat every transmission twice.  
+4. Copy every transmission carefully and confirm accuracy during second repetition.  
+5. All original transmissions must be vetted by station manager.  
+6. Transmissions are to consist ONLY of EXACTLY that which is received from Tower 13, Tower 15, or vetted by station manager. NO OTHER transmission is permitted.  
+7. Read #6 again.
+</aside>
 
 Really, we consider them more guidelines. Johnny considers them recommendations. The original bill is aged and discolored and covered with post-its with quotes defending our various theories of the world. My 20th century economists are covered with Johnny's 20th century anarchists are covered with my 21st century technologists. "Economic progress, in capitalist society, means turmoil." "Civilization merely hides from itself---behind a thin static scrim of rationality---the truth that only desire creates values." "We might be on the brink of an apocalypse if, instead of poor people with suicide bombs killing middle class guys, middle-class people with suicide bombs started killing rich guys."
 
 Johnny really likes his order a lot more than he'll admit, and I want to stir things up a lot more than he thinks.
+
+---
 
 ## Postscript
 
@@ -117,7 +126,7 @@ Of course, this all applies to many other areas of life as well.
 
 ---
 
-[^1]: This might be my most unpopular premise, since the implication is that all humans lie all the time. It may be helpful if one broadens the definition of lying to manipulation, even the unintentional kind. We all communicate in an attempt to be understood, and from our own contexts and prejudices. I would take it a bit further and say that we are always trying to manipulate other humans in order to extract those bits of the Other that will validate our own existence; but I am going to take the easy way out and just say that the defense of that position is outside the scope of this piece. Read some Lacan, and feel free to disagree.
+[^1]: This might be my most unpopular premise, since the implication is that all humans lie all the time. It may be helpful if one broadens the definition of lying to manipulation, even the unintentional kind. We all communicate in an attempt to be understood, and from our own contexts and prejudices. I would take it a bit further and say that we are always trying to manipulate other humans in order to extract those bits of the Other that will validate our own existence; but I am going to take the easy way out and just say that the defence of that position is outside the scope of this piece. Read some Lacan, and feel free to disagree.
 
 [^2]: There is another side of that coin, however. Emergence theory (as opposed to the "emerging church", which is a completely different meaning of the word) says (very roughly) that collective intelligence is greater---or at least is capable of creating things very different from---individual intelligence, be it ant colonies or cities or the patchwork of neurons we call our brains and consciousnesses. I am a big fan of emergence and had no intention of following the opposite track with these columns.
 

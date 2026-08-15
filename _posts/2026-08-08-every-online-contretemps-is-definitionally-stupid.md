@@ -8,7 +8,9 @@ categories:
   - faithy
 ---
 
-<aside class="small">I meant to write something else and this is what came out. It is very weird to be writing about this again.</aside>
+<aside class="small" markdown="1">
+I meant to write something else and this is what came out. It is very weird to be writing about this again.[^1]
+</aside>
 
 Title from The Homebound Symphony's _[sprawling along the way: a polemic and an exhortation](https://blog.ayjay.org/sprawling-along-the-way-a-polemic-and-an-exhortation/)_
 
@@ -44,3 +46,5 @@ In that dimension, that we now see [in a riddle](https://www.biblegateway.com/pa
 The great commission isn't winning a debate or buying a Super Bowl commercial. It is something far more radical.
 
 "Seeking" served me well. But now, in the back half of my brief moment in time, perhaps I get a glimpse of something beyond the [hazy horizon](/writings/easter-eggs/ "we’d lived another day on the way to nowhere, reminding us that tomorrow the sunset would still be at the horizon, infinitely distant, the distance filled with others"), something weird, liminal, numinous. Something radical. Something like grace.
+
+[^1]: Most of my writings about the state of modern Christianity happened before ~2005. But this post from 2008, in which I critique modern art scenes, where I had exiled to in my search for meaning, has a concise aside encapsulating all my previous thinking: _[Just as many Christians have come to worship the text instead of the God who presumably authored it, we will continue to make attempts at words that will give authority to what essentially amounts to some vaguely aesthetic abstraction of our desires](/2008/04/26/art-redux-notes/)_.
