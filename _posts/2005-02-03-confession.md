@@ -11,9 +11,9 @@ I have some frustrations regarding nonlinear processing, and nonlinear narrative
 
 I've done some experiments in 3D nonlinear storytelling. I've done <a class="dead" title="Rob and the Dancer, not currently online">online writing</a> that requires a bit further expanded border than what most of us have in our narrative experience.
 
-Most of my artistic work, in fact, involves multi-media, multi-modes, and a lot of requirements on the artistic consumer to do some puzzle solving.
+Most of my artistic work, in fact, involves multimedia, multi-modes, and a lot of requirements on the artistic consumer to do some puzzle solving.
 
-People like _regular_ puzzles, right? (I actually don't. I can't work on a old-fashioned puzzle for more than 3 minutes.)
+People like _regular_ puzzles, right? (I actually don't. I can't work on an old-fashioned puzzle for more than 3 minutes.)
 
 Part of the problem is the exponential increase in freedom for interpretation when dealing with work like this. There are big holes, and you fill those holes with your experience. That's kinda the point, actually. (I'm going to contradict myself later, just FYI. Well, not really but it's going to sound like it.)
 
@@ -21,7 +21,7 @@ My frustration is, people don't want holes. They don't want to work. They don't 
 
 They want to be entertained. They want to be told. Just give them the soundbyte. The elevator pitch. They're busy. They've got friends waiting. They've got more to consume.
 
-Previously mentioned _Rob and the Dancer_: the original required the users to click through on an unmarked link onto a page that consisted entirely of an image map. The image was of a text, and various names contained mailto: links. Emails sent to each of these gave clues as to how to continue. Two of them responded regardless of what you said in your email. One of those two hinted at what text was required in the third email in order to receive a response. That third email response gave a link to a hidden directory which contained all sorts of materials which fleshed out the story some more, but in few ways brought any closure to the story. If anything, it expanded it by connecting it to other work I had already published on the web.
+Previously mentioned _Rob and the Dancer_: the original required the users to click through on an unmarked link onto a page that consisted entirely of an image map. The image was of a text, and various names contained `mailto:` links. Emails sent to each of these gave clues as to how to continue. Two of them responded regardless of what you said in your email. One of those two hinted at what text was required in the third email in order to receive a response. That third email response gave a link to a hidden directory which contained all sorts of materials which fleshed out the story some more, but in few ways brought any closure to the story. If anything, it expanded it by connecting it to other work I had already published on the web.
 
 This was a bit too much apparently. One or two people pinged the automated email replies, but none got the critical third email reply.
 
@@ -35,7 +35,7 @@ Check the archives here for other stories and games on the net that have very in
 
 ---
 
-Just tonight I overheard art professionals judging the merit of narrative work (in this case photographic) based primarily on aesthetics. When they did consider the narrative element of the work, they considered it only from their own point of view, superimposing their own autobiographies and expectations overtop of the story being told, as opposed to "reading" the story the artist was "writing."
+Just tonight I overheard art professionals judging the merit of narrative work (in this case photographic) based primarily on aesthetics. When they did consider the narrative element of the work, they considered it only from their own point of view, superimposing their own autobiographies and expectations over top of the story being told, as opposed to _reading_ the story the artist was _writing_.
 
 Wild tangent: this is my main issue with the way most Christians read the Bible.
 
