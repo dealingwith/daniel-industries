@@ -89,16 +89,20 @@
         text-decoration: none;
       }
 
-      .archive-frequency-chart a:hover .archive-frequency-bar-fill {
+      .archive-frequency-chart a:hover .archive-frequency-bar-fill,
+      .category-frequency-chart a:hover .archive-frequency-bar-fill {
         background: var(--highlight);
       }
 
       .archive-frequency-chart a:hover .archive-frequency-year,
-      .archive-frequency-chart a:hover .archive-frequency-count {
+      .archive-frequency-chart a:hover .archive-frequency-count,
+      .category-frequency-chart a:hover .archive-frequency-year,
+      .category-frequency-chart a:hover .archive-frequency-count {
         color: var(--highlight);
       }
 
-      .archive-frequency-chart a:hover .archive-frequency-count {
+      .archive-frequency-chart a:hover .archive-frequency-count,
+      .category-frequency-chart a:hover .archive-frequency-count {
         font-weight: bold;
       }
 
@@ -121,7 +125,8 @@
         min-width: 2px;
       }
 
-      .archive-frequency-chart a.is-empty .archive-frequency-bar-fill {
+      .archive-frequency-chart a.is-empty .archive-frequency-bar-fill,
+      .category-frequency-chart a.is-empty .archive-frequency-bar-fill {
         min-width: 0;
       }
 
@@ -131,9 +136,38 @@
         text-align: right;
       }
 
+      .category-frequency-chart {
+        border-bottom: 1px solid var(--lightgrey);
+        margin-bottom: 0.75rem;
+        padding-bottom: 1em;
+      }
+
+      .category-frequency-chart .category-frequency-row > a {
+        align-items: center;
+        display: grid;
+        gap: 0.5rem;
+        grid-template-columns: minmax(9rem, 16rem) minmax(5rem, 1fr) 4.75rem;
+        padding: 0.08rem 0;
+        text-decoration: none;
+      }
+
+      #toggle-categories {
+        background: var(--lightgrey);
+        border: 1px solid var(--pink);
+        border-radius: 5px;
+        color: var(--color1);
+        cursor: pointer;
+        margin-bottom: 1em;
+        padding: 0.15rem 0.4rem;
+      }
+
       @media screen and (max-width: 700px) {
         .archive-frequency-chart a {
           grid-template-columns: 3.4rem minmax(3rem, 1fr) 3.75rem;
+        }
+
+        .category-frequency-chart .category-frequency-row > a {
+          grid-template-columns: minmax(6rem, 9rem) minmax(3rem, 1fr) 3.75rem;
         }
 
         .archive-frequency-count {
@@ -142,12 +176,17 @@
       }
 
       @media (prefers-color-scheme: dark) {
-        .archive-frequency-chart a {
+        .archive-frequency-chart a,
+        .category-frequency-chart a {
           color: var(--text);
         }
 
         .archive-frequency-bar-fill {
           background: var(--text);
+        }
+
+        #toggle-categories {
+          color: var(--text);
         }
       }
     </style>
@@ -201,6 +240,7 @@
         item.classList.toggle('hidden');
       }
       updateArchiveFrequencyChart();
+      updateCategoryFrequencyChart();
     }
 
     function updateArchiveFrequencyChart() {
@@ -229,6 +269,60 @@
       });
     }
 
+    function updateCategoryFrequencyChart() {
+      const categoryRows = Array.from(document.querySelectorAll('#cat_toc .category-frequency-row'));
+      if (categoryRows.length === 0) return;
+
+      const categoryCounts = categoryRows.map((row) => {
+        const categoryId = row.getAttribute('data-category');
+        const posts = document.querySelectorAll(`.archivecontainer a[name="${categoryId}"] ~ ul .archive_link:not(.hidden)`);
+        return {
+          row,
+          count: posts.length
+        };
+      });
+      const maxCount = Math.max(...categoryCounts.map((category) => category.count), 1);
+
+      categoryCounts.forEach((category) => {
+        const link = category.row.querySelector('a');
+        const categoryLabel = category.row.querySelector('.archive-frequency-year').innerText;
+        const countLabel = category.row.querySelector('.archive-frequency-count');
+        const barWidth = category.count / maxCount * 100;
+
+        category.row.setAttribute('data-numposts', category.count);
+        link.style.setProperty('--archive-count-pct', `${barWidth}%`);
+        link.setAttribute('aria-label', `${categoryLabel}: ${category.count} ${category.count === 1 ? 'post' : 'posts'}`);
+        link.classList.toggle('is-empty', category.count === 0);
+        countLabel.innerText = category.count;
+      });
+    }
+
+    function applyCategoryLimit() {
+      const categoryToc = document.getElementById('cat_toc');
+      const toggleButton = document.getElementById('toggle-categories');
+      if (!categoryToc || !toggleButton) return;
+
+      const categoryRows = Array.from(categoryToc.querySelectorAll('.category-frequency-row'));
+      const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
+
+      categoryRows.forEach((row, index) => {
+        row.classList.toggle('category-extra', index >= 20);
+        row.classList.toggle('hidden', !isExpanded && index >= 20);
+      });
+
+      toggleButton.hidden = categoryRows.length <= 20;
+      toggleButton.innerText = isExpanded ? 'Show fewer categories' : `Show all categories (${categoryRows.length})`;
+    }
+
+    function toggleAllCategories() {
+      const categoryToc = document.getElementById('cat_toc');
+      if (!categoryToc) return;
+
+      const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
+      categoryToc.setAttribute('data-expanded', isExpanded ? 'false' : 'true');
+      applyCategoryLimit();
+    }
+
     function highlightSelected(category) {
       if (!category) return;
       let querystring = `.archivecontainer a[name="${category.substring(1)}"] ~ ul`;
@@ -245,6 +339,8 @@
       document.getElementById('shortpostscount').innerText = document.querySelectorAll(".short_post").length + "/" + document.getElementsByTagName("li").length;
 
       updateArchiveFrequencyChart();
+      updateCategoryFrequencyChart();
+      applyCategoryLimit();
 
       document.querySelectorAll(".archive-frequency-chart a, #years a, #cat_toc a").forEach((el) => {
         el.addEventListener('click', (e) => {
