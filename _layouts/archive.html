@@ -112,6 +112,10 @@
         min-width: 2px;
       }
 
+      .archive-frequency-chart a.is-empty .archive-frequency-bar-fill {
+        min-width: 0;
+      }
+
       .archive-frequency-count {
         color: var(--grey);
         font-size: 0.85rem;
@@ -175,24 +179,57 @@
     function hideShortPosts() {
       let items = document.querySelectorAll(".short_post");
       for (item of items) {
-        item.parentElement.classList.toggle('hidden');
+        item.classList.toggle('hidden');
       }
+      updateArchiveFrequencyChart();
+    }
+
+    function updateArchiveFrequencyChart() {
+      const chartLinks = Array.from(document.querySelectorAll('.archive-frequency-chart a'));
+      if (chartLinks.length === 0) return;
+
+      const yearCounts = chartLinks.map((link) => {
+        const yearId = link.getAttribute('href').substring(1);
+        const posts = document.querySelectorAll(`.archivecontainer a[name="${yearId}"] ~ ul .archive_link:not(.hidden)`);
+        return {
+          link,
+          count: posts.length
+        };
+      });
+      const maxCount = Math.max(...yearCounts.map((year) => year.count), 1);
+
+      yearCounts.forEach((year) => {
+        const yearLabel = year.link.querySelector('.archive-frequency-year').innerText;
+        const countLabel = year.link.querySelector('.archive-frequency-count');
+        const barWidth = year.count / maxCount * 100;
+
+        year.link.style.setProperty('--archive-count-pct', `${barWidth}%`);
+        year.link.setAttribute('aria-label', `${yearLabel}: ${year.count} ${year.count === 1 ? 'post' : 'posts'}`);
+        year.link.classList.toggle('is-empty', year.count === 0);
+        countLabel.innerText = year.count;
+      });
     }
 
     function highlightSelected(category) {
+      if (!category) return;
       let querystring = `.archivecontainer a[name="${category.substring(1)}"] ~ ul`;
       document.querySelectorAll('.archivecontainer ul.highlighted').forEach((el) => {
         el.classList.remove('highlighted');
       });
-      document.body.querySelector(querystring).classList.add('highlighted');
+      const selectedList = document.body.querySelector(querystring);
+      if (selectedList) {
+        selectedList.classList.add('highlighted');
+      }
     }
 
     document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('shortpostscount').innerText = document.querySelectorAll(".short_post").length + "/" + document.getElementsByTagName("li").length;
 
-      document.querySelectorAll("#years a, #cat_toc a").forEach((el) => {
+      updateArchiveFrequencyChart();
+
+      document.querySelectorAll(".archive-frequency-chart a, #years a, #cat_toc a").forEach((el) => {
         el.addEventListener('click', (e) => {
-          highlightSelected(e.target.getAttribute('href'));
+          highlightSelected(e.target.closest('a').getAttribute('href'));
         });
       });
 
