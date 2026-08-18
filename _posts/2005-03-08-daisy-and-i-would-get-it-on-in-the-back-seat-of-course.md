@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-03-08 01:31:00'
 layout: post
 slug: daisy-and-i-would-get-it-on-in-the-back-seat-of-course
-status: publish
 title: Daisy and I would get it on in the back seat, of course!
-wordpress_id: '218'
 ---
 
 > Viacom's Country Music Television channel is running help wanted ads for

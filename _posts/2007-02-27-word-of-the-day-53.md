@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-27 13:19:00'
 layout: post
 slug: word-of-the-day-53
-status: publish
 title: word of the day
-wordpress_id: '2022'
 categories:
  - word of the day
 ---

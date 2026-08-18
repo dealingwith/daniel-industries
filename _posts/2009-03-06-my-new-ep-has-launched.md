@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-03-06 23:50:00'
 layout: post
 slug: my-new-ep-has-launched
-status: publish
 title: My new EP has launched
-wordpress_id: '2953'
 categories:
  - announcements
  - johnny citizen

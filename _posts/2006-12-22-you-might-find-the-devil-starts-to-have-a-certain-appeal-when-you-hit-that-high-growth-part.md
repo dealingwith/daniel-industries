@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2006-12-22 10:38:00'
 layout: post
 slug: you-might-find-the-devil-starts-to-have-a-certain-appeal-when-you-hit-that-high-growth-part
-status: publish
 title: You might find the devil starts to have a certain appeal when you hit that
   high growth part...
-wordpress_id: '1900'
 categories:
  - ambition
  - elsewhere

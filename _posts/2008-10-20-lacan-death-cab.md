@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-20 09:42:00'
 layout: post
 slug: lacan-death-cab
-status: publish
 title: Lacan Death Cab
-wordpress_id: '2824'
 categories:
  - lacan
  - music

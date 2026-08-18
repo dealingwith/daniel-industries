@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-12 23:21:00'
 layout: post
 slug: glow-in-the-dark-pigs
-status: publish
 title: glow in the dark pigs
-wordpress_id: '861'
 ---
 
 ![][1][how soon until _I_ can glow in the dark][2]?

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-04-19 10:21:00'
 layout: post
 slug: oil-the-party-is-over
-status: publish
 title: 'Oil: The Party Is Over'
-wordpress_id: '1243'
 categories:
  - elsewhere
 ---

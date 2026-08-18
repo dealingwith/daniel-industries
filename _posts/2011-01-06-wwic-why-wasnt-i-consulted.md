@@ -2,7 +2,6 @@
 date: '2011-01-06 18:41:00'
 layout: post
 slug: wwic-why-wasnt-i-consulted
-status: publish
 title: "WWIC: Why Wasn't I Consulted"
 categories:
  - nonlinear

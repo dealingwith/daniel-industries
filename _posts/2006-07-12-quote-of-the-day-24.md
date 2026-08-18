@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-12 17:29:00'
 layout: post
 slug: quote-of-the-day-24
-status: publish
 title: quote of the day
-wordpress_id: '1490'
 categories:
  - design
  - development

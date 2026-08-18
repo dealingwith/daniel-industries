@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-07 09:58:00'
 layout: post
 slug: the-worlds-view-of-obamas-win
-status: publish
 title: The World's View of Obama's Win
-wordpress_id: '2851'
 ---
 
 [6. India - The World's View of Obama's Win][1]

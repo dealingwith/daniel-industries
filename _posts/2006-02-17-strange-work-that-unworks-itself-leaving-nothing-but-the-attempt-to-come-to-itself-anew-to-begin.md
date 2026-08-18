@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-17 18:57:00'
 layout: post
 slug: strange-work-that-unworks-itself-leaving-nothing-but-the-attempt-to-come-to-itself-anew-to-begin
-status: publish
 title: ...strange work that unworks itself, leaving nothing but the attempt to come to itself anew, to begin...
-wordpress_id: '1025'
 categories:
  - elsewhere
  - quotable

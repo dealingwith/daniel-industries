@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-10-18 18:08:00'
 layout: post
 slug: word-of-the-day-46
-status: publish
 title: word of the day
-wordpress_id: '1764'
 categories:
  - comedy
  - video

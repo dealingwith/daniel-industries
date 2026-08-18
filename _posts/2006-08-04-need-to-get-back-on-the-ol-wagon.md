@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-04 13:16:00'
 layout: post
 slug: need-to-get-back-on-the-ol-wagon
-status: publish
 title: need to get back on the ol' wagon
-wordpress_id: '1549'
 categories:
  - alcohol
  - bad

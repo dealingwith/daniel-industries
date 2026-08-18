@@ -3,7 +3,6 @@ layout: post
 title: "I'm not a believing Christian, but I'm a practicing Christian"
 excerpt: Excerpts from the last episode of the most excellent On Being podcast
 date: 2016-05-06 22:02:38 -0500
-comments: true
 categories: 
 ---
 

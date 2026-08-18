@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-10-01 00:21:00'
 layout: post
 slug: its-hard-work
-status: publish
 title: IT'S HARD WORK!
-wordpress_id: '100'
 ---
 
 ![][1]

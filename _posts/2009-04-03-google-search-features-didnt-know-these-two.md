@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-04-03 09:48:00'
 layout: post
 slug: google-search-features-didnt-know-these-two
-status: publish
 title: 'Google search features: Didn''t know these two'
-wordpress_id: '2979'
 categories:
  - search
 ---

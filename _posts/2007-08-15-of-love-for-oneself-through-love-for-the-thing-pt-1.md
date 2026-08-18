@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2007-08-15 10:43:00'
 layout: post
 slug: of-love-for-oneself-through-love-for-the-thing-pt-1

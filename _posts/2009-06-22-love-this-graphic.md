@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-06-22 05:14:00'
 layout: post
 slug: love-this-graphic
-status: publish
 title: Love this graphic
-wordpress_id: '3240'
 categories:
  - design
  - twitter

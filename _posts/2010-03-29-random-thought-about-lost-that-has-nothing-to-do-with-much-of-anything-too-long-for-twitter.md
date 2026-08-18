@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2010-03-29 10:20:00'
 layout: post
 slug: random-thought-about-lost-that-has-nothing-to-do-with-much-of-anything-too-long-for-twitter
-status: publish
 title: Random Thought About Lost (that has Nothing to Do With Much of Anything), too
   Long for Twitter
-wordpress_id: '3068'
 ---
 
 So now that I'm caught up on Lost, I'm wondering why I didn't hear any uproar

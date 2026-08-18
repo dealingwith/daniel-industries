@@ -2,8 +2,8 @@
 layout: post
 title: "Yesterday (and a bit of today)"
 date: 2012-06-23 13:17
-comments: true
-categories: minutia
+categories:
+ - minutia
 ---
 
 *5:45am:* Lucy wakes up and nearly rolls off the bed, scaring the crap out of all three of us. 

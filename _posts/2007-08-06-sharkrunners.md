@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-08-06 14:21:00'
 layout: post
 slug: sharkrunners
-status: publish
 title: Sharkrunners
-wordpress_id: '3180'
 categories:
  - ambient
  - gaming

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-29 00:03:00'
 layout: post
 slug: cartoons-of-the-day
-status: publish
 title: cartoons of the day
-wordpress_id: '1539'
 categories:
  - cartoon of the day
  - comedy

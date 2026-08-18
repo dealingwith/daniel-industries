@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-05-13 15:08:00'
 layout: post
 slug: quotes-of-the-day
-status: publish
 title: quotes of the day
-wordpress_id: '1310'
 categories:
  - music
  - quotable

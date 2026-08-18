@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-15 02:59:00'
 layout: post
 slug: sx-update-08-lots-o-links-hope-you-have-some-time-and-why-am-i-yelling
-status: publish
 title: sx update 08 - LOTS O LINKS HOPE YOU HAVE SOME TIME AND WHY AM I YELLING?!
-wordpress_id: '1135'
 categories:
  - film
  - imagining

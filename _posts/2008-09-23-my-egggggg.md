@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-23 23:05:00'
 layout: post
 slug: my-egggggg
-status: publish
 title: '"My egggggg!"'
-wordpress_id: '2800'
 categories:
  - imagining
  - minutia

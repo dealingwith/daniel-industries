@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-06-25 10:11:00'
 layout: post
 slug: mp3s-of-the-day-cartoon-of-the-day
-status: publish
 title: mp3s of the day / cartoon of the day
-wordpress_id: '1444'
 categories:
  - cartoon of the day
  - mp3 of the day

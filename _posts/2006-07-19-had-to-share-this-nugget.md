@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-19 13:08:00'
 layout: post
 slug: had-to-share-this-nugget
-status: publish
 title: had to share this nugget
-wordpress_id: '1504'
 categories:
  - elsewhere
  - minutia

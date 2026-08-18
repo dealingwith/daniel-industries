@@ -2,7 +2,6 @@
 layout: post
 title: "Lucy: Three Months"
 date: 2012-03-27 23:16
-comments: true
 categories: [lucy, minutia]
 ---
 

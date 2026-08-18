@@ -3,7 +3,6 @@ layout: post
 title: "The life of the disciple is nomadic"
 excerpt: Returning to an old tome...
 date: 2016-06-25 14:37:46 -0500
-comments: true
 categories: 
 ---
 

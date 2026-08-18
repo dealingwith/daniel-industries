@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-13 16:08:00'
 layout: post
 slug: that-enterprise-software-is-bad-excruciatingly-bad-is-hardly-news
-status: publish
 title: That enterprise software is bad - excruciatingly bad - is hardly news.
-wordpress_id: '867'
 categories:
  - design
  - elsewhere

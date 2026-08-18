@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-25 11:37:00'
 layout: post
 slug: morning-of-witty-correspondence
-status: publish
 title: Morning of witty correspondence
-wordpress_id: '2317'
 categories:
  - quotable
 ---

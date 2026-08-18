@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-08 00:00:00'
 layout: post
 slug: demo-camp-dallas-1
-status: publish
 title: Demo Camp Dallas 1
-wordpress_id: '1986'
 categories:
  - brilliant
  - geek

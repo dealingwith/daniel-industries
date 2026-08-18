@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2008-05-07 14:16:00'
 layout: post
 slug: daniel-miller
-status: publish
 title: Me
 categories:
  - elsewhere

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-05 13:19:00'
 layout: post
 slug: on-arranging-books-by-color
-status: publish
 title: On Arranging Books by Color
-wordpress_id: '1631'
 categories:
  - design
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-30 23:40:00'
 layout: post
 slug: penn-at-work
-status: publish
 title: Penn at work
-wordpress_id: '2929'
 categories:
  - elsewhere
  - family

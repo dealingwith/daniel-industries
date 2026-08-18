@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-05 18:19:00'
 layout: post
 slug: tileui-desktop
-status: publish
 title: tileUI Desktop
-wordpress_id: '2772'
 categories:
  - flex
  - technology

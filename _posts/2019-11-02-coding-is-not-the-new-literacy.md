@@ -3,7 +3,6 @@ layout: post
 title: "Coding is not the new literacy"
 excerpt: 
 date: 2019-11-02 20:09:52 -0500
-comments: true
 categories: 
 ---
 

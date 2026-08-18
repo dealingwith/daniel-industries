@@ -3,7 +3,6 @@ layout: post
 title: "Solving all the wrong problems"
 excerpt: '"Empathy, humility, compassion, conscience: These are the key ingredients missing in the pursuit of innovation"'
 date: 2018-09-06 08:30:20 -0500
-comments: true
 categories: 
   - design
 ---

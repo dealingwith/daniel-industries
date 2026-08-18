@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-11 12:53:00'
 layout: post
 slug: awesome-otr-show
-status: publish
 title: awesome OtR show
-wordpress_id: '857'
 categories:
  - music
  - over the rhine

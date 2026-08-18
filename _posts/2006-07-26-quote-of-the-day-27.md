@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-26 23:29:00'
 layout: post
 slug: quote-of-the-day-27
-status: publish
 title: quote of the day
-wordpress_id: '1532'
 categories:
  - aging
  - life

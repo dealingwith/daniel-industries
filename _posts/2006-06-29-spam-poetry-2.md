@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-06-29 06:26:00'
 layout: post
 slug: spam-poetry-2
-status: publish
 title: spam poetry
-wordpress_id: '1453'
 categories:
  - spam
 ---

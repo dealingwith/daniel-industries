@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-04 11:24:00'
 layout: post
 slug: dont-stand-so-dont-stand-so
-status: publish
 title: Don't stand so, don't stand so...
-wordpress_id: '1913'
 categories:
  - elsewhere
  - music

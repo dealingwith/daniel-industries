@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-03 20:49:00'
 layout: post
 slug: tenthousandcentscom
-status: publish
 title: tenthousandcents.com
-wordpress_id: '2620'
 categories:
  - art
  - design

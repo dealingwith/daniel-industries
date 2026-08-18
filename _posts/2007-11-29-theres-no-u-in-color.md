@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-11-29 00:58:00'
 layout: post
 slug: theres-no-u-in-color
-status: publish
 title: There's no 'u' in 'color.'
-wordpress_id: '2380'
 categories:
  - quotable
  - writing

@@ -3,7 +3,6 @@ layout: post
 title: "Photos from the road"
 excerpt: "Been trying to break out the phone camera more while riding"
 date: 2019-07-06 11:48:26 -0500
-comments: true
 categories: 
 ---
 

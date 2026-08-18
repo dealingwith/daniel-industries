@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-06 15:15:00'
 layout: post
 slug: royal-noir-firefox
-status: publish
 title: Royal Noir & Firefox
-wordpress_id: '1805'
 categories:
  - aesthetics
  - geek

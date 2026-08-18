@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-31 11:23:00'
 layout: post
 slug: word-of-the-day-59
-status: publish
 title: Word of the Day
-wordpress_id: '2466'
 categories:
  - elsewhere
  - social software

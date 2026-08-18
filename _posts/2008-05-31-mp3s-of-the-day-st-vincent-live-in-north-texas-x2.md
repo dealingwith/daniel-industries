@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-31 23:18:00'
 layout: post
 slug: mp3s-of-the-day-st-vincent-live-in-north-texas-x2
-status: publish
 title: 'mp3s of the day: St. Vincent live in north Texas x2'
-wordpress_id: '2657'
 categories:
  - local
  - mp3 of the day

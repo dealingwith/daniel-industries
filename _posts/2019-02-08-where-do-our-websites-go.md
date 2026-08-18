@@ -3,7 +3,6 @@ layout: post
 title: "Where do our websites go?"
 excerpt: "Thinking about our posthumous digital lives"
 date: 2019-02-08 23:35:21 -0600
-comments: true
 categories: 
 ---
 

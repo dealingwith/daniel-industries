@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-22 17:03:00'
 layout: post
 slug: sarah-jaffe
-status: publish
 title: sarah jaffe
-wordpress_id: '2857'
 categories:
  - local
  - music

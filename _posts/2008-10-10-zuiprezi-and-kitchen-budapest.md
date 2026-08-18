@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-10 22:29:00'
 layout: post
 slug: zuiprezi-and-kitchen-budapest
-status: publish
 title: ZuiPrezi and Kitchen Budapest
-wordpress_id: '3215'
 categories:
  - nonlinear
 ---

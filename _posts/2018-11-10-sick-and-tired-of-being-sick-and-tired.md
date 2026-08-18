@@ -3,7 +3,6 @@ layout: post
 title: "Sick and tired of being sick and tired"
 excerpt: "I've been sick for two solid weeks"
 date: 2018-11-10 10:37:15 -0600
-comments: true
 categories: 
 ---
 

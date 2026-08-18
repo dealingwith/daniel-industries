@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-17 07:20:00'
 layout: post
 slug: word-of-the-day-mp3-of-the-day
-status: publish
 title: word of the day, mp3 of the day
-wordpress_id: '1500'
 categories:
  - mp3 of the day
  - word of the day

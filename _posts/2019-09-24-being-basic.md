@@ -3,7 +3,6 @@ layout: post
 title: "Being basic"
 excerpt: "by Nadia Eghbal"
 date: 2019-09-24 22:36:56 -0500
-comments: true
 categories: 
 ---
 

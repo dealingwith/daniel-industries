@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2008-08-31 13:08:00'
 layout: post
 slug: last-night
-status: publish
 title: Last Night
 categories:
  - brilliant

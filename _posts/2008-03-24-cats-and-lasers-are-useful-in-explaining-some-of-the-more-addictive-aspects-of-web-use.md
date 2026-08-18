@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-03-24 11:26:00'
 layout: post
 slug: cats-and-lasers-are-useful-in-explaining-some-of-the-more-addictive-aspects-of-web-use
-status: publish
 title: Cats and lasers are useful in explaining some of the more addictive aspects
   of Web use
-wordpress_id: '2550'
 categories:
  - quotable
  - to read

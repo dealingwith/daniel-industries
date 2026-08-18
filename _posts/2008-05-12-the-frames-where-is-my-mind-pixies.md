@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-12 17:31:00'
 layout: post
 slug: the-frames-where-is-my-mind-pixies
-status: publish
 title: The Frames - Where Is My Mind (Pixies)
-wordpress_id: '2631'
 categories:
  - mp3 of the day
 ---

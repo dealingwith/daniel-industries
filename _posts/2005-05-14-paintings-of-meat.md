@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-05-14 01:18:00'
 layout: post
 slug: paintings-of-meat
-status: publish
 title: paintings of meat
-wordpress_id: '319'
 ---
 
 [![][1]

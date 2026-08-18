@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-05 22:45:00'
 layout: post
 slug: the-top-22-twitter-posts-of-february-2008
-status: publish
 title: The Top 22 Twitter Posts of February 2008
-wordpress_id: '3200'
 categories:
  - twitter
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-08 11:48:00'
 layout: post
 slug: living-well-is-the-best-revenge
-status: publish
 title: Living Well is the Best Revenge
-wordpress_id: '2574'
 categories:
  - mp3 of the day
  - video

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-02-26 17:59:00'
 layout: post
 slug: siftables-music-sequencer
-status: publish
 title: Siftables Music Sequencer
-wordpress_id: '3222'
 categories:
  - design
  - ux

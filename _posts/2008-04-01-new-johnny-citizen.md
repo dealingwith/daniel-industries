@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-01 14:42:00'
 layout: post
 slug: new-johnny-citizen
-status: publish
 title: New Johnny Citizen
-wordpress_id: '2564'
 categories:
  - johnny citizen
  - local

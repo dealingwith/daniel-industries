@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-08-08 20:56:00'
 layout: post
 slug: johnny-goes-public
-status: publish
 title: Johnny goes public
-wordpress_id: '2249'
 categories:
  - johnny citizen
  - music

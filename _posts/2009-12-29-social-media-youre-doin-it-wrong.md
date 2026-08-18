@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-12-29 22:42:00'
 layout: post
 slug: social-media-youre-doin-it-wrong
-status: publish
 title: 'Social Media: You''re Doin'' It Wrong'
-wordpress_id: '3054'
 categories:
  - beer
  - consumption

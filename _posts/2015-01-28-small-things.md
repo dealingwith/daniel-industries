@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2015-01-28 17:46:07'
 layout: post
 title: 'Think big about the small things'

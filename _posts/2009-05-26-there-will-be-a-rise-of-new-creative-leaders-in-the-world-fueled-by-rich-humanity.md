@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2009-05-26 01:35:00'
 layout: post
 slug: there-will-be-a-rise-of-new-creative-leaders-in-the-world-fueled-by-rich-humanity
-status: publish
 title: '"There will be a rise of new creative leaders in the world, fueled by rich
   humanity."'
-wordpress_id: '3237'
 categories:
  - art
  - design

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-06-30 12:57:00'
 layout: post
 slug: i-should-write-this-shit-professionally
-status: publish
 title: i should write this shit professionally
-wordpress_id: '401'
 ---
 
 > Regarding the attached letter dated May 23, 2005: Considering the facts that

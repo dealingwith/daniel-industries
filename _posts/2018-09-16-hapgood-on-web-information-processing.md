@@ -3,7 +3,6 @@ layout: post
 title: "Hapgood on web information processing"
 excerpt: "...it's evident that many of the sorts of academic investigations for which we train our students are a poor fit for the decentralized, networked environment of the web"
 date: 2018-09-16 11:26:15 -0500
-comments: true
 categories: 
   - elsewhere
   - swim

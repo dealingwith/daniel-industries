@@ -3,8 +3,8 @@ layout: post
 title: "Three podcasts"
 excerpt: "Worth your time"
 date: 2018-01-06 23:34:04 -0600
-comments: true
-categories: elsewhere
+categories:
+ - elsewhere
 ---
 
 [The Future: History that Hasn’t Happened Yet--SXSW 2017](https://soundcloud.com/officialsxsw/the-future-history-that-hasnt-happened-yet-sxsw-2017)

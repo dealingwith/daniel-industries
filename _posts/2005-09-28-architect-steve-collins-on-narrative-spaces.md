@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-09-28 19:10:00'
 layout: post
 slug: architect-steve-collins-on-narrative-spaces
-status: publish
 title: architect Steve Collins on narrative spaces
-wordpress_id: '3166'
 categories:
  - nonlinear
 ---

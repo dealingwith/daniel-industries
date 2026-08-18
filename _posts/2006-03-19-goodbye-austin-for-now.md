@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-19 19:33:00'
 layout: post
 slug: goodbye-austin-for-now
-status: publish
 title: goodbye austin (for now)
-wordpress_id: '1140'
 categories:
  - music
  - sxsw

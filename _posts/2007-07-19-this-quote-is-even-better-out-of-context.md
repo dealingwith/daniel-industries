@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-19 22:38:00'
 layout: post
 slug: this-quote-is-even-better-out-of-context
-status: publish
 title: this quote is even better out of context.
-wordpress_id: '2237'
 categories:
  - quotable
 ---

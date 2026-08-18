@@ -3,7 +3,6 @@ layout: post
 title: "A post about music"
 excerpt: "A link, a video and a song all worth your time"
 date: 2017-06-30 22:43:43 -0500
-comments: true
 categories: 
 ---
 

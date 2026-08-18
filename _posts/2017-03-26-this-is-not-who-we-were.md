@@ -3,7 +3,6 @@ layout: post
 title: "This is not who we were"
 excerpt: "This is not who we're meant to be"
 date: 2017-03-26 23:00:46 -0500
-comments: true
 categories: 
 ---
 

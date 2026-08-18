@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 18:50:00'
 layout: post
 slug: jadedmedia-experience-2
-status: publish
 title: jadedmedia experience 2
-wordpress_id: '3142'
 categories:
  - nonlinear
 ---

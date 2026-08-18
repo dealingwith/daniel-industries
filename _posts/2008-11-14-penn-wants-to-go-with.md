@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-14 21:33:00'
 layout: post
 slug: penn-wants-to-go-with
-status: publish
 title: Penn wants to go with
-wordpress_id: '2854'
 categories:
  - elsewhere
  - imagining

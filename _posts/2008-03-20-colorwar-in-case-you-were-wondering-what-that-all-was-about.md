@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-20 10:24:00'
 layout: post
 slug: colorwar-in-case-you-were-wondering-what-that-all-was-about
-status: publish
 title: Colorwar (In case you were wondering what that all was about.)
-wordpress_id: '2544'
 categories:
  - twitter
 ---

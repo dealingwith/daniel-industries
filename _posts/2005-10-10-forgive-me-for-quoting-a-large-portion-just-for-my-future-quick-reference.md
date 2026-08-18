@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-10-10 09:21:00'
 layout: post
 slug: forgive-me-for-quoting-a-large-portion-just-for-my-future-quick-reference
-status: publish
 title: forgive me for quoting a large portion, just for my future quick reference
-wordpress_id: '625'
 ---
 
 _...We love that we have ideals, ideas about a perfect world, etc, but we love

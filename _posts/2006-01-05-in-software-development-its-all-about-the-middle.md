@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-05 20:50:00'
 layout: post
 slug: in-software-development-its-all-about-the-middle
-status: publish
 title: in software development it's all about the middle
-wordpress_id: '837'
 ---
 
 _In most things it's how you start and how you finish that seem to matter

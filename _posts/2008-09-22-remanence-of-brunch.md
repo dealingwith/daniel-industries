@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-22 11:41:00'
 layout: post
 slug: remanence-of-brunch
-status: publish
 title: Remanence of Brunch
-wordpress_id: '2796'
 categories:
  - imagining
  - minutia

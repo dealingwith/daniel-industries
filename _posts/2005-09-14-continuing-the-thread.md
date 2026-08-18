@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-09-14 11:26:00'
 layout: post
 slug: continuing-the-thread
-status: publish
 title: continuing the thread
-wordpress_id: '565'
 ---
 
 The part of [that last rambling post][1] that I've been most stuck on has been

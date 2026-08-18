@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-02 16:50:00'
 layout: post
 slug: i-can-has-gigs
-status: publish
 title: I can has gigs?
-wordpress_id: '2809'
 categories:
  - johnny citizen
 ---

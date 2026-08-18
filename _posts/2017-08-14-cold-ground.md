@@ -3,7 +3,6 @@ layout: post
 title: "Cold ground"
 excerpt: "Was randomly listening to this record today and this song seemed relevant given the events of this past weekend."
 date: 2017-08-14 20:04:56 -0500
-comments: true
 categories: 
 ---
 

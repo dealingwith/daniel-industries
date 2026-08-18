@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-02-14 17:34:00'
 layout: post
 slug: just-in-case-you-thought-id-forgotten-about-funny-twitter-things
-status: publish
 title: Just in case you thought I'd forgotten about funny Twitter things
-wordpress_id: '3254'
 categories:
  - twitter
 ---

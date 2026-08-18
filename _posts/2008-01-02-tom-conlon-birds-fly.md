@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-02 21:30:00'
 layout: post
 slug: tom-conlon-birds-fly
-status: publish
 title: Tom Conlon - Birds Fly
-wordpress_id: '2429'
 categories:
  - local
  - music

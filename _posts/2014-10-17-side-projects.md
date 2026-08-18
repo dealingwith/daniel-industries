@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2014-10-17 20:34:36'
 layout: post
 title: 'Side Projects'

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-23 15:30:00'
 layout: post
 slug: i-like-this-plug-in-do-they-make-one-like-it-for-life
-status: publish
 title: I like this plug-in. Do they make one like it for life?*
-wordpress_id: '2677'
 categories:
  - fun
  - geek

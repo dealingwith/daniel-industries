@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-27 22:24:00'
 layout: post
 slug: unused-lyrics
-status: publish
 title: unused lyrics
-wordpress_id: '1056'
 categories:
  - music
 ---

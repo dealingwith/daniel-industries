@@ -3,7 +3,6 @@ layout: post
 title: "When applying..."
 excerpt: "I have been combing over a lot of job applicants lately, and here is some advice for job seekers out there..."
 date: 2017-03-01 12:50:49 -0600
-comments: true
 categories: 
 ---
 

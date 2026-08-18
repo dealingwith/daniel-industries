@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-12 11:36:00'
 layout: post
 slug: qotd-and-words-of-the-day
-status: publish
 title: QotD and words of the day
-wordpress_id: '1930'
 categories:
  - elsewhere
  - music

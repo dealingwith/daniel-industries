@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-25 23:26:00'
 layout: post
 slug: as-dead-as-o-ren
-status: publish
 title: '...as dead as O-Ren'
-wordpress_id: '2605'
 categories:
  - imagining
  - minutia

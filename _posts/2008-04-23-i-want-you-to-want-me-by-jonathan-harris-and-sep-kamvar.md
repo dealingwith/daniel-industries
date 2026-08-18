@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-23 02:17:00'
 layout: post
 slug: i-want-you-to-want-me-by-jonathan-harris-and-sep-kamvar
-status: publish
 title: I Want You To Want Me by Jonathan Harris and Sep Kamvar
-wordpress_id: '3198'
 categories:
  - ambient
  - art

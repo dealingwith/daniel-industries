@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-07 23:35:00'
 layout: post
 slug: mozilla-aurora
-status: publish
 title: Mozilla Aurora
-wordpress_id: '2740'
 categories:
  - ia
  - ideas
@@ -14,16 +11,13 @@ categories:
  - internets
  - Integration Research
  - technology
- - to checkout
  - ui
  - ux
 ---
 
-
 [Aurora (Part 1)][1] from [Adaptive Path][2] on [Vimeo][3].
 
-Call it silly if you like, but this kind of stuff gets me very excited and
-jealous that I'm not smart or experienced enough yet to be working on it.
+Call it silly if you like, but this kind of stuff gets me very excited and jealous that I'm not smart or experienced enough yet to be working on it.
 
 [Or maybe I am][4].
 

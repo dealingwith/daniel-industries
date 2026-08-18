@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-07 03:22:00'
 layout: post
 slug: this-is-what-i-remember-about-the-gig
-status: publish
 title: This is what i remember about the gig
-wordpress_id: '1918'
 categories:
  - music
 ---

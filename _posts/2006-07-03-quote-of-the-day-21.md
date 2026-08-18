@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-03 09:06:00'
 layout: post
 slug: quote-of-the-day-21
-status: publish
 title: quote of the day
-wordpress_id: '1465'
 ---
 
 > In my BillG review meeting, the whole reporting hierarchy was there, along

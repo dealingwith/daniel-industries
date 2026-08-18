@@ -3,7 +3,6 @@ layout: post
 title: "Title case all posts in Jekyll"
 excerpt: "Because I couldn't find it anywhere on the web"
 date: 2017-07-26 21:54:24 -0500
-comments: true
 categories: 
 ---
 

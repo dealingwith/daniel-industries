@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-10 10:39:00'
 layout: post
 slug: this-is-sick
-status: publish
 title: (This is) Sick...
-wordpress_id: '2910'
 categories:
  - elsewhere
  - video

@@ -3,7 +3,6 @@ layout: post
 title: "Dallas Startup Week talks"
 excerpt: I am participating in a panel and a talk during Dallas Startup Week next week, both on Wednesday
 date: 2016-04-08 16:27:10 -0500
-comments: true
 categories: 
 ---
 

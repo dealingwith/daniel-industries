@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-03-04 21:55:00'
 layout: post
 slug: and-finally-someone-who-can-remember-the-overweening-point-of-the-development-to-begin-with
-status: publish
 title: And, finally, someone who can remember the overweening point of the development
   to begin with.
-wordpress_id: '2514'
 categories:
  - brain
  - brilliant

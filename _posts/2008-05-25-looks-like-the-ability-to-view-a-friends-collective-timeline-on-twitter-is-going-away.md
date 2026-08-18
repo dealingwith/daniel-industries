@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-05-25 12:33:00'
 layout: post
 slug: looks-like-the-ability-to-view-a-friends-collective-timeline-on-twitter-is-going-away
-status: publish
 title: Looks like the ability to view a friend's (collective) timeline on Twitter
   is going away?
-wordpress_id: '2649'
 categories:
  - technology
  - troubling

@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2007-01-08 12:57:00'
 layout: post
 slug: real-empires-ship
-status: publish
 title: Real Empires Ship
 categories:
  - elsewhere

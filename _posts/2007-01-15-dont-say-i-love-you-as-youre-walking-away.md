@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-15 01:03:00'
 layout: post
 slug: dont-say-i-love-you-as-youre-walking-away
-status: publish
 title: don't say 'i love you' as you're walking away
-wordpress_id: '1940'
 categories:
  - love
  - mourning

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-11-05 18:43:00'
 layout: post
 slug: iz-in-ur-podcasts
-status: publish
 title: IZ IN UR PODCASTS
-wordpress_id: '2358'
 categories:
  - elsewhere
  - johnny citizen

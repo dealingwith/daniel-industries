@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-02-19 22:36:00'
 layout: post
 slug: must-know-more-about-this-fever-ray
-status: publish
 title: Must know more about this Fever Ray!?!?
-wordpress_id: '2944'
 categories:
  - music
  - video

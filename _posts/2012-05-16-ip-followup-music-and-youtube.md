@@ -2,7 +2,6 @@
 layout: post
 title: "IP Followup: Music and YouTube"
 date: 2012-05-16 07:47
-comments: true
 categories: [design, development, music]
 ---
 

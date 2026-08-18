@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-10 18:22:00'
 layout: post
 slug: muji-non-linear-day-planner
-status: publish
 title: Muji Non-linear Day Planner
-wordpress_id: '3193'
 categories:
  - ux
 ---

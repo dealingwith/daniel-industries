@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-23 19:04:00'
 layout: post
 slug: click-a-crowd-curated-exhibition
-status: publish
 title: Click! A Crowd-Curated Exhibition.
-wordpress_id: '2600'
 categories:
  - art
 ---

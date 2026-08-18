@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-06-22 07:18:00'
 layout: post
 slug: i-would-go-out-tonight-but-i-havent-got-a-stitch-to-wear
-status: publish
 title: i would go out tonight, but i haven't got a stitch to wear
-wordpress_id: '1425'
 categories:
  - mp3 of the day
 ---

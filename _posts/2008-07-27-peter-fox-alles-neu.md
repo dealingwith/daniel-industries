@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-27 13:13:00'
 layout: post
 slug: peter-fox-alles-neu
-status: publish
 title: 'Peter Fox: Alles Neu'
-wordpress_id: '2723'
 categories:
  - video
 ---

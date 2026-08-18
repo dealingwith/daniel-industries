@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-16 23:50:00'
 layout: post
 slug: fifty-people-one-question
-status: publish
 title: Fifty People, One Question
-wordpress_id: '2790'
 categories:
  - elsewhere
  - humanity

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-06 12:27:00'
 layout: post
 slug: underneath-downtown-dallas
-status: publish
 title: Underneath Downtown Dallas
-wordpress_id: '2902'
 categories:
  - elsewhere
  - geek

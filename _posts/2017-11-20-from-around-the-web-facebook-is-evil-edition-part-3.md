@@ -3,7 +3,9 @@ layout: post
 title: "From Around the Web / Facebook is Evil Edition Part 3"
 excerpt: 
 date: 2017-11-20 19:51:22 -0600
-categories: elsewhere, facebook
+categories: 
+  - elsewhere
+  - facebook
 ---
 
 [Hurry Slowly--003: Craig Mod--I Want My Attention Back!](http://hurryslowly.co/003-craig-mod/)

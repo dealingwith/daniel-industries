@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-10-23 16:49:00'
 layout: post
 slug: omg-omg-omg-the-kittens-and-buffy
-status: publish
 title: OMG OMG OMG THE KITTENS!! (and Buffy)
-wordpress_id: '114'
 ---
 
 [Rob Manuel of B3ta.com...Hello. I like making stupid web stuff. Here's some

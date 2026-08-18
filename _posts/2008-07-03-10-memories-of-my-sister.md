@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-03 21:56:00'
 layout: post
 slug: 10-memories-of-my-sister
-status: publish
 title: 10 Memories of My Sister
-wordpress_id: '2679'
 categories:
  - imagining
  - minutia

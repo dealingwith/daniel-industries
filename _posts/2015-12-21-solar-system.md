@@ -2,8 +2,8 @@
 layout: post
 title: "Solar System"
 date: 2015-12-21 01:03:41 -0500
-comments: true
-categories: thoughts
+categories:
+ - thoughts
 ---
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2622679340/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=842339909/transparent=true/"></iframe>

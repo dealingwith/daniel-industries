@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-27 15:37:00'
 layout: post
 slug: barcamp-dallas-4
-status: publish
 title: BarCamp Dallas 4
-wordpress_id: '2321'
 categories:
  - announcements
  - barcamp

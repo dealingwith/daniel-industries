@@ -3,7 +3,6 @@ layout: post
 title: "Knowledge work as a recipe for crazy"
 excerpt: "You spend hours and hours considering ways to think about what is ultimately an immaterial thing. And who's to know if it's done or right?"
 date: 2017-03-01 15:34:26 -0600
-comments: true
 categories: 
 ---
 

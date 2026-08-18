@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-16 09:53:00'
 layout: post
 slug: post-dreaming-reality
-status: publish
 title: post-dreaming reality
-wordpress_id: '2405'
 categories:
  - quotable
 ---

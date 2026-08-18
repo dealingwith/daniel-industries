@@ -3,7 +3,6 @@ layout: post
 title: "Would you give Google a passing grade?"
 excerpt: 
 date: 2016-12-30 01:38:52 -0600
-comments: true
 categories: 
 ---
 

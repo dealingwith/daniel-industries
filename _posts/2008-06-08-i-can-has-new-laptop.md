@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-08 09:10:00'
 layout: post
 slug: i-can-has-new-laptop
-status: publish
 title: I can has new laptop.
-wordpress_id: '2666'
 categories:
  - geek
  - minutia

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-11-21 14:23:00'
 layout: post
 slug: awesome-spam
-status: publish
 title: awesome spam
-wordpress_id: '745'
 ---
 
 Dear Sir/Madam,

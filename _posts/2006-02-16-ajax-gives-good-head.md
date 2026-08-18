@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-16 11:32:00'
 layout: post
 slug: ajax-gives-good-head
-status: publish
 title: AJAX gives good head
-wordpress_id: '1014'
 categories:
  - ajax
  - elsewhere

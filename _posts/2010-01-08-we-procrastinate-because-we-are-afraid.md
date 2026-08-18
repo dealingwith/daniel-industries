@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-01-08 11:52:00'
 layout: post
 slug: we-procrastinate-because-we-are-afraid
-status: publish
 title: We procrastinate because we are afraid
-wordpress_id: '3060'
 categories:
  - quotable
 ---

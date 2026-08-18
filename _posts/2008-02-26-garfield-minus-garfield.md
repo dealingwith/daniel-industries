@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-26 09:09:00'
 layout: post
 slug: garfield-minus-garfield
-status: publish
 title: garfield minus garfield
-wordpress_id: '2502'
 categories:
  - comedy
  - comics

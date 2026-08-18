@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 layout: post
 slug: quote-of-the-day-7
 title: quote of the day

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-09 11:17:00'
 layout: post
 slug: forbiddens-pl4yb0y-debut
-status: publish
 title: ForBiddeN's Pl4yb0y Debut
-wordpress_id: '1640'
 categories:
  - ambition
  - breasts

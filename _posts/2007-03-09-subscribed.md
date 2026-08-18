@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-09 11:20:00'
 layout: post
 slug: subscribed
-status: publish
 title: SUBSCRIBED
-wordpress_id: '2057'
 categories:
  - brilliant
  - comedy

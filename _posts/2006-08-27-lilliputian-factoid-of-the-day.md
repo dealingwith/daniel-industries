@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-27 18:30:00'
 layout: post
 slug: lilliputian-factoid-of-the-day
-status: publish
 title: Lilliputian factoid of the day
-wordpress_id: '1604'
 categories:
  - alcohol
  - beer

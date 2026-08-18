@@ -2,7 +2,6 @@
 layout: post
 title: "Weeks Ten and Eleven"
 date: 2013-02-17 13:23
-comments: true
 categories: 
  - minutia
  - weeknotes

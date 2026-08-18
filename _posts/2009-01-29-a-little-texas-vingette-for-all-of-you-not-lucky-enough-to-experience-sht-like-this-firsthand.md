@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2009-01-29 22:39:00'
 layout: post
 slug: a-little-texas-vingette-for-all-of-you-not-lucky-enough-to-experience-sht-like-this-firsthand
-status: publish
 title: A Little Texas Vingette for All of You Not Lucky Enough to Experience Sh*t
   Like This Firsthand
-wordpress_id: '2928'
 categories:
  - humanity
  - oh the

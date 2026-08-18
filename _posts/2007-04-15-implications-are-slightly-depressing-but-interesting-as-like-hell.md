@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-15 10:39:00'
 layout: post
 slug: implications-are-slightly-depressing-but-interesting-as-like-hell
-status: publish
 title: implications are slightly depressing but interesting as (like?) hell!
-wordpress_id: '2136'
 categories:
  - brain
  - cats

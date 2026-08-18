@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2006-07-03 06:49:00'
 layout: post
 slug: i-hate-to-say-it-but-im-so-glad-lance-isnt-in-the-tour-its-so-much-more-interesting
-status: publish
 title: i hate to say it but i'm so glad Lance isn't in the tour; it's so much more
   interesting...
-wordpress_id: '1464'
 categories:
  - bicycling
  - elsewhere

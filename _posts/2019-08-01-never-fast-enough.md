@@ -3,7 +3,6 @@ layout: post
 title: "Never fast enough"
 excerpt: "This is the ultimate goal: For our pocket supercomputers to lesson burdens, not increase them. For our mega-powered laptops to enable a kind of fluency--not battle, or struggle--of creation."
 date: 2019-08-01 14:42:26 -0500
-comments: true
 categories: 
 ---
 

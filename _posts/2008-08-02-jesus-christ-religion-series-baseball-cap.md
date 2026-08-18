@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-02 14:11:00'
 layout: post
 slug: jesus-christ-religion-series-baseball-cap
-status: publish
 title: Jesus Christ - Religion Series - Baseball cap
-wordpress_id: '2732'
 categories:
  - brilliant
  - faithy

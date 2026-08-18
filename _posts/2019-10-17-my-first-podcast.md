@@ -3,7 +3,6 @@ layout: post
 title: "My first podcast"
 excerpt: 
 date: 2019-10-17 17:18:21 -0500
-comments: true
 categories: 
 ---
 

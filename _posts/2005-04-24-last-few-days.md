@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-24 06:19:00'
 layout: post
 slug: last-few-days
-status: publish
 title: last few days
-wordpress_id: '273'
 ---
 
 [![/][1]][2]

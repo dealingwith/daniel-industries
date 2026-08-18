@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-01 11:16:00'
 layout: post
 slug: ok-ill-try-to-make-this-the-last-post-on-the-topic-for-a-while-serious
-status: publish
 title: Ok I'll Try To Make This The Last Post On The Topic For A While, Serious
-wordpress_id: '2730'
 categories:
  - design
  - ui

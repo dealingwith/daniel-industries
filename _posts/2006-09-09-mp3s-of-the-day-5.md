@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-09 12:04:00'
 layout: post
 slug: mp3s-of-the-day-5
-status: publish
 title: mp3s of the day
-wordpress_id: '1641'
 categories:
  - local
  - mp3 of the day

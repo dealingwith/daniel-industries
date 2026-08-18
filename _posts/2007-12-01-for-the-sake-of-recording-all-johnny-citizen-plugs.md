@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-01 12:35:00'
 layout: post
 slug: for-the-sake-of-recording-all-johnny-citizen-plugs
-status: publish
 title: For the sake of recording all Johnny Citizen plugs!
-wordpress_id: '2383'
 categories:
  - johnny citizen
  - music

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-01 22:50:00'
 layout: post
 slug: tom-conlon-live-in-college-station
-status: publish
 title: Tom Conlon - Live in College Station
-wordpress_id: '2427'
 categories:
  - Integration Research
  - local

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-09-03 16:13:00'
 layout: post
 slug: theworld-ae
-status: publish
 title: theworld.ae
-wordpress_id: '3164'
 categories:
  - nonlinear
 ---

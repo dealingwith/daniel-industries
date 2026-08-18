@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 18:55:00'
 layout: post
 slug: vital-interactive-media-alternate-reality
-status: publish
 title: Vital Interactive Media-Alternate Reality
-wordpress_id: '3143'
 categories:
  - nonlinear
 ---

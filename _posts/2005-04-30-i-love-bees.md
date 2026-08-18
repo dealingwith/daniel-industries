@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 17:02:00'
 layout: post
 slug: i-love-bees
-status: publish
 title: I love bees
-wordpress_id: '3127'
 categories:
  - nonlinear
 ---

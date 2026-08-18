@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-28 09:20:00'
 layout: post
 slug: flex-looks-impressive-ditto-for-spry
-status: publish
 title: Flex looks impressive. ditto for spry.
-wordpress_id: '1685'
 categories:
  - design
  - development

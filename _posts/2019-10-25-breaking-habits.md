@@ -3,7 +3,6 @@ layout: post
 title: "Breaking habits"
 excerpt: "After a really strong week last week, things have fallen apart this week"
 date: 2019-10-25 08:09:14 -0500
-comments: true
 categories: 
 ---
 

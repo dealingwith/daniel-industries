@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-22 15:50:00'
 layout: post
 slug: t-shaped-people
-status: publish
 title: T-Shaped People
-wordpress_id: '2713'
 categories:
  - design
  - development

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-12-14 18:50:00'
 layout: post
 slug: mcleod-residence
-status: publish
 title: McLeod Residence
-wordpress_id: '1884'
 categories:
  - art
  - brilliant

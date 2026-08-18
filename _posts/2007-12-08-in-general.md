@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-08 21:12:00'
 layout: post
 slug: in-general
-status: publish
 title: in general
-wordpress_id: '2393'
 categories:
  - art
  - local

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-11-29 14:42:00'
 layout: post
 slug: we-has-online-commerce
-status: publish
 title: We has online commerce
-wordpress_id: '2381'
 categories:
  - consumption
  - johnny citizen

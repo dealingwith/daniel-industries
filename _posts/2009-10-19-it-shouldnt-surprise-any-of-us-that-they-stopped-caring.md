@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-10-19 15:49:00'
 layout: post
 slug: it-shouldnt-surprise-any-of-us-that-they-stopped-caring
-status: publish
 title: '"It shouldn’t surprise any of us that they stopped caring."'
-wordpress_id: '3246'
 categories:
  - design
  - marketing

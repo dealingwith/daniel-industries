@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-10 18:39:00'
 layout: post
 slug: random-twitter-effect
-status: publish
 title: Random Twitter effect
-wordpress_id: '3186'
 categories:
  - ambient
  - twitter

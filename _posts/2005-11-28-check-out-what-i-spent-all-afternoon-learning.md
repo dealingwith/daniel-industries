@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-11-28 15:11:00'
 layout: post
 slug: check-out-what-i-spent-all-afternoon-learning
-status: publish
 title: CHECK OUT WHAT I SPENT ALL AFTERNOON LEARNING!!
-wordpress_id: '763'
 categories:
  - css
  - design

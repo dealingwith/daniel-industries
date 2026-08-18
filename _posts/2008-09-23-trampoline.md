@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-23 23:07:00'
 layout: post
 slug: trampoline
-status: publish
 title: Trampoline
-wordpress_id: '2801'
 categories:
  - family
  - fun

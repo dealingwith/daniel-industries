@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-10-30 10:46:00'
 layout: post
 slug: because-we-love-to-post-about-cats
-status: publish
 title: because we love to post about cats
-wordpress_id: '668'
 ---
 
 [Wisconsin family learns their missing cat is in France][1]

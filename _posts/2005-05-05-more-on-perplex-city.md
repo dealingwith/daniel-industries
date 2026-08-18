@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-05-05 18:37:00'
 layout: post
 slug: more-on-perplex-city
-status: publish
 title: more on Perplex City
-wordpress_id: '3150'
 categories:
  - nonlinear
 ---

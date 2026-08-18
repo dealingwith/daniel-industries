@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-29 13:55:00'
 layout: post
 slug: twitterlesung
-status: publish
 title: Twitterlesung
-wordpress_id: '3212'
 categories:
  - twitter
 ---

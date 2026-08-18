@@ -2,7 +2,6 @@
 date: '2010-01-13 01:09:00'
 layout: post
 slug: washed-out-more-great-art-from-people-younger-than-you-who-dont-care-if-you-think-its-great-art
-status: publish
 title: Washed Out, or More Great Art From People Younger Than You Who Don't Care If You Think It's Great Art
 categories:
  - aging

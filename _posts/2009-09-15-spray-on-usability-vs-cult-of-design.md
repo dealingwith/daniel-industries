@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-09-15 15:26:00'
 layout: post
 slug: spray-on-usability-vs-cult-of-design
-status: publish
 title: Spray-On Usability vs Cult of Design
-wordpress_id: '3244'
 categories:
  - art
  - design

@@ -3,7 +3,6 @@ layout: post
 title: "Facebook's Weakness"
 excerpt: "I've thought this many times but Cal Newport puts it well"
 date: 2018-08-02 23:02:00 -0500
-comments: true
 categories: 
  - cal newport quotes
 ---

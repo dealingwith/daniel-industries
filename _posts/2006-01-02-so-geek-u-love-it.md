@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-02 23:00:00'
 layout: post
 slug: so-geek-u-love-it
-status: publish
 title: so geek. u love it.
-wordpress_id: '831'
 ---
 
 [![][1]][2]

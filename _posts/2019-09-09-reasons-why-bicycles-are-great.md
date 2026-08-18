@@ -3,7 +3,6 @@ layout: post
 title: "Reasons why bicycles are great"
 excerpt: "A list"
 date: 2019-09-09 07:15:19 -0500
-comments: true
 categories: 
 ---
 

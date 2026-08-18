@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2010-10-07 04:01:00'
 layout: post
 slug: good-design-is-as-little-design-as-possible
-status: publish
 title: Good design is as little design as possible
 excerpt: "Less, but better"
 categories:

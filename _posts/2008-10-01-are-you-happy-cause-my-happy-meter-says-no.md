@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-01 12:13:00'
 layout: post
 slug: are-you-happy-cause-my-happy-meter-says-no
-status: publish
 title: '"Are you happy? ''Cause my happy-meter says ''No''."'
-wordpress_id: '2808'
 categories:
  - mp3 of the day
 ---

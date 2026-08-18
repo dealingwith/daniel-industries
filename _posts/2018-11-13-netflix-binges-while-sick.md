@@ -3,7 +3,6 @@ layout: post
 title: "Netflix binges while sick"
 excerpt: "It's like living vicariously, but instead of their money, success and charisma, I'm after their ability to sit and enjoy a cup of coffee with their health intact."
 date: 2018-11-13 21:50:44 -0600
-comments: true
 categories: 
 ---
 

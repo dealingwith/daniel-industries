@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-09 19:10:00'
 layout: post
 slug: danielsjourney-blog-archive-reader
-status: publish
 title: danielsjourney blog archive reader
-wordpress_id: '2742'
 categories:
  - blogs
  - me

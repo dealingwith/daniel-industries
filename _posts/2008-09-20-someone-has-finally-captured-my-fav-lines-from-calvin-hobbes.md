@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-20 14:01:00'
 layout: post
 slug: someone-has-finally-captured-my-fav-lines-from-calvin-hobbes
-status: publish
 title: Someone has finally captured my fav lines from Calvin & Hobbes
-wordpress_id: '2795'
 categories:
  - quotable
 ---

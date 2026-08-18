@@ -3,7 +3,6 @@ layout: post
 title: "The Metrics of Backpacks"
 excerpt: "This is possibly the best piece of writing I've read in a long time"
 date: 2019-04-28 11:56:26 -0500
-comments: true
 categories: 
 ---
 

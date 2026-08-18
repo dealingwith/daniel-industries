@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-11-21 22:47:00'
 layout: post
 slug: i-read-the-whole-article-so-you-dont-have-to
-status: publish
 title: I read the whole article so you don't have to
-wordpress_id: '2374'
 categories:
  - design
  - elsewhere

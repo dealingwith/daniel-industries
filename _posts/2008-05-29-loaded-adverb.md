@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-29 11:54:00'
 layout: post
 slug: loaded-adverb
-status: publish
 title: Loaded adverb
-wordpress_id: '2655'
 categories:
  - development
  - geek

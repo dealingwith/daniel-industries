@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2015-01-02 22:18:08'
 layout: post
 title: 'Vague post is vague'

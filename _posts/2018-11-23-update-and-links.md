@@ -3,7 +3,6 @@ layout: post
 title: "Update and links"
 excerpt: "I'm terrible at writing titles"
 date: 2018-11-23 12:53:49 -0600
-comments: true
 categories: 
 ---
 

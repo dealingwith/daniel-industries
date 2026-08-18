@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-21 15:37:00'
 layout: post
 slug: i-keep-offering-things-wo-comment-this-time-on-ux-etc
-status: publish
 title: I keep offering things w/o comment. This time on UX etc.
-wordpress_id: '2827'
 categories:
  - design
  - ui

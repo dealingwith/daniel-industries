@@ -3,7 +3,6 @@ layout: post
 title: "Dean Allen"
 excerpt: "The best uncle the internet ever had"
 date: 2018-01-21 18:50:25 -0600
-comments: true
 categories: 
 ---
 

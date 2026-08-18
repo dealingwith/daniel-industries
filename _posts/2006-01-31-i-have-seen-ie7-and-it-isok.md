@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-31 18:09:00'
 layout: post
 slug: i-have-seen-ie7-and-it-isok
-status: publish
 title: I have seen IE7 and it is...ok...
-wordpress_id: '942'
 ---
 
 Just installed IE7. In fact I'm writing this post from within it right now.

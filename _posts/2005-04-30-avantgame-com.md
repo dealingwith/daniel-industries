@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 18:26:00'
 layout: post
 slug: avantgame-com
-status: publish
 title: avantgame.com
-wordpress_id: '3139'
 categories:
  - nonlinear
 ---

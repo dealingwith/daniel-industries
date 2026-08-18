@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-06 09:44:00'
 layout: post
 slug: the-false-fight-between-fun-and-business
-status: publish
 title: The false fight between fun and business
-wordpress_id: '1633'
 categories:
  - development
  - fun

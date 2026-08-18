@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-01 22:24:00'
 layout: post
 slug: sharesomething
-status: publish
 title: sharesomething
-wordpress_id: '2612'
 categories:
  - Integration Research
  - nostalgia

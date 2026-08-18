@@ -2,7 +2,6 @@
 layout: post
 title: "We have met the enemy and he is us"
 date: 2016-03-18 09:25:13 -0500
-comments: true
 categories: 
 ---
 

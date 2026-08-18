@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-05 11:39:00'
 layout: post
 slug: this-lines-up-exactly-with-my-experience
-status: publish
 title: This lines up exactly with my experience
-wordpress_id: '2621'
 categories:
  - elsewhere
  - marketing

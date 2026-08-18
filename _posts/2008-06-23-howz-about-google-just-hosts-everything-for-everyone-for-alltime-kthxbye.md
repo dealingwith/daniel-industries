@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-23 16:35:00'
 layout: post
 slug: howz-about-google-just-hosts-everything-for-everyone-for-alltime-kthxbye
-status: publish
 title: Howz about Google just hosts everything for everyone for alltime? Kthxbye.
-wordpress_id: '2678'
 categories:
  - development
  - javascript

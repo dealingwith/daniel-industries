@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-04-11 22:38:00'
 layout: post
 slug: omg-omg-omg-post
-status: publish
 title: OMG OMG OMG POST !)
-wordpress_id: '32'
 ---
 
 OMG so there is this entire site dedicated to one song and it's actually kinda

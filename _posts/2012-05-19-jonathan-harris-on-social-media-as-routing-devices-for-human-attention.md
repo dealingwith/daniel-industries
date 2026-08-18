@@ -2,7 +2,6 @@
 layout: post
 title: "Jonathan Harris on Social Media as Routing Devices for Human Attention"
 date: 2012-05-19 07:52
-comments: true
 categories: [social, video]
 ---
 

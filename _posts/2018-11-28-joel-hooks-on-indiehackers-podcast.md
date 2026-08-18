@@ -3,7 +3,6 @@ layout: post
 title: "Joel Hooks on IndieHackers Podcast"
 excerpt: "Famous friends!"
 date: 2018-11-28 18:35:33 -0600
-comments: true
 categories: 
 ---
 

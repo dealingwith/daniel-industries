@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 17:25:00'
 layout: post
 slug: metaurchins-book-project
-status: publish
 title: MetaUrchins Book Project
-wordpress_id: '108'
 categories:
  - nonlinear
 ---

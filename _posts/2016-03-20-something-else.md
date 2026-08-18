@@ -2,7 +2,6 @@
 layout: post
 title: "Something else"
 date: 2016-03-20 22:34:21 -0500
-comments: true
 categories: 
 ---
 

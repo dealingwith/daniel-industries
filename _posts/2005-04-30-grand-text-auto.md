@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 19:11:00'
 layout: post
 slug: grand-text-auto
-status: publish
 title: Grand Text Auto
-wordpress_id: '3145'
 categories:
  - nonlinear
 ---

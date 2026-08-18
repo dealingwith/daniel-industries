@@ -3,7 +3,6 @@ layout: post
 title: "Where do you get information when Twitter is gone?"
 excerpt: "A list of curated email lists"
 date: 2018-04-15 16:20:33 -0500
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-15 12:18:00'
 layout: post
 slug: common-sense-simple-common-sense
-status: publish
 title: Common sense. Simple common sense.
-wordpress_id: '2914'
 categories:
  - design
 ---

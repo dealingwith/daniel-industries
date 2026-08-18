@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-31 07:19:00'
 layout: post
 slug: look-ma-more-metadata
-status: publish
 title: look ma! more metadata!
-wordpress_id: '1523'
 categories:
  - lj
  - technology

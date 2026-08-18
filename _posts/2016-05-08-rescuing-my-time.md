@@ -3,7 +3,6 @@ layout: post
 title: "Rescuing my time"
 excerpt: Take a look at my most recent RescueTime report
 date: 2016-05-08 18:01:24 -0500
-comments: true
 categories: 
 ---
 

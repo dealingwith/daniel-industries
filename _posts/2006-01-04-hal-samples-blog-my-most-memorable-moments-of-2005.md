@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-04 19:36:00'
 layout: post
 slug: hal-samples-blog-my-most-memorable-moments-of-2005
-status: publish
 title: Hal Samples - Blog - my most memorable moments of 2005
-wordpress_id: '836'
 ---
 
 [![][1]][2]

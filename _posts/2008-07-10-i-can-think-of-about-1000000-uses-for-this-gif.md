@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-10 10:27:00'
 layout: post
 slug: i-can-think-of-about-1000000-uses-for-this-gif
-status: publish
 title: I can think of about 1,000,000 uses for this GIF
-wordpress_id: '2700'
 categories:
  - design
  - twitter

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-04 16:38:00'
 layout: post
 slug: chocolate-christ-art-exhibit-cancelled-in-new-york
-status: publish
 title: Chocolate Christ art exhibit cancelled in New York
-wordpress_id: '2115'
 categories:
  - art
  - elsewhere

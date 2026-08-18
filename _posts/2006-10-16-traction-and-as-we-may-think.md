@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-10-16 21:07:00'
 layout: post
 slug: traction-and-as-we-may-think
-status: publish
 title: 'Traction and "As We May Think"'
-wordpress_id: '3172'
 categories:
  - nonlinear
 ---

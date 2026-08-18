@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-05-25 00:13:00'
 layout: post
 slug: jai-guru-dev
-status: publish
 title: Jai Guru Dev
-wordpress_id: '45'
 ---
 
 See? I said I would listen to them. [They][1] are awesome.

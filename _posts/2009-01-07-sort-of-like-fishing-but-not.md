@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-07 15:37:00'
 layout: post
 slug: sort-of-like-fishing-but-not
-status: publish
 title: Sort of like fishing but not
-wordpress_id: '2906'
 categories:
  - code
  - development

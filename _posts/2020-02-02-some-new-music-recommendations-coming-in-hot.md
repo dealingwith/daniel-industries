@@ -3,7 +3,6 @@ layout: post
 title: "Some new music recommendations coming in hot"
 excerpt: 
 date: 2020-02-02 09:31:16 -0600
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-11 16:34:00'
 layout: post
 slug: amy-hoy-technique-or-skill
-status: publish
 title: 'Amy Hoy: Technique or skill?'
-wordpress_id: '3208'
 categories:
  - cognition
 ---

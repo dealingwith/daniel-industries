@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-10 08:11:00'
 layout: post
 slug: ohmanohmanohman
-status: publish
 title: ohmanohmanohman
-wordpress_id: '1562'
 categories:
  - brilliant
  - music

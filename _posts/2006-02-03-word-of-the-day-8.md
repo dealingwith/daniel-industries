@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-03 14:23:00'
 layout: post
 slug: word-of-the-day-8
-status: publish
 title: word of the day
-wordpress_id: '950'
 categories:
  - word of the day
 ---

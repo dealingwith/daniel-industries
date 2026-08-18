@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-21 22:06:00'
 layout: post
 slug: this-makes-me-want-to-go
-status: publish
 title: this makes me want. to. go.
-wordpress_id: '1947'
 categories:
  - elsewhere
  - quotable

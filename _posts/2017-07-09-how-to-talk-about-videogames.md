@@ -3,7 +3,6 @@ layout: post
 title: "How to Talk About Videogames"
 excerpt: "Emergence is also chaos, and its charm is the beauty of a universe that could have been nothing, but turned out to be something instead"
 date: 2017-07-09 14:51:55 -0500
-comments: true
 categories: 
 - nonlinear
 - design

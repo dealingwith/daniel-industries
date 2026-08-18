@@ -2,7 +2,6 @@
 layout: post
 title: "Minutia and a New danielsjourney"
 date: 2012-02-06 12:52
-comments: true
 categories: [minutia]
 ---
 

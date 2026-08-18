@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-28 00:22:00'
 layout: post
 slug: markup-ninjas
-status: publish
 title: Markup Ninjas
-wordpress_id: '2463'
 categories:
  - barcamp
  - brilliant

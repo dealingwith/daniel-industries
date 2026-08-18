@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2007-04-10 10:49:00'
 layout: post
 slug: st-vincent-record-drops-to-music-bloggers-one-more-mp3-to-enjoy-until-july
-status: publish
 title: St. Vincent record drops to music bloggers
 categories:
  - elsewhere

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-19 10:49:00'
 layout: post
 slug: for-all-dallas-area-self-employed
-status: publish
 title: For all Dallas area self-employed
-wordpress_id: '2011'
 categories:
  - announcements
  - work

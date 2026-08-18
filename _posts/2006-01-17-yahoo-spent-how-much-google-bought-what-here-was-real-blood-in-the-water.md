@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-17 10:36:00'
 layout: post
 slug: yahoo-spent-how-much-google-bought-what-here-was-real-blood-in-the-water
-status: publish
 title: Yahoo spent how much? Google bought what? Here was real blood in the water.
-wordpress_id: '882'
 categories:
  - design
  - elsewhere

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-23 15:56:00'
 layout: post
 slug: radiolab-on-deception
-status: publish
 title: Radiolab on Deception
-wordpress_id: '2547'
 categories:
  - humanity
  - podcast

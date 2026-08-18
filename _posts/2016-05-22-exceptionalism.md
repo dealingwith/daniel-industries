@@ -3,7 +3,6 @@ layout: post
 title: "Exceptionalism"
 excerpt: Are you exceptional?
 date: 2016-05-22 10:00:58 -0500
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-14 10:15:00'
 layout: post
 slug: how-to-tell-when-that-new-twitter-friend-is-probably-a-bot
-status: publish
 title: How to tell when that new Twitter "friend" is probably a bot
-wordpress_id: '2616'
 categories:
  - twitter
 ---

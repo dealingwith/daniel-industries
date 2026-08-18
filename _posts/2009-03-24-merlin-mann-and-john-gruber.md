@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-03-24 19:20:00'
 layout: post
 slug: merlin-mann-and-john-gruber
-status: publish
 title: Merlin Mann and John Gruber
-wordpress_id: '2970'
 ---
 
 [![][1]][2]

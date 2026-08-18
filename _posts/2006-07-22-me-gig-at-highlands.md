@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-22 13:56:00'
 layout: post
 slug: me-gig-at-highlands
-status: publish
 title: me gig at Highlands
-wordpress_id: '1515'
 categories:
  - imagining
  - me

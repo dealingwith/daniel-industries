@@ -2,7 +2,6 @@
 layout: post
 title: "Stephen Wolfram -- The Personal Analytics of My Life"
 date: 2012-03-10 09:36
-comments: true
 categories: [nonlinear, data]
 ---
 

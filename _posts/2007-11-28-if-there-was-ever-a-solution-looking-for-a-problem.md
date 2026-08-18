@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2007-11-28 18:36:00'
 layout: post
 slug: if-there-was-ever-a-solution-looking-for-a-problem

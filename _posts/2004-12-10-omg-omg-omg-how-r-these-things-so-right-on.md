@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-12-10 12:43:00'
 layout: post
 slug: omg-omg-omg-how-r-these-things-so-right-on
-status: publish
 title: OMG OMG OMG How R these things so right on!
-wordpress_id: '139'
 ---
 
 Sexual Position by [serpiente][1]

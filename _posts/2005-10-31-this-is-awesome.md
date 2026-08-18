@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-10-31 17:11:00'
 layout: post
 slug: this-is-awesome
-status: publish
 title: this is awesome
-wordpress_id: '680'
 ---
 
 _An unseen, sweet-smelling cloud drifted through parts of Manhattan last

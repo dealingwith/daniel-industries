@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2006-06-09 10:09:00'
 layout: post
 slug: oldie-but-goodie
-status: publish
 title: oldie but goodie
 categories:
  - quotable

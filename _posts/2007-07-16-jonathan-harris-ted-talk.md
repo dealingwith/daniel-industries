@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-16 23:33:00'
 layout: post
 slug: jonathan-harris-ted-talk
-status: publish
 title: Jonathan Harris TED talk
-wordpress_id: '3178'
 categories:
  - ambient
  - people

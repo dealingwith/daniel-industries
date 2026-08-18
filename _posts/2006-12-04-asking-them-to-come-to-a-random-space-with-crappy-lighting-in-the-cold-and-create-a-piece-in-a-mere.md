@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2006-12-04 12:13:00'
 layout: post
 slug: asking-them-to-come-to-a-random-space-with-crappy-lighting-in-the-cold-and-create-a-piece-in-a-mere
-status: publish
 title: asking them to come to a random space with crappy lighting in the cold and
   create a piece in a mere
-wordpress_id: '1862'
 categories:
  - art
  - quotable

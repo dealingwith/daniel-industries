@@ -2,7 +2,6 @@
 layout: post
 title: "The Happiness Advantage"
 date: 2012-01-13 18:34
-comments: true
 categories: [minutia, happiness]
 ---
 

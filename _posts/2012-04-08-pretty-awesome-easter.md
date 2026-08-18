@@ -2,7 +2,6 @@
 layout: post
 title: "Pretty Awesome Easter"
 date: 2012-04-08 15:30
-comments: true
 categories: [minutia, bicycling]
 ---
 

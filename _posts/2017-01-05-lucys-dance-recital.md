@@ -4,7 +4,6 @@ title: "Lucy's dance recital"
 excerpt: 
 image: "/assets/2017/01/lucy-recital.jpg"
 date: 2017-01-05 07:19:16 -0600
-comments: true
 categories: 
 ---
 

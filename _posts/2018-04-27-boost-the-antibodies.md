@@ -3,10 +3,9 @@ layout: post
 title: "Boost the Antibodies"
 excerpt: "We can inoculate the web"
 date: 2018-04-27 08:45:11 -0500
-comments: true
 categories: 
  - elsewhere
- - SWIM
+ - swim
 ---
 
 [We Should Put Fact-Checking Tools In the Core Browser](https://hapgood.us/2018/04/21/we-should-put-fact-checking-tools-in-the-core-browser/)

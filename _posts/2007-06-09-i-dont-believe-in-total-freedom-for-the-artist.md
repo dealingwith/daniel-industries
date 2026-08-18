@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-06-09 14:24:00'
 layout: post
 slug: i-dont-believe-in-total-freedom-for-the-artist
-status: publish
 title: I don't believe in total freedom for the artist.
-wordpress_id: '2191'
 categories:
  - art
  - quotable

@@ -3,7 +3,6 @@ layout: post
 title: "There was a kid with a head full of doubt"
 excerpt: There was a dream and one day I could see it
 date: 2016-04-02 15:36:32 -0500
-comments: true
 categories: 
 ---
 

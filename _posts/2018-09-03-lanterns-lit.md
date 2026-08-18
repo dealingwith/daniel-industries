@@ -3,7 +3,6 @@ layout: post
 title: "Lanterns Lit"
 excerpt: 
 date: 2018-09-03 02:29:30 -0500
-comments: true
 categories: 
  - son lux
 ---

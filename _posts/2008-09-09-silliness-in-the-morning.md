@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-09 20:47:00'
 layout: post
 slug: silliness-in-the-morning
-status: publish
 title: Silliness in the Morning
-wordpress_id: '2777'
 categories:
  - video
 ---

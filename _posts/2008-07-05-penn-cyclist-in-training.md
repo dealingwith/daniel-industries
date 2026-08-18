@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-05 23:23:00'
 layout: post
 slug: penn-cyclist-in-training
-status: publish
 title: Penn, Cyclist-in-Training
-wordpress_id: '2693'
 categories:
  - bicycling
  - imagining

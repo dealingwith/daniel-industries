@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-10 23:28:00'
 layout: post
 slug: just-call-me-the-little-drummer-boy
-status: publish
 title: just call me the little drummer boy
-wordpress_id: '1644'
 categories:
  - announcements
  - local

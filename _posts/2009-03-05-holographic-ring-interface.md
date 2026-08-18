@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-03-05 18:00:00'
 layout: post
 slug: holographic-ring-interface
-status: publish
 title: Holographic Ring Interface
-wordpress_id: '3226'
 categories:
  - nonlinear
 ---

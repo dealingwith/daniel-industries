@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-09 07:17:00'
 layout: post
 slug: never-shall-they-be-joined
-status: publish
 title: never shall they be joined
-wordpress_id: '1087'
 categories:
  - design
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Sobriety Spell Stay"
 date: 2013-07-20 11:25
-comments: true
-categories: minutia
+categories:
+ - minutia
 ---
 
 My six months of sobriety technically ended last Wednesday but I'm in what I'm referring to as "penalty time". And like penalty time in a soccer match, the imminence of the end makes the next week just feel like a long Friday. Or that part of summer camp where all the kids are getting picked up but you're one of the last few to leave. 

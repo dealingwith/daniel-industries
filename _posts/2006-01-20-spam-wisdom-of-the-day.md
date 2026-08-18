@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-20 13:05:00'
 layout: post
 slug: spam-wisdom-of-the-day
-status: publish
 title: spam wisdom of the day
-wordpress_id: '896'
 categories:
  - spam awesomeness
 ---

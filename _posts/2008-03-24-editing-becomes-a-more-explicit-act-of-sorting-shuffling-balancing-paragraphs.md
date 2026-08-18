@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-24 11:21:00'
 layout: post
 slug: editing-becomes-a-more-explicit-act-of-sorting-shuffling-balancing-paragraphs
-status: publish
 title: Editing becomes a more explicit act of sorting, shuffling, balancing paragraphs.
-wordpress_id: '2549'
 categories:
  - constraints
  - quotable

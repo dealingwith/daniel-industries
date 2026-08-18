@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-10-29 18:42:00'
 layout: post
 slug: robotlab-bios-bible-robot-writing-the-martin-luther-bible-2007
-status: publish
 title: 'Robotlab : bios [bible], robot writing the Martin Luther bible (2007)'
-wordpress_id: '2350'
 categories:
  - art
  - brilliant

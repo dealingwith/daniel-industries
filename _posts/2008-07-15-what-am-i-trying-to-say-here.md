@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-15 11:48:00'
 layout: post
 slug: what-am-i-trying-to-say-here
-status: publish
 title: What am I trying to say here?
-wordpress_id: '2708'
 categories:
  - minutia
 ---

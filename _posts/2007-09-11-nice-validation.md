@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-11 19:13:00'
 layout: post
 slug: nice-validation
-status: publish
 title: nice validation
-wordpress_id: '2297'
 categories:
  - faithy
  - richard rohr

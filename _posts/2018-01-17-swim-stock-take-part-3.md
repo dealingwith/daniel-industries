@@ -3,7 +3,6 @@ layout: post
 title: "SWIM Stock-take Part 3"
 excerpt: "Part 3 of my retrospective"
 date: 2018-01-17 23:06:48 -0600
-comments: true
 categories: 
  - swim
  - nonlinear

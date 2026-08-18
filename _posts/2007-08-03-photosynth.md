@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-08-03 03:04:00'
 layout: post
 slug: photosynth
-status: publish
 title: Photosynth
-wordpress_id: '3179'
 categories:
  - ux
  - video

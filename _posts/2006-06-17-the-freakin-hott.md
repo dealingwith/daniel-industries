@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-06-17 12:49:00'
 layout: post
 slug: the-freakin-hott
-status: publish
 title: the freakin' hott
-wordpress_id: '1410'
 categories:
  - cartoon of the day
  - elsewhere

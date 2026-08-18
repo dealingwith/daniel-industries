@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-02 11:46:00'
 layout: post
 slug: i-know-youre-scared-so-am-i
-status: publish
 title: I know you're scared, so am I
-wordpress_id: '2034'
 categories:
  - minutia
  - mp3 of the day

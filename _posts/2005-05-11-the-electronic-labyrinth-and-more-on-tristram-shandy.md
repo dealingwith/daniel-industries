@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-05-11 08:05:00'
 layout: post
 slug: the-electronic-labyrinth-and-more-on-tristram-shandy
-status: publish
 title: The Electronic Labyrinth and more on Tristram Shandy
-wordpress_id: '3154'
 categories:
  - nonlinear
 ---

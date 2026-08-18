@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-21 22:43:00'
 layout: post
 slug: buy-a-kate-nelson-while-you-can-still-afford-it-you-cheap-bastard
-status: publish
 title: buy a Kate Nelson while you can still afford it you cheap bastard
-wordpress_id: '1128'
 categories:
  - art
  - minutia

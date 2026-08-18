@@ -3,7 +3,6 @@ layout: post
 title: "This weekend"
 excerpt: 
 date: 2019-05-12 22:56:48 -0500
-comments: true
 categories: 
 ---
 

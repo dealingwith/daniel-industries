@@ -3,7 +3,6 @@ layout: post
 title: "God only knows what you're missing"
 excerpt: "Howard Ingham's intelligent cultural critique of Dallas' The Polyphonic Spree"
 date: 2018-04-19 09:08:10 -0500
-comments: true
 categories: 
  - elsewhere
  - music

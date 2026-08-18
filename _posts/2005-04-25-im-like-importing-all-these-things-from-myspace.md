@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-25 23:39:00'
 layout: post
 slug: im-like-importing-all-these-things-from-myspace
-status: publish
 title: i'm like importing all these things from myspace...
-wordpress_id: '282'
 ---
 
 myspace and livejournal are both like the nasty bloody car wreck that you can't not rubberneck...

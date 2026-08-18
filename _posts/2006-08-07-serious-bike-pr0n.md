@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-07 20:15:00'
 layout: post
 slug: serious-bike-pr0n
-status: publish
 title: serious bike pr0n
-wordpress_id: '1552'
 categories:
  - bicycling
  - brilliant

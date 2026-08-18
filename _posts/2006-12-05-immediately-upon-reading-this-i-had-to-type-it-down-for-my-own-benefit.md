@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-12-05 01:35:00'
 layout: post
 slug: immediately-upon-reading-this-i-had-to-type-it-down-for-my-own-benefit
-status: publish
 title: immediately upon reading this i had to type it down for my own benefit
-wordpress_id: '1863'
 categories:
  - quotable
 ---

@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2007-05-15 01:00:00'
 layout: post
 slug: links-mp3s-of-the-day
-status: publish
 title: links + mp3s of the day
 categories:
  - meh

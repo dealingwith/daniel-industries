@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-20 07:51:00'
 layout: post
 slug: quote-of-the-day-36
-status: publish
 title: quote of the day
-wordpress_id: '1671'
 categories:
  - quotable
 ---

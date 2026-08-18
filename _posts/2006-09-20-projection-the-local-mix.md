@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-20 13:08:00'
 layout: post
 slug: projection-the-local-mix
-status: publish
 title: 'Projection: The Local Mix'
-wordpress_id: '1672'
 categories:
  - local
  - mp3 of the day

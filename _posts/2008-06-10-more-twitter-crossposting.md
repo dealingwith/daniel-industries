@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-10 01:53:00'
 layout: post
 slug: more-twitter-crossposting
-status: publish
 title: More Twitter Crossposting
-wordpress_id: '3207'
 categories:
  - twitter
 ---

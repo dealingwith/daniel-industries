@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-12-20 18:24:00'
 layout: post
 slug: this-guy-is-a-total-wanker
-status: publish
 title: this guy is a total wanker
-wordpress_id: '1895'
 categories:
  - pet peeves
  - pissing people off

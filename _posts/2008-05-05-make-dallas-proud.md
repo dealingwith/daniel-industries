@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2008-05-05 12:40:00'
 layout: post
 slug: make-dallas-proud

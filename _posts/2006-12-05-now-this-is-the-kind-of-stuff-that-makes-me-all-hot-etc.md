@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-12-05 09:03:00'
 layout: post
 slug: now-this-is-the-kind-of-stuff-that-makes-me-all-hot-etc
-status: publish
 title: now *this* is the kind of stuff that makes me all hot etc
-wordpress_id: '1864'
 categories:
  - art
 ---

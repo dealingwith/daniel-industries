@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2006-01-25 16:35:00'
 layout: post
 slug: how-to-enjoy-corporate-coffee
-status: publish
 title: how to enjoy corporate coffee
 categories:
  - minutia

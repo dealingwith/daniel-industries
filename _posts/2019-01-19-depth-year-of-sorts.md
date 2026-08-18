@@ -3,7 +3,6 @@ layout: post
 title: "Depth year (of sorts)"
 excerpt: 
 date: 2019-01-19 18:30:44 -0600
-comments: true
 categories: 
 ---
 

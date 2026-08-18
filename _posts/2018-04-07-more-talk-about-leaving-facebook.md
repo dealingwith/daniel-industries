@@ -3,7 +3,6 @@ layout: post
 title: "More talk about leaving Facebook"
 excerpt: "When I say there has been a lot of talk..."
 date: 2018-04-07 14:17:14 -0500
-comments: true
 categories: 
  - cal newport quotes
 ---

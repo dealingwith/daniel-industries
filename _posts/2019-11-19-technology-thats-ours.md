@@ -3,7 +3,6 @@ layout: post
 title: "Technology that's ours"
 excerpt: 
 date: 2019-11-19 20:05:57 -0600
-comments: true
 categories: 
 ---
 

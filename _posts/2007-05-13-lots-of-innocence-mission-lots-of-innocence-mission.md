@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-05-13 20:46:00'
 layout: post
 slug: lots-of-innocence-mission-lots-of-innocence-mission
-status: publish
 title: lots of Innocence Mission. lots of Innocence Mission.
-wordpress_id: '2150'
 categories:
  - change
  - life

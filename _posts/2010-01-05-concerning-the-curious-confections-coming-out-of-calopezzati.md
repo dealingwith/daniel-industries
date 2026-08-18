@@ -2,7 +2,6 @@
 date: '2010-01-05 10:07:00'
 layout: post
 slug: concerning-the-curious-confections-coming-out-of-calopezzati
-status: publish
 title: Concerning the Curious Confections Coming out of Calopezzati
 categories:
  - dreams

@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-02-05 12:32:00'
 layout: post
 slug: you-walk-back-outside-feeling-like-you-just-gave-blood-or-something-lightheaded-from-citizenry
-status: publish
 title: You walk back outside feeling like you just gave blood or something, lightheaded
   from citizenry
-wordpress_id: '2472'
 categories:
  - elsewhere
  - humanity

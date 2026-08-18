@@ -2,7 +2,6 @@
 layout: post
 title: "The Quitter"
 date: 2012-11-30 22:33
-comments: true
 categories: 
 ---
 

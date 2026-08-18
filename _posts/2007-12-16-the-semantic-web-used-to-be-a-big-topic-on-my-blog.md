@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-16 21:43:00'
 layout: post
 slug: the-semantic-web-used-to-be-a-big-topic-on-my-blog
-status: publish
 title: The Semantic Web used to be a big topic on my blog
-wordpress_id: '2408'
 categories:
  - ia
  - ideas

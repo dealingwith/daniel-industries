@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-28 10:41:00'
 layout: post
 slug: through-the-doplar-effect-i-hear-a-faint-follow-meeee
-status: publish
 title: Through the doplar effect I hear a faint "follow meeee!"
-wordpress_id: '1606'
 categories:
  - bicycling
  - brilliant

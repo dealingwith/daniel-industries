@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-07 21:23:00'
 layout: post
 slug: freaking-nailed-it
-status: publish
 title: Freaking Nailed It
-wordpress_id: '2907'
 categories:
  - humanity
  - minutia

@@ -3,7 +3,6 @@ layout: post
 title: "Adam Savage on the Tim Ferriss Podcast"
 excerpt: "Not a regular listener of this podcast, but Adam Savage is amazing"
 date: 2019-09-20 10:47:44 -0500
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-08-28 11:01:00'
 layout: post
 slug: greenbelt-highlights-in-no-particular-order
-status: publish
 title: greenbelt highlights (in no particular order)
-wordpress_id: '2272'
 categories:
  - europe
  - greenbelt

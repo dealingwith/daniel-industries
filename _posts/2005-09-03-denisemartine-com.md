@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-09-03 16:49:00'
 layout: post
 slug: denisemartine-com
-status: publish
 title: denisemartine.com
-wordpress_id: '3165'
 categories:
  - nonlinear
 ---

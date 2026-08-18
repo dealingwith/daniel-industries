@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-22 13:05:00'
 layout: post
 slug: daniel-miller-suddenly-music-man-about-town
-status: publish
 title: Daniel Miller, suddenly music man about town
-wordpress_id: '1514'
 categories:
  - local
  - music

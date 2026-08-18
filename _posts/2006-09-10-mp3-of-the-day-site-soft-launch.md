@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-10 19:33:00'
 layout: post
 slug: mp3-of-the-day-site-soft-launch
-status: publish
 title: mp3 of the day || site soft launch
-wordpress_id: '1643'
 categories:
  - announcements
  - design

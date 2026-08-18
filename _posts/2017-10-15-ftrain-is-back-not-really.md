@@ -3,7 +3,6 @@ layout: post
 title: "Ftrain is back (not really)"
 excerpt: "Our software is bullshit, our literary essays are too long, the good editors all quit or got fired, hardly anyone is experimenting with form in a way that wakes me up..."
 date: 2017-10-15 22:26:09 -0500
-comments: true
 categories: [elsewhere]
 ---
 

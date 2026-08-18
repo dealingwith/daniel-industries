@@ -3,7 +3,6 @@ layout: post
 title: "Pizza and net neutrality"
 excerpt: 'Net neutrality has been explained using pizza at least three times...'
 date: 2017-12-16 08:57:36 -0600
-comments: true
 categories: 
 ---
 

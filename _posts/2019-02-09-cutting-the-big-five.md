@@ -3,7 +3,6 @@ layout: post
 title: "Cutting the Big Five"
 excerpt: "Where a Gizmodo reporter tries to block Facebook, Google, Microsoft, Apple, and Amazon."
 date: 2019-02-09 10:06:13 -0600
-comments: true
 categories: 
 ---
 

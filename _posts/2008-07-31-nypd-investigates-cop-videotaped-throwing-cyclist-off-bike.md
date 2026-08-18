@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-31 11:27:00'
 layout: post
 slug: nypd-investigates-cop-videotaped-throwing-cyclist-off-bike
-status: publish
 title: NYPD Investigates Cop Videotaped Throwing Cyclist Off Bike
-wordpress_id: '2727'
 categories:
  - bicycling
  - troubling

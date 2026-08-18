@@ -3,7 +3,6 @@ layout: post
 title: "Just a bunch of Avdi Grimm quotes"
 excerpt: 
 date: 2018-04-30 20:24:31 -0500
-comments: true
 categories: 
 ---
 

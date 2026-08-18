@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 17:44:00'
 layout: post
 slug: immersivegaming-com
-status: publish
 title: immersivegaming.com
-wordpress_id: '3134'
 categories:
  - nonlinear
 ---

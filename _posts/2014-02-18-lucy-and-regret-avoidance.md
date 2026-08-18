@@ -2,8 +2,8 @@
 layout: post
 title: "Lucy and Regret Avoidance"
 date: 2014-02-18 00:49:23 -0600
-comments: true
-categories: minutia
+categories:
+ - minutia
 ---
 
 [Some perspective]({{site.url}}/2011/08/13/one-year/).

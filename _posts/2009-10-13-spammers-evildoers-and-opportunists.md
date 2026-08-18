@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-10-13 19:09:00'
 layout: post
 slug: spammers-evildoers-and-opportunists
-status: publish
 title: Spammers, Evildoers, and Opportunists
-wordpress_id: '3245'
 categories:
  - design
  - marketing

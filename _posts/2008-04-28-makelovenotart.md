@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-28 15:26:00'
 layout: post
 slug: makelovenotart
-status: publish
 title: MAKELOVENOTART
-wordpress_id: '2608'
 categories:
  - art
 ---

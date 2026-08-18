@@ -3,7 +3,6 @@ layout: post
 title: "Monopolistic Digital Capitalism"
 excerpt: "I don't want to turn this blog into one big quote of hapgood.us. But..."
 date: 2017-01-09 22:04:36 -0600
-comments: true
 categories: 
 ---
 

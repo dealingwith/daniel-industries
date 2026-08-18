@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-06-24 06:42:00'
 layout: post
 slug: more-on-twitter-queue-sighing
-status: publish
 title: More on Twitter (queue sighing)
-wordpress_id: '3241'
 categories:
  - social software
  - twitter

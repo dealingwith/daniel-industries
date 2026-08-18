@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-20 03:59:00'
 layout: post
 slug: oh-dear-lord-of-buzzes-both-chemical-and-medial
-status: publish
 title: Oh Dear Lord of Buzzes both Chemical and Medial
-wordpress_id: '3192'
 categories:
  - branding
  - marketing

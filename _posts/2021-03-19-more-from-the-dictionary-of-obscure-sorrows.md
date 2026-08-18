@@ -3,7 +3,8 @@ layout: post
 title: "More from the dictionary of obscure sorrows"
 excerpt: 
 date: 2021-03-19 21:36:46 -0500
-categories: thoughts
+categories:
+ - thoughts
 ---
 
 **[aftersome](https://www.dictionaryofobscuresorrows.com/post/640050819017867264/aftersome)**

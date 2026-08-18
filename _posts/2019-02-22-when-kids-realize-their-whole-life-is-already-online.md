@@ -3,7 +3,6 @@ layout: post
 title: "When Kids Realize Their Whole Life Is Already Online"
 excerpt: "Fuuuuuu"
 date: 2019-02-22 08:39:07 -0600
-comments: true
 categories: 
 ---
 

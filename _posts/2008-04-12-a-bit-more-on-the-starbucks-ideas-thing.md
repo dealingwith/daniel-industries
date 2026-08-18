@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-12 20:24:00'
 layout: post
 slug: a-bit-more-on-the-starbucks-ideas-thing
-status: publish
 title: '...A bit more on the Starbucks "ideas" thing'
-wordpress_id: '3196'
 categories:
  - branding
  - social software

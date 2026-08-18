@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-15 17:18:00'
 layout: post
 slug: this-is-probably-my-favorite-so-far-a
-status: publish
 title: This is probably my favorite so far (A)
-wordpress_id: '2592'
 categories:
  - imagining
  - kill!

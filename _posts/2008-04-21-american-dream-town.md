@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-21 22:27:00'
 layout: post
 slug: american-dream-town
-status: publish
 title: American Dream Town
-wordpress_id: '2599'
 categories:
  - johnny citizen
  - music

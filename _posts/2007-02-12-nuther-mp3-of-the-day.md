@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-12 17:38:00'
 layout: post
 slug: nuther-mp3-of-the-day
-status: publish
 title: 'nuther mp3 of the day'
-wordpress_id: '1996'
 categories:
  - mp3 of the day
  - over the rhine

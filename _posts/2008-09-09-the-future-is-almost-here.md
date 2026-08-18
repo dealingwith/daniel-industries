@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-09 14:10:00'
 layout: post
 slug: the-future-is-almost-here
-status: publish
 title: The Future is Almost Here
-wordpress_id: '2776'
 categories:
  - art
  - design

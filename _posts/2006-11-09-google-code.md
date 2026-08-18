@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-09 10:07:00'
 layout: post
 slug: google-code
-status: publish
 title: google code
-wordpress_id: '1815'
 categories:
  - code
  - development

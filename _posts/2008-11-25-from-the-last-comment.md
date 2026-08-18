@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-25 10:07:00'
 layout: post
 slug: from-the-last-comment
-status: publish
 title: From the last comment...
-wordpress_id: '2862'
 categories:
  - design
 ---

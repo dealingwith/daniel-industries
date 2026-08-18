@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-01 23:16:00'
 layout: post
 slug: quitters-mix
-status: publish
 title: quitters mix
-wordpress_id: '1800'
 categories:
  - ambition
  - change

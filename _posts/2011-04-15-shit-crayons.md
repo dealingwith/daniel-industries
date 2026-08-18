@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2011-04-15 14:40:00'
 layout: post
 slug: shit-crayons
-status: publish
 title: Shit Crayons
-wordpress_id: '3269'
 categories:
  - nonlinear
 ---

@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2007-01-27 19:09:00'
 layout: post
 slug: i-know-a-lot-about-the-history-of-cleveland-ohio-disasters-that-have-happened-there
-status: publish
 title: I know a lot about the history of Cleveland, Ohio, Disasters that have happened
   there
 categories:

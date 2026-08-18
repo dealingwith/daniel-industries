@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-05-31 11:53:00'
 layout: post
 slug: me-and-you-and-everyone-we-know
-status: publish
 title: Me and You and Everyone We Know
-wordpress_id: '1351'
 categories:
  - elsewhere
  - film

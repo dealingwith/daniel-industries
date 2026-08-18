@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-06-23 16:25:00'
 layout: post
 slug: there-is-something-here
-status: publish
 title: there is something here...
-wordpress_id: '3170'
 categories:
  - nonlinear
 ---

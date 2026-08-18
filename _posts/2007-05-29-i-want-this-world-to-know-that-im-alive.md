@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-05-29 01:12:00'
 layout: post
 slug: i-want-this-world-to-know-that-im-alive
-status: publish
 title: i want this world to know that i'm alive
-wordpress_id: '2169'
 categories:
  - humanity
  - lonely

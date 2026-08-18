@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-09-13 17:06:00'
 layout: post
 slug: staring-at-the-white-box
-status: publish
 title: staring at the white box
-wordpress_id: '562'
 ---
 
 It's not so much about the tangible tools as it is about the almost-tangible

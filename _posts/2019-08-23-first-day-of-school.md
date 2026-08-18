@@ -3,7 +3,6 @@ layout: post
 title: "First day of school"
 excerpt: "All three children started school last Monday"
 date: 2019-08-23 06:04:25 -0500
-comments: true
 categories: 
 ---
 

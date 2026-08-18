@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-13 17:33:00'
 layout: post
 slug: people-from-the-year-1998-be-dammned
-status: publish
 title: people from the year 1998 be dammned!
-wordpress_id: '870'
 categories:
  - design
  - elsewhere

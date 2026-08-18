@@ -3,7 +3,6 @@ layout: post
 title: "The week that was"
 excerpt: "Or the week that wasn't, as the case may be"
 date: 2018-10-06 09:26:52 -0500
-comments: true
 categories: 
   - minutia
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-01 12:38:00'
 layout: post
 slug: living-simply
-status: publish
 title: Living Simply
-wordpress_id: '2425'
 categories:
  - 43 things
  - minutia

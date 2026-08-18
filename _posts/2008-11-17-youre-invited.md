@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-17 23:37:00'
 layout: post
 slug: youre-invited
-status: publish
 title: You're invited
-wordpress_id: '2855'
 categories:
  - minutia
 ---

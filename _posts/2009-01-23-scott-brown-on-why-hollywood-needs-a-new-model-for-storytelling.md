@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-23 20:03:00'
 layout: post
 slug: scott-brown-on-why-hollywood-needs-a-new-model-for-storytelling
-status: publish
 title: Scott Brown on Why Hollywood Needs a New Model for Storytelling
-wordpress_id: '3219'
 categories:
  - ARG
  - art

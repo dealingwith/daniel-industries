@@ -3,7 +3,6 @@ layout: post
 title: "Dieter Rams Documentary"
 excerpt: "OMFG"
 date: 2018-03-31 16:28:53 -0500
-comments: true
 categories: 
 ---
 

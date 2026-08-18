@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-09-04 10:40:00'
 layout: post
 slug: my-conherant-thoughts-on-chrome-having-spent-months-researching-ria-options-would-go-here
-status: publish
 title: My Conherant Thoughts on Chrome, having spent months researching RIA options,
   Would Go Here
-wordpress_id: '2770'
 categories:
  - development
  - geek

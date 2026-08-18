@@ -3,7 +3,6 @@ layout: post
 title: "Jordon Cooper, you will be missed"
 excerpt: "Saskatoon and the Internet lost a great citizen"
 date: 2018-04-22 17:33:43 -0500
-comments: true
 categories: 
 ---
 

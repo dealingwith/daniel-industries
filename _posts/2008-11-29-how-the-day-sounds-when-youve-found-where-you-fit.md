@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-29 09:21:00'
 layout: post
 slug: how-the-day-sounds-when-youve-found-where-you-fit
-status: publish
 title: How the Day Sounds When You've Found Where You Fit
-wordpress_id: '2864'
 categories:
  - 43 things
  - minutia

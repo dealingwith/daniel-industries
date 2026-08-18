@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-02 18:39:00'
 layout: post
 slug: bringing-massive-multiplayer-trans-reality-games-to-android
-status: publish
 title: Bringing “Massive Multiplayer Trans-Reality” Games To Android
-wordpress_id: '3217'
 categories:
  - ARG
  - gaming

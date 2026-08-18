@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-27 15:50:00'
 layout: post
 slug: the-living-room
-status: publish
 title: The Living Room
-wordpress_id: '3214'
 categories:
  - nonlinear
 ---

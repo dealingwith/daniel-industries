@@ -2,7 +2,6 @@
 layout: post
 title: "Today is a Wonderful Day"
 date: 2012-11-12 16:24
-comments: true
 categories: [thoughts, minutia]
 ---
 

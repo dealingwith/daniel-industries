@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-11 13:49:00'
 layout: post
 slug: quote-of-the-day-30
-status: publish
 title: quote of the day
-wordpress_id: '1568'
 categories:
  - brilliant
  - quotable

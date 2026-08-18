@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-27 00:02:00'
 layout: post
 slug: barcamp-texas
-status: publish
 title: BarCamp Texas
-wordpress_id: '2462'
 categories:
  - barcamp
  - brilliant

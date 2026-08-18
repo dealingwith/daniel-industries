@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2006-01-17 10:43:00'
 layout: post
 slug: build-something-of-value-build-something-you-can-point-to-build-something-to-be-proud-of
-status: publish
 title: Build something of value. Build something you can point to. Build something
   to be proud of...
-wordpress_id: '883'
 categories:
  - design
  - elsewhere

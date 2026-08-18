@@ -3,8 +3,8 @@ layout: post
 title: "Demanding Better from Tech"
 excerpt: "This is a false binary: you don’t have to be “protech” or “anti-tech.”"
 date: 2018-03-05 22:38:52 -0600
-comments: true
-categories: elsewhere
+categories:
+ - elsewhere
 ---
 
 [Cory Doctorow: Let's Get Better at Demanding Better from Tech](http://locusmag.com/2018/03/cory-doctorow-lets-get-better-at-demanding-better-from-tech/)

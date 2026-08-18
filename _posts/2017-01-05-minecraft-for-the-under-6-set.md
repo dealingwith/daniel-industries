@@ -3,7 +3,6 @@ layout: post
 title: "Minecraft for the under 6 set"
 excerpt: 
 date: 2017-01-05 07:39:37 -0600
-comments: true
 categories: 
 ---
 

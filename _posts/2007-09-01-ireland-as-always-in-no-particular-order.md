@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-01 11:51:00'
 layout: post
 slug: ireland-as-always-in-no-particular-order
-status: publish
 title: Ireland (as always, in no particular order)
-wordpress_id: '2278'
 categories:
  - europe
  - minutia

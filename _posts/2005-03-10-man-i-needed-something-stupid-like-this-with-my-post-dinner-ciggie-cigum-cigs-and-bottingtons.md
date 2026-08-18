@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2005-03-10 20:19:00'
 layout: post
 slug: man-i-needed-something-stupid-like-this-with-my-post-dinner-ciggie-cigum-cigs-and-bottingtons
-status: publish
 title: man i needed something stupid like this with my post dinner ciggie cig...um
   cigs and bottingtons
-wordpress_id: '220'
 ---
 
 1. YOUR PORN STAR NAME (Name of first pet / Street you live on) Sandy

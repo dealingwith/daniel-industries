@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2015-01-17 14:57:05'
 layout: post
 title: 'Sounds of Penn (11) and Lucy (3) on the trampoline'

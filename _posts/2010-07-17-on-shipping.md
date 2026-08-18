@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-07-17 18:19:00'
 layout: post
 slug: on-shipping
-status: publish
 title: On shipping
-wordpress_id: '3257'
 categories:
  - software
 ---

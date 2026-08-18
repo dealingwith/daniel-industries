@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-23 02:06:00'
 layout: post
 slug: the-archive
-status: publish
 title: The Archive
-wordpress_id: '2753'
 categories:
  - music
  - video

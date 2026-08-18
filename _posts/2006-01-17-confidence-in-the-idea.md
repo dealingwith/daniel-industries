@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-17 16:34:00'
 layout: post
 slug: confidence-in-the-idea
-status: publish
 title: Confidence in the Idea
-wordpress_id: '886'
 categories:
  - ideas
  - thoughts

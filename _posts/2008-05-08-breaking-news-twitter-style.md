@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-08 04:03:00'
 layout: post
 slug: breaking-news-twitter-style
-status: publish
 title: Breaking news, Twitter style
-wordpress_id: '3202'
 categories:
  - twitter
 ---

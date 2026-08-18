@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-02-28 20:05:00'
 layout: post
 slug: more-great-freakin-rapha-video-and-stuff
-status: publish
 title: More Great Freakin' Rapha Video and Stuff
-wordpress_id: '2949'
 categories:
  - bicycling
  - video

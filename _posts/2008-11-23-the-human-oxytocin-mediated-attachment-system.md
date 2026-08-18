@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-23 11:47:00'
 layout: post
 slug: the-human-oxytocin-mediated-attachment-system
-status: publish
 title: The Human Oxytocin Mediated Attachment System
-wordpress_id: '2858'
 categories:
  - humanity
  - psych

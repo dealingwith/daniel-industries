@@ -3,7 +3,6 @@ layout: post
 title: "I was so much older then, I'm younger than that now"
 image: "/assets/2017/09/Image57.jpg"
 date: 2017-09-18 21:35:00 -0500
-comments: true
 categories: 
 ---
 

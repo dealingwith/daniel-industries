@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-02-04 04:40:00'
 layout: post
 slug: little-bit-of-a-crush-on-this-work
-status: publish
 title: Little bit of a Crush on this Work
-wordpress_id: '3221'
 categories:
  - art
  - design

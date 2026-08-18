@@ -3,7 +3,6 @@ layout: post
 title: "Chris Froome's doping"
 excerpt: 
 date: 2017-12-16 08:37:06 -0600
-comments: true
 categories: 
 ---
 

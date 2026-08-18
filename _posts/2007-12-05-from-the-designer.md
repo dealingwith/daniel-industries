@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-05 03:10:00'
 layout: post
 slug: from-the-designer
-status: publish
 title: From the designer
-wordpress_id: '2387'
 categories:
  - design
  - johnny citizen

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-30 01:14:00'
 layout: post
 slug: he-that-is-dead
-status: publish
 title: '...he that is dead...'
-wordpress_id: '2140'
 categories:
  - faithy
  - grief

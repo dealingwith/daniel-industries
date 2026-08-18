@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-03-30 09:58:00'
 layout: post
 slug: motivational-limbo
-status: publish
 title: Motivational Limbo
-wordpress_id: '3069'
 ---
 
 I'm in that place where everything is tolerable but not yet perfect or

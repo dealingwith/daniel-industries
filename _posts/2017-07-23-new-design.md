@@ -3,8 +3,8 @@ layout: post
 title: "New design"
 excerpt: "...same as the old design"
 date: 2017-07-23 15:52:22 -0500
-comments: true
 categories: 
+ - meta
 ---
 
 One thing I do when I'm [feeling down or unmotivated]({{site.url}}/2017/07/22/summertime-blues/), as a form of digital sock drawer organizing, is tweak the design of something, often times this blog. 

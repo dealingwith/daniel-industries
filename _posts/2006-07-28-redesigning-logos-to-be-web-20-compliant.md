@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-28 15:55:00'
 layout: post
 slug: redesigning-logos-to-be-web-20-compliant
-status: publish
 title: redesigning logos to be web 2.0 compliant
-wordpress_id: '1537'
 categories:
  - design
 ---

@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2007-02-08 09:43:00'
 layout: post
 slug: pretty-clear-video-of-what-web-20-is-about

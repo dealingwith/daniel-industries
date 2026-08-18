@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-07-05 08:19:00'
 layout: post
 slug: more-arg-resources
-status: publish
 title: more ARG resources
-wordpress_id: '3159'
 categories:
  - nonlinear
 ---

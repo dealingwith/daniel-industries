@@ -3,8 +3,9 @@ layout: post
 title: "Simple and sweet"
 excerpt: "Here is a reminder: the surest way forward is usually a plain approach done with close attention to detail."
 date: 2017-03-28 00:09:20 -0500
-comments: true
 categories: 
+ - elsewhere
+ - meta
 ---
 
 [Plainness and Sweetness](https://www.frankchimero.com/blog/2017/plainness-and-sweetness/)

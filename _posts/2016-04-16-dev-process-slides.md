@@ -3,7 +3,6 @@ layout: post
 title: "Dev process slides"
 excerpt: Here are the slides from the talk last Wednesday
 date: 2016-04-16 00:17:06 -0500
-comments: true
 categories: 
 ---
 

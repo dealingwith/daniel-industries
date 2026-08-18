@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-11-19 11:28:00'
 layout: post
 slug: tfh-fansite
-status: publish
 title: TFH FANSITE
-wordpress_id: '130'
 ---
 
 In case you didn't know, there is a [Freakin' Hott fansite][1], created

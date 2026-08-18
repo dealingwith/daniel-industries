@@ -3,7 +3,6 @@ layout: post
 title: "Last Night Bus"
 excerpt: Another--her latest--from Vanessa Peters
 date: 2016-12-04 14:01:47 -0600
-comments: true
 categories: 
 ---
 

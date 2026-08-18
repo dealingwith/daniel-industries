@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-10-27 00:11:00'
 layout: post
 slug: rude-pundit-kills-it-over-and-over-and-over
-status: publish
 title: Rude Pundit kills it over and over and over
-wordpress_id: '115'
 ---
 
 [Here's just one sample][1]:

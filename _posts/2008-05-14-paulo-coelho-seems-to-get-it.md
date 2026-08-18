@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-14 20:04:00'
 layout: post
 slug: paulo-coelho-seems-to-get-it
-status: publish
 title: Paulo Coelho seems to get it
-wordpress_id: '2633'
 categories:
  - Integration Research
  - people

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-22 22:02:00'
 layout: post
 slug: my-elbow-seems-to-be-a-popular-photographic-subject-wtf
-status: publish
 title: My Elbow seems to be a popular photographic subject!? WTF?
-wordpress_id: '2313'
 ---
 
 [![][1]][2]

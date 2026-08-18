@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-24 21:39:00'
 layout: post
 slug: ok-fer-reals-this-time
-status: publish
 title: ok fer reals this time
-wordpress_id: '1046'
 categories:
  - elsewhere
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-12 11:45:00'
 layout: post
 slug: mp3s-of-the-day-random
-status: publish
 title: mp3's of the day (random)
-wordpress_id: '1931'
 categories:
  - mp3 of the day
 ---

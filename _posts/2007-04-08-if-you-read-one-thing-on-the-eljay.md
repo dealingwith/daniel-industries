@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-08 00:59:00'
 layout: post
 slug: if-you-read-one-thing-on-the-eljay
-status: publish
 title: if you read one thing on the eljay...
-wordpress_id: '2122'
 categories:
  - art
  - beauty

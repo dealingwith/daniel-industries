@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-04-19 00:45:00'
 layout: post
 slug: stocktake
-status: publish
 title: Stocktake
-wordpress_id: '3071'
 ---
 
 Sometimes I rue the lack of real seasons that our post-agricultural work lives

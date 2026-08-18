@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 21:23:00'
 layout: post
 slug: holy-crap-what-a-rabbithole-right
-status: publish
 title: holy crap what a rabbithole, right?
-wordpress_id: '3149'
 categories:
  - nonlinear
 ---

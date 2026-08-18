@@ -3,7 +3,6 @@ layout: post
 title: "Where do you go when Facebook is gone?"
 excerpt: "There has been a lot of talk about leaving Facebook, something I did two years ago. So how does one find online community post-Facebook?"
 date: 2018-04-06 08:48:01 -0500
-comments: true
 categories: 
 ---
 

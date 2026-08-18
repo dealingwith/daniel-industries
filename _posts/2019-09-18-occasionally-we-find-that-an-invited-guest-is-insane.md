@@ -3,7 +3,6 @@ layout: post
 title: "Occasionally we find that an invited guest is insane"
 excerpt: "This generally cheers us all up"
 date: 2019-09-18 17:02:29 -0500
-comments: true
 categories: 
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: "Lessons learned during the Festive 500"
 excerpt: "I should have written these down as they occurred to me"
 date: 2020-01-06 13:47:10 -0600
-comments: true
 categories: 
 ---
 

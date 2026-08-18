@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2014-12-30 13:39:56'
 layout: post
 title: "We spend a good deal of our time working on code we didn't write for software we didn't create"

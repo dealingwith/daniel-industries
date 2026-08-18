@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-04 19:18:00'
 layout: post
 slug: phrase-of-the-day-4
-status: publish
 title: phrase of the day
-wordpress_id: '1802'
 categories:
  - phrase of the day
 ---

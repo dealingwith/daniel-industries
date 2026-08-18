@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2006-12-21 01:24:00'
 layout: post
 slug: grandma-got-run-over-by-a-reindeer-imagine-if-that-happened-itd-be-so-fucked-up
-status: publish
 title: Grandma got run over by a reindeer. Imagine if that happened? It'd be so fucked
   up.
-wordpress_id: '1897'
 categories:
  - comedy
  - elsewhere

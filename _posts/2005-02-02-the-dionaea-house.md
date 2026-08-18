@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-02-02 11:41:00'
 layout: post
 slug: the-dionaea-house
-status: publish
 title: The Dionaea House
-wordpress_id: '3119'
 categories:
  - nonlinear
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-06-25 16:46:00'
 layout: post
 slug: testing-the-multitude-of-tools
-status: publish
 title: testing / the multitude of tools
-wordpress_id: '3158'
 categories:
  - nonlinear
 ---

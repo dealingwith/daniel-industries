@@ -3,7 +3,6 @@ layout: post
 title: "Portland by bike"
 excerpt: "Path Less Pedaled shows us the best of Portland bike culture"
 date: 2018-10-15 22:47:25 -0500
-comments: true
 categories: 
 ---
 

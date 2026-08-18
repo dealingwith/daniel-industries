@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-04-11 20:02:00'
 layout: post
 slug: escalators
-status: publish
 title: Escalators
-wordpress_id: '2983'
 categories:
  - minutia
  - video
