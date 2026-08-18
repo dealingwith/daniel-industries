@@ -18,9 +18,9 @@
         text-decoration: none;
       }
 
-      .archivecontainer a:hover {
+      /* .archivecontainer a:hover {
         color: var(--highlight);
-      }
+      } */
 
       .archivecontainer a:not(.short_post) {
         font-weight: bold;
@@ -56,7 +56,7 @@
       }
 
       .archivecontainer ul li:hover {
-        border: 1px solid var(--grey);
+        border: 1px dotted var(--text);
       }
 
       .hidden {
@@ -93,6 +93,15 @@
         background: var(--highlight);
       }
 
+      .archive-frequency-chart a:hover .archive-frequency-year,
+      .archive-frequency-chart a:hover .archive-frequency-count {
+        color: var(--highlight);
+      }
+
+      .archive-frequency-chart a:hover .archive-frequency-count {
+        font-weight: bold;
+      }
+
       .archive-frequency-year {
         font-weight: bold;
       }
@@ -117,7 +126,7 @@
       }
 
       .archive-frequency-count {
-        color: var(--grey);
+        color: var(--text);
         font-size: 0.85rem;
         text-align: right;
       }
@@ -129,6 +138,16 @@
 
         .archive-frequency-count {
           font-size: 0.75rem;
+        }
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .archive-frequency-chart a {
+          color: var(--text);
+        }
+
+        .archive-frequency-bar-fill {
+          background: var(--text);
         }
       }
     </style>
