@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2006-06-29 06:43:00'
 layout: post
 title: Emily Edison

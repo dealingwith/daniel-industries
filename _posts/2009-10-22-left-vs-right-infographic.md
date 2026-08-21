@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-10-22 00:05:00'
 layout: post
 slug: left-vs-right-infographic
-status: publish
 title: Left vs Right Infographic
-wordpress_id: '3247'
 categories:
  - design
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-28 16:02:00'
 layout: post
 slug: touchscreen-fun-on-snl
-status: publish
 title: Touchscreen fun on SNL
-wordpress_id: '3216'
 categories:
  - ux
 ---

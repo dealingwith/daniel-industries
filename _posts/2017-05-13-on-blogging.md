@@ -3,7 +3,6 @@ layout: post
 title: "On blogging"
 excerpt: "Blogging about blogging is as old as blogging itself."
 date: 2017-05-13 22:39:47 -0500
-comments: true
 categories: 
 ---
 

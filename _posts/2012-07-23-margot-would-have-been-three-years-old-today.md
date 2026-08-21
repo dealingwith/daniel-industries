@@ -2,7 +2,6 @@
 layout: post
 title: "Margot Would Have Been Three Years Old Today"
 date: 2012-07-23 15:16
-comments: true
 categories: 
 ---
 

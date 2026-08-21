@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-03-10 05:53:00'
 layout: post
 slug: seeing-how-this-will-post-to-my-lj
-status: publish
 title: seeing how this will post to my lj
-wordpress_id: '219'
 ---
 
 I see it puts P tags as well as n's, so you get twice as much space as you

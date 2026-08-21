@@ -3,7 +3,6 @@ layout: post
 title: "Listening Rooms"
 excerpt: "A small room in a back house in an east Dallas neighborhood. Two Englishmen and a Texan."
 date: 2018-10-29 20:34:36 -0500
-comments: true
 categories: 
 ---
 

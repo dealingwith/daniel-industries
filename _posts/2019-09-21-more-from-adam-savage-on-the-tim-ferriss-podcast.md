@@ -3,7 +3,6 @@ layout: post
 title: "More from Adam Savage on the Tim Ferriss Podcast"
 excerpt: "Too much good stuff for just one post"
 date: 2019-09-21 19:51:18 -0500
-comments: true
 categories: 
 ---
 

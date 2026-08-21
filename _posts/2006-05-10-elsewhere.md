@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-05-10 12:42:00'
 layout: post
 slug: elsewhere
-status: publish
 title: elsewhere
-wordpress_id: '1302'
 categories:
  - elsewhere
  - to read

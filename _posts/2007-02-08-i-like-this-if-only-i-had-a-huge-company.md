@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-08 16:11:00'
 layout: post
 slug: i-like-this-if-only-i-had-a-huge-company
-status: publish
 title: i like this. if only i had a huge company ;)
-wordpress_id: '1991'
 categories:
  - corp
  - environment

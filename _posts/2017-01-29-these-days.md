@@ -3,7 +3,6 @@ layout: post
 title: "These days"
 excerpt: "And old school blog post"
 date: 2017-01-29 23:18:07 -0600
-comments: true
 categories: 
 ---
 

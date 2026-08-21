@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-05-09 10:40:00'
 layout: post
 slug: all-software-is-opinionated
-status: publish
 title: All software is opinionated
-wordpress_id: '1299'
 categories:
  - code
  - design

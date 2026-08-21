@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-06 20:58:00'
 layout: post
 slug: in-the-i-didnt-know-i-had-this-track-dept
-status: publish
 title: In the I-Didn't-Know-I-Had-This-Track Dept.
-wordpress_id: '2663'
 categories:
  - mp3 of the day
 ---

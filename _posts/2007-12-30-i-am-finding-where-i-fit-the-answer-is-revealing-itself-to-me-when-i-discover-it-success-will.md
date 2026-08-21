@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2007-12-30 20:49:00'
 layout: post
 slug: i-am-finding-where-i-fit-the-answer-is-revealing-itself-to-me-when-i-discover-it-success-will
-status: publish
 title: I am finding where I fit. The answer is revealing itself to me. When I discover
   it, success will...
-wordpress_id: '2423'
 categories:
  - 43 things
  - aesthetics

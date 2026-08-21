@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-13 16:24:00'
 layout: post
 slug: amazing-tune
-status: publish
 title: amazing tune
-wordpress_id: '1126'
 categories:
  - elsewhere
  - mp3 of the day

@@ -3,7 +3,6 @@ layout: post
 title: "Says it better than I can"
 excerpt: "Jonas Downey of Basecamp takes a sabbatical and thinks deeply on what the web has become"
 date: 2017-12-15 15:18:17 -0600
-comments: true
 categories: 
 ---
 

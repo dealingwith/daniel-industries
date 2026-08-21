@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-12-04 12:03:00'
 layout: post
 slug: more-mp3s-of-the-day
-status: publish
 title: more mp3s of the day
-wordpress_id: '1861'
 categories:
  - elsewhere
  - mp3 of the day

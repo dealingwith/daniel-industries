@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-19 15:53:00'
 layout: post
 slug: frustrations-update
-status: publish
 title: Frustrations (Update)
-wordpress_id: '2718'
 categories:
  - development
  - minutia

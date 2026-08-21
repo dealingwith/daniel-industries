@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-22 13:55:00'
 layout: post
 slug: karadzic-arrested
-status: publish
 title: Karadzic Arrested!
-wordpress_id: '2712'
 categories:
  - humanity
  - miserable

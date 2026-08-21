@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-02 18:31:00'
 layout: post
 slug: mp3otd-jeremy-enigk-live-interview
-status: publish
 title: 'Mp3otD: Jeremy Enigk live + interview'
-wordpress_id: '2767'
 categories:
  - elsewhere
  - mp3 of the day

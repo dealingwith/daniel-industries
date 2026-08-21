@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-24 23:53:00'
 layout: post
 slug: one-really-can-learn-something-new-every-day
-status: publish
 title: One really CAN learn something new every day
-wordpress_id: '2922'
 categories:
  - drinking
 ---

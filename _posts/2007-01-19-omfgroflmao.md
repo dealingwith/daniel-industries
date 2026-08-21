@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-19 17:16:00'
 layout: post
 slug: omfgroflmao
-status: publish
 title: OMFGROFLMAO
-wordpress_id: '1945'
 categories:
  - brilliant
  - elsewhere

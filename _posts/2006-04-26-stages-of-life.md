@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-04-26 10:25:00'
 layout: post
 slug: stages-of-life
-status: publish
 title: stages of life
-wordpress_id: '1269'
 categories:
  - elsewhere
  - quotable

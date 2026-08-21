@@ -4,7 +4,6 @@ title: "What is Minecraft U?"
 image: "/assets/2017/06/minecraftu-video-still.png"
 excerpt: "I played a small part in this little demonstration video."
 date: 2017-06-15 21:07:45 -0500
-comments: true
 categories: 
 ---
 

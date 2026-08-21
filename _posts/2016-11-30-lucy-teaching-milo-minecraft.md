@@ -4,7 +4,6 @@ title: "Lucy teaching Milo Minecraft"
 excerpt: The apple doesn't fall far from the tree...?
 image: "/assets/2016/11/IMG_20161129_202523.jpg"
 date: 2016-11-30 01:12:01 -0600
-comments: true
 categories: 
 ---
 

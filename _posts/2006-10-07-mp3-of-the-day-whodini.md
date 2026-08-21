@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-10-07 19:01:00'
 layout: post
 slug: mp3-of-the-day-whodini
-status: publish
 title: 'mp3 of the day: Whodini'
-wordpress_id: '1732'
 categories:
  - mp3 of the day
  - nostalgia

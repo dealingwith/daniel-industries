@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-12-22 12:57:00'
 layout: post
 slug: not-sure-exactly-what-this-means-but-it-is-def-the-qotd
-status: publish
 title: not sure exactly what this means but it is def the qotd
-wordpress_id: '1901'
 categories:
  - quotable
 ---

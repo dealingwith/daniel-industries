@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-12 02:39:00'
 layout: post
 slug: daniel-miller-white-rock-coffee
-status: publish
 title: Daniel Miller @ White Rock Coffee
-wordpress_id: '2442'
 categories:
  - elsewhere
  - imagining

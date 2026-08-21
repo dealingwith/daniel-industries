@@ -2,7 +2,6 @@
 layout: post
 title: "Slowly Opening the Can of Worms: Editors"
 date: 2012-01-03 12:38
-comments: true
 categories: [development, tools]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Lucy Pearl"
 date: 2011-12-15 21:19
-comments: true
 categories: [minutia, announcements]
 ---
 

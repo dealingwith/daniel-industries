@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 18:46:00'
 layout: post
 slug: regenesis-extended-reality
-status: publish
 title: ReGenesis Extended Reality
-wordpress_id: '3141'
 categories:
  - nonlinear
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-05-12 06:03:00'
 layout: post
 slug: argn-bbc-announces-jamie-kane-beta
-status: publish
 title: 'ARGN: BBC Announces Jamie Kane Beta'
-wordpress_id: '3156'
 categories:
  - nonlinear
 ---

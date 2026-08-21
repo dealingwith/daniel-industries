@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-12-09 22:48:00'
 layout: post
 slug: unsaved-by-the-bell
-status: publish
 title: Unsaved by the Bell
-wordpress_id: '2877'
 categories:
  - fiction
 ---

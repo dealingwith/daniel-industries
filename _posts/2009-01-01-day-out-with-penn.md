@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-01 20:37:00'
 layout: post
 slug: day-out-with-penn
-status: publish
 title: Day out with Penn
-wordpress_id: '2899'
 categories:
  - ice cream
  - minutia

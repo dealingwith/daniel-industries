@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-05 16:25:00'
 layout: post
 slug: wastin-a-little-time
-status: publish
 title: wastin a little time...
-wordpress_id: '248'
 ---
 
 ...by telling you...

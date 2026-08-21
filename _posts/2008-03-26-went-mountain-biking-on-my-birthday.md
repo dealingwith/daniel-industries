@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-26 09:11:00'
 layout: post
 slug: went-mountain-biking-on-my-birthday
-status: publish
 title: Went mountain biking on my birthday
-wordpress_id: '2552'
 categories:
  - bicycling
  - me

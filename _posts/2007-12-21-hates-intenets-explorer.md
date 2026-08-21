@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-21 12:19:00'
 layout: post
 slug: hates-intenets-explorer
-status: publish
 title: Hates Intenets (Explorer)
-wordpress_id: '2415'
 categories:
  - design
  - minutia

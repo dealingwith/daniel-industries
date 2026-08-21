@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-11-26 10:25:00'
 layout: post
 slug: margot-update-from-carissa
-status: publish
 title: Margot Update from Carissa
-wordpress_id: '3045'
 categories:
  - margot
  - minutia

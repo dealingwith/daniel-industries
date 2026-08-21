@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-07 08:48:00'
 layout: post
 slug: johnny-citizen-this-friday
-status: publish
 title: Johnny Citizen this Friday
-wordpress_id: '2436'
 categories:
  - design
  - johnny citizen

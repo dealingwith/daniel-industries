@@ -3,7 +3,6 @@ layout: post
 title: "The children"
 image: "/assets/2017/12/milo1.jpg"
 date: 2017-12-30 11:37:49 -0600
-comments: true
 categories: 
 ---
 

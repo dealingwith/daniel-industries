@@ -3,7 +3,6 @@ layout: post
 title: "Bad design feedback"
 excerpt: "Ad creatives, designers, animators, directors, illustrators and more took time out to dress up their favourite worst feedback from clients"
 date: 2016-05-15 00:28:33 -0500
-comments: true
 categories: 
 ---
 

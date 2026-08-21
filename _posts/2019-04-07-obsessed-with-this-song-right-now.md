@@ -3,7 +3,6 @@ layout: post
 title: "Obsessed with this song right now"
 excerpt: "Down and Out of Time, by Sixpence None the Richer, of all things..."
 date: 2019-04-07 19:17:52 -0500
-comments: true
 categories: 
  - music
  - music reviews

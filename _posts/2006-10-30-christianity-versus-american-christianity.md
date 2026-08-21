@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-10-30 09:24:00'
 layout: post
 slug: christianity-versus-american-christianity
-status: publish
 title: Christianity versus American Christianity
-wordpress_id: '1793'
 categories:
  - faithy
  - quotable

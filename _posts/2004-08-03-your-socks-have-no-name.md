@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-08-03 11:04:00'
 layout: post
 slug: your-socks-have-no-name
-status: publish
 title: Your Socks Have No Name
-wordpress_id: '73'
 ---
 
 It's all that you do that carries you through And the power that you recieve

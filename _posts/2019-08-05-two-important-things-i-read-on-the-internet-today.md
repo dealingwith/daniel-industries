@@ -3,7 +3,6 @@ layout: post
 title: "Two important things I read on the internet today"
 excerpt: "'Reclaim unreasonable software' and 'Hunter S. Thompson on Finding Your Purpose'"
 date: 2019-08-05 23:15:59 -0500
-comments: true
 categories: 
 ---
 

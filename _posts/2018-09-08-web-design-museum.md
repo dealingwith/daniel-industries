@@ -3,7 +3,6 @@ layout: post
 title: "Web Design Museum"
 excerpt: "Follow me down this nostalgic path..."
 date: 2018-09-08 01:02:45 -0500
-comments: true
 categories: 
   - elsewhere
   - design

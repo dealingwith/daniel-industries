@@ -3,7 +3,6 @@ layout: post
 title: "Sunday Morning"
 excerpt: "musings on building things"
 date: 2018-05-06 07:54:59 -0500
-comments: true
 categories: 
  - swim
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "Salim Retrospective"
 excerpt: Last night we went to Salim's birthday retrospective show
 date: 2019-05-05 12:42:23 -0500
-comments: true
 categories: 
 ---
 

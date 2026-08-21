@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2007-05-07 17:38:00'
 layout: post
 slug: the-logic-of-the-incarnation-%e2%80%93-ie-that-something-can-be-present-while-remaining-utterly-unknown
-status: publish
 title: the logic of the incarnation – i.e. that something can be present while remaining
   utterly unknown...
-wordpress_id: '2144'
 categories:
  - faithy
  - truth

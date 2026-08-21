@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-13 20:47:00'
 layout: post
 slug: feed-issues
-status: publish
 title: Feed issues
-wordpress_id: '2749'
 categories:
  - announcements
 ---

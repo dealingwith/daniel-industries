@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-18 11:02:00'
 layout: post
 slug: thoughts-over-coffee-on-a-very-quiet-unhungover-sunday-morning
-status: publish
 title: thoughts over coffee on a very quiet unhungover Sunday morning
-wordpress_id: '2077'
 categories:
  - drinking
  - minutia

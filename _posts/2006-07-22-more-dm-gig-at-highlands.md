@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-22 13:57:00'
 layout: post
 slug: more-dm-gig-at-highlands
-status: publish
 title: more dm gig at highlands
-wordpress_id: '1516'
 categories:
  - imagining
  - me

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-10-07 22:23:00'
 layout: post
 slug: more-on-swim
-status: publish
 title: More on SWIM
-wordpress_id: '3167'
 categories:
  - nonlinear
 ---

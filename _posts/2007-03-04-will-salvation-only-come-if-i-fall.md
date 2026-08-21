@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-04 08:56:00'
 layout: post
 slug: will-salvation-only-come-if-i-fall
-status: publish
 title: Will salvation only come if I fall?
-wordpress_id: '2037'
 categories:
  - mp3 of the day
 ---

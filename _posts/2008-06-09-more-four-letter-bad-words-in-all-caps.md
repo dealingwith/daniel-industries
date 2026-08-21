@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-09 22:39:00'
 layout: post
 slug: more-four-letter-bad-words-in-all-caps
-status: publish
 title: More Four Letter Bad Words in All Caps
-wordpress_id: '2669'
 categories:
  - bullshit
  - geek

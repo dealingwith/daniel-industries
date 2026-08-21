@@ -3,7 +3,6 @@ layout: post
 title: "Galveston"
 excerpt: "We went to Galveston on vacation"
 date: 2018-07-30 21:30:29 -0500
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-21 15:17:00'
 layout: post
 slug: why-are-brands-in-decay
-status: publish
 title: Why Are Brands in Decay?
-wordpress_id: '3190'
 categories:
  - branding
 ---

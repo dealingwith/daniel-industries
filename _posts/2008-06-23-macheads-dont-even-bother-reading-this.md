@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-23 13:40:00'
 layout: post
 slug: macheads-dont-even-bother-reading-this
-status: publish
 title: macheads don't even bother reading this
-wordpress_id: '2676'
 categories:
  - geek
  - minutia

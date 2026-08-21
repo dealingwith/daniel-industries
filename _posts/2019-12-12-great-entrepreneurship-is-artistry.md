@@ -3,7 +3,6 @@ layout: post
 title: "Great entrepreneurship is artistry"
 excerpt: 
 date: 2019-12-12 14:47:04 -0600
-comments: true
 categories: 
 ---
 

@@ -2,7 +2,6 @@
 date: '2010-01-05 22:20:00'
 layout: post
 slug: a-small-creature-trying-to-make-sense-of-a-complex-world-not-constructed-for-it
-status: publish
 title: '...a small creature trying to make sense of a complex world not constructed
   for it'
 categories:

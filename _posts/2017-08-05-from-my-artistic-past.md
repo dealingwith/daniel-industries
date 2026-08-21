@@ -4,7 +4,6 @@ title: "From my artistic past"
 excerpt: "I used to be an artist..."
 image: "/assets/2017/08/Hate-Mail-Flyer.jpg"
 date: 2017-08-05 22:01:56 -0500
-comments: true
 categories: 
   - art
 ---

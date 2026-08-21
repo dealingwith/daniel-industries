@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-13 04:14:00'
 layout: post
 slug: twitter-account-on-ebay
-status: publish
 title: Twitter Account on Ebay
-wordpress_id: '3197'
 categories:
  - twitter
 ---

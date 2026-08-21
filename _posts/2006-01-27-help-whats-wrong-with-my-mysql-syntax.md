@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-27 00:35:00'
 layout: post
 slug: help-whats-wrong-with-my-mysql-syntax
-status: publish
 title: HELP! What's wrong with my MySQL syntax??
-wordpress_id: '929'
 categories:
  - development
  - mysql

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-10 10:51:00'
 layout: post
 slug: writing-code-comments-as-cognitive-emergence
-status: publish
 title: Writing Code Comments as Cognitive Emergence
-wordpress_id: '2701'
 categories:
  - development
  - work

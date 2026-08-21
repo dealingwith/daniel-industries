@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-05 22:21:00'
 layout: post
 slug: carry-on-my-wayward-son-by-little-girl-on-organ
-status: publish
 title: '"Carry On My Wayward Son" by "little girl on organ"'
-wordpress_id: '2474'
 categories:
  - video
 ---

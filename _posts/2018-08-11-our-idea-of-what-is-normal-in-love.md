@@ -3,7 +3,6 @@ layout: post
 title: "Our idea of what is normal in love"
 excerpt: 
 date: 2018-08-11 17:46:57 -0500
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-08-12 05:48:00'
 layout: post
 slug: the-fight-for-simplicity
-status: publish
 title: The fight for simplicity
-wordpress_id: '3242'
 categories:
  - design
  - simplicity

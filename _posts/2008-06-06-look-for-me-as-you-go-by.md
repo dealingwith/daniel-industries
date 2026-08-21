@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-06 20:57:00'
 layout: post
 slug: look-for-me-as-you-go-by
-status: publish
 title: Look for me as you go by.
-wordpress_id: '2662'
 categories:
  - elsewhere
  - imagining

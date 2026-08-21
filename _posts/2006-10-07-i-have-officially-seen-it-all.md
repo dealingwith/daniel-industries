@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-10-07 18:10:00'
 layout: post
 slug: i-have-officially-seen-it-all
-status: publish
 title: I have officially seen it all...
-wordpress_id: '1729'
 categories:
  - elsewhere
  - humanity

@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2007-04-15 19:42:00'
 layout: post
 slug: this-question-concerning-whether-christianity-is-true-is-a-dangerous-one-for-those-who-love-christ
-status: publish
 title: this question concerning whether Christianity is true is a dangerous one for
   those who love Christ
-wordpress_id: '2137'
 categories:
  - elsewhere
  - faithy

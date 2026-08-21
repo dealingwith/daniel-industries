@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-16 11:39:00'
 layout: post
 slug: sure-fatal-doses-of-malcontent-through-osmosis
-status: publish
 title: Sure fatal doses of malcontent through osmosis
-wordpress_id: '2230'
 categories:
  - mp3 of the day
 ---

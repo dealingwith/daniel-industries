@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-14 17:20:00'
 layout: post
 slug: myspace-question
-status: publish
 title: myspace question
-wordpress_id: '1935'
 categories:
  - johnny citizen
  - lazyweb

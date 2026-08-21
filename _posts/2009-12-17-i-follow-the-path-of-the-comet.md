@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-12-17 01:58:00'
 layout: post
 slug: i-follow-the-path-of-the-comet
-status: publish
 title: I follow the path of the comet
-wordpress_id: '3046'
 categories:
  - christmas
  - elsewhere

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-04 10:19:00'
 layout: post
 slug: expedition-bosnia-gnome-sees-bosnia
-status: publish
 title: 'Expedition Bosnia: Gnome sees Bosnia'
-wordpress_id: '1550'
 ---
 
 [![][1]][2]

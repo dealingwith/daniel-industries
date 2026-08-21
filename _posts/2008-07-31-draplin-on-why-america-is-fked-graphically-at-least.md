@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-31 11:19:00'
 layout: post
 slug: draplin-on-why-america-is-fked-graphically-at-least
-status: publish
 title: Draplin on Why America is F**ked, "...graphically, at least."
-wordpress_id: '2726'
 categories:
  - design
  - video

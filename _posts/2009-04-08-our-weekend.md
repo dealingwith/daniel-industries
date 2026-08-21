@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-04-08 16:14:00'
 layout: post
 slug: our-weekend
-status: publish
 title: Our Weekend
-wordpress_id: '2982'
 categories:
  - minutia
  - video

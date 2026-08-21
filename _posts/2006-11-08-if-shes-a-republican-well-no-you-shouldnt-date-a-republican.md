@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-08 09:36:00'
 layout: post
 slug: if-shes-a-republican-well-no-you-shouldnt-date-a-republican
-status: publish
 title: If she's a republican-well, no. You shouldn't date a republican.
-wordpress_id: '2516'
 categories:
  - elsewhere
  - quotable

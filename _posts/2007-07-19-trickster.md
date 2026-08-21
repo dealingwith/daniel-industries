@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-19 15:16:00'
 layout: post
 slug: trickster
-status: publish
 title: trickster
-wordpress_id: '2235'
 categories:
  - personal notes
  - trickster

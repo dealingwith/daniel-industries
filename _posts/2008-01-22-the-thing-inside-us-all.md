@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-22 00:54:00'
 layout: post
 slug: the-thing-inside-us-all
-status: publish
 title: The thing inside us all......
-wordpress_id: '2457'
 categories:
  - elsewhere
  - imagining

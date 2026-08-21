@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-08-25 20:10:00'
 layout: post
 slug: should-there-be-a-unified-set-of-styles-for-web-interfaces
-status: publish
 title: Should There Be a Unified Set of Styles For Web Interfaces?
-wordpress_id: '3243'
 categories:
  - branding
  - cms

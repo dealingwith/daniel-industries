@@ -3,7 +3,6 @@ layout: post
 title: "IAmMeshing"
 excerpt: "Whether the IAmEsh Collective was messing with us or not will forever remain unclear"
 date: 2017-08-25 18:51:31 -0500
-comments: true
 categories: 
 ---
 

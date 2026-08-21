@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-05-01 13:29:00'
 layout: post
 slug: theres-somting-to-this-whole-surveys-about-oneself-ting
-status: publish
 title: THERE'S SOMTING TO THIS WHOLE SURVEYS ABOUT ONESELF TING
-wordpress_id: '39'
 ---
 
 whats up now?

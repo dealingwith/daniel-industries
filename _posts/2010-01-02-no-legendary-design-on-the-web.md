@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-01-02 00:03:00'
 layout: post
 slug: no-legendary-design-on-the-web
-status: publish
 title: No legendary design on the web?
-wordpress_id: '3251'
 categories:
  - art
  - design

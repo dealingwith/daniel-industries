@@ -3,7 +3,6 @@ layout: post
 title: "The most appropriate Thanksgiving song"
 excerpt: "...happens to be by a friend of mine"
 date: 2016-11-24 15:04:18 -0600
-comments: true
 categories: 
 ---
 

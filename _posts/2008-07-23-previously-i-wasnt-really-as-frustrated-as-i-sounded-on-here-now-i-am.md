@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-23 11:19:00'
 layout: post
 slug: previously-i-wasnt-really-as-frustrated-as-i-sounded-on-here-now-i-am
-status: publish
 title: Previously, I wasn't really as frustrated as I sounded on here. Now I am.
-wordpress_id: '2720'
 categories:
  - development
  - minutia

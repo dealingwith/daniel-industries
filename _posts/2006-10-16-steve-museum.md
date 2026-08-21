@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2006-10-16 21:46:00'
 layout: post
 slug: steve-museum

@@ -3,7 +3,6 @@ layout: post
 title: "What is Facebook?"
 excerpt: ".../me waves hands..."
 date: 2018-05-02 22:01:51 -0500
-comments: true
 categories: 
 ---
 

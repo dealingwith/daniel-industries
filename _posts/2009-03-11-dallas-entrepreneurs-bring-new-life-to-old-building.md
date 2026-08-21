@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-03-11 11:06:00'
 layout: post
 slug: dallas-entrepreneurs-bring-new-life-to-old-building
-status: publish
 title: Dallas Entrepreneurs Bring New Life to Old Building
-wordpress_id: '2957'
 categories:
  - design
  - local

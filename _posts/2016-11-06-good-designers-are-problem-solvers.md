@@ -3,7 +3,6 @@ layout: post
 title: "Good designers are primarily problem solvers"
 excerpt: "They seek to understand the purpose, audience, technical parameters, and strategic nuances of an assignment before reaching for their Moleskine sketchpads or going to town in Photoshop."
 date: 2016-11-06 22:03:29 -0600
-comments: true
 categories: 
 ---
 

@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2010-01-20 07:09:00'
 layout: post
 slug: chief-taste-officer-i-like-the-sound-of-that-maybe-benevolent-dictator-of-design
-status: publish
 title: '"Chief Taste Officer" -- I like the sound of that -- maybe "Benevolent Dictator
   of Design"'
-wordpress_id: '3252'
 categories:
  - design
  - ux

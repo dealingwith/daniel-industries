@@ -3,7 +3,6 @@ layout: post
 title: "Getting out of the way"
 excerpt: '"If our managing principle is trust and not control, then our people matter more than our processes do."'
 date: 2017-03-03 21:22:42 -0600
-comments: true
 categories: 
 ---
 

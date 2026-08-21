@@ -2,7 +2,6 @@
 layout: post
 title: "Rate of Change, Part 1: Contentment"
 date: 2012-03-15 07:58
-comments: true
 categories: [minutia, thoughts, motivation]
 ---
 

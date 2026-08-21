@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-31 11:48:00'
 layout: post
 slug: constraints-in-my-own-words
-status: publish
 title: 'constraints: in my own words'
-wordpress_id: '941'
 categories:
  - constraints
  - design

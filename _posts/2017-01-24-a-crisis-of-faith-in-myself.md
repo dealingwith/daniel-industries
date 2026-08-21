@@ -3,7 +3,6 @@ layout: post
 title: "A crisis of faith (in myself)"
 excerpt: "I wonder what was that world I was dreaming of?"
 date: 2017-01-24 06:51:00 -0600
-comments: true
 categories: 
  - minutia
 ---

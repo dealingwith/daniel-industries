@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-12-05 13:55:00'
 layout: post
 slug: open-source-code-library-developers-and-publishers-of-the-world
-status: publish
 title: 'open source code library developers and publishers of the world:'
-wordpress_id: '777'
 categories:
  - code
 ---

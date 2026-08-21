@@ -2,7 +2,6 @@
 date: '2008-02-29 18:54:00'
 layout: post
 slug: well-this-is-interesting
-status: publish
 title: Well THIS is interesting,
 categories:
  - art

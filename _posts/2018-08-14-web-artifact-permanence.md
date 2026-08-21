@@ -3,7 +3,6 @@ layout: post
 title: "Web Artifact Permanence"
 excerpt: "What are our best options for preservation?"
 date: 2018-08-14 14:23:17 -0500
-comments: true
 categories: 
  - swim
  - nonlinear

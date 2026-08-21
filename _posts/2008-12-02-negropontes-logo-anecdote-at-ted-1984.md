@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-12-02 16:09:00'
 layout: post
 slug: negropontes-logo-anecdote-at-ted-1984
-status: publish
 title: Negroponte's Logo Anecdote at TED 1984
-wordpress_id: '2871'
 categories:
  - psych
  - video

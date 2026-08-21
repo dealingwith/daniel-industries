@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-09 21:35:00'
 layout: post
 slug: kemmelberg
-status: publish
 title: Kemmelberg
-wordpress_id: '2668'
 categories:
  - bicycling
  - imagining

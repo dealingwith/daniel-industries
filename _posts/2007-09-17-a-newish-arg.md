@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-17 05:24:00'
 layout: post
 slug: a-newish-arg
-status: publish
 title: A New(ish) ARG
-wordpress_id: '3183'
 categories:
  - ARG
 ---

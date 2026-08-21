@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-06-01 21:27:00'
 layout: post
 slug: words-quote-geek-out
-status: publish
 title: words, quote, geek out
-wordpress_id: '1352'
 categories:
  - quotable
  - word of the day

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-07 12:19:00'
 layout: post
 slug: 5-secrets-to-success
-status: publish
 title: 5 secrets to success
-wordpress_id: '2119'
 categories:
  - elsewhere
  - life

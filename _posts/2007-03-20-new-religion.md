@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-20 22:07:00'
 layout: post
 slug: new-religion
-status: publish
 title: new religion
-wordpress_id: '2086'
 categories:
  - aesthetics
  - art

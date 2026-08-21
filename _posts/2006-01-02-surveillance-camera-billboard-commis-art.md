@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-02 23:01:00'
 layout: post
 slug: surveillance-camera-billboard-commis-art
-status: publish
 title: Surveillance Camera Billboard Commis Art
-wordpress_id: '832'
 ---
 
 [![][1]][2]

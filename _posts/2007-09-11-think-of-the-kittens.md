@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-11 08:01:00'
 layout: post
 slug: think-of-the-kittens
-status: publish
 title: think of the kittens
-wordpress_id: '2296'
 categories:
  - meta
 ---

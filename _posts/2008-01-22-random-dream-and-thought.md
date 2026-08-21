@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-22 15:29:00'
 layout: post
 slug: random-dream-and-thought
-status: publish
 title: Random dream and thought.
-wordpress_id: '2458'
 categories:
  - bicycling
  - dreams

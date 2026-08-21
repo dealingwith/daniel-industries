@@ -3,8 +3,9 @@ layout: post
 title: "Creative Engineers + etc"
 excerpt: 
 date: 2017-12-31 18:15:14 -0600
-comments: true
 categories: 
+ - elsewhere
+ - software
 ---
 
 I'm finally revisiting some older notes I took for this blog. Here are some of them.

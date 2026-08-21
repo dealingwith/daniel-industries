@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-04-11 14:34:00'
 layout: post
 slug: quote-of-the-day-this-is-not-directed-towards-anyone-fer-reals
-status: publish
 title: quote of the day -- this is not directed towards anyone, fer reals!
-wordpress_id: '1224'
 categories:
  - quotable
 ---

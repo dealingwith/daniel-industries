@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-11 18:52:00'
 layout: post
 slug: this-episode-of-theshow-is-a-particularly-good-idea
-status: publish
 title: this episode of theshow is a particularly good idea
-wordpress_id: '1485'
 categories:
  - brilliant
  - elsewhere

@@ -2,7 +2,6 @@
 date: '2008-02-25 13:52:00'
 layout: post
 slug: the-gap-between-the-artists-and-the-real-estate-developers-has-gotten-very-small-in-our-modern-times
-status: publish
 title: the gap between the artists and the real estate developers has gotten very small in our modern times
 categories:
  - art

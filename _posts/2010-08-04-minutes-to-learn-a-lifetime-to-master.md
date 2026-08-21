@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-08-04 22:43:00'
 layout: post
 slug: minutes-to-learn-a-lifetime-to-master
-status: publish
 title: Minutes to learn. A lifetime to master.
-wordpress_id: '3261'
 categories:
  - design
  - people

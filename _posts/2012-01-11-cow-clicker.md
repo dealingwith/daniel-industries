@@ -2,7 +2,6 @@
 layout: post
 title: "The Cows Got Raptured"
 date: 2012-01-11 14:02
-comments: true
 categories: 
 - nonlinear
 - design

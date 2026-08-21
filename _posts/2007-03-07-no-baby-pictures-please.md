@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-07 17:14:00'
 layout: post
 slug: no-baby-pictures-please
-status: publish
 title: No baby pictures, please
-wordpress_id: '2050'
 categories:
  - comedy
  - elsewhere

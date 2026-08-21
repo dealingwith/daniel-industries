@@ -2,7 +2,6 @@
 layout: post
 title: "Bret Victor - Inventing on Principle"
 date: 2012-09-30 20:38
-comments: true
 categories: [tech, inspiration]
 ---
 

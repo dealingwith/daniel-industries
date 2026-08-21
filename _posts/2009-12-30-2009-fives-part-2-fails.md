@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-12-30 23:30:00'
 layout: post
 slug: 2009-fives-part-2-fails
-status: publish
 title: '2009 Fives, Part 2: Fails'
-wordpress_id: '3056'
 categories:
  - 2009fives
  - art

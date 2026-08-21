@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-11 13:54:00'
 layout: post
 slug: generational-theater
-status: publish
 title: Generational Theater
-wordpress_id: '2745'
 categories:
  - art
 ---

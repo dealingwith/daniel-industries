@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-22 23:41:00'
 layout: post
 slug: announcing-sugarfilled
-status: publish
 title: 'Announcing: Sugarfilled'
-wordpress_id: '3191'
 categories:
  - about
  - branding

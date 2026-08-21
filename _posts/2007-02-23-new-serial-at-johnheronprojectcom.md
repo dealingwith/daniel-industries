@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-23 10:16:00'
 layout: post
 slug: new-serial-at-johnheronprojectcom
-status: publish
 title: new serial at johnheronproject.com
-wordpress_id: '2520'
 categories:
  - elsewhere
  - writing

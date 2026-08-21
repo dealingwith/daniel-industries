@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-01-12 02:46:00'
 layout: post
 slug: crossinspace
-status: publish
 title: CROSS...IN...SPACE!
-wordpress_id: '145'
 ---
 
 > News Flash, launch date set for January 26, 2005! Glory

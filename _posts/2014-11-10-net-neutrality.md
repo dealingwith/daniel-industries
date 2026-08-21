@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2014-11-10 17:37:50'
 layout: post
 title: 'Net Neutrality'

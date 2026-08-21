@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-30 21:46:00'
 layout: post
 slug: cory-doctorow-a-singular-metaphor
-status: publish
 title: 'Cory Doctorow: A Singular Metaphor'
-wordpress_id: '2610'
 categories:
  - art
  - concept of the day

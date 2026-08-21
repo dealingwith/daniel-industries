@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-08 10:34:00'
 layout: post
 slug: espresso-cups-serving-another-puprose
-status: publish
 title: Espresso cups serving another puprose
-wordpress_id: '2775'
 categories:
  - imagining
  - minutia

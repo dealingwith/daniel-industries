@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-03 14:30:00'
 layout: post
 slug: dinner-with-lauren-mclaughlin
-status: publish
 title: Dinner with Lauren McLaughlin
-wordpress_id: '2687'
 categories:
  - quotable
  - to read

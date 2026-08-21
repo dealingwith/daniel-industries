@@ -3,7 +3,6 @@ layout: post
 title: "Ethan Hawke Is Still Taking Ethan Hawke Extremely Seriously"
 excerpt: "I always appreciate a long NYC piece on one of my favorite actors"
 date: 2018-09-09 05:48:16 -0500
-comments: true
 categories: 
 ---
 

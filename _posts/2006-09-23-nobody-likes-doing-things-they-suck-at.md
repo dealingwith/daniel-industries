@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-23 09:17:00'
 layout: post
 slug: nobody-likes-doing-things-they-suck-at
-status: publish
 title: nobody likes doing things they suck at
-wordpress_id: '1683'
 categories:
  - quotable
 ---

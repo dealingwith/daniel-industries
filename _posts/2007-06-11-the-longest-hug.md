@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-06-11 13:55:00'
 layout: post
 slug: the-longest-hug
-status: publish
 title: The Longest Hug
-wordpress_id: '2197'
 categories:
  - quotable
 ---

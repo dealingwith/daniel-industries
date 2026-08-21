@@ -3,7 +3,6 @@ layout: post
 title: "Dallas Startup Modern Message Set to Expand with $2M Investment"
 excerpt: "The company I work for just raised some money..."
 date: 2017-06-23 12:49:46 -0500
-comments: true
 categories: 
 ---
 

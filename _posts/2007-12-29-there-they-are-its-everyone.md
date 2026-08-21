@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-29 11:14:00'
 layout: post
 slug: there-they-are-its-everyone
-status: publish
 title: There they are, it's everyone...
-wordpress_id: '2421'
 categories:
  - minutia
  - miranda july

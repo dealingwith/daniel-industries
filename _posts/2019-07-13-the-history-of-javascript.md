@@ -3,7 +3,6 @@ layout: post
 title: "The history of Javascript"
 excerpt: "Is such a nostalgic trip for me, and helps me understand my own career path"
 date: 2019-07-13 09:35:06 -0500
-comments: true
 categories:
 ---
 

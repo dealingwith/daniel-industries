@@ -3,7 +3,6 @@ layout: post
 title: "Decentralized middlemen and dynamic systems"
 excerpt: '"It feels like a bug that we are making new businesses that look like such old businesses"'
 date: 2016-06-28 20:27:41 -0500
-comments: true
 categories: 
 ---
 

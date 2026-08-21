@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-05-22 15:05:00'
 layout: post
 slug: tracking-moods-on-twitter
-status: publish
 title: Tracking Moods on Twitter
-wordpress_id: '3236'
 categories:
  - art
  - design

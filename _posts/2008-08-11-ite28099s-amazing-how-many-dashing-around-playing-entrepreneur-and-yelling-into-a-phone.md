@@ -1,8 +1,6 @@
 ---
-author: dealingwith
 date: '2008-08-11 10:19:00'
 layout: post
-status: publish
 title: "It's amazing how many sociopaths are out there dashing around, playing
 entrepreneur, and yelling into a phone"
 categories:

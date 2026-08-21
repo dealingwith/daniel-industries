@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2011-01-22 01:00:00'
 layout: post
 slug: new-danielsjourney
-status: publish
 title: New danielsjourney
-wordpress_id: '3266'
 categories:
  - nonlinear
 ---

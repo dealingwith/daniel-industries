@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-08 10:00:00'
 layout: post
 slug: learning-to-wait-from-the-new-open-office
-status: publish
 title: Learning to Wait
-wordpress_id: '1990'
 categories:
  - faithy
  - oddities

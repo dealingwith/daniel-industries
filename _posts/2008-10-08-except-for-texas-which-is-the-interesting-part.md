@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-08 09:16:00'
 layout: post
 slug: except-for-texas-which-is-the-interesting-part
-status: publish
 title: except for Texas, which is the interesting part
-wordpress_id: '2816'
 categories:
  - elsewhere
  - quotable

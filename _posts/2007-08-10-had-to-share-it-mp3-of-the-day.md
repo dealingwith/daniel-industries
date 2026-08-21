@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-08-10 18:25:00'
 layout: post
 slug: had-to-share-it-mp3-of-the-day
-status: publish
 title: had to share it (mp3 of the day)
-wordpress_id: '2255'
 categories:
  - local
  - mp3 of the day

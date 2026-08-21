@@ -3,7 +3,6 @@ layout: post
 title: "We have given the world over to a handful of types of minds"
 excerpt: "...and with their great power they will determine things well beyond their experience, their education, their concern"
 date: 2016-11-04 23:11:29 -0500
-comments: true
 categories: 
 ---
 

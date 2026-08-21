@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-12 21:57:00'
 layout: post
 slug: updated-danielsjourney
-status: publish
 title: Updated danielsjourney
-wordpress_id: '2532'
 categories:
  - announcements
  - art

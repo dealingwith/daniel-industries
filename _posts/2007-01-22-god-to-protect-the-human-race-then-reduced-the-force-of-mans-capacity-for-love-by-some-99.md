@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2007-01-22 12:16:00'
 layout: post
 slug: god-to-protect-the-human-race-then-reduced-the-force-of-mans-capacity-for-love-by-some-99
-status: publish
 title: God, to protect the human race, then reduced the force of man's capacity for
   love by some 99%
-wordpress_id: '1949'
 categories:
  - elsewhere
  - love

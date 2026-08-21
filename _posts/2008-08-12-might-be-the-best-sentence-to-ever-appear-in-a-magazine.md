@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2008-08-12 10:44:00'
 layout: post
 slug: might-be-the-best-sentence-to-ever-appear-in-a-magazine

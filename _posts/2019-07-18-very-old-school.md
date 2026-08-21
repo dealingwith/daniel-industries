@@ -3,7 +3,6 @@ layout: post
 title: "very old school"
 excerpt: 
 date: 2019-07-18 08:16:29 -0500
-comments: true
 categories: 
 ---
 

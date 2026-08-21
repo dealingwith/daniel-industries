@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-10-22 04:16:00'
 layout: post
 slug: buffy-shmuffy
-status: publish
 title: buffy shmuffy!
-wordpress_id: '109'
 ---
 
 now [this][1] is a vampire thing i can get into!

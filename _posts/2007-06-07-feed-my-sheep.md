@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-06-07 21:20:00'
 layout: post
 slug: feed-my-sheep
-status: publish
 title: Feed My Sheep
-wordpress_id: '2188'
 categories:
  - art
  - faithy

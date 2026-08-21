@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-21 13:34:00'
 layout: post
 slug: tom-conlon-apr-20-dallas-house-concert
-status: publish
 title: Tom Conlon Apr 20 Dallas House Concert
-wordpress_id: '2598'
 categories:
  - local
  - music

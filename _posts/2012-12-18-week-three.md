@@ -2,7 +2,6 @@
 layout: post
 title: "Week Three"
 date: 2012-12-18 07:10
-comments: true
 categories: 
  - minutia
  - weeknotes

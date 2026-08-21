@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-17 11:44:00'
 layout: post
 slug: muto-a-wall-painted-animation-by-blu
-status: publish
 title: MUTO a wall-painted animation by BLU
-wordpress_id: '2639'
 categories:
  - art
  - brilliant

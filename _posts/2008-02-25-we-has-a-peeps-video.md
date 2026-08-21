@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-25 15:51:00'
 layout: post
 slug: we-has-a-peeps-video
-status: publish
 title: we has a peeps video
-wordpress_id: '2501'
 categories:
  - sugarfilled
  - video

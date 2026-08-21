@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-23 11:37:00'
 layout: post
 slug: there-are-as-many-approaches-to-a-user-interface-as-there-are-users
-status: publish
 title: there are as many approaches to a user interface as there are users
-wordpress_id: '906'
 categories:
  - design
  - ui

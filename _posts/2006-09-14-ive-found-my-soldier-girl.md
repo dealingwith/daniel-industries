@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-09-14 07:46:00'
 layout: post
 slug: ive-found-my-soldier-girl
-status: publish
 title: i've found my soldier girl
-wordpress_id: '1653'
 ---
 
 [![][1]][2]

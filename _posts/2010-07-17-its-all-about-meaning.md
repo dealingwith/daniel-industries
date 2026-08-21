@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-07-17 18:34:00'
 layout: post
 slug: its-all-about-meaning
-status: publish
 title: It's All About Meaning
-wordpress_id: '3258'
 categories:
  - cognition
  - meaning

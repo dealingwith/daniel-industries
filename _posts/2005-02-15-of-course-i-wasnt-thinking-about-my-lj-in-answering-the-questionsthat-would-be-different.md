@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2005-02-15 00:43:00'
 layout: post
 slug: of-course-i-wasnt-thinking-about-my-lj-in-answering-the-questionsthat-would-be-different
-status: publish
 title: of course i wasn't thinking about my LJ in answering the questions...that would
   be different
-wordpress_id: '185'
 ---
 
 **You Are a Pundit Blogger!**

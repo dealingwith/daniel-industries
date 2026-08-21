@@ -3,7 +3,6 @@ layout: post
 title: "Stop resenting developers"
 excerpt: 
 date: 2017-12-20 09:33:40 -0600
-comments: true
 categories: 
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: "Essential Phone"
 excerpt: "In which I buy a new phone"
 date: 2017-12-13 00:05:41 -0600
-comments: true
 categories: 
  - minutia
  - reviews

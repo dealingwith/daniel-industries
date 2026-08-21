@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-29 11:48:00'
 layout: post
 slug: eleisha-eagle
-status: publish
 title: Eleisha Eagle
-wordpress_id: '1850'
 categories:
  - elsewhere
  - music

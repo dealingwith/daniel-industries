@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-06-22 04:01:00'
 layout: post
 slug: this-has-nothing-to-do-with-anything-except-really-amazing-design
-status: publish
 title: This has nothing to do with anything except really amazing design
-wordpress_id: '3239'
 categories:
  - art
  - branding

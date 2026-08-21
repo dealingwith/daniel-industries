@@ -2,7 +2,6 @@
 layout: post
 title: "Lucy's First Birthday Party"
 date: 2012-12-09 05:34
-comments: true
 categories: [minutia, Lucy]
 ---
 

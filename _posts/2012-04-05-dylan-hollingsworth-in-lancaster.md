@@ -2,7 +2,6 @@
 layout: post
 title: "Dylan Hollingsworth in Lancaster"
 date: 2012-04-05 09:29
-comments: true
 categories: [elsewhere, tornados]
 ---
 

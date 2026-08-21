@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-03-05 09:00:00'
 layout: post
 slug: z15-intelligence-agency-journal
-status: publish
 title: z15 intelligence agency
-wordpress_id: '95'
 categories:
  - nonlinear
 ---

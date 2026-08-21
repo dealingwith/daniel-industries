@@ -3,7 +3,6 @@ layout: post
 title: "Essential Update"
 excerpt: "Yesterday, the day Android Pie was released, I was pushed an update to Pie on my Essential Phone"
 date: 2018-08-07 06:12:05 -0500
-comments: true
 categories: 
 ---
 

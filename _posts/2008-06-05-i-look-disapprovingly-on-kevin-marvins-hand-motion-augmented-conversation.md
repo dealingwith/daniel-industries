@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-05 18:33:00'
 layout: post
 slug: i-look-disapprovingly-on-kevin-marvins-hand-motion-augmented-conversation
-status: publish
 title: I Look Disapprovingly on Kevin Marvin's Hand-motion-augmented Conversation
-wordpress_id: '2661'
 categories:
  - elsewhere
  - imagining

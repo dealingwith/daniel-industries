@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-19 23:10:00'
 layout: post
 slug: in-case-i-havent-pimped-joshua-allens-latest-brilliance-wiretap-follies
-status: publish
 title: In case I haven't pimped Joshua Allen's latest brilliance, Wiretap Follies
-wordpress_id: '2822'
 categories:
  - brilliant
  - elsewhere

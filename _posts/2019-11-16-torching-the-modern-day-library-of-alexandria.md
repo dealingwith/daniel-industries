@@ -3,7 +3,6 @@ layout: post
 title: "somewhere at Google there is a database containing 25-million books and nobody is allowed to read them"
 excerpt: 
 date: 2019-11-16 23:09:46 -0600
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-02-07 22:03:00'
 layout: post
 slug: pavlog-grring-and-nomming
-status: publish
 title: Pavlog Grring and Nomming
-wordpress_id: '2935'
 categories:
  - pavlov
  - video

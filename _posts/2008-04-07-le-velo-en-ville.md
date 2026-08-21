@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-07 19:58:00'
 layout: post
 slug: le-velo-en-ville
-status: publish
 title: Le vélo en ville
-wordpress_id: '2573'
 categories:
  - bicycling
 ---

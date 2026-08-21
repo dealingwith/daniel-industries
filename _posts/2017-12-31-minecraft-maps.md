@@ -3,7 +3,6 @@ layout: post
 title: "Minecraft Maps"
 excerpt: "Maps from Minecraft games I play"
 date: 2017-12-31 00:15:10 -0600
-comments: true
 categories: 
 ---
 

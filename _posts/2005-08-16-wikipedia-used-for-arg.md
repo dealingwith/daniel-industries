@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-08-16 15:24:00'
 layout: post
 slug: wikipedia-used-for-arg
-status: publish
 title: Wikipedia used for ARG
-wordpress_id: '3163'
 categories:
  - nonlinear
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-01 16:04:00'
 layout: post
 slug: new-ours-record-tour-free-mp3s
-status: publish
 title: New Ours record, tour, free mp3s
-wordpress_id: '2684'
 categories:
  - elsewhere
  - mp3 of the day

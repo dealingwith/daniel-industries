@@ -3,7 +3,6 @@ layout: post
 title: "Halloween"
 excerpt: 
 date: 2019-11-01 16:44:35 -0500
-comments: true
 categories: 
 ---
 

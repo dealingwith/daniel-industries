@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-24 16:29:00'
 layout: post
 slug: a-newish-danielsjourney
-status: publish
 title: A newish danielsjourney
-wordpress_id: '2314'
 categories:
  - announcements
  - design

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-09 18:46:00'
 layout: post
 slug: rapper-changes-name-to-the-dan-miller-experience
-status: publish
 title: Rapper changes name to "The" Dan Miller Experience
-wordpress_id: '2439'
 categories:
  - elsewhere
  - minutia

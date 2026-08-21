@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-06 21:14:00'
 layout: post
 slug: justin-timberlake-my-love
-status: publish
 title: Justin Timberlake - My Love
-wordpress_id: '1807'
 categories:
  - music
  - video

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-03-24 17:38:00'
 layout: post
 slug: omg-omg-omg-post-8
-status: publish
 title: OMG OMG OMG POST 8
-wordpress_id: '30'
 ---
 
 So I was in 7-11, the one behind Publix on Hillborough and Federal Highway,

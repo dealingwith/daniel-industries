@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2007-01-11 01:32:00'
 layout: post
 slug: songstowearpantsto
-status: publish
 title: songstowearpantsto
 categories:
  - elsewhere

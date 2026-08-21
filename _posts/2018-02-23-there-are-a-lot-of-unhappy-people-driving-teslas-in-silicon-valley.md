@@ -3,7 +3,6 @@ layout: post
 title: "There are a lot of unhappy people driving Teslas in Silicon Valley"
 excerpt: 
 date: 2018-02-23 06:36:04 -0600
-comments: true
 categories: 
 ---
 

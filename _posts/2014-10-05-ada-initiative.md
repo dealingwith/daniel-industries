@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2014-10-05 17:53:57'
 layout: post
 title: 'Ada Initiative'

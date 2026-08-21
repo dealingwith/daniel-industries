@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-28 14:04:00'
 layout: post
 slug: penn-skins-his-knee
-status: publish
 title: Penn skins his knee
-wordpress_id: '2681'
 categories:
  - imagining
  - minutia

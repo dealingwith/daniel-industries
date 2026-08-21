@@ -3,7 +3,6 @@ layout: post
 title: "More podcasts"
 excerpt: "...worth your time"
 date: 2018-01-31 21:38:17 -0600
-comments: true
 categories: 
 ---
 

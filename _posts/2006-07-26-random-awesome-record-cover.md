@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-26 14:46:00'
 layout: post
 slug: random-awesome-record-cover
-status: publish
 title: random awesome record cover
-wordpress_id: '1528'
 categories:
  - design
  - imagining

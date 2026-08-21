@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-30 11:38:00'
 layout: post
 slug: yourfixie
-status: publish
 title: yourfixie
-wordpress_id: '2764'
 categories:
  - bicycling
  - elsewhere

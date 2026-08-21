@@ -2,7 +2,9 @@
 layout: post
 title: "Overwhelmed by Management"
 date: 2013-09-10 23:41
-categories: minutia, thoughts
+categories: 
+  - minutia
+  - thoughts
 ---
 
 Somehow in the last 9-10 months I've gone from managing (seemingly) almost nothing to managing (seemingly) _everything_. This had made me feel very old. Like somehow one hits some age where one looks around and realizes _no one is in control here_ and instead of continuing about one's life one _takes control_. And it all feels very overwhelming. I am now in a job with more responsibility (which, yea!), part (most?) of which is managing (three! just three people! it's _so_ much of my time). I manage the family finances. I plan and execute vacations. I am producing and releasing a record (_way_ more work--when you're doing it entirely on your own--than most people realize). I am managing a Minecraft server for a handful of 9 year old boys (which, _OMFG!_). I organize a _weekly bike ride_ from a _Facebook group_ that I'm trying to form into a _proper road bicycle club_. I'd like to actually _blog_ more than once a month! My [read later](http://www.instapaper.com/) queue, for goodness sake.

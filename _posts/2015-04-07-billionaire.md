@@ -2,7 +2,8 @@
 layout: post
 title: "The billionaire's typewriter"
 date: 2015-04-07 16:24:54 -0500
-categories: elsewhere
+categories:
+ - elsewhere
 ---
 
 > In truth, Medium's main product is not a publishing platform, but the production of a publishing platform. This production brings readers and writers onto the site. This, in turn, generates the usage data that's valuable to advertisers. Boiled down, Medium is simply marketing in the service of more marketing. It is not a "place for ideas." It is a place for advertisers. It is, therefore, utterly superfluous...

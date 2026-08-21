@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-13 16:16:00'
 layout: post
 slug: more-twitter-stuff
-status: publish
 title: More Twitter stuff!
-wordpress_id: '3189'
 categories:
  - ambient
  - twitter

@@ -2,7 +2,6 @@
 layout: post
 title: "Rate of Change Part 3: Intention and Habit"
 date: 2012-04-16 15:56
-comments: true
 categories: [minutia, thoughts, motivation]
 ---
 

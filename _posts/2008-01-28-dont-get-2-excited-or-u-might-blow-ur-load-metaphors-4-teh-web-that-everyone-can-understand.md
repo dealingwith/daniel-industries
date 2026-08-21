@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-01-28 12:56:00'
 layout: post
 slug: dont-get-2-excited-or-u-might-blow-ur-load-metaphors-4-teh-web-that-everyone-can-understand
-status: publish
 title: 'Don''t get 2 excited or U might blow UR load: metaphors 4 teh web that everyone
   can understand'
-wordpress_id: '2464'
 categories:
  - sex
  - technology

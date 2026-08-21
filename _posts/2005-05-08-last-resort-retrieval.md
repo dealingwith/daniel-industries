@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-05-08 04:50:00'
 layout: post
 slug: last-resort-retrieval
-status: publish
 title: Last Resort Retrieval
-wordpress_id: '3151'
 categories:
  - nonlinear
 ---

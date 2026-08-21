@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2007-08-10 16:51:00'
 layout: post
 slug: if-we-have-a-child-and-the-rats-do-not-eat-it-first-i-will-teach-her-or-him-to-fear-sting
-status: publish
 title: If we have a child and the rats do not eat it first I will teach her (or him)
   to fear Sting.
-wordpress_id: '2252'
 categories:
  - brilliant
  - elsewhere

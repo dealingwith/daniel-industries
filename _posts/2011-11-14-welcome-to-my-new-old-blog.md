@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to my new old blog"
 date: 2011-11-14 18:40
-comments: true
-categories: [Minutia, Colophon]
+categories:
+  - meta
 ---
 
 Hi. I'm Daniel. I've run a blog of some sort or another since 2001. I was originally on Blogger, then Moveable Type, then a little piece of software I wrote myself called SWIM. Then I ran away from what I considered "normal" blogging and was hiding away on LiveJournal for a while.

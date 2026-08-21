@@ -3,7 +3,6 @@ layout: post
 title: "Watch the K Foundation Burn a Million Quid"
 excerpt: '"In which two art-world provocateurs fly to Scotland and burn through a record amount of cash in just two hours"'
 date: 2018-07-29 18:39:34 -0500
-comments: true
 categories: 
  - elsewhere
 ---

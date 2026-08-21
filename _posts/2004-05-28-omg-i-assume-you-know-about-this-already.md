@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-05-28 23:08:00'
 layout: post
 slug: omg-i-assume-you-know-about-this-already
-status: publish
 title: OMG I ASSUME YOU KNOW ABOUT THIS ALREADY
-wordpress_id: '49'
 ---
 
 An [academic conference in Nashville][1] will have [190 papers][2] presented

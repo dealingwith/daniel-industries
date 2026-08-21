@@ -3,7 +3,6 @@ layout: post
 title: "Over the Rhine"
 excerpt: 
 date: 2018-04-29 09:46:53 -0500
-comments: true
 categories: 
  - minutia
  - music

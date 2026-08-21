@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 17:37:00'
 layout: post
 slug: immersion-museum
-status: publish
 title: Immersion Museum
-wordpress_id: '3133'
 categories:
  - nonlinear
 ---

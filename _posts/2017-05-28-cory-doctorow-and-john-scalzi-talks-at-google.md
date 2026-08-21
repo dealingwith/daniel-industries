@@ -3,7 +3,6 @@ layout: post
 title: "Cory Doctorow and John Scalzi"
 excerpt: "Talk at Google"
 date: 2017-05-28 20:42:56 -0500
-comments: true
 categories: 
 ---
 

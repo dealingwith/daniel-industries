@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-14 17:52:00'
 layout: post
 slug: all-safe-for-work
-status: publish
 title: all safe for work!!
-wordpress_id: '1498'
 categories:
  - comedy
  - elsewhere

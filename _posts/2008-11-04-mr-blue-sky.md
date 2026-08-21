@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-04 23:45:00'
 layout: post
 slug: mr-blue-sky
-status: publish
 title: Mr Blue Sky
-wordpress_id: '2843'
 categories:
  - elsewhere
  - humanity

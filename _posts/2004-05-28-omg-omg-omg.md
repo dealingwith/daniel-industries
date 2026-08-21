@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-05-28 22:54:00'
 layout: post
 slug: omg-omg-omg
-status: publish
 title: OMG OMG OMG
-wordpress_id: '48'
 ---
 
 D

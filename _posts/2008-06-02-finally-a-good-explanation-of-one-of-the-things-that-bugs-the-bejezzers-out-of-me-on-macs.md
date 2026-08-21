@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-06-02 07:25:00'
 layout: post
 slug: finally-a-good-explanation-of-one-of-the-things-that-bugs-the-bejezzers-out-of-me-on-macs
-status: publish
 title: Finally a good explanation of one of the things that bugs the bejezzers out
   of me on Macs
-wordpress_id: '2658'
 categories:
  - geek
  - mac and cheese

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-03-16 12:41:00'
 layout: post
 slug: happy-birthday-www
-status: publish
 title: Happy Birthday WWW
-wordpress_id: '2961'
 categories:
  - people
  - to read

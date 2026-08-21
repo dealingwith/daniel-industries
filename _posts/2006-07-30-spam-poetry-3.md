@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-30 14:25:00'
 layout: post
 slug: spam-poetry-3
-status: publish
 title: spam poetry
-wordpress_id: '1542'
 categories:
  - spam awesomeness
 ---

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-05 02:34:00'
 layout: post
 slug: nonpareil
-status: publish
 title: nonpareil
-wordpress_id: '1130'
 categories:
  - mp3 of the day
  - music

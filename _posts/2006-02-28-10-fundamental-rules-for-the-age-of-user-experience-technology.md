@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-02-28 20:35:00'
 layout: post
 slug: 10-fundamental-rules-for-the-age-of-user-experience-technology
-status: publish
 title: 10 fundamental rules for the age of user experience technology
-wordpress_id: '1058'
 categories:
  - design
  - ux

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-22 15:14:00'
 layout: post
 slug: id-like-the-3-rawhide-meal-super-sized
-status: publish
 title: '"I''d like the #3 Rawhide meal, super sized."'
-wordpress_id: '2797'
 categories:
  - imagining
  - pavlov

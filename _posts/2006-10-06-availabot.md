@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-10-06 11:07:00'
 layout: post
 slug: availabot
-status: publish
 title: availabot
-wordpress_id: '1725'
 categories:
  - geek
  - ideas

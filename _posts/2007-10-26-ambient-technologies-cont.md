@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-10-26 02:26:00'
 layout: post
 slug: ambient-technologies-cont
-status: publish
 title: Ambient? ("...Technologies" ...cont)
-wordpress_id: '3185'
 categories:
  - ambient
 ---

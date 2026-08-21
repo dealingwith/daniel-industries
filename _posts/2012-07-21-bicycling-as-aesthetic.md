@@ -2,7 +2,8 @@
 layout: post
 title: "Bicycling as an Aesthetic and Ascetic Pursuit"
 date: 2012-07-21 15:34
-categories: bicycling
+categories:
+ - bicycling
 ---
 
 [![Photo by Jered Gruber](http://farm8.staticflickr.com/7228/7302666568_cf537411be_z.jpg)](http://www.flickr.com/photos/smashred/7302666568/in/faves-dealingwith/)

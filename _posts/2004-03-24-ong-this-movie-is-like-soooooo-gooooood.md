@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-03-24 17:35:00'
 layout: post
 slug: ong-this-movie-is-like-soooooo-gooooood
-status: publish
 title: ONG THIS MOVIE IS LIKE SOOOOOO GOOOOOOD
-wordpress_id: '29'
 ---
 
 So I'm waiting for this blogspot blog to load and it is like OMG SO slow.

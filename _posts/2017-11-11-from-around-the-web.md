@@ -3,7 +3,8 @@ layout: post
 title: "From Around the Web"
 excerpt: 
 date: 2017-11-11 14:52:38 -0600
-categories: elsewhere
+categories:
+ - elsewhere
 ---
 
 Follow up on the [last one]({{site.url}}/2017/11/04/from-around-the-web/):

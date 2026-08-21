@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-13 18:56:00'
 layout: post
 slug: ed-shaughnessy-sing-sing-sing
-status: publish
 title: Ed Shaughnessy - Sing sing sing
-wordpress_id: '2783'
 categories:
  - drums
  - nostalgia

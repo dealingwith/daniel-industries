@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-13 11:11:00'
 layout: post
 slug: emergent-play-through-music-in-lord-of-the-rings-online
-status: publish
 title: Emergent Play Through Music in Lord of the Rings Online
-wordpress_id: '2447'
 categories:
  - art
  - Integration Research

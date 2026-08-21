@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-28 14:03:00'
 layout: post
 slug: daniel-and-nephew-cade-playing-catch-with-hackey-sack
-status: publish
 title: Daniel and nephew, Cade, playing catch with hackey sack
-wordpress_id: '2680'
 categories:
  - imagining
  - minutia

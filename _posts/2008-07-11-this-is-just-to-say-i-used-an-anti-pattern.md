@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-11 16:35:00'
 layout: post
 slug: this-is-just-to-say-i-used-an-anti-pattern
-status: publish
 title: This Is Just To Say, I Used An Anti-Pattern
-wordpress_id: '2704'
 categories:
  - cartoon of the day
  - concept of the day

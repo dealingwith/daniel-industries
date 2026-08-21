@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-04-24 12:34:00'
 layout: post
 slug: if-youre-chatting-up-a-girl-the-last-thing-you-want-to-talk-about-is-the-other-girls-youve-dated
-status: publish
 title: If you're chatting up a girl, the last thing you want to talk about is the
   other girls you've dated
-wordpress_id: '2603'
 categories:
  - design
  - quotable

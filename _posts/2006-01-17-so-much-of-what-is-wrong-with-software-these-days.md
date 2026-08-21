@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-17 14:56:00'
 layout: post
 slug: so-much-of-what-is-wrong-with-software-these-days
-status: publish
 title: So much of what is wrong with software these days...
-wordpress_id: '885'
 categories:
  - design
  - software

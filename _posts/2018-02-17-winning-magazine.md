@@ -3,7 +3,6 @@ layout: post
 title: "Winning Magazine"
 excerpt: "I finally got around to scanning pages from my old Winning Magazine collection"
 date: 2018-02-17 19:55:17 -0600
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-30 13:45:00'
 layout: post
 slug: could-not-say-it-better-myself
-status: publish
 title: Could not say it better myself...
-wordpress_id: '2326'
 categories:
  - elsewhere
  - minutia

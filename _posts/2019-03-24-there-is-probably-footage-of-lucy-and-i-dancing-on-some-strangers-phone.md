@@ -3,7 +3,6 @@ layout: post
 title: "There is probably footage of Lucy and I dancing on some strangers phone"
 excerpt: 
 date: 2019-03-24 18:58:16 -0500
-comments: true
 categories: 
 ---
 

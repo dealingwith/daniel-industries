@@ -3,7 +3,6 @@ layout: post
 title: "Why Are Maker Schedules So Rare?"
 excerpt: '"...almost no organizations support maker schedules"'
 date: 2017-04-06 07:21:59 -0500
-comments: true
 categories: 
  - cal newport quotes
 ---

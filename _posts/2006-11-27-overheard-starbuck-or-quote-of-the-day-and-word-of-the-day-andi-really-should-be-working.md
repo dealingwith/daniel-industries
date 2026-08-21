@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2006-11-27 23:24:00'
 layout: post
 slug: overheard-starbuck
-status: publish
 title: overheard starbuck
 categories:
  - quotable

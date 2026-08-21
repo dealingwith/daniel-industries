@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-23 14:17:00'
 layout: post
 slug: landis-wins
-status: publish
 title: Landis wins
-wordpress_id: '1524'
 categories:
  - bicycling
  - brilliant

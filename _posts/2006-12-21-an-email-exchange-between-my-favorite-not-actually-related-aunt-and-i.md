@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-12-21 20:05:00'
 layout: post
 slug: an-email-exchange-between-my-favorite-not-actually-related-aunt-and-i
-status: publish
 title: an email exchange between my favorite (not-actually-related) aunt and i
-wordpress_id: '1898'
 categories:
  - me
  - minutia

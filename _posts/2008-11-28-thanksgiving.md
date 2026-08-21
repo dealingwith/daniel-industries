@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-28 12:23:00'
 layout: post
 slug: thanksgiving
-status: publish
 title: Thanksgiving
-wordpress_id: '2863'
 categories:
  - bicycling
  - minutia

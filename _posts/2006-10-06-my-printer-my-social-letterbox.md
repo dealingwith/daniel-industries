@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-10-06 11:19:00'
 layout: post
 slug: my-printer-my-social-letterbox
-status: publish
 title: My printer, my social letterbox
-wordpress_id: '1726'
 categories:
  - brain
  - elsewhere

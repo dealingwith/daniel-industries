@@ -3,7 +3,6 @@ layout: post
 title: "Random Weblog"
 excerpt: "Articles and podcasts"
 date: 2019-04-02 23:00:12 -0500
-comments: true
 categories: 
 ---
 

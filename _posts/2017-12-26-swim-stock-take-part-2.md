@@ -3,7 +3,6 @@ layout: post
 title: "SWIM stock-take part 2"
 excerpt: "A brief history of a product"
 date: 2017-12-26 22:43:03 -0600
-comments: true
 categories: 
  - swim
  - nonlinear

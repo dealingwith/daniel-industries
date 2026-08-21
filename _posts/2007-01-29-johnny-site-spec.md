@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-29 17:31:00'
 layout: post
 slug: johnny-site-spec
-status: publish
 title: johnny-site-spec
-wordpress_id: '1973'
 categories:
  - johnny citizen
  - music

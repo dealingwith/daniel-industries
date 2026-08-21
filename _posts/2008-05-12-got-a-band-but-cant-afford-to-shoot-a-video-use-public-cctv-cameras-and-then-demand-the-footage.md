@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2008-05-12 16:53:00'
 layout: post
 slug: got-a-band-but-cant-afford-to-shoot-a-video-use-public-cctv-cameras-and-then-demand-the-footage
-status: publish
 title: Got a band but can't afford to shoot a video? Use public CCTV cameras and then
   demand the footage!
-wordpress_id: '2630'
 categories:
  - brilliant
  - Integration Research

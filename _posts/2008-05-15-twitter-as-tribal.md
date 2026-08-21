@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-05-15 05:16:00'
 layout: post
 slug: twitter-as-tribal
-status: publish
 title: Twitter as Tribal
-wordpress_id: '3203'
 categories:
  - twitter
 ---

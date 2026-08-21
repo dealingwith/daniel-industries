@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-12 15:43:00'
 layout: post
 slug: this-is-good-for-you
-status: publish
 title: '"This is good for you"'
-wordpress_id: '1932'
 categories:
  - elsewhere
  - illustration

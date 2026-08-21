@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-05-09 15:43:00'
 layout: post
 slug: grokker-a-new-way-to-look-at-search
-status: publish
 title: Grokker - A New Way to Look at Search
-wordpress_id: '3153'
 categories:
  - nonlinear
 ---

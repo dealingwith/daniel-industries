@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2014-10-28 00:16:38'
 layout: post
 title: 'Bike commute'

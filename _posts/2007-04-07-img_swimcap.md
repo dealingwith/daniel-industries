@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-07 17:42:00'
 layout: post
 slug: img_swimcap
-status: publish
 title: img_swimcap
-wordpress_id: '2128'
 categories:
  - elsewhere
  - imagining

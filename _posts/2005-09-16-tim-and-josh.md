@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-09-16 13:22:00'
 layout: post
 slug: tim-and-josh
-status: publish
 title: tim and josh
-wordpress_id: '571'
 ---
 
 [![][1]][2]

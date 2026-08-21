@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2014-12-11 21:57:17'
 layout: post
 title: 'Legendary Crystal Chandelier - Million Miserable People'

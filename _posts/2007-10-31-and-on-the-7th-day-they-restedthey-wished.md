@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-10-31 13:54:00'
 layout: post
 slug: and-on-the-7th-day-they-restedthey-wished
-status: publish
 title: '...and on the 7th day they rested...(they wished...)'
-wordpress_id: '2352'
 categories:
  - announcements
  - elsewhere

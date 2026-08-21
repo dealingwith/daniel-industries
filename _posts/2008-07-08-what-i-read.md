@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-08 17:47:00'
 layout: post
 slug: what-i-read
-status: publish
 title: What I Read
-wordpress_id: '2698'
 categories:
  - development
  - geek

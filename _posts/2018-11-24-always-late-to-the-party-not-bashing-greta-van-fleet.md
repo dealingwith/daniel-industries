@@ -3,7 +3,6 @@ layout: post
 title: "Always late to the party: (not) bashing Greta Van Fleet"
 excerpt: "I finally read the famous Pitchfork review"
 date: 2018-11-24 11:31:42 -0600
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-16 11:55:00'
 layout: post
 slug: wont-you-come-in-and-stay-for-a-while
-status: publish
 title: Won't you come in and stay for a while
-wordpress_id: '1941'
 categories:
  - faithy
  - music

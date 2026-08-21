@@ -1,12 +1,9 @@
 ---
-author: dealingwith
 date: '2006-06-30 14:00:00'
 layout: post
 slug: spains-ongoing-doping-investigation-turned-into-an-executioner-friday-at-the-tour-de-france
-status: publish
 title: Spain's ongoing doping investigation turned into an executioner Friday at the
   Tour de France...
-wordpress_id: '1460'
 categories:
  - bicycling
  - elsewhere

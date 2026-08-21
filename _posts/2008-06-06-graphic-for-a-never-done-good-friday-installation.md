@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-06 21:15:00'
 layout: post
 slug: graphic-for-a-never-done-good-friday-installation
-status: publish
 title: Graphic for a Never-Done Good Friday Installation
-wordpress_id: '2664'
 categories:
  - art
  - faithy

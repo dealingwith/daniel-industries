@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-04-20 16:50:00'
 layout: post
 slug: write-some-new-code-go-for-coffee-all-of-sudden-youve-got-old-code
-status: publish
 title: Write some new code. Go for coffee. All of sudden you've got old code.
-wordpress_id: '1252'
 categories:
  - code
  - design

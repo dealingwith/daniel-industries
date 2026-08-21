@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-11 22:22:00'
 layout: post
 slug: danielson
-status: publish
 title: DANIELSON!!
-wordpress_id: '1481'
 categories:
  - brilliant
  - danielson

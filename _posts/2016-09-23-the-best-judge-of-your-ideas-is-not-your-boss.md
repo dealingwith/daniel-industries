@@ -3,7 +3,6 @@ layout: post
 title: "The best judge of your ideas is not your boss"
 excerpt: As a job requires more convergent thinking, you lose your ability to predict success
 date: 2016-09-23 00:00:58 -0500
-comments: true
 categories: 
 ---
 

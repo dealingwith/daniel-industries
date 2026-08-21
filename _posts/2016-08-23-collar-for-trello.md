@@ -3,7 +3,6 @@ layout: post
 title: "Collar for Trello"
 excerpt: I wrote my first Chrome extension.
 date: 2016-08-23 21:31:55 -0500
-comments: true
 categories: 
 ---
 

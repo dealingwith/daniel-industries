@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-31 10:43:00'
 layout: post
 slug: conways-law
-status: publish
 title: Conway's Law
-wordpress_id: '940'
 categories:
  - personal notes
  - word of the day

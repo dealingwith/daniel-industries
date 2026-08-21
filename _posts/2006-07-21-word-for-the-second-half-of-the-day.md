@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-21 12:52:00'
 layout: post
 slug: word-for-the-second-half-of-the-day
-status: publish
 title: word for the second half of the day
-wordpress_id: '1510'
 categories:
  - word of the day
 ---

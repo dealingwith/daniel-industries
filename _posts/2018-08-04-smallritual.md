@@ -3,7 +3,6 @@ layout: post
 title: "Smallritual"
 excerpt: 
 date: 2018-08-04 09:20:29 -0500
-comments: true
 categories: 
  - elsewhere
 ---

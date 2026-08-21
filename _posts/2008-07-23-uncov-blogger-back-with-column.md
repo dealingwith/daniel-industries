@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-23 10:32:00'
 layout: post
 slug: uncov-blogger-back-with-column
-status: publish
 title: Uncov blogger back with column
-wordpress_id: '2719'
 categories:
  - brilliant
  - comedy

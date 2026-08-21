@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-22 03:47:00'
 layout: post
 slug: real-snail-mail
-status: publish
 title: Real Snail Mail
-wordpress_id: '3209'
 categories:
  - ambient
  - art

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-07-20 18:53:00'
 layout: post
 slug: bacn-and-toast-in-realtime
-status: publish
 title: Bacn and Toast in Realtime
-wordpress_id: '3259'
 categories:
  - design
  - real-time web

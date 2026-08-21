@@ -3,7 +3,6 @@ layout: post
 title: "In Defense of Design Thinking"
 excerpt: "Khoi Vinh's speaker notes"
 date: 2018-08-12 09:26:18 -0500
-comments: true
 categories: 
 ---
 

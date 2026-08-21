@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-05-10 01:29:00'
 layout: post
 slug: i-wont-be-the-one-to-disappoint-you-anymore
-status: publish
 title: I won't be the one to disappoint you anymore
-wordpress_id: '2147'
 categories:
  - minutia
  - mp3 of the day

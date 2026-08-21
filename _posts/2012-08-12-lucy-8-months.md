@@ -2,7 +2,6 @@
 layout: post
 title: "Lucy: 8 Months"
 date: 2012-08-12 13:58
-comments: true
 categories: [lucy, minutia]
 ---
 

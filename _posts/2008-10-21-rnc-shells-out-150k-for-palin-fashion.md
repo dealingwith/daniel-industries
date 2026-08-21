@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-21 23:48:00'
 layout: post
 slug: rnc-shells-out-150k-for-palin-fashion
-status: publish
 title: RNC shells out $150K for Palin fashion
-wordpress_id: '2828'
 categories:
  - wankers
 ---

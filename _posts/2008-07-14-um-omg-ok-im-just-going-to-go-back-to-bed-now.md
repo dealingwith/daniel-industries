@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-14 16:15:00'
 layout: post
 slug: um-omg-ok-im-just-going-to-go-back-to-bed-now
-status: publish
 title: UM OMG ok I'm just going to go back to bed now
-wordpress_id: '2707'
 categories:
  - art
  - brilliant

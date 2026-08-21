@@ -3,7 +3,6 @@ layout: post
 title: "Three podcasts"
 excerpt: 
 date: 2019-08-11 16:53:41 -0500
-comments: true
 categories: 
 ---
 

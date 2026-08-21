@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-01-29 03:44:00'
 layout: post
 slug: corner-of-the-street
-status: publish
 title: Corner-of-the-Street
-wordpress_id: '3253'
 categories:
  - twitter
 ---

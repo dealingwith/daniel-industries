@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-09-23 23:12:00'
 layout: post
 slug: grandfather
-status: publish
 title: Grandfather
-wordpress_id: '2802'
 categories:
  - brilliant
  - imagining

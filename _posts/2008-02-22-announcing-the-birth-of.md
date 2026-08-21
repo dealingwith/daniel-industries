@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-22 18:10:00'
 layout: post
 slug: announcing-the-birth-of
-status: publish
 title: Announcing the birth of...
-wordpress_id: '2498'
 categories:
  - announcements
 ---

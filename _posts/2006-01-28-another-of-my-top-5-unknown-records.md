@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-28 18:03:00'
 layout: post
 slug: another-of-my-top-5-unknown-records
-status: publish
 title: another of my top 5 unknown records*
-wordpress_id: '935'
 categories:
  - music
 ---

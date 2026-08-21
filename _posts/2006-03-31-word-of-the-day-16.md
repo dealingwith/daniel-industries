@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-31 20:14:00'
 layout: post
 slug: word-of-the-day-16
-status: publish
 title: word of the day
-wordpress_id: '1169'
 categories:
  - imagining
  - music

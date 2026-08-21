@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-05-08 16:47:00'
 layout: post
 slug: argn-ares-station-completes-its-mission
-status: publish
 title: 'ARGN: Ares Station Completes Its Mission'
-wordpress_id: '3152'
 categories:
  - nonlinear
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "Facebook Fueled Anti-Refugee Attacks in Germany"
 excerpt: "Wherever per-person Facebook use rose to one standard deviation above the national average, attacks on refugees increased by about 50 percent"
 date: 2018-09-05 07:55:50 -0500
-comments: true
 categories: 
 ---
 

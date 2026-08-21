@@ -3,7 +3,6 @@ layout: post
 title: "Why Dallas musician Vanessa Peters couldn't write love songs for her latest album"
 excerpt: "Great article title from Guide Live so I just stole it in its entirety"
 date: 2018-12-01 13:45:01 -0600
-comments: true
 categories: 
   - elsewhere
   - quotable

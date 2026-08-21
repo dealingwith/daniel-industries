@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-02-02 10:42:00'
 layout: post
 slug: teds-caving-page
-status: publish
 title: Ted's caving page.
-wordpress_id: '3118'
 categories:
  - nonlinear
 ---

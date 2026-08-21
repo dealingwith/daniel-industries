@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-10 13:01:00'
 layout: post
 slug: ive-totally-been-having-this-problem-lately
-status: publish
 title: I've totally been having this problem lately
-wordpress_id: '2578'
 categories:
  - elsewhere
  - life

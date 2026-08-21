@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-22 15:19:00'
 layout: post
 slug: velodrome
-status: publish
 title: Velodrome
-wordpress_id: '2311'
 categories:
  - bicycling
  - imagining

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-12-15 12:30:00'
 layout: post
 slug: any-bigger-spam
-status: publish
 title: Any Bigger spam
-wordpress_id: '2404'
 categories:
  - comedy
  - elsewhere

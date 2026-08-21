@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-01-31 11:39:00'
 layout: post
 slug: i-would-actually-like-you-to-be-so-jealous-you-hate-me
-status: publish
 title: i would actually like you to be so jealous you hate me
-wordpress_id: '1979'
 categories:
  - consumption
  - cool

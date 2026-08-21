@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-30 11:18:00'
 layout: post
 slug: fish-creek-church
-status: publish
 title: Fish Creek Church
-wordpress_id: '2763'
 categories:
  - elsewhere
  - imagining

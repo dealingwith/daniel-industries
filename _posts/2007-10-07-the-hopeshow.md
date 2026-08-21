@@ -11,8 +11,6 @@ categories:
  - local
  - podcast
  - technology
- - the new thing
- - to checkout
  - vblog
  - video
  - work

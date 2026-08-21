@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-22 12:09:00'
 layout: post
 slug: in-the-middle-of-our-street-plus-showers-and-peeing-outside
-status: publish
 title: '...in the middle of our street. Plus: showers. And: peeing outside.'
-wordpress_id: '2673'
 categories:
  - minutia
 ---

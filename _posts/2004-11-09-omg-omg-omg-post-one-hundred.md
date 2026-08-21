@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-11-09 01:45:00'
 layout: post
 slug: omg-omg-omg-post-one-hundred
-status: publish
 title: OMG OMG OMG POST ONE HUNDRED!!!!!!!!!!!!!!!!!!!!
-wordpress_id: '122'
 ---
 
 ![You are Sir Bedevere! Wise and creative, you are able to counsel others as

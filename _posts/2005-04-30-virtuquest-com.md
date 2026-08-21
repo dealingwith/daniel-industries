@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 18:20:00'
 layout: post
 slug: virtuquest-com
-status: publish
 title: VirtuQuest.Com
-wordpress_id: '3137'
 categories:
  - nonlinear
 ---

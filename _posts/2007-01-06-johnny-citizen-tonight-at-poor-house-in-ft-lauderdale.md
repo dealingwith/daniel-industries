@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2007-01-06 18:35:00'
 layout: post
 slug: johnny-citizen-tonight-at-poor-house-in-ft-lauderdale
-status: publish
 title: Johnny Citizen tonight at Poor House in Ft Lauderdale
 categories:
  - announcements

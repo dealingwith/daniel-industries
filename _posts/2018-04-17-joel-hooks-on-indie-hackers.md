@@ -3,7 +3,6 @@ layout: post
 title: "Joel Hooks on Indie Hackers"
 excerpt: "Friend and former coworker Joel Hooks recently gave an interview on Indie Hackers"
 date: 2018-04-17 21:12:42 -0500
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-07 17:42:00'
 layout: post
 slug: obamas-win-a-death-knell-for-1960s-cultural-politics
-status: publish
 title: 'Obama''s Win: A Death-Knell For 1960s Cultural Politics?'
-wordpress_id: '2852'
 categories:
  - humanity
 ---

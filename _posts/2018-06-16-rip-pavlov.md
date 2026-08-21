@@ -3,7 +3,6 @@ layout: post
 title: "RIP Pavlov"
 excerpt: "2003-2018"
 date: 2018-06-16 19:07:31 -0500
-comments: true
 categories: 
 ---
 

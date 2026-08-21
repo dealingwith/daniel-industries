@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-09-09 14:50:00'
 layout: post
 slug: we-all-brand-manage-ourselves-on-a-daily-basis
-status: publish
 title: we all brand-manage ourselves on a daily basis
-wordpress_id: '2294'
 categories:
  - internets
  - marketing

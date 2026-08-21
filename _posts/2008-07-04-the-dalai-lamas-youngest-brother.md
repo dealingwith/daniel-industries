@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-04 11:46:00'
 layout: post
 slug: the-dalai-lamas-youngest-brother
-status: publish
 title: the Dalai Lama's Youngest Brother
-wordpress_id: '2688'
 categories:
  - to read
 ---

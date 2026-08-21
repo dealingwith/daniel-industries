@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-25 08:37:00'
 layout: post
 slug: happy-birthday-to-me
-status: publish
 title: happy birthday to me!
-wordpress_id: '1150'
 categories:
  - minutia
  - mp3 of the day

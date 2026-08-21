@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-05 23:40:00'
 layout: post
 slug: not-an-onion-piece
-status: publish
 title: NOT an onion piece
-wordpress_id: '2223'
 categories:
  - wankers
 ---

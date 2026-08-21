@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-12-01 07:44:00'
 layout: post
 slug: heheheh-he-laughes-his-evil-laugh
-status: publish
 title: 'he laughes his evil laugh'
-wordpress_id: '769'
 categories:
  - art
  - press

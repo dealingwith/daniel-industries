@@ -2,7 +2,6 @@
 layout: post
 title: "Hunger of the pine"
 date: 2016-03-23 16:35:55 -0500
-comments: true
 categories: 
 ---
 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-17 13:25:00'
 layout: post
 slug: thats-the-problem-you-dont-give-up
-status: publish
 title: That's the problem. You don't give up.
-wordpress_id: '2233'
 categories:
  - james baxter
  - mike riddell

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-05-09 02:03:00'
 layout: post
 slug: yes-very-pastoral-and-getting-used-to-it
-status: publish
 title: yes, very pastoral. and getting used to it.
-wordpress_id: '2145'
 categories:
  - minutia
  - wankers

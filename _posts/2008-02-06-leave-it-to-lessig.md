@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-02-06 22:02:00'
 layout: post
 slug: leave-it-to-lessig
-status: publish
 title: Leave it to Lessig
-wordpress_id: '2475'
 categories:
  - elsewhere
  - humanity

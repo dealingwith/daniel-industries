@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-02-02 12:00:00'
 layout: post
 slug: will-he-post
-status: publish
 title: Will he post?
-wordpress_id: '3120'
 categories:
  - nonlinear
 ---

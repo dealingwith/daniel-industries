@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2004-09-08 19:41:00'
 layout: post
 slug: we-love-the-survey-more-survey
-status: publish
 title: WE LOVE THE SURVEY! MORE SURVEY!
-wordpress_id: '90'
 ---
 
 How old are you?

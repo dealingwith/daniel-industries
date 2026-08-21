@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-08 09:55:00'
 layout: post
 slug: yahoo-pipes
-status: publish
 title: Yahoo Pipes
-wordpress_id: '1989'
 categories:
  - cool
  - geek

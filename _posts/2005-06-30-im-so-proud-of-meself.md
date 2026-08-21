@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-06-30 12:59:00'
 layout: post
 slug: im-so-proud-of-meself
-status: publish
 title: i'm so proud of meself
-wordpress_id: '402'
 ---
 
 i worked out for the first time since i moved back into country this morning.

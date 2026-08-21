@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-01-13 20:17:00'
 layout: post
 slug: my-dog-will-kill-you-crazy-photo-guy-with-his-eyes
-status: publish
 title: MY DOG WILL KILL YOU CRAZY PHOTO GUY! WITH HIS EYES!
-wordpress_id: '2449'
 categories:
  - imagining
  - kill!

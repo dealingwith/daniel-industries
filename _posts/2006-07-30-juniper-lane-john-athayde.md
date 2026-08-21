@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-07-30 14:54:00'
 layout: post
 slug: juniper-lane-john-athayde
-status: publish
 title: '[Juniper Lane] John Athayde'
-wordpress_id: '1543'
 categories:
  - imagining
  - local

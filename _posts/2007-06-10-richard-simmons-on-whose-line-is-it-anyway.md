@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-06-10 15:08:00'
 layout: post
 slug: richard-simmons-on-whose-line-is-it-anyway
-status: publish
 title: Richard Simmons On Whose Line Is It Anyway
-wordpress_id: '2195'
 categories:
  - brilliant
  - comedy

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-11 14:44:00'
 layout: post
 slug: im-telling-you-dogs-on-twitter-is-the-new-fad
-status: publish
 title: I'm telling you, dogs on twitter is the new fad!
-wordpress_id: '3210'
 categories:
  - twitter
 ---

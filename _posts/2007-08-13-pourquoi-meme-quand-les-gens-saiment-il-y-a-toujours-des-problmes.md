@@ -1,9 +1,7 @@
 ---
-author: dealingwith
 date: '2007-08-13 10:11:00'
 layout: post
 slug: pourquoi-meme-quand-les-gens-saiment-il-y-a-toujours-des-problmes
-status: publish
 title: pourquoi meme quand les gens s'aiment il y a, toujours des problèmes?
 categories:
  - mp3 of the day

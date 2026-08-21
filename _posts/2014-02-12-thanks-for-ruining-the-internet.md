@@ -2,7 +2,6 @@
 layout: post
 title: "Thanks for Ruining the Internet"
 date: 2014-02-12 15:23:56 -0600
-comments: true
 categories: [comment, technology]
 ---
 

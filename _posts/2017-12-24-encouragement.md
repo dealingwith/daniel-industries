@@ -3,7 +3,6 @@ layout: post
 title: "Encouragement"
 excerpt: "Sometimes Twitter is alright"
 date: 2017-12-24 19:37:55 -0600
-comments: true
 categories: 
 ---
 

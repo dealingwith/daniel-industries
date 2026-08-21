@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-03-05 15:32:00'
 layout: post
 slug: bonos-acceptance-speech-2007-naacp-image-awards
-status: publish
 title: Bono's acceptance speech, 2007 NAACP Image awards
-wordpress_id: '2042'
 categories:
  - elsewhere
  - humanity

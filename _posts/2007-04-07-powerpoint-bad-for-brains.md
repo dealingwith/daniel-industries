@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-07 10:50:00'
 layout: post
 slug: powerpoint-bad-for-brains
-status: publish
 title: Powerpoint bad for brains
-wordpress_id: '2118'
 categories:
  - elsewhere
  - ia

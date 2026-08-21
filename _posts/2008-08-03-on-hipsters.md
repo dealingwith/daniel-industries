@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-03 19:11:00'
 layout: post
 slug: on-hipsters
-status: publish
 title: On Hipsters
-wordpress_id: '2734'
 categories:
  - art
  - humanity

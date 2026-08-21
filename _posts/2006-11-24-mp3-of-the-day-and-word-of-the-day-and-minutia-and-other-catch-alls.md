@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-11-24 09:16:00'
 layout: post
 slug: mp3-of-the-day-and-word-of-the-day-and-minutia-and-other-catch-alls
-status: publish
 title: mp3 of the day and word of the day and minutia and other catch-alls
-wordpress_id: '1844'
 categories:
  - minutia
  - mp3 of the day

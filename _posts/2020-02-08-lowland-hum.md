@@ -3,8 +3,9 @@ layout: post
 title: "Lowland Hum"
 excerpt: "More music recommendations"
 date: 2020-02-08 20:51:09 -0600
-comments: true
 categories: 
+ - music
+ - elsewhere
 ---
 
 I can't remember how I was introduced to Lowland Hum, but I do know it was several months ago, and I wasn't immediately captured by their work. 

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-11-21 13:51:00'
 layout: post
 slug: im-messing-about-with-the-feed-be-patient
-status: publish
 title: I'm messing about with the feed. Be patient.
-wordpress_id: '744'
 ---
 
 This is a test. You may disregard.

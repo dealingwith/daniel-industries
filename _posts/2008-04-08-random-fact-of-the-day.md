@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-08 13:19:00'
 layout: post
 slug: random-fact-of-the-day
-status: publish
 title: Random Fact of the Day
-wordpress_id: '2575'
 categories:
  - fun
  - geek

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-11-24 11:08:00'
 layout: post
 slug: so-meta-and-realtime
-status: publish
 title: So meta and realtime
-wordpress_id: '2861'
 categories:
  - flex
  - geek

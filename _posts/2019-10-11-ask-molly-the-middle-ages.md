@@ -3,7 +3,6 @@ layout: post
 title: "Ask Molly: The Middle Ages"
 excerpt: 
 date: 2019-10-11 11:19:44 -0500
-comments: true
 categories: 
 ---
 

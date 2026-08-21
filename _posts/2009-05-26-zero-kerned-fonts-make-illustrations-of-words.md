@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-05-26 19:43:00'
 layout: post
 slug: zero-kerned-fonts-make-illustrations-of-words
-status: publish
 title: Zero kerned fonts make illustrations of words
-wordpress_id: '3238'
 categories:
  - ambient
  - art

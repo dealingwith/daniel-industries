@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2015-02-02 23:50:50'
 layout: post
 title: 'That Nationwide Commercial'

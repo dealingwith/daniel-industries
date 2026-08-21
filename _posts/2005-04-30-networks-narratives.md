@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-04-30 16:37:00'
 layout: post
 slug: networks-narratives
-status: publish
 title: Networks & Narratives
-wordpress_id: '3125'
 categories:
  - nonlinear
 ---

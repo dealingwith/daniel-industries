@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-08-06 09:35:00'
 layout: post
 slug: similar-diversity
-status: publish
 title: Similar Diversity
-wordpress_id: '2248'
 categories:
  - art
  - brilliant

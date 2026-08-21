@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2010-08-01 03:56:00'
 layout: post
 slug: multi-linear
-status: publish
 title: Multi-Linear
-wordpress_id: '3260'
 categories:
  - design
  - gaming

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-01-26 17:17:00'
 layout: post
 slug: observation-about-a-word-of-the-day
-status: publish
 title: observation-about-a-word of the day
-wordpress_id: '927'
 categories:
  - word of the day
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Intellectual Property Primer"
 date: 2012-05-15 14:50
-comments: true
 categories: [design, development]
 ---
 

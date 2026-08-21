@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-10 18:45:00'
 layout: post
 slug: very-little-offered-nothing-expected-in-return-i-can-get-behind-that
-status: publish
 title: Very little offered, nothing expected in return. I can get behind that...
-wordpress_id: '3194'
 categories:
  - twitter
 ---

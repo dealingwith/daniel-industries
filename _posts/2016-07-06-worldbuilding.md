@@ -3,7 +3,6 @@ layout: post
 title: "Worldbuilding"
 excerpt: '"JK Rowling or JRR Tokien...neither of them is anywhere near as successful at worldbuilding as the geniuses who devised Coca-Cola"'
 date: 2016-07-17 23:11:28 -0500
-comments: true
 categories: 
 ---
 

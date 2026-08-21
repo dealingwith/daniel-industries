@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-10 15:04:00'
 layout: post
 slug: leaving-microsoft
-status: publish
 title: Leaving Microsoft
-wordpress_id: '1565'
 categories:
  - elsewhere
  - quotable

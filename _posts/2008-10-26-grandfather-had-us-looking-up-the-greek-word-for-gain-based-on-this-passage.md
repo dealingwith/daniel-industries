@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-26 00:06:00'
 layout: post
 slug: grandfather-had-us-looking-up-the-greek-word-for-gain-based-on-this-passage
-status: publish
 title: 'Grandfather had us looking up the greek word for "gain", based on this passage:'
-wordpress_id: '2832'
 categories:
  - faithy
  - minutia

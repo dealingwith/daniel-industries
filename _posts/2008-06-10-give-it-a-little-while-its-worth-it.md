@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-06-10 12:55:00'
 layout: post
 slug: give-it-a-little-while-its-worth-it
-status: publish
 title: Give it a little while. It's worth it.
-wordpress_id: '2670'
 categories:
  - geek
  - music

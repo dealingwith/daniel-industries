@@ -3,7 +3,6 @@ layout: post
 title: "Existential Crisis of the Fediverse"
 excerpt: "A solution looking for a problem"
 date: 2018-11-03 16:33:57 -0500
-comments: true
 categories: 
 ---
 

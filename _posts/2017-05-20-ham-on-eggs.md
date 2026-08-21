@@ -3,7 +3,6 @@ layout: post
 title: "Ham on Eggs"
 excerpt: "Lucy, my 5 year daughter, is sitting next to me in the office playing Minecraft..."
 date: 2017-05-20 12:23:38 -0500
-comments: true
 categories: 
 ---
 

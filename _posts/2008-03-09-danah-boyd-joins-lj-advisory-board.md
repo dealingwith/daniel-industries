@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-09 13:29:00'
 layout: post
 slug: danah-boyd-joins-lj-advisory-board
-status: publish
 title: Danah Boyd joins LJ advisory board
-wordpress_id: '2528'
 categories:
  - lj
  - social software

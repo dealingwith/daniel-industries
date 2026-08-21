@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-08-11 17:54:00'
 layout: post
 slug: big-ball-of-mud
-status: publish
 title: Big Ball of Mud
-wordpress_id: '1571'
 categories:
  - design
  - development

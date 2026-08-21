@@ -3,7 +3,6 @@ layout: post
 title: "The engineer/manager pendulum"
 excerpt: "From elsewhere. Capturing here for my future self."
 date: 2017-05-27 14:47:21 -0500
-comments: true
 categories: 
 ---
 

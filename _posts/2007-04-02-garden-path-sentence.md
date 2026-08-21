@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-02 14:56:00'
 layout: post
 slug: garden-path-sentence
-status: publish
 title: garden path sentence
-wordpress_id: '2111'
 categories:
  - concept of the day
  - to read

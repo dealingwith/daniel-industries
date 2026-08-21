@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-04-12 01:33:00'
 layout: post
 slug: tweenbots
-status: publish
 title: Tweenbots!
-wordpress_id: '3232'
 categories:
  - ambient
  - art

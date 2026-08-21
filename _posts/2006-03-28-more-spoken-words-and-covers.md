@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-28 01:15:00'
 layout: post
 slug: more-spoken-words-and-covers
-status: publish
 title: more spoken words and covers
-wordpress_id: '1160'
 categories:
  - mp3 of the day
  - music

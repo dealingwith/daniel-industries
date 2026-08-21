@@ -3,7 +3,6 @@ layout: post
 title: "Good leaders step out"
 excerpt: "Because when you look at the history of a system...what you’re seeing is a bunch of reactions to business need"
 date: 2020-01-24 10:52:58 -0600
-comments: true
 categories: 
 ---
 

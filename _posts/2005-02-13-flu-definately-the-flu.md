@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-02-13 09:08:00'
 layout: post
 slug: flu-definately-the-flu
-status: publish
 title: flu. definately the flu.
-wordpress_id: '180'
 ---
 
 soon after my last post i slept again for three hours. when i woke up i was in

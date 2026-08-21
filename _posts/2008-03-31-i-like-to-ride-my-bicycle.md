@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-03-31 13:56:00'
 layout: post
 slug: i-like-to-ride-my-bicycle
-status: publish
 title: I like to ride my bicycle
-wordpress_id: '2557'
 categories:
  - bicycling
  - minutia

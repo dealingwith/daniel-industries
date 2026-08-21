@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-02-12 16:19:00'
 layout: post
 slug: checking-in-mp3-of-the-day
-status: publish
 title: checking in, mp3 of the day
-wordpress_id: '1995'
 categories:
  - minutia
  - mp3 of the day

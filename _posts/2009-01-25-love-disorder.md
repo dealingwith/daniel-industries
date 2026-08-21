@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-25 10:35:00'
 layout: post
 slug: love-disorder
-status: publish
 title: Love Disorder
-wordpress_id: '2925'
 categories:
  - art
  - lacan

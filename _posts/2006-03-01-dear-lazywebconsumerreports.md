@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2006-03-01 18:16:00'
 layout: post
 slug: dear-lazywebconsumerreports
-status: publish
 title: dear lazywebconsumerreports
-wordpress_id: '1061'
 ---
 
 I am officially in the market for a PDA. Anyone have a good or bad experience

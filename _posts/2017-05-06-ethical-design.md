@@ -2,7 +2,6 @@
 layout: post
 title: "Ethical design"
 date: 2017-05-06 14:54:46 -0500
-comments: true
 categories: 
 ---
 

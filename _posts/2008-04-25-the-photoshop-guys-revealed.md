@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-25 23:40:00'
 layout: post
 slug: the-photoshop-guys-revealed
-status: publish
 title: The Photoshop Guys Revealed
-wordpress_id: '3199'
 categories:
  - ads
  - ARG

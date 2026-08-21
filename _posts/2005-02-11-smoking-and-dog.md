@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-02-11 15:34:00'
 layout: post
 slug: smoking-and-dog
-status: publish
 title: smoking and dog
-wordpress_id: '173'
 ---
 
 Yesterday was a disaster; I don t even want to record it.

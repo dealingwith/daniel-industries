@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-07-26 11:37:00'
 layout: post
 slug: scaling-facebook
-status: publish
 title: Scaling Facebook
-wordpress_id: '2722'
 categories:
  - development
  - geek

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-04-12 02:10:00'
 layout: post
 slug: chrono-synclastic-infundibula
-status: publish
 title: chrono-synclastic infundibula
-wordpress_id: '2133'
 categories:
  - people
  - sad

@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-08-10 17:31:00'
 layout: post
 slug: articles-by-clark-macleod
-status: publish
 title: articles by Clark MacLeod
-wordpress_id: '3162'
 categories:
  - nonlinear
 ---

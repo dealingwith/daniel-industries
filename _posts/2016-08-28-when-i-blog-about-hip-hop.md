@@ -3,7 +3,6 @@ layout: post
 title: "When I blog about hip hop"
 excerpt: "...you know it must be something special."
 date: 2016-08-28 12:56:20 -0500
-comments: true
 categories: 
  - music
  - elsewhere

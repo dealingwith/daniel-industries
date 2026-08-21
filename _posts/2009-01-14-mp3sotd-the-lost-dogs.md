@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-14 16:34:00'
 layout: post
 slug: mp3sotd-the-lost-dogs
-status: publish
 title: 'Mp3sotD: The Lost Dogs'
-wordpress_id: '2912'
 categories:
  - mp3 of the day
 ---

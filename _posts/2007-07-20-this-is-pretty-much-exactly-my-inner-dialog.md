@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2007-07-20 11:14:00'
 layout: post
 slug: this-is-pretty-much-exactly-my-inner-dialog
-status: publish
 title: this is pretty much exactly my inner dialog
-wordpress_id: '2238'
 categories:
  - quotable
  - women

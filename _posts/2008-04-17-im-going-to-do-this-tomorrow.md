@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-04-17 22:16:00'
 layout: post
 slug: im-going-to-do-this-tomorrow
-status: publish
 title: I'm going to do this tomorrow
-wordpress_id: '2597'
 categories:
  - 43 things
  - minutia

@@ -3,7 +3,6 @@ layout: post
 title: "The depression thing"
 excerpt: '"One of the weird things I realized throughout this whole process is how different people react with this. Some friends truly get it, and are fantastic resources for you to talk to. Some just don’t."'
 date: 2017-11-12 19:16:02 -0500
-comments: true
 categories: 
 ---
 

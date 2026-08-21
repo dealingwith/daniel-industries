@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-10-13 12:04:00'
 layout: post
 slug: mr-daniels-butt-gets-strung
-status: publish
 title: Mr. Daniel's butt gets strung
-wordpress_id: '2818'
 categories:
  - imagining
  - minutia

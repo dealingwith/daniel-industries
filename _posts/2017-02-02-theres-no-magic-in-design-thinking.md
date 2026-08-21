@@ -3,8 +3,8 @@ layout: post
 title: "There's No Magic In Design Thinking"
 excerpt: "A great post by Jared Spool"
 date: 2017-02-02 17:33:53 -0600
-comments: true
-categories: design
+categories:
+ - design
 ---
 
 [Shh! Don’t Tell Them There’s No Magic In Design Thinking](https://medium.com/ux-immersion-interactions/ssh-dont-tell-them-there-s-no-magic-in-design-thinking-b95f33867656)

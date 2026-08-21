@@ -3,7 +3,6 @@ layout: post
 title: "I Only Listen to the Mountain Goats"
 excerpt: "The best new podcast"
 date: 2017-10-07 22:19:09 -0500
-comments: true
 categories: 
 ---
 

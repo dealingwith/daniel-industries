@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2009-01-19 00:47:00'
 layout: post
 slug: lobjet-ep-cover-v2
-status: publish
 title: L'OBJET EP Cover v2
-wordpress_id: '2916'
 categories:
  - ideas
  - imagining

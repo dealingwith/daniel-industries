@@ -1,5 +1,4 @@
 ---
-author: dealingwith
 date: '2014-12-21 04:13:39'
 layout: post
 title: 'Merry Christmas'

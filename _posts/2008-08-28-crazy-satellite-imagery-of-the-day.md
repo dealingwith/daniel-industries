@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2008-08-28 17:32:00'
 layout: post
 slug: crazy-satellite-imagery-of-the-day
-status: publish
 title: Crazy satellite imagery of the day
-wordpress_id: '2761'
 categories:
  - elsewhere
  - imagining

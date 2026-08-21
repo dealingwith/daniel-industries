@@ -3,7 +3,6 @@ layout: post
 title: "Pinboard purchase of Delicious as nostalgia machine"
 excerpt: "...a wonderful example of...people who loved the web, loved tools for the web that used structured data...to enable new things, built new things, and debated them with each other"
 date: 2017-06-21 22:43:13 -0500
-comments: true
 categories: 
 ---
 

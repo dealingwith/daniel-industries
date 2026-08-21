@@ -1,11 +1,8 @@
 ---
-author: dealingwith
 date: '2005-08-06 12:40:00'
 layout: post
 slug: love-dem-cloned-cats
-status: publish
 title: LOVE DEM CLONED CATS!!
-wordpress_id: '477'
 ---
 
 ![][1]"The world's first cloned kitten, CC, was born Dec. 22, 2001, at the
