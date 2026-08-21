@@ -196,7 +196,8 @@
       <div class="top_control_area">
         <a id="hideshort" href='javascript:;' onclick="hideShortPosts()">Toggle short posts</a> (<span
           id="shortpostscount"></span>){% unless page.title == "Categories" %} | <a href="/categories/">View by
-          category</a>{% endunless %}
+          category</a>{% endunless %}{% if page.title == "Categories" %} | <a href="/archives/">View by
+          date</a>{% endif %}
       </div>
       {% unless page.title == "Categories" %}
       <div class="archive-frequency-chart" aria-labelledby="archive-frequency-heading">

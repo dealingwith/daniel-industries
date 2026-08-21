@@ -7,7 +7,6 @@ categories:
  - branding
  - cms
  - design
- - ID
  - simplicity
  - software
  - ux
