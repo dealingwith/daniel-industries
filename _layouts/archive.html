@@ -18,10 +18,6 @@
         text-decoration: none;
       }
 
-      .archivecontainer a:hover {
-        color: var(--highlight);
-      }
-
       .archivecontainer a:not(.short_post) {
         font-weight: bold;
       }
@@ -56,7 +52,7 @@
       }
 
       .archivecontainer ul li:hover {
-        border: 1px solid var(--grey);
+        border: 1px dotted var(--text);
       }
 
       .hidden {
@@ -68,20 +64,156 @@
         margin-bottom: 1em;
         padding-bottom: 1em;
       }
+
+      .archive-frequency-chart {
+        border-bottom: 1px solid var(--lightgrey);
+        margin-bottom: 1em;
+        padding-bottom: 1em;
+      }
+
+      .archive-frequency-chart h1 {
+        font-size: 1.5rem;
+        margin-bottom: 0.25rem;
+      }
+
+      .archive-frequency-chart a {
+        align-items: center;
+        display: grid;
+        gap: 0.5rem;
+        grid-template-columns: 3.5rem minmax(5rem, 1fr) 4.75rem;
+        padding: 0.08rem 0;
+        text-decoration: none;
+      }
+
+      .archive-frequency-chart a:hover .archive-frequency-bar-fill,
+      .category-frequency-chart a:hover .archive-frequency-bar-fill {
+        background: var(--highlight);
+      }
+
+      .archive-frequency-chart a:hover .archive-frequency-year,
+      .archive-frequency-chart a:hover .archive-frequency-count,
+      .category-frequency-chart a:hover .archive-frequency-year,
+      .category-frequency-chart a:hover .archive-frequency-count {
+        color: var(--highlight);
+      }
+
+      .archive-frequency-chart a:hover .archive-frequency-count,
+      .category-frequency-chart a:hover .archive-frequency-count {
+        font-weight: bold;
+      }
+
+      .archive-frequency-year {
+        font-weight: bold;
+      }
+
+      .archive-frequency-bar {
+        background: var(--lightgrey);
+        border-radius: 999px;
+        display: block;
+        height: 0.7rem;
+        overflow: hidden;
+      }
+
+      .archive-frequency-bar-fill {
+        background: var(--color1);
+        display: block;
+        height: 100%;
+        min-width: 2px;
+      }
+
+      .archive-frequency-chart a.is-empty .archive-frequency-bar-fill,
+      .category-frequency-chart a.is-empty .archive-frequency-bar-fill {
+        min-width: 0;
+      }
+
+      .archive-frequency-count {
+        color: var(--text);
+        font-size: 0.85rem;
+        text-align: right;
+      }
+
+      .category-frequency-chart {
+        border-bottom: 1px solid var(--lightgrey);
+        margin-bottom: 0.75rem;
+        padding-bottom: 1em;
+      }
+
+      .category-frequency-chart .category-frequency-row>a {
+        align-items: center;
+        display: grid;
+        gap: 0.5rem;
+        grid-template-columns: minmax(9rem, 16rem) minmax(5rem, 1fr) 4.75rem;
+        padding: 0.08rem 0;
+        text-decoration: none;
+      }
+
+      #toggle-categories {
+        background: var(--lightgrey);
+        border: 1px solid var(--pink);
+        border-radius: 5px;
+        color: var(--color1);
+        cursor: pointer;
+        margin-bottom: 1em;
+        padding: 0.15rem 0.4rem;
+      }
+
+      @media screen and (max-width: 700px) {
+        .archive-frequency-chart a {
+          grid-template-columns: 3.4rem minmax(3rem, 1fr) 3.75rem;
+        }
+
+        .category-frequency-chart .category-frequency-row>a {
+          grid-template-columns: minmax(6rem, 9rem) minmax(3rem, 1fr) 3.75rem;
+        }
+
+        .archive-frequency-count {
+          font-size: 0.75rem;
+        }
+      }
+
+      @media (prefers-color-scheme: dark) {
+
+        .archive-frequency-chart a,
+        .category-frequency-chart a {
+          color: var(--text);
+        }
+
+        .archive-frequency-bar-fill {
+          background: var(--text);
+        }
+
+        #toggle-categories {
+          color: var(--text);
+        }
+      }
     </style>
     {% include menu.html %}
     <div class="archive-main">
       <div class="top_control_area">
         <a id="hideshort" href='javascript:;' onclick="hideShortPosts()">Toggle short posts</a> (<span
-          id="shortpostscount"></span>){% unless page.title == "Categories" %} | <a href="/categories/">View by category</a>{% endunless %}
+          id="shortpostscount"></span>){% unless page.title == "Categories" %} | <a href="/categories/">View by
+          category</a>{% endunless %}{% if page.title == "Categories" %} | <a href="/archives/">View by
+          date</a>{% endif %}
       </div>
       {% unless page.title == "Categories" %}
-      <div id="years" class="top_control_area">
+      <div class="archive-frequency-chart" aria-labelledby="archive-frequency-heading">
+        {% assign archive_max_count = 0 %}
         {% for year_data in site.archive_years %}
-        <a href="#y-{{ year_data.year }}" class="year_box" style="font-weight: bold">{{ year_data.year }}
-          ({{ year_data.count }})</a>
+        {% if year_data.count > archive_max_count %}
+        {% assign archive_max_count = year_data.count %}
+        {% endif %}
         {% endfor %}
-        <div style="clear:both"></div>
+        {% for year_data in site.archive_years %}
+        {% assign bar_width = year_data.count | times: 100.0 | divided_by: archive_max_count %}
+        <a href="#y-{{ year_data.year }}" aria-label="{{ year_data.year }}: {{ year_data.count }} posts"
+          style="--archive-count-pct: {{ bar_width }}%;">
+          <span class="archive-frequency-year">{{ year_data.year }}</span>
+          <span class="archive-frequency-bar" aria-hidden="true">
+            <span class="archive-frequency-bar-fill" style="width: var(--archive-count-pct);"></span>
+          </span>
+          <span class="archive-frequency-count">{{ year_data.count }}</span>
+        </a>
+        {% endfor %}
       </div>
       {% endunless %}
       <div class="archivecontainer">
@@ -95,24 +227,106 @@
     function hideShortPosts() {
       let items = document.querySelectorAll(".short_post");
       for (item of items) {
-        item.parentElement.classList.toggle('hidden');
+        item.classList.toggle('hidden');
       }
+      updateArchiveFrequencyChart();
+      updateCategoryFrequencyChart();
+    }
+
+    function updateArchiveFrequencyChart() {
+      const chartLinks = Array.from(document.querySelectorAll('.archive-frequency-chart a'));
+      if (chartLinks.length === 0) return;
+
+      const yearCounts = chartLinks.map((link) => {
+        const yearId = link.getAttribute('href').substring(1);
+        const posts = document.querySelectorAll(`.archivecontainer a[name="${yearId}"] ~ ul .archive_link:not(.hidden)`);
+        return {
+          link,
+          count: posts.length
+        };
+      });
+      const maxCount = Math.max(...yearCounts.map((year) => year.count), 1);
+
+      yearCounts.forEach((year) => {
+        const yearLabel = year.link.querySelector('.archive-frequency-year').innerText;
+        const countLabel = year.link.querySelector('.archive-frequency-count');
+        const barWidth = year.count / maxCount * 100;
+
+        year.link.style.setProperty('--archive-count-pct', `${barWidth}%`);
+        year.link.setAttribute('aria-label', `${yearLabel}: ${year.count} ${year.count === 1 ? 'post' : 'posts'}`);
+        year.link.classList.toggle('is-empty', year.count === 0);
+        countLabel.innerText = year.count;
+      });
+    }
+
+    function updateCategoryFrequencyChart() {
+      const categoryRows = Array.from(document.querySelectorAll('#cat_toc .category-frequency-row'));
+      if (categoryRows.length === 0) return;
+
+      const categoryCounts = categoryRows.map((row) => {
+        const categoryId = row.getAttribute('data-category');
+        const posts = document.querySelectorAll(`.archivecontainer a[name="${categoryId}"] ~ ul .archive_link:not(.hidden)`);
+        return {
+          row,
+          count: posts.length
+        };
+      });
+      const maxCount = Math.max(...categoryCounts.map((category) => category.count), 1);
+
+      categoryCounts.forEach((category) => {
+        const link = category.row.querySelector('a');
+        const categoryLabel = category.row.querySelector('.archive-frequency-year').innerText;
+        const countLabel = category.row.querySelector('.archive-frequency-count');
+        const barWidth = category.count / maxCount * 100;
+
+        category.row.setAttribute('data-numposts', category.count);
+        link.style.setProperty('--archive-count-pct', `${barWidth}%`);
+        link.setAttribute('aria-label', `${categoryLabel}: ${category.count} ${category.count === 1 ? 'post' : 'posts'}`);
+        link.classList.toggle('is-empty', category.count === 0);
+        countLabel.innerText = category.count;
+      });
+    }
+
+    function applyCategoryLimit() {
+      const categoryToc = document.getElementById('cat_toc');
+      const toggleButton = document.getElementById('toggle-categories');
+      if (!categoryToc || !toggleButton) return;
+
+      const categoryRows = Array.from(categoryToc.querySelectorAll('.category-frequency-row'));
+      const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
+
+      categoryRows.forEach((row, index) => {
+        row.classList.toggle('category-extra', index >= 20);
+        row.classList.toggle('hidden', !isExpanded && index >= 20);
+      });
+
+      toggleButton.hidden = categoryRows.length <= 20;
+      toggleButton.innerText = isExpanded ? 'Show fewer categories' : `Show all categories (${categoryRows.length})`;
+      if (!isExpanded) window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function highlightSelected(category) {
+      if (!category) return;
       let querystring = `.archivecontainer a[name="${category.substring(1)}"] ~ ul`;
       document.querySelectorAll('.archivecontainer ul.highlighted').forEach((el) => {
         el.classList.remove('highlighted');
       });
-      document.body.querySelector(querystring).classList.add('highlighted');
+      const selectedList = document.body.querySelector(querystring);
+      if (selectedList) {
+        selectedList.classList.add('highlighted');
+      }
     }
 
     document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('shortpostscount').innerText = document.querySelectorAll(".short_post").length + "/" + document.getElementsByTagName("li").length;
 
-      document.querySelectorAll("#years a, #cat_toc a").forEach((el) => {
+      updateArchiveFrequencyChart();
+      updateCategoryFrequencyChart();
+      applyCategoryLimit();
+
+      document.querySelectorAll(".archive-frequency-chart a, #years a, #cat_toc a").forEach((el) => {
         el.addEventListener('click', (e) => {
-          highlightSelected(e.target.getAttribute('href'));
+          highlightSelected(e.target.closest('a').getAttribute('href'));
         });
       });
 

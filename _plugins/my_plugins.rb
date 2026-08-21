@@ -263,12 +263,26 @@ module Jekyll
       sorted_categories = categories.sort_by { |category| category[1].size }
       # Add to only show categories with N posts:
       # sorted_categories = sorted_categories.delete_if { |category| category[1].size < 6 }
-      sorted_categories.reverse_each do |category|
+      max_count = sorted_categories.map { |category| category[1].size }.max.to_i
+      sorted_categories.reverse_each.with_index do |category, index|
         category_name = category[0]
         next if category_name.nil? || category_name.strip.empty?
 
         formatted_category_name = format_category_name(category_name)
-        html << "<div data-numposts=\"#{category[1].size}\" data-category=\"#{format_name_for_url(category_name)}\"><a href=\"##{format_name_for_url(category_name)}\" class=\"year_box\">#{formatted_category_name} (#{category[1].size})</a></div>"
+        category_slug = format_name_for_url(category_name)
+        collapsed_class = index >= 20 ? " category-extra hidden" : ""
+        bar_width = max_count.positive? ? category[1].size.to_f / max_count * 100 : 0
+        html << <<~HTML
+          <div class="category-frequency-row#{collapsed_class}" data-numposts="#{category[1].size}" data-category="#{category_slug}">
+            <a href="##{category_slug}" aria-label="#{formatted_category_name}: #{category[1].size} posts" style="--archive-count-pct: #{bar_width}%;">
+              <span class="archive-frequency-year">#{formatted_category_name}</span>
+              <span class="archive-frequency-bar" aria-hidden="true">
+                <span class="archive-frequency-bar-fill" style="width: var(--archive-count-pct);"></span>
+              </span>
+              <span class="archive-frequency-count">#{category[1].size}</span>
+            </a>
+          </div>
+        HTML
       end
 
       html
