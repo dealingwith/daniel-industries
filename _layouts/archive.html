@@ -287,6 +287,24 @@
       });
     }
 
+    function applyCategoryLimit() {
+      const categoryToc = document.getElementById('cat_toc');
+      const toggleButton = document.getElementById('toggle-categories');
+      if (!categoryToc || !toggleButton) return;
+
+      const categoryRows = Array.from(categoryToc.querySelectorAll('.category-frequency-row'));
+      const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
+
+      categoryRows.forEach((row, index) => {
+        row.classList.toggle('category-extra', index >= 20);
+        row.classList.toggle('hidden', !isExpanded && index >= 20);
+      });
+
+      toggleButton.hidden = categoryRows.length <= 20;
+      toggleButton.innerText = isExpanded ? 'Show fewer categories' : `Show all categories (${categoryRows.length})`;
+      if (!isExpanded) window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
     function highlightSelected(category) {
       if (!category) return;
       let querystring = `.archivecontainer a[name="${category.substring(1)}"] ~ ul`;
