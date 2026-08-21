@@ -18,10 +18,6 @@
         text-decoration: none;
       }
 
-      /* .archivecontainer a:hover {
-        color: var(--highlight);
-      } */
-
       .archivecontainer a:not(.short_post) {
         font-weight: bold;
       }
@@ -201,7 +197,6 @@
       </div>
       {% unless page.title == "Categories" %}
       <div class="archive-frequency-chart" aria-labelledby="archive-frequency-heading">
-        <!-- <h1 id="archive-frequency-heading">Posts by year</h1> -->
         {% assign archive_max_count = 0 %}
         {% for year_data in site.archive_years %}
         {% if year_data.count > archive_max_count %}
@@ -220,13 +215,6 @@
         </a>
         {% endfor %}
       </div>
-      <!-- <div id="years" class="top_control_area">
-        {% for year_data in site.archive_years %}
-        <a href="#y-{{ year_data.year }}" class="year_box" style="font-weight: bold">{{ year_data.year }}
-          ({{ year_data.count }})</a>
-        {% endfor %}
-        <div style="clear:both"></div>
-      </div> -->
       {% endunless %}
       <div class="archivecontainer">
         {{ content }}
