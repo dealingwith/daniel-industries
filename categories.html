@@ -4,7 +4,8 @@ title: Categories
 ---
 
 <div style="margin-bottom: 1em;">
-  <p><a id="sort" data-sort="numposts" href="#" onclick="sortAlpha()">Sort by name instead</a>.</p>
+  <p><a id="sort" data-sort="numposts" href="#" onclick="sortAlpha()"
+      style="font-weight: normal; text-decoration: underline;">Sort by name instead</a>.</p>
 </div>
 
 <div id="cat_toc" class="category-frequency-chart" data-expanded="false">
@@ -33,5 +34,32 @@ title: Categories
     }
     applyCategoryLimit();
     updateCategoryFrequencyChart();
+  }
+
+  function toggleAllCategories() {
+    const categoryToc = document.getElementById('cat_toc');
+    if (!categoryToc) return;
+
+    const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
+    categoryToc.setAttribute('data-expanded', isExpanded ? 'false' : 'true');
+    applyCategoryLimit();
+  }
+
+  function applyCategoryLimit() {
+    const categoryToc = document.getElementById('cat_toc');
+    const toggleButton = document.getElementById('toggle-categories');
+    if (!categoryToc || !toggleButton) return;
+
+    const categoryRows = Array.from(categoryToc.querySelectorAll('.category-frequency-row'));
+    const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
+
+    categoryRows.forEach((row, index) => {
+      row.classList.toggle('category-extra', index >= 20);
+      row.classList.toggle('hidden', !isExpanded && index >= 20);
+    });
+
+    toggleButton.hidden = categoryRows.length <= 20;
+    toggleButton.innerText = isExpanded ? 'Show fewer categories' : `Show all categories (${categoryRows.length})`;
+    if (!isExpanded) window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 </script>

@@ -142,7 +142,7 @@
         padding-bottom: 1em;
       }
 
-      .category-frequency-chart .category-frequency-row > a {
+      .category-frequency-chart .category-frequency-row>a {
         align-items: center;
         display: grid;
         gap: 0.5rem;
@@ -166,7 +166,7 @@
           grid-template-columns: 3.4rem minmax(3rem, 1fr) 3.75rem;
         }
 
-        .category-frequency-chart .category-frequency-row > a {
+        .category-frequency-chart .category-frequency-row>a {
           grid-template-columns: minmax(6rem, 9rem) minmax(3rem, 1fr) 3.75rem;
         }
 
@@ -176,6 +176,7 @@
       }
 
       @media (prefers-color-scheme: dark) {
+
         .archive-frequency-chart a,
         .category-frequency-chart a {
           color: var(--text);
@@ -295,32 +296,6 @@
         link.classList.toggle('is-empty', category.count === 0);
         countLabel.innerText = category.count;
       });
-    }
-
-    function applyCategoryLimit() {
-      const categoryToc = document.getElementById('cat_toc');
-      const toggleButton = document.getElementById('toggle-categories');
-      if (!categoryToc || !toggleButton) return;
-
-      const categoryRows = Array.from(categoryToc.querySelectorAll('.category-frequency-row'));
-      const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
-
-      categoryRows.forEach((row, index) => {
-        row.classList.toggle('category-extra', index >= 20);
-        row.classList.toggle('hidden', !isExpanded && index >= 20);
-      });
-
-      toggleButton.hidden = categoryRows.length <= 20;
-      toggleButton.innerText = isExpanded ? 'Show fewer categories' : `Show all categories (${categoryRows.length})`;
-    }
-
-    function toggleAllCategories() {
-      const categoryToc = document.getElementById('cat_toc');
-      if (!categoryToc) return;
-
-      const isExpanded = categoryToc.getAttribute('data-expanded') === 'true';
-      categoryToc.setAttribute('data-expanded', isExpanded ? 'false' : 'true');
-      applyCategoryLimit();
     }
 
     function highlightSelected(category) {
