@@ -5,7 +5,7 @@ layout: page
 
 **_Artists and thinkers I find essential to navigating life, or think will be (or should be) historically important, with an emphasis on lesser-known people_**
 
-<small markdown="1">_Last updated 2026-04-11_</small>
+<small markdown="1">_Last updated 2026-08-21_</small>
 
 ### Music
 
@@ -25,6 +25,8 @@ layout: page
 ### Writers
 
 - Mike Riddell
+- Bruce Sterling
+- [Cory Doctorow](https://pluralistic.net)
 - The entire Hopepunk genre
 - See also [blogroll](/blogroll)
 
