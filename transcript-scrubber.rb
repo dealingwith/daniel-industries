@@ -19,7 +19,8 @@ class TranscriptScrubber
 
   BRACKETED_NOISES = %w[
     laughter laugh laughs inaudible crosstalk pause sigh sighs
-    breath breathing music
+    breath breathing music applause applauses cheering cheer cheers
+    singing snort snorts cough coughs clears\ throat
   ].freeze
 
   def initialize(text, fillers:)
@@ -29,7 +30,9 @@ class TranscriptScrubber
 
   def scrub
     normalize
+    remove_youtube_artifacts
     remove_bracketed_noises
+    dedupe_transcript_chunks
     remove_fillers
     dedupe_single_words
     dedupe_short_phrases
@@ -41,10 +44,18 @@ class TranscriptScrubber
   private
 
   def normalize
+    @text.strip!
+    @text.gsub!(/\A`(.*)`\z/m, '\1')
+    @text.gsub!(/\\n/, "\n")
+    @text.gsub!(/\\t/, " ")
     @text.gsub!(/\r\n?/, "\n")
     @text.gsub!(/[“”]/, '"')
     @text.gsub!(/[‘’]/, "'")
     @text.gsub!(/[ \t]+/, " ")
+  end
+
+  def remove_youtube_artifacts
+    @text.gsub!(/\b\d{1,2}:\d{2}(?::\d{2})?(?:\.\d+)?\b/, "")
   end
 
   def remove_bracketed_noises
@@ -57,6 +68,36 @@ class TranscriptScrubber
       escaped = Regexp.escape(filler)
       @text.gsub!(/(?<!\w)#{escaped}(?!\w)(?:\s*,)?/i, "")
     end
+  end
+
+  def dedupe_transcript_chunks
+    words = @text.split
+    return if words.length < 4
+
+    deduped = []
+    words.each do |word|
+      deduped << word
+
+      max_chunk_size = deduped.length / 2
+      chunk_size = [max_chunk_size, 24].min
+      while chunk_size >= 2
+        previous_chunk = deduped[-(chunk_size * 2), chunk_size]
+        current_chunk = deduped[-chunk_size, chunk_size]
+
+        if normalized_chunk(previous_chunk) == normalized_chunk(current_chunk)
+          deduped.pop(chunk_size)
+          break
+        end
+
+        chunk_size -= 1
+      end
+    end
+
+    @text = deduped.join(" ")
+  end
+
+  def normalized_chunk(words)
+    words.map { |word| word.downcase.gsub(/\A[[:punct:]]+|[[:punct:]]+\z/, "") }
   end
 
   def dedupe_single_words
