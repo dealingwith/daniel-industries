@@ -327,7 +327,7 @@ details {
 }
 
 img {
-  border-radius: 10px;
+  border-radius: 0.5em;
   margin: 0 auto;
   max-width: 100%;
 }
@@ -651,8 +651,8 @@ sup a:hover {
 div.blog-index-div {
   position: relative;
   background: var(--bg);
-  border: 1px solid var(--color1);
-  border-radius: 0.3em;
+  border: 1px solid var(--color2);
+  border-radius: 0.5em;
   padding: 0.75rem;
   /* box-shadow: var(--shadow-elevation-low); */
 }

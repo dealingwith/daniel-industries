@@ -130,8 +130,10 @@ module Jekyll
     def self.cleanup_excerpt_paragraph(paragraph)
       cleaned = paragraph.dup
       cleaned.gsub!(/^\s*\[[^\]]+\]:\s+\S+.*$/, "")
+      cleaned.gsub!(/\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)/, "")
       cleaned.gsub!(/!\[([^\]]*)\]\([^)]+\)/, '\1')
       cleaned.gsub!(/\[([^\]]+)\]\([^)]+\)/, '\1')
+      cleaned.gsub!(/\[\]\([^)]+\)/, "")
       cleaned.gsub!(/`([^`]+)`/, '\1')
       cleaned.gsub!(/^\s{0,3}[#]{1,6}\s+/, "")
       cleaned.gsub!(/^\s*>\s?/, "")
@@ -144,10 +146,11 @@ module Jekyll
     def self.media_or_caption_block?(paragraph, cleaned)
       source = paragraph.strip
       return true if source.start_with?("![")
+      return true if source.start_with?("[![")
       return true if source.match?(/\A<p\b[^>]*class="caption"[^>]*>.*<\/p>\z/m)
       return true if source.match?(/\A<(?:p|div)\b[^>]*>\s*<(?:img|iframe|audio)\b.*<\/(?:p|div)>\z/m)
 
-      cleaned.length < 25 && source.match?(/\A(?:!\[[^\]]*\]\([^)]+\)|<[^>]+>|\s)+\z/m)
+      cleaned.length < 25 && source.match?(/\A(?:!?\[[^\]]*\]\([^)]+\)|\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)|<[^>]+>|\s)+\z/m)
     end
   end
 
