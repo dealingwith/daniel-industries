@@ -16,7 +16,7 @@ categories:
 
 I added search to the blog because I'm testing [algolia](https://www.algolia.com), which so far is pretty amazing and solves a lot of the backend requirements for a little side project I'm working on.
 
-In testing the search with random terms I was treated to a few very quick trips down memory lane. I discovered [I used to write]({{ site.base_url}}/2002/09/19/1.html "a bit of fame equivalent to yesterday’s grinds left in the coffee maker overnight") and [I used to sing]({{ site.base_url}}/2002/08/16/1.html). I used to be so sure of things, so enthusiastic, so not beat down. I thought and felt things with the same intensity I do now, but the result was often a frantic creativity that came from a place of youthful confidence and an excess of available time.
+In testing the search with random terms I was treated to a few very quick trips down memory lane. I discovered [I used to write]({{ site.base_url}}/2002/09/19/1 "a bit of fame equivalent to yesterday’s grinds left in the coffee maker overnight") and [I used to sing]({{ site.base_url}}/2002/08/16/1). I used to be so sure of things, so enthusiastic, so not beat down. I thought and felt things with the same intensity I do now, but the result was often a frantic creativity that came from a place of youthful confidence and an excess of available time.
 
 The problem with aging is the way that over time questions increase and answers decrease.
 
