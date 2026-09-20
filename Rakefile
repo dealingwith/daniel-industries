@@ -134,7 +134,7 @@ task :new_draft, :title do |t, args|
   puts "Creating new draft: #{filename}"
   open(filename, "w") do |draft|
     draft.puts "---"
-    draft.puts "layout: draft"
+    draft.puts "layout: post"
     draft.puts "title: \"#{title.gsub(/&/, "&amp;")}\""
     draft.puts "excerpt: "
     draft.puts "date: #{Time.now.strftime("%Y-%m-%d %H:%M:%S %z")}"
