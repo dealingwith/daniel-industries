@@ -46,6 +46,38 @@ Each significant Lacanian reading of Trump highlights a different aspect of this
 
 ---
 
+> [Prompt]: search for content relevant to this piece
+
+Semantic search worked well here. It correctly returned the target essay first and surfaced several strong conceptual ancestors from your archive.
+
+The best matches:
+
+- [The life of the disciple is nomadic](/home/danielmiller/code/daniel-industries/_posts/2016-06-25-the-life-of-the-disciple-is-nomadic.md:11) — almost a direct companion to the opening. Kester Brewin describes discipleship as moving toward present sustenance rather than remaining where it once existed. This sharpens the contrast between wayfaring and evangelical fixity.
+
+- [here we go with the Rollins](/home/danielmiller/code/daniel-industries/_posts/2006-10-08-here-we-go-with-the-rollins.md:13) — Peter Rollins presents doubt as the condition for authentic decision and faith, followed by a critique of apologetics. This directly supports your distinction between radical practice and winning debates.
+
+- [Waay still waiting to escape into some new grace](/home/danielmiller/code/daniel-industries/_posts/2007-06-21-waay-still-waiting-to-escape-into-some-new-grace.md:11) — institutional church as a gravitational mass that must sometimes be escaped “into some new grace.” It resonates beautifully with your history of leaving evangelicalism without abandoning faith.
+
+- [little bit of everything](/home/danielmiller/code/daniel-industries/_posts/2003-01-24-little-bit-of-everything.md:20) — religious institutions acting as “gatekeepers and toll takers” for a kingdom they cannot possess. This gives the “Christians deciding they need a strategy” section a strong account of what strategy becomes: an attempt to administer and control the kingdom.
+
+- [Christianity versus American Christianity](/home/danielmiller/code/daniel-industries/_posts/2006-10-30-christianity-versus-american-christianity.md:14) — describes American Christianity as a syncretic civil religion composed of nationalism, consumerism, Republican politics, corporatism, and a sentimental Jesus. This most directly names the phenomenon your current essay critiques.
+
+- [when you experience Grace…](/home/danielmiller/code/daniel-industries/_posts/2024-07-01-when-you-experience-grace-you-experience-this-radical-acceptance-that-you-dont-have-to-do-anything.md:21) — grace as anti-ideological because it refuses the managed progression from A to B. This could clarify your ending: grace is not a superior strategy but the interruption of strategic, managerial logic itself.
+
+- [There’s no space for gift](/home/danielmiller/code/daniel-industries/_posts/2024-03-08-theres-no-space-for-gift.md:11) — capitalist productivity eliminates gift and forces people to deny their alienation. This supplies theoretical weight for your reading of the lilies: they inhabit gift rather than accumulation, optimization, or managed security.
+
+- [Faith, Hope and Carnage Highlights](/home/danielmiller/code/daniel-industries/_posts/2024-08-23-faith-hope-carnage.md:23) — Nick Cave’s suggestion that the search itself may be the religious experience strongly echoes your “seeking stories beauty meaning” passage.
+
+- [What is hope?](/home/danielmiller/code/daniel-industries/_posts/2025-01-06-what-is-hope.md:18) — “hope is optimism with a broken heart”: hope neither denies the world nor accepts its apparent inevitability. This offers a concise formulation of the essay’s `status viator`.
+
+The most useful synthesis seems to be:
+
+> Evangelical strategy is fixity disguised as faith: an attempt to secure, administer, and reproduce what once gave sustenance. Wayfaring faith accepts uncertainty, while grace interrupts the whole managerial movement from A to B. The lilies do not possess a better strategy; they exist outside the strategic economy.
+
+Unlike the earlier keyword search, semantic search found relationships that do not share much vocabulary—especially the links among pilgrimage, institutional gravity, apologetics, management, and grace. It still surfaced a few false positives, which I excluded. Hister returned material from your indexed archive rather than external webpages. No files were changed.
+
+---
+
 ## Footnotes
 
 [^1]: [en.wikipedia.org/wiki/Foreclosure_(psychoanalysis)](https://en.wikipedia.org/wiki/Foreclosure_(psychoanalysis))
