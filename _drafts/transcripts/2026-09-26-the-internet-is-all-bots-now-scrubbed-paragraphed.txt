@@ -1,0 +1,269 @@
+We are in this crisis of like a generative AI is making us ask these this really weird question which is what is a human for and I think that is what we are feeling right now as a society whether you are a which is what is a human for and I think that is what we are feeling right now as a society whether you are a booster who is worried and has a little bit of the doomerism stuff in it or you're somebody who's out protesting data centers in your town a lot of it is centered around this idea of like what is a human for and if we build this stuff and they these people usher in the future they want us to all be living in.
+
+Then what is a human for?
+
+And getting worried about the potential answers there. This is a gray area. I am Sean Illing. My guest today is Charlie Warzel.
+
+He's a staff writer at The Atlantic and the author of their newsletter, Galaxy Brain. Charlie wrote a piece about AI and what he calls a crisis of agency, which is this feeling that so much of our lives online are being shaped and distorted by bots, algorithms, and various AI generated content. Everything feels a little fake, a little manipulated. If you spend any time at all online, you know what I'm talking about.
+
+So, we get into why the internet feels so strange right now and whether it's still possible to build spaces online that feel genuinely human. Hope you enjoy. Charlie Warzel, welcome back to the show. Hey, thank you for having me. Yeah, man. It's been a while.
+
+Let's talk about your recent piece in the Atlantic. Right. There is a u a lot of AI discourse right now, but this piece is sort of getting at a part of it that seems a little under discussed, which is the increasingly weird bot haunted internet we all live inside now.
+
+So, let's just start there. What is the feeling you are describing in this piece?
+
+The feeling that I'm describing is one of disorientation, but also paranoia. I think what I feel a lot on the internet right now is this paranoia. And I started the piece with a call back to a piece by the internet tech writer Max Reed who wrote New York magazine back in 2018 about what he called the inversion which is this tipping point where you know the bot and fake content made synthetically instead of just by you know you or me human beings may like surpass some of you know the content that we all make and that the internet would sort of be just a majority fake to some degree or majority you know automated and that at the time I remember was a real revelation for a lot of people this feeling that oh whoa like you're telling me there's all these people using these sock puppet accounts on Twitter or Facebook or wherever that you know there's these fake bots trying to sell me stuff that a lot of websites are populated with, you know, automated comments or whatever it is. And now that's honestly a pretty quaint idea that someone wouldn't be as aware of that because in the generative AI age or whatever we're going to call it or whatever we're in basically since you know the arrival of chat GBT but even before it you have an internet now that is jammed full of synthetic content in all sorts of ways.
+
+So you have synthetic text, you know, all the things that we would call AI slop, right?
+
+And now you just have people generating whole sites with the click of a button, right?
+
+To promote something that either isn't real or that is, you know, a scam or, you know, like pretty awful. You have that happening on this vast scale.
+
+So much so that Google search most of what you see is going to be garbage, right?
+
+Then you have synthetic music AI sloped videos and things you know clogging these feeds and you have organizations that have are doing a new style of content marketing of viral marketing in which they spin up fake accounts to seed algorithms with information that is befitting their client. Right?
+
+So if you're an artist, you can have you these viral marketing firms that will spam Tik Tok with your song so that it becomes the algorithm thinks, "Oh, this is a popular song and then when other people start posting it, it gets priority inside the feeds." So it's this idea that like what people are really doing now is they're not marketing to human beings, they're marketing to these algorithms. The end result of all of that, right, this idea that everything around you might be fake. It creates this sense of paranoia. It's not just that there's not one thing that people are talking or thinking about.
+
+It's that you can make a convincing case that anything you don't like or that you think is suspect or that is weird in some way is a sc. It's fake. Somebody has seeded that, right?
+
+And that to me is a change. It is a dramatic change in the way that people behave online and it really affects everything from our politics to our culture because you walk around with this feeling. There's this great term the liars dividend, right?
+
+Which is the idea that you can when there's so much garbage out there, people can cast dispersions on things that are real, right?
+
+And say, "Oh, I think it's fake. I think it's a lie." Right?
+
+You can sort of completely blur and warp reality. And I think that's the way that culture works now.
+
+So, not that we can know this really with any precision, but if you just had to guess, if you just had a big giant pie chart of all the [ __ ] on the with any precision, but if you just had to guess, if you just had a big giant pie chart of all the [ __ ] on the internet, like roughly what percentage of that pie chart do you think would be synthetic stuff? It's such a good question. You can't take the temperature of the entire internet, right?
+
+But you're seeing this play out in music with I interviewed on my podcast this guy who is a the frontman of a very beloved progressive rock band King Gizard and the Lizard Wizard. And they took their music off Spotify in protest of Spotify funding a their founder funding a defense company. And when they left, they had domain squatters, basically King Gizard squatters, who came in and took their page essentially by creating AI slop music that sounded similar to their stuff and was making money off their streams and all that and had to, you know, fight Spotify to get it taken down, which they did. You have so many different playlists on Spotify that are I've done some reporting into this.
+
+You go into especially like jazz or just instrumental type music, classical music and you start clicking around on some of those artists and you don't see anything any human beings there, right?
+
+Like you don't you go to these you know their YouTube page and then the YouTube page is just you know like the when you don't put a profile picture on it, right?
+
+And it only directs you back to the Spotify link. There's no, you know, manager page or anything like that or label and you start to realize, oh well then I guess that's fake, right?
+
+And so you have so you're I'm listening to jazz music that I think guess I guess that's fake, right?
+
+And so you have so you're I'm listening to jazz music that I think is made by another you human being and it's not and again it that sense of paranoia creeps in when you start to recognize some of these things. I think a lot of us want to walk through the world and say listen I've got paranoia creeps in when you start to recognize some of these things. I think a lot of us want to walk through the world and say listen I've got reasonably good taste. I've got reasonably good judgment. I'm not sitting around listening to you know fake jazz music. And you might be right.
+
+We all might be. It's not a question anymore of taste because there's so much volume that it's just so strange, you know?
+
+I know what you mean, but it's very hard to name. You know, somehow the internet feels fake and real and dead and alive all at the same time. You know, people are clearly still there, but you're never really sure like who or what is speaking. You're never sure who made the thing you're looking at or why it appeared in front of you.
+
+It seems like we should definitely take a step back maybe and just think about how bizarre this situation is for our primate brains. Yeah. And that, you know, was kind of coming off the backs of a lot of the early social media backlash to the election of Donald Trump and people starting to look into, well, what is happening? How is Facebook changing this? Right?
+
+And then you had the Cambridge Analytica scandal that same year, 2018. Where there was what turned out to be honestly a bit of an overreaction to what is known as psychographic profiling. I was part of that overreaction. I think I was too because we were all figuring out and this speaks to some of these platforms and their prominence in our lives, right?
+
+It makes a lot of sense to want to assign them an extreme amount of power. You know, they're connecting billions of people. They have all this money. They're building these tools of surveillance to track our every move. There's reason to be paranoid. You know, Cambridge Analytica was in the business of selling you the idea that they were changing people's minds left and right all the time that they could come into a place and affect an election because it's a great tactic.
+
+Not coincidentally, that's what the artificial intelligence companies have done for the last four years or so, right?
+
+They started with the doomer marketing. They started with the we're going to build something so powerful. It's a Manhattan project for, you know, for words, etc. And so yeah, we're going to blow up the world, but subscribe wherever you get your AI, right? And Okay, cool. Interesting.
+
+I think we used to think of the internet as an engine of connection, right?
+
+Of sharing information of a real like a human to human thing.
+
+But it was still deception and fakery of all kind is obviously a volume game. And artificial intelligence, the generative artificial intelligence boom that we've seen, it's a tool of scale. You push a button, you get a Moby Dick, you know, sized tome of words if you want, right?
+
+You can make the same video and a lot of creators do this 200 ways in 15 minutes. Me talking, doing my thing.
+
+Okay, now make that put me in 200 locations. Let's spam the internet with it. See what the algorithm likes. See what people like and then use that.
+
+It's like it is a tool for volume and that volume is synthetic. Maybe if the question back in, you know, 2018 2019 was, you know, is this a bot or not?
+
+Now it just seems like more fundamentally what the hell kind of environment even is this, right?
+
+And like we don't even have a name for it yet. It's just weird and different. It's not the old internet. It's something else. And in the same way, I don't really think we have a real name for this period of history yet.
+
+I don't think we really have a name for whatever this new internet is, but it's like fundamentally different. It's a different thing altogether. It is. And it's what is fascinating to me is the way in which it functions in the what's interesting to me is the way that it is a outgrowth in some ways of the post-truth moment. Like it. We've created we've had this environment, right, where we're all given access to so much information that we can rationalize it any way we want.
+
+It's one of my hobby courses that nobody knows what anyone is doing online and that is a problem, right?
+
+If I say something as a, you know, a columnist at the Atlantic and put something out, the main beef that I get is you're living in some stupid bubble. That's not real. That's not representative of the information experience, right? You're seeing all of this. Get off Twitter, man. Like, it's a bubble.
+
+Like, you're just seeing this. That's totally valid and totally true.
+
+But there's also a lot of people who are dismissing certain things that are real because they don't want to see them. And also because it doesn't reflect their algorithmic experience of the internet. And I think it's really difficult when you don't know what anyone else's experience is like, right?
+
+You walk around a little bit feeling kind of insane. Like I feel this sometimes when I plug into whatever discourse or conversation and you know I write about the internet. I'm not terminally online in my real life like I go there for the purpose of understanding it you know reporting on it studying seeing things that bubble up. I like to be outside in my other times.
+
+People constantly will say like dude you got to get off the internet. And I think that is in some ways a response to what you're saying makes me uncomfortable. Not only because I maybe disagree with the information, but because your experience is clearly so different than mine that it's awkward for me to imagine that we are existing inside the same culture or that we have to interact with each other and talk about these things. Yeah. It's not really post-truth at this point.
+
+Postreal or posthuman like how much of the internet at this point is basically just like machines performing humanity back at us under the guise of being people right so this for the piece I referenced this researcher named Aiden Walker he's a Gen Z online researcher he extremely smart about memes and you know it's a great example someone who takes something that's like kind of silly in concept and actually gets to like the philosophical human understandings of all this and he came up with this theory.
+
+So what we've been talking about with the you know there's machines and algorithms are just kind of like running the whole show, right?
+
+That's been referred to as the dead internet theory. The idea that there's really not a lot of humanity on the internet. It's all the bots and we kind of just sit there. Aiden Walker took that a step further recently and his theory--it's somewhat colorfu--is that it's like the cuck internet theory...which is that the product the synthetic product of these artificial intelligence things be it like you know a slop video of a cat you know dancing on a street in Paris or whatever right that a bunch of people are flicking through you know Instagram reels or Facebook and just you know hitting like or whatever or oh that's cute I'm going to forward that to whatever you have that which is synthetic it's machines it's machine made it's trained off of all of these other machines.
+
+Then you have the algorithm which is predisposed to like that stuff because that stuff is all trained off of what the algorithm has already shown you and given you, right?
+
+What's happening is those things are meeting. Those things are in the room interacting with each other and the human is sitting in the corner in the chair watching that. The human is the consenting observer to an interaction, a melding of sorts of these two machines that have been predisposed to do this in service of viral advertising revenue. And that is a lot of what the internet is. The internet isn't dead. The internet is really active.
+
+It's moving. It's doing stuff. These two elements that aren't human are, you know, doing it all night long and we the human are just sort of sitting there like, okay, yeah, no, I'll have some more, I guess. Yeah, sure. You know, we are consenting to it in some sense.
+
+Other people would argue that, you know, we're being coerced. 
+
+You know, in the old internet, you had the capacity to explore truly, right? St. You would stumble and click around and kind of get lost.
+
+And now so much of it is just a giant sprawling machine designed to mainline into your veins as much content as possible. Content optimized for engagement.
+
+So you're not really exploring or participating in that way. You were just a passive product. As you put it into piece, right?
+
+We basically now exist humans to feed data into the machinery. That is what we were doing. And it is keeping us stupified and entertained along the way.
+
+But that's fundamentally what our what we have been reduced to. Yeah. I don't know that all is lost yet, but I think that what I described this moment as is as a crisis of agency. Not that it's over, but we are all really concerned about our future agency.
+
+Like I don't think these tools are powerful enough yet. Like I think it's giving these tools in Silicon Valley. It's buying too much into the narrative to say we're all automatons. Like, you know, I think from a culture standpoint, a consuming, you know, endless scroll vibe, like the best example of this is you go on a social media app or something like that or you're just wasting time on your phone and you look up and you go, man, what like that was not how I or you're just wasting time on your phone and you look up and you go, man, what like that was not how I wanted to use those 20 minutes. Right?
+
+That's like that feeling of regret that you might have. That's an example of that consuming part of the agency.
+
+But on the side of jobs and you know and AI job loss things like that I don't think these tools yet maybe if you're you know a programmer or someone in this highly technical space where these agentic coding platforms are doing such a good job of cranking out inhuman amounts of code so quickly. I can understand that there's fears but it's more the anxiety of what is coming. We are in this crisis of like a generative AI is making us ask these this really weird question which is what is a human for right and that's a wild thing to have you know publicly traded companies asking you right what is the human for and I think that is what we are feeling right now as a society whether you are a right what is the human for and I think that is what we are feeling right now as a society whether you are a booster who is worried and has a little bit of the doomerism stuff in it or you're somebody who's out protesting data centers in your town. It's a lot of it is centered around this idea of like what is a human force.
+
+Support for the show comes from AG1. This is the season of long sunny days, late nights, and spontaneous plans.
+
+So, it's normal to let your routine slide a little bit in the summer. Whst among us, right?
+
+But there's one easy thing that you can add to your mornings to cover your bases. AG1 is a daily health drink with a multivitamin pre and probiotics, superfoods, and antioxidants. All of that in just one scoop in 8 ounces of water. The NextGen formula delivers 75 plus ingredients backed by four clinical trials.
+
+They've been clinically shown to support gut health, fill common nutrient gaps, and improve key nutrient levels within 3 months. Look, the rumors are true. I am on the wrong side of 40, but I do try hard to stay fed. Having two young kids at the house does not make it easy, but AG1 has made it a lot easier for me.
+
+I drink it first thing in the morning before my cup of coffee, and it tastes great. I get all the vitamins and nutrients I need for the day, and I don't have to think about it again. And honestly, that's pretty awesome. Visit drinkag1.Com/gray area to get a free morning person hat and a free AG1 flavor sampler in your welcome kit with your first AG1 subscription which is an $82 value. That's drinkag1.Com/gray area. I wanted to go back to the idea of SCOPS, right?
+
+And maybe the answer really is just the paranoia, but that word SCOP has broken containment. What exactly does that mean?
+
+And also why has it become so prevalent now?
+
+Is it just everyone's paranoid of everything?
+
+Well, SCOP is like a you know, it's kind of like a military grade, you know, it's a it's an operation that is Well, SCOP is like a you know, it's kind of like a military grade, you know, it's a it's an operation that is meant to, you know, trick you psychologically. I don't have the definition, you know, in front of you, like a clandestine manipulation campaign. Yes. Basically, great way to put it.
+
+And I think that again the when we talk about anything that's happened in a technological cultural sense it all builds off of the stuff that came before it. Right?
+
+So like that's why the Cambridge Analytica history I think is really important here. Right?
+
+It primes people to see these things as experiments. Right?
+
+These tech companies made news because they did experiments. They're not they were experiments in service of like, you know, trying to tweak their platforms to be better at advertising. Like the they weren't nefarious backroom, you know, horrible experiments in brainwashing and mind control.
+
+But again, I think we get to this situation. We're seeing it so much right now in AI where all these people in Silicon Valley are like, why does every person in the like in the country who's not, you know, deeply involved in this these niche discourses or working at these places?
+
+Why is everyone just reflexively hate artificial intelligence?
+
+Like why does it poll worse than Donald Trump?
+
+Like I this stuff is so cool. I'm racking my brain. Why doesn't this?
+
+It's like, well, you spent a lot of time talking about how dangerous it is, how civilizationally perilous it could be in the wrong hands, right?
+
+How if we don't put the exact right guardrails up, awful things can happen. We could, you know, we could destroy our economy overnight, right?
+
+One of these things could, you know, could take over and manipulate the stock market and crash everything. You hear all of this right?
+
+One of these things could, you know, could take over and manipulate the stock market and crash everything. You hear all of this stuff. And the thing is when you repeat a lot of ominous crap over time people start to internalize it. And that is to go back to the scops that is part of it right.
+
+We hear that these companies are so powerful. They're so able to manipulate consumer sentiment. They're so able to drive you know people to make purchases that they're so useful to drive people to go out to campaign rallies and then they get hooked on whatever and then they start getting in these groups, right?
+
+You know, QAnon was this fringe message board thing that was kind of silly and stupid and Facebook groups became this gathering place during the pandemic for otherwise pretty average Joe normal type people to engage with this thing. And it became this cultural, tribal, community-based ideology that broke contain and radicalized a whole bunch of people. When you see and you have all of these past examples of how this technology can like get away from us and change us, people start to internalize that. And it's now people reach for this idea of the SCOP in the same way that people reach for QAnon, right?
+
+It's just it's a way to explain something that you don't want to grapple with or that is uncomfortable or that you don't understand or that you can't easily assign something to, right?
+
+The whole the most recent SCOP thing controversy is over this band Geese, this indie band who are very popular. They've been around for a little bit, but they're they got very popular the last year with this album. They were everywhere. They are as a band using some of these viral apparently viral marketing firms or whatever. That is its own thing. The core issue with the band Geese is that they're polarizing.
+
+Their singer has this like warbly kind of sometimes atonal voice. They're like a little bit hard to listen to for some people and other people think that they're the Velvet Underground, right?
+
+It's this super polarizing thing where someone listens to it and has two completely diametrically opposed opinions. And instead of trying to grapple with that, it's so much easier to just say, "If you hate geese, yeah, man, it's a freaking scout." Well, the problem with paranoia, it kind of becomes its own trap, right?
+
+Like, if you think everything is manipulated, then you just become manipulable in a totally different way, right?
+
+Like, but where is that line between a healthy skepticism and losing your damn mind online because I think a lot of us are living uncomfortably right on that border all the time. It also doesn't help that we like live in an era of great corruption, of great conspiracy theorizing, right?
+
+You look at yeah what has happened with Donald Trump and cryptocurrencies and things like that and you see an unbelievable amount of corruption just happening in plain sight like rug pulls from the president of the United States and his family and no real accountability for that such that society just goes well nevertheless and after a while again people are going to internally analyze these lessons and say, well, if this is what I can see, if this is what I am allowed access to, then I'm pretty sure this is just how the world works. And so the things that I don't have the tools to explain that's, you know, it's a in some ways it's a rational response to some of these things that are happening, even if they tend to be, you know, irrational theories. What makes something slop?
+
+Is it just bad AI content?
+
+Really feels like slop is broken contain in terms of you know nomenclature. I'm inclined to say that it follows that pornography standard of you know it when you see it, right?
+
+You know it when you see it. I think what for me, the way that I think about slop, what a sentence. The way that I deem something as slop would be having a kind of contempt for its audience, right? Like, you're an idiot. You don't care. You're just scroll.
+
+Like, I'm gonna Yeah. Here's shrimp Jesus, you know, dummy. Like that. When you feel that thing from someone who's like, I'm doing click volume ad arbitrage from the Philippines, from this, you know, center building as many different Facebook pages to spam, you know, unsuspecting older people without this media literacy to just, you know, oh yeah, like, you know, did you see that G Brooks spoke out about the Supreme Court case, you know, at this soldout concert in South Africa?
+
+You know, like something totally random that didn't happen and just like shoving it down people's faces cuz not cuz they have any particular political ideology, but they're just trying to make a quick buck. That is what I consider to be slop. You know, I think when you look at very recently, there's been a spate of either sanctioned or non-sanctioned campaign videos that have come out like for Spencer Pratt in Los Angeles as one of him like as Batman totally AI generated would have taken you know millions of dollars to make.
+
+Now somebody can just make it on the outside the campaign can promote it for itself goes viral. I don't see that like it is slop technically, but I see it slightly different, right?
+
+Like that's like almost just propaganda or all that stuff come those Lego videos of Donald Trump coming out of Iran to sort of, you know, knock on the US military response there. I don't see that as slop as much as propaganda as a tool. For me, slop is has to have contempt for its audience in this sense of it's just like really low rent. I'm wasting your time and energy in order to make some money.
+
+Well, you may have just answered this, but people seem to get hung up on whether AI can make good art. Like, do you have a strong take on that?
+
+Whether something vaguely sloppish can count as good art. You know, I just read this new book coming out by Corey Doctoro, the activist writer, science fiction writer who coins the term initification. And he notes in the book, and I think this is a pretty incisive observation that AI art is supposed to be it's not good, but it's like it's good enough to be offensive. And that AI art I maybe, you know, slightly butchering his understanding here, but that it's really it's a proof of concept.
+
+It's supposed to make people a certain group of people really mad, right?
+
+It's supposed to have someone see it and go, "Oh man, they're gonna put everyone who can draw out of business. It's going to change all this art." Because that's really useful marketing for these companies. It's a really useful narrative. It's, "Oh, look how powerful this stuff is." Right?
+
+And I think what's interesting about that is that a lot of this isn't is it good or is it bad? Is it's is it powerful?
+
+Is it does it have the ability to disrupt livelihoods?
+
+Like for me it's still like the deeper probably slightly nerdy question is you know like it is art still art if you don't experience it as an encounter with another person, right?
+
+Like I don't really think it is, but I also can't really explain to you why it isn't. I just know a piece of art that didn't another person, right?
+
+Like I don't really think it is, but I also can't really explain to you why it isn't. I just know a piece of art that didn't come from a human mind that wasn't rooted in human experience. It doesn't mean anything to me. It is literally meaningless.
+
+But again, I don't really know why that is. I just feel it. And isn't this part of what's so exhausting about this moment that's been foisted on so many of us who enjoy the human stuff?
+
+Like you're describing why that conversation is really so hard and it's that there's like something ineffable about human contact, right?
+
+And like that's why we're all here. On Earth. Like I think so much nowadays of that again I'm butchering it, but the Kurt Vonagget quote that like we're put on the earth to fart around, right?
+
+Yes, I can go have somebody mail the letter for me or I can send an email or I can go down to the post office and interact with some weird people and see some stuff and then get a sandwich and then watch the birds, you know, and do all and it's like and weird people and see some stuff and then get a sandwich and then watch the birds, you know, and do all and it's like and then I get a flat tire and then I have to call someone and then they help me, you know, on and on. It's like that's then I get a flat tire and then I have to call someone and then they help me, you know, on and on. It's like that's why we're all here, right?
+
+To do that to have those weird unexpected interactions. And this machine's like, "What if I told you don't have to do any of that ever again?" And then you go, "What is a human for?" Support for the show comes from Quint. Summer presents a set of fashion problems. You want to wear upscale clothes, things that look nice, but are also light and airy. Enter Quint. They focus on highquality essentials that feel and look amazing.
+
+Think breathable linen and soft organic cotton. Well-made basics, but without the luxury markup. Quint's European linen pants and shirts are the perfect warm weather upgrade to add to your rotation. Starting at just $34, their tees are soft and easy to wear, and their lightweight cotton sweaters are perfect for cooler summer nights.
+
+Plus, everything at Quint is priced 50 to 80% less than similar brands. At this point, I've got five or six Quint light fabric shirts. I wear them during the summer because I live in a heat box known as the deep south, and they are my favorite. Super durable, super comfortable. Could not recommend them more. Elevate your summer wardrobe.
+
+Go to quint.Com/gra area for free shipping on your order and 365day returns.
+
+Now available in Canada, too. That's qui n.Com/gra area for free shipping and 365day returns. Quint.Com/gray area. Support for the gray area comes from hymns.
+
+It can be uncomfortable to talk about, but ED is more common than many people realize. And in a lot of cases, it may be easier to address than you'd expect. With HIMS, you can connect online with the licensed provider to explore treatment options that fit your needs, all from the privacy and convenience of home. If prescribed, HIMS says they offer personalized prescription treatment options for ED.
+
+They provide a range of choices from customized treatments to trusted generic options that can cost up to 95% less than brandame alternatives. Everything is handled online, making it easy to access care and treatment plans tailored to your goals. Hims wants to put your health first with licensed medical providers guiding your care and helping determine the treatment approach that's right for you. To get simple online access to personalized, affordable care for ED, hair loss, weight loss, and more, you can visit hems.Com/gray.
+
+That's hems.Com/gray area for your free online visit. Hens.Com/gray area. Prescription required. See website for details and important safety information.
+
+Selenaphil is the generic version of Viagra. Viagra is a registered trademark of Vitra Specialty LLC. Hymns is not affiliated with or endorsed by Vatric. What's your favorite part of the internet now?
+
+Like the pods, newsletters, Reddit boards. Does that mean is there like where's like the little pocket of like the old internet on the new internet that you retreat to?
+
+Well, I will Okay, I have a couple things. I'm not like clearly given all this stuff. I'm very skeptical of all the AI stuff in the sense of like the future that's being pushed on us, the people who are in charge of it, who in many ways are a lot of the same people who brought us social media web 2 and then it's like, in charge of it, who in many ways are a lot of the same people who brought us social media web 2 and then it's like, oh, we're not going to deal with the consequences of that. We're moving on, you know.
+
+That said, I have some real delight using the coding agents sometimes to build little things. I live on an island. I can frequently see from like across the road and down there's a little window and I can see container ships as they pass sometimes and I love that.
+
+So, I coded this thing. I'm not a coder. I coded this little thing that was basically like go to vesselfinder.Com, get the API code, and then here's my physical location. Made a little app to put on my desktop that just gives me a little like notification.
+
+Just it's quiet, doesn't ping, doesn't do anything, just shows and it says what the ship is and then I can click the link and see where it came from, where it's going. I love that. I and it says what the ship is and then I can click the link and see where it came from, where it's going. I love that. I think that's so fun. And it does it as it's supposed to pop by my thing.
+
+And that's really actually feels in a think that's so fun. And it does it as it's supposed to pop by my thing. And that's really actually feels in a way like it evokes the spirit of like the early internet which is like I want access to something. I want to try to do something a little bit creative and you just gave me you gave me some access to something.
+
+I want to try to do something a little bit creative and you just gave me you gave me some tools with which I can do that. It didn't harm anyone. It's not taking anything. It's just for me. I'm not forcing it on anyone.
+
+So, I that was a little piece of internet that I love. Let's leave it right there. Charlie, what is your newsletter and what is your podcast called and where can people check those out? Both are called Galaxy Brain. You can find it on The Atlantic.
+
+You can subscribe to it on the Atlantic. You should subscribe to the publication, but it's also we're on YouTube or Apple, Spotify, wherever, wherever you get them. And yeah, thanks for having I appreciate this. This is a great conversation. All right. Check it out, people.
+
+Charlie does great work. He has for a long time. And he will be back. I have an unreasonably good authority.
+
+So awesome. All right, man. Thanks for coming in, dude. Thanks for having me. Thanks for watching. Each week, we'll be in your audio and video feeds with great interviews and a philosophy-minded look at tech, culture, politics, and much more.
+
+Episodes of The Gray Area drop on Mondays and Fridays on YouTube, Apple Podcast, Spotify, or wherever you get your podcast. As always, we want to know what you thought of the episode.
+
+So, drop us a line at the gray area atvox.Com. And if you enjoy our reporting and want to hear more from Vox journalist, then consider becoming a member of the Vox community on Patreon at patreon.Com/vox. X on Patreon at patreon.Com/vox.
