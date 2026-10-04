@@ -1,6 +1,6 @@
-/* @import url(https://fonts.bunny.net/css?family=aleo:400,400i,700,700i); */
+@import url(https://fonts.bunny.net/css?family=aleo:400,400i,700,700i);
 /* @import url(https://fonts.bunny.net/css?family=bitter:400,500,600,700,800); */
-@import url(https://fonts.bunny.net/css?family=averia-serif-libre:300,400,700);
+/* @import url(https://fonts.bunny.net/css?family=averia-serif-libre:300,400,700); */
 
 :root {
   --bg: #fffcfc;
@@ -9,9 +9,9 @@
   --color2: #ffb4fa;
   --pink: #ffd7fc;
   --highlight: var(--pink);
-  --grey: #bdbdbd;
+  --grey: #8a8a8a;
   --lightgrey: #eeeeee;
-  --header: "Averia Serif Libre", serif; /* "Bitter" "Aleo" */
+  --header: "Aleo", serif; /* "Bitter" "Averia Serif Libre" */
   --sans: sans-serif;
   --serif: serif;
   --diagonal-stripe: repeating-linear-gradient(
@@ -50,6 +50,7 @@
     --bg: #282828;
     --text: #fcf7ed;
     --color1: var(--pink);
+    --grey: #dddddd;
     --lightgrey: #434343;
   }
 }
@@ -125,6 +126,7 @@ a {
   color: var(--color1);
 }
 a.blog-index-a {
+  color: inherit;
   display: block;
   text-decoration: none;
 }
@@ -245,7 +247,7 @@ li > ol {
 h1 + .post-metadata,
 h2 + .post-metadata,
 h3 + .post-metadata {
-  color: var(--grey);
+  /* color: var(--grey); */
   font-family: var(--sans);
   font-size: 0.95rem;
   line-height: 1.2rem;
@@ -649,10 +651,9 @@ sup a:hover {
 div.blog-index-div {
   position: relative;
   background: var(--bg);
-  border: 1px solid var(--color2);
+  border: 1px dotted var(--grey);
   border-radius: 0.5em;
   padding: 0.75rem;
-  /* box-shadow: var(--shadow-elevation-low); */
 }
 div.blog-index-div h3 {
   padding: 0;
