@@ -6,6 +6,9 @@ collections:
     permalink: /drafts/:name/
 
 exclude:
+  - "*.py"
+  - "MARKDOWN_COMPANION_PLAN.md"
+  - ".venv-markdown-companion"
   - archives.html
   - categories.html
   - category-map.md

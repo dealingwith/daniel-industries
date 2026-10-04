@@ -88,3 +88,7 @@ _site/*
 assets/ots_test/
 CLAUDE.md
 assets/data/category_graph.json
+
+# Local Markdown companion environment and Python caches
+/.venv-markdown-companion/
+__pycache__/
