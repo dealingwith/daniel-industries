@@ -8,7 +8,7 @@ categories:
   - faithy
 ---
 
-<aside class="small" markdown="1">
+<aside markdown="1">
 I meant to write something else and this is what came out. It is very weird to be writing about this again.[^1]
 </aside>
 

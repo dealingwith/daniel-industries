@@ -9,7 +9,7 @@
   --color2: #ffb4fa;
   --pink: #ffd7fc;
   --highlight: var(--pink);
-  --grey: #555555;
+  --grey: #bdbdbd;
   --lightgrey: #eeeeee;
   --header: "Averia Serif Libre", serif; /* "Bitter" "Aleo" */
   --sans: sans-serif;
@@ -50,7 +50,6 @@
     --bg: #282828;
     --text: #fcf7ed;
     --color1: var(--pink);
-    --grey: #bdbdbd;
     --lightgrey: #434343;
   }
 }
@@ -205,7 +204,6 @@ hr {
   border: 0;
   border-top: 3px dotted var(--grey);
   margin: 1rem auto;
-  /* padding: 0.5em 0 0.1em; */
   width: 95%;
 }
 .main-content a.hr-anchor {
@@ -299,7 +297,7 @@ blockquote blockquote {
 .main-content aside,
 details {
   background: var(--diagonal-stripe);
-  border: 1px solid var(--pink);
+  border: 1px dotted var(--grey);
   border-radius: 5px;
   margin-bottom: 1rem;
   padding: 0.8rem 1rem;
@@ -344,7 +342,6 @@ img {
   color: var(--color1);
 }
 
-.small,
 .grey {
   color: var(--grey);
 }
