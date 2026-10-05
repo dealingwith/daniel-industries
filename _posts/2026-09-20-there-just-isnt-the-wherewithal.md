@@ -7,7 +7,7 @@ categories:
  - elsewhere
 ---
 
-> A few of my students were deported. It's happening everywhere, and we talk about what we're allowed to in the halls between our training sessions. The kids I lost were some of my best artists with great families who tolerated my compliments of their kids' work in my poor Spanish. I've screamed a lot. And felt sad and still, then screamed again. TPS ending has been devastating to our communities.
+> A few of my students were deported. It's happening everywhere, and we talk about what we're allowed to in the halls between our training sessions. The kids I lost were some of my best artists with great families who tolerated my compliments of their kids' work in my poor Spanish. I've screamed a lot. And felt sad and still, then screamed again. <abbr title="Temporary Protected Status">TPS</abbr> ending has been devastating to our communities.
 
 [broken tamagotchi feels](https://smallcypress.bearblog.dev/tama/)
 
