@@ -8,12 +8,7 @@ categories:
  - minutia
 ---
 
-> Margot has passed the pesky fussy caterpillar stage and butterflied out into
-adorable. She is wide mouthed smiling happy most of the time. Her powerful
-cuteness causes entire grocery store aisles to spontaneously line up and
-goochey-goo. Her dimples can draw an entire crowd of kindergartners from a
-playground. Her eyes still twinkle a mystery of colors. Golden nugget giggles
-drip out of her mouth when we manage to kiss the right toe....
+> Margot has passed the pesky fussy caterpillar stage and butterflied out into adorable. She is wide mouthed smiling happy most of the time. Her powerful cuteness causes entire grocery store aisles to spontaneously line up and goochey-goo. Her dimples can draw an entire crowd of kindergartners from a playground. Her eyes still twinkle a mystery of colors. Golden nugget giggles drip out of her mouth when we manage to kiss the right toe....
 
 [Carissa Byers: Raspberries][1]
 

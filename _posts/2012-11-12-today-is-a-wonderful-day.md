@@ -37,7 +37,7 @@ In response to the experience, [Steve wrote](http://smallritual.blogs.com/small_
 
 ### "How You Will Die" ###
 
-Then, to top it off, Deliberatism (one of my favorite blogs, probably now to become one of your favorites if you take the time to read some of the archive) [reminds us](http://www.deliberatism.com/editorial/how-you-will-die/):
+Then, to top it off, Deliberatism (one of my favorite blogs, probably now to become one of your favorites if you take the time to read some of the archive) <a class="dead">reminds us</a>:
 
 > Like so many things in life, we complicate matters by treating edge cases as high probabilities, while skipping the obvious (and easy to remedy).
 
