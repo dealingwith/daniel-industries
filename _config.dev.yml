@@ -3,6 +3,9 @@ collections:
     output: true
 
 exclude:
+  - "*.py"
+  - "MARKDOWN_COMPANION_PLAN.md"
+  - ".venv-markdown-companion"
   - archives.html
   - categories.html
   - category-map.md
