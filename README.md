@@ -64,21 +64,33 @@ ITEMIZE=1 rake deploy
 
 Run the setup and launch commands from `/home/danielmiller/code/daniel-industries`.
 
-With [uv](https://docs.astral.sh/uv/pip/environments/) installed, create a Python 3.12 environment and install dependencies into it explicitly:
+With [uv](https://docs.astral.sh/uv/pip/environments/) installed, choose where to create the Python environment. To use the original location inside this project:
 
 ```sh
-uv venv --python 3.12 .venv-markdown-companion
-uv pip install --python .venv-markdown-companion/bin/python textual openai httpx pyperclip
+COMPANION_VENV=.venv-markdown-companion
 ```
 
-uv downloads Python 3.12 if it is not already available. The explicit `--python` path targets this named environment without needing shell activation.
+Or use the parent directory (recommended when running Jekyll):
+
+```sh
+COMPANION_VENV=../.venv-daniel-industries-companion
+```
+
+The parent location keeps installed packages outside Jekyll's source tree and avoids duplicate-watch warnings caused by the environment's `lib64 -> lib` symlink. Keep running commands from the project root with either choice. Then create the environment and install dependencies:
+
+```sh
+uv venv --python 3.12 "$COMPANION_VENV"
+uv pip install --python "$COMPANION_VENV/bin/python" textual openai httpx pyperclip
+```
+
+uv downloads Python 3.12 if it is not already available. The explicit `--python` path targets the chosen environment without needing shell activation. The commands below use `COMPANION_VENV`; set it to your chosen path again when opening a new terminal.
 
 Export your OpenAI API key, start your existing Hister server with semantic search enabled, then launch the companion:
 
 ```sh
 export OPENAI_API_KEY='your-api-key'
-uv run --no-project --python .venv-markdown-companion/bin/python markdown-companion.py --help
-uv run --no-project --python .venv-markdown-companion/bin/python markdown-companion.py test.md --word-step 250
+uv run --no-project --python "$COMPANION_VENV/bin/python" markdown-companion.py --help
+uv run --no-project --python "$COMPANION_VENV/bin/python" markdown-companion.py test.md --word-step 250
 ```
 
 These [uv run](https://docs.astral.sh/uv/reference/cli/#uv-run) commands explicitly use the named environment's Python. `--no-project` skips Python project discovery for this standalone script. No shell activation is required. Expect `--help` to display CLI options and the launch command to open the word counter and search-results TUI.
@@ -88,7 +100,7 @@ Replace `test.md` with your draft path. If Hister requires a token, also export 
 Omit the file argument to open a searchable picker:
 
 ```sh
-uv run --no-project --python .venv-markdown-companion/bin/python markdown-companion.py
+uv run --no-project --python "$COMPANION_VENV/bin/python" markdown-companion.py
 ```
 
 The picker lists `.md` and `.markdown` files recursively from `_drafts` and `_posts` beside the script. Drafts appear first, with filenames sorted in reverse order within each directory so dated files show newest first. Type words from the filename or directory to filter; hyphens and underscores count as spaces, and all search words must match. Use Up/Down and Enter to choose, or click a result. It shows up to 200 matches at once; narrow the search to find older files. Escape cancels (and exits if no file has been selected yet). Press `b` to browse again while watching; `f` still accepts an explicit path outside those directories. No watching or API calls begin until the initial file is selected.
@@ -114,7 +126,7 @@ sudo apt install xclip wl-clipboard
 Install the Python integration into the existing environment from the project root, then restart the companion:
 
 ```sh
-uv pip install --python .venv-markdown-companion/bin/python pyperclip
+uv pip install --python "$COMPANION_VENV/bin/python" pyperclip
 ```
 
 No Zsh or oh-my-zsh changes are required. If copying still fails, run these diagnostics in the **same terminal** used to launch the app (from any directory):
