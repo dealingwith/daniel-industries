@@ -68,7 +68,7 @@ With [uv](https://docs.astral.sh/uv/pip/environments/) installed, create a Pytho
 
 ```sh
 uv venv --python 3.12 .venv-markdown-companion
-uv pip install --python .venv-markdown-companion/bin/python textual openai httpx
+uv pip install --python .venv-markdown-companion/bin/python textual openai httpx pyperclip
 ```
 
 uv downloads Python 3.12 if it is not already available. The explicit `--python` path targets this named environment without needing shell activation.
@@ -103,7 +103,39 @@ Select a result to see the passages that matched each query, with each passage's
 
 Press `v` to request a longer preview, and again to return to matches. This reads local Markdown (with front matter removed) when available, otherwise Hister's indexed text through `/api/document`. Longer previews are capped at 20,000 characters to keep rendering responsive; the status indicates whether the document is complete or truncated. Enter on the result list opens the original document. A failed load leaves the matched passages visible.
 
-The **Formatted** tab renders Markdown headings, lists, emphasis, and code. Hister's indexed web text may lack the original Markdown formatting. The **Select / copy text** tab is read-only and supports mouse selection, Shift+arrow selection, and Ctrl+A. Ctrl+C in that tab copies the selected text; `c` copies the current preview (passages or the displayed longer excerpt). Clipboard transfer requires a terminal that permits OSC 52 clipboard access ([Textual clipboard documentation](https://textual.textualize.io/api/app/#textual.app.App.copy_to_clipboard)).
+The **Formatted** tab renders Markdown headings, lists, emphasis, and code. Hister's indexed web text may lack the original Markdown formatting. The **Select / copy text** tab is read-only and supports mouse selection, Shift+arrow selection, and Ctrl+A. Ctrl+C in that tab copies the selected text. In either preview tab, `c` copies the selected text when there is a selection; otherwise it copies the current preview (passages or the displayed longer excerpt). Changing previews clears the previous selection. Clipboard integration is delegated to [Pyperclip](https://github.com/asweigart/pyperclip), which selects the platform backend. Copies run in a background thread and report success only after reading back matching clipboard text. Pyperclip still requires a working system clipboard provider on Linux; installing the Python package alone does not provide one. It uses native Windows and macOS clipboard support as well.
+
+For Pop!_OS with GNOME Terminal, install the clipboard helpers from any directory:
+
+```sh
+sudo apt install xclip wl-clipboard
+```
+
+Install the Python integration into the existing environment from the project root, then restart the companion:
+
+```sh
+uv pip install --python .venv-markdown-companion/bin/python pyperclip
+```
+
+No Zsh or oh-my-zsh changes are required. If copying still fails, run these diagnostics in the **same terminal** used to launch the app (from any directory):
+
+```sh
+command -v xclip wl-copy wl-paste
+printf 'Session=%s\nDISPLAY=%s\nWAYLAND_DISPLAY=%s\n' "$XDG_SESSION_TYPE" "$DISPLAY" "$WAYLAND_DISPLAY"
+```
+
+Expect installed helper paths and at least one nonempty display variable. Missing helper paths indicate a missing package or PATH issue. If both display variables are empty, the app has no desktop display connection; launch it directly from GNOME Terminal in your desktop session. Do not guess a display value. For a manual clipboard check, use either command below according to the available display connection:
+
+The app displays the provider's error type and first message line in both a notification and the status area. `PyperclipException` can indicate a missing clipboard mechanism; `Clipboard contents did not match the requested text` means the copy call returned but reading back the clipboard did not verify the text. Share that exact error alongside the diagnostics above when troubleshooting.
+
+```sh
+# X11, or Wayland with XWayland / DISPLAY available:
+printf '%s' 'Markdown companion clipboard check' | xclip -selection clipboard -in
+# Wayland:
+printf '%s' 'Markdown companion clipboard check' | wl-copy --type 'text/plain;charset=utf-8'
+```
+
+Paste into a GNOME text editor; expect `Markdown companion clipboard check`. If `wl-copy` fails under GNOME Wayland, try `xclip` through XWayland. To test app copying, select a result and press `c`, then paste into the editor. For selected text, focus the **Select / copy text** tab, select a passage, and press Ctrl+C. GNOME Terminal's Ctrl+Shift+C shortcut copies the terminal's own selection rather than invoking the app's copy action.
 
 | Key | Action |
 | --- | --- |
@@ -114,7 +146,7 @@ The **Formatted** tab renders Markdown headings, lists, emphasis, and code. Hist
 | Up/Down | Select a result and show its details |
 | Enter | Open the selected web result or local file |
 | Tab | Move focus between panes/controls |
-| `c` | Copy the whole current preview |
+| `c` | Copy selected text; with no selection, copy the current preview |
 | `v` | Toggle matched passages / request longer document preview |
 | Ctrl+A / Ctrl+C in the text preview | Select all / copy selection |
 | `q` | Quit (Ctrl+C outside the text preview also exits) |
@@ -140,4 +172,4 @@ Run the launch command above and confirm the count matches the saved prose. If t
 - Check repeated URLs appear once and the watched post is absent, including its published URL. Only similarity is displayed; there is no Score field.
 - Select a large external Logseq result: expect short matched passages labeled with their queries and similarities, without an automatic full-document load. A result without a matched chunk should explicitly identify its fallback excerpt.
 - Press `v`: expect a longer preview, capped at 20,000 characters with a truncation notice for large documents. Press `v` again to return to matches. Switch results during loading and confirm an older preview never replaces the selection.
-- Check Markdown formatting in the Formatted tab. In the text tab, select a passage, press Ctrl+C, and paste into your editor; press `c` and paste to check the displayed preview. Enter on the result list should still open the selected result. For a draft over 12,000 words, expect a query-context trimming notice.
+- Check Markdown formatting in the Formatted tab. Select a passage in each tab, press `c`, and paste into your editor: expect only the selection. Clear the selection and press `c`: expect the current preview. Ctrl+C in the text tab should also copy its selection. Change results and confirm previous selections are cleared. Enter on the result list should still open the selected result. For a draft over 12,000 words, expect a query-context trimming notice.

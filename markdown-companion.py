@@ -79,6 +79,7 @@ if __name__ == "__main__":
 
 try:
     import httpx
+    import pyperclip
     from openai import AsyncOpenAI, APIConnectionError, APIStatusError
     from rich.text import Text
     from textual import on
@@ -92,7 +93,7 @@ try:
 except ImportError as exc:
     raise SystemExit(
         "Missing dependency. Run: uv pip install --python "
-        ".venv-markdown-companion/bin/python textual openai httpx"
+        ".venv-markdown-companion/bin/python textual openai httpx pyperclip"
     ) from exc
 
 
@@ -601,19 +602,26 @@ class FileScreen(ModalScreen[Path | None]):
 
 
 class PreviewText(TextArea):
-    """Send selected source text to the terminal clipboard as well as Textual."""
+    """Send selected source text through the app's desktop clipboard backend."""
 
     def action_copy(self) -> None:
         if self.selected_text:
             self.app.copy_to_clipboard(self.selected_text)
-            self.app.notify("Selection sent to terminal clipboard.")
+        else:
+            self.app.notify("Select some text first, or press c to copy the preview.")
+
+
+def copy_verified(text: str) -> None:
+    pyperclip.copy(text)
+    if pyperclip.paste() != text:
+        raise CompanionError("Clipboard contents did not match the requested text.")
 
 
 class Companion(App):
     TITLE = "Markdown companion"
     BINDINGS = [("r", "search", "Search now"), ("p", "pause", "Pause/resume"),
                 ("f", "file", "Enter path"), ("b", "browse", "Browse files"),
-                ("c", "copy_preview", "Copy post"),
+                ("c", "copy_preview", "Copy selection / preview"),
                 ("v", "toggle_preview", "Longer / matches"),
                 ("q", "quit", "Quit")]
     CSS = """
@@ -653,6 +661,7 @@ class Companion(App):
         self.preview_hit: Hit | None = None
         self.full_preview = False
         self.preview_cache: dict[str, tuple[str, str]] = {}
+        self.clipboard_lock = asyncio.Lock()
         self.file_label = Static("", id="file-path", markup=False)
         self.counts_label = Static("", id="counts", markup=False)
         self.status_label = Static("", id="status", markup=False)
@@ -854,6 +863,7 @@ class Companion(App):
                         group="preview", exclusive=True, name="load-preview")
 
     def set_preview(self, text: str, status: str) -> None:
+        self.clear_selection()
         self.preview_text = literal(text)
         self.preview_source.load_text(self.preview_text)
         self.preview_markdown.update(self.preview_text)
@@ -905,8 +915,35 @@ class Companion(App):
     def action_copy_preview(self) -> None:
         if isinstance(self.screen, (FileScreen, FilePicker)) or not self.preview_text:
             return
-        self.copy_to_clipboard(self.preview_text)
-        self.notify("Preview sent to terminal clipboard.")
+        if self.query_one("#preview-tabs", TabbedContent).active == "source":
+            selected = self.preview_source.selected_text
+        else:
+            selected = self.screen.get_selected_text()
+        self.copy_to_clipboard(selected or self.preview_text)
+
+    def copy_to_clipboard(self, text: str) -> None:
+        """Delegate system clipboard support to Pyperclip."""
+        if not text:
+            return
+        # Keep Textual's in-app clipboard synchronized without emitting OSC 52.
+        self._clipboard = text
+        self.run_worker(self.copy_system(text), group="clipboard",
+                        name="copy-to-desktop-clipboard")
+
+    async def copy_system(self, text: str) -> None:
+        # Serialize copies because canceling a worker cannot stop its background thread.
+        async with self.clipboard_lock:
+            try:
+                await asyncio.to_thread(copy_verified, text)
+            except (pyperclip.PyperclipException, OSError, CompanionError) as exc:
+                # Keep the provider error visible after the notification disappears.
+                detail = literal(str(exc)).splitlines()
+                reason = detail[0][:500] if detail else "No error details supplied."
+                self.message = f"Clipboard error ({type(exc).__name__}): {reason}"
+                self.refresh_status()
+                self.notify(self.message, severity="error", timeout=15)
+            else:
+                self.notify("Copied to system clipboard (verified).")
 
     @on(OptionList.OptionHighlighted, "#results")
     def highlight(self, event: OptionList.OptionHighlighted) -> None:
