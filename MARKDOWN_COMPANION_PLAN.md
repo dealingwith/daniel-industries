@@ -8,6 +8,7 @@ Add `markdown-companion.py`: a single-file Python utility with a Textual interfa
 
 - Use Python 3.11+ with `textual`, `openai`, and `httpx`; embed UI styles in the script and document setup in README.md.
 - Accept a file path and `--word-step` (250), `--model` (`gpt-6-luna`), `--hister-url` (`http://127.0.0.1:4433/search`), and `--limit` (10).
+- Make the file argument optional. Without it, show a searchable picker for Markdown files recursively under `_drafts` and `_posts` beside the script. Filter filenames by all typed words, cap visible matches at 200, and support arrows, Enter, mouse selection, and Escape. Start watching only after selection; canceling the initial picker exits. `b` reopens the picker; `f` retains manual path entry.
 - Read `OPENAI_API_KEY` and optional `HISTER_ACCESS_TOKEN` from environment variables.
 - Poll every second; wait for two seconds of stable content. Handle atomic saves and temporarily missing files.
 - Count prose words excluding YAML front matter, fenced code, and link destinations; retain headings and visible link text.
@@ -21,7 +22,8 @@ Add `markdown-companion.py`: a single-file Python utility with a Textual interfa
 - Fetch ten results per query by default, deduplicate URLs, merge with reciprocal rank fusion (constant 60), and display the top ten with matching queries.
 - Exclude the watched local file and its inferred Jekyll URL before merging results. Support repeatable `--exclude-url` for aliases or custom permalinks.
 - Show path, count, next trigger, status, queries, selectable results, and a detail pane containing title, URL/path, similarity, and matched queries; omit Score.
-- Load full previews asynchronously: local Markdown for this site's published posts and local Markdown files, otherwise Hister `/api/document` indexed text. Keep the matching passage with an explicit status if loading fails. Cache previews per search and discard stale responses when selection/file changes.
+- Default to Hister's `matched_chunk` passages, preserving each query's passage and similarity when merging results. Join semantic hits that omit an embedded document to keyword results by document ID. Bound passages to 2,000 characters; label missing-chunk fallback excerpts explicitly. Do not automatically read or fetch full documents on selection.
+- On `v`, load a longer preview asynchronously: local Markdown for this site's published posts and local Markdown files, otherwise Hister `/api/document` indexed text. Cap rendering at 20,000 characters and label truncation; Enter opens the original. Toggle back to matches with `v`. Keep matching passages on failure, cache longer previews per search, and cancel/discard stale responses when selection/file changes.
 - Provide formatted Markdown and a read-only selectable text tab, removing local front matter. Copy the whole preview with `c`, or selected text with Ctrl+C in the text tab using the terminal clipboard (OSC 52 support required).
 - Keys: `r` manual search, `p` pause/resume, `f` switch file, Enter open result, `q` quit. Manual search bypasses the word threshold.
 - Keep metadata literal, disable automatic preview link opening, and open browser/local results only after Enter.

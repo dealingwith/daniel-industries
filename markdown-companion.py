@@ -3,7 +3,7 @@
 
 Python 3.11+. See README.md for uv environment setup.
 Usage: uv run --no-project --python .venv-markdown-companion/bin/python
-       markdown-companion.py path/to/draft.md
+       markdown-companion.py [path/to/draft.md]
 """
 
 from __future__ import annotations
@@ -36,7 +36,8 @@ def positive_integer(value: str) -> int:
 
 def arguments() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("file", type=Path, help="Markdown file to watch (.md or .markdown)")
+    parser.add_argument("file", type=Path, nargs="?",
+                        help="Markdown file to watch; omit to search _posts and _drafts")
     parser.add_argument("--word-step", type=positive_integer, default=250)
     parser.add_argument("--model", default="gpt-6-luna",
                         help="OpenAI query-generation model (default: gpt-6-luna)")
@@ -63,9 +64,10 @@ def arguments() -> argparse.Namespace:
     args.hister_url = args.hister_url.rstrip("/")
     if not urlsplit(args.hister_url).path.endswith("/search"):
         parser.error("--hister-url must end in /search (replace the previous /mcp endpoint)")
-    args.file = args.file.expanduser().resolve()
-    if args.file.suffix.lower() not in {".md", ".markdown"} or not args.file.is_file():
-        parser.error("file must be an existing .md or .markdown file")
+    if args.file is not None:
+        args.file = args.file.expanduser().resolve()
+        if args.file.suffix.lower() not in {".md", ".markdown"} or not args.file.is_file():
+            parser.error("file must be an existing .md or .markdown file")
     if not os.environ.get("OPENAI_API_KEY", "").strip():
         parser.error("export OPENAI_API_KEY before starting (no .env file is loaded)")
     return args
@@ -81,6 +83,7 @@ try:
     from rich.text import Text
     from textual import on
     from textual.app import App, ComposeResult
+    from textual.binding import Binding
     from textual.containers import Horizontal, Vertical, VerticalScroll
     from textual.screen import ModalScreen
     from textual.widgets import (Footer, Header, Input, Label, Markdown, OptionList,
@@ -96,6 +99,8 @@ except ImportError as exc:
 WORD_PATTERN = re.compile(r"[^\W_]+(?:['’\-][^\W_]+)*", re.UNICODE)
 CONTEXT_WORD_LIMIT = 12_000
 SETTLE_SECONDS = 2.0
+PASSAGE_CHAR_LIMIT = 2_000
+FULL_PREVIEW_CHAR_LIMIT = 20_000
 
 
 def literal(value: object) -> str:
@@ -103,6 +108,11 @@ def literal(value: object) -> str:
     text = str(value)
     return "".join(char for char in text
                    if char in "\n\t" or unicodedata.category(char) not in {"Cc", "Cf", "Cs"})
+
+
+def excerpt(value: object, limit: int) -> str:
+    text = str(value)
+    return literal(text[:limit]) + ("\n\n[Excerpt truncated]" if len(text) > limit else "")
 
 
 def markdown_body(text: str) -> str:
@@ -326,19 +336,28 @@ class HisterClient:
                 # Keep source content as literal display data; never render HTML.
                 records[url] = {
                     "url": url, "title": document.get("title"),
-                    "snippet": document.get("text") or document.get("snippet"),
+                    "snippet": excerpt(document.get("snippet") or document.get("text") or "",
+                                       PASSAGE_CHAR_LIMIT),
                     "document_type": kind or "document",
                 }
             if semantic:
                 records[url]["similarity"] = semantic.get("similarity")
-                if semantic.get("matched_chunk"):
-                    records[url]["snippet"] = semantic["matched_chunk"]
+                chunk = semantic.get("matched_chunk")
+                if isinstance(chunk, str) and chunk.strip():
+                    records[url]["matched_chunk"] = excerpt(chunk, PASSAGE_CHAR_LIMIT)
 
-        for document in documents("history") + documents("documents"):
+        ordinary_documents = documents("history") + documents("documents")
+        by_id = {document["id"]: document for document in ordinary_documents
+                 if isinstance(document, dict) and isinstance(document.get("id"), str)}
+        for document in ordinary_documents:
             add(document)
         for hit in documents("semantic_hits"):
             if isinstance(hit, dict):
-                add(hit.get("document"), hit)
+                # Hister may omit the embedded document for a keyword/semantic overlap.
+                document = hit.get("document")
+                if not isinstance(document, dict) and isinstance(hit.get("doc_id"), str):
+                    document = by_id.get(hit["doc_id"])
+                add(document, hit)
         return list(records.values())
 
     async def document_text(self, url: str) -> str:
@@ -389,6 +408,13 @@ async def generate_queries(client: AsyncOpenAI, model: str, snapshot: Snapshot) 
 
 
 @dataclass
+class Passage:
+    query: str
+    text: str
+    similarity: object
+
+
+@dataclass
 class Hit:
     url: str
     title: str
@@ -397,6 +423,7 @@ class Hit:
     similarity: object
     fused_rank: float = 0.0
     queries: list[str] = field(default_factory=list)
+    passages: list[Passage] = field(default_factory=list)
 
 
 def merge_results(queries: list[str], groups: list[list[dict]], limit: int,
@@ -417,7 +444,124 @@ def merge_results(queries: list[str], groups: list[list[dict]], limit: int,
             hit = hits[url]
             hit.fused_rank += 1 / (60 + rank)
             hit.queries.append(query)
+            chunk = document.get("matched_chunk")
+            similarity = document.get("similarity")
+            if isinstance(chunk, str) and chunk.strip():
+                hit.passages.append(Passage(query, excerpt(chunk, PASSAGE_CHAR_LIMIT), similarity))
+            if isinstance(similarity, (int, float)) and (
+                    not isinstance(hit.similarity, (int, float)) or similarity > hit.similarity):
+                hit.similarity = similarity
     return sorted(hits.values(), key=lambda hit: hit.fused_rank, reverse=True)[:limit]
+
+
+def picker_files(root: Path) -> list[tuple[Path, str]]:
+    files = []
+    for directory in ("_drafts", "_posts"):
+        folder = root / directory
+        if folder.is_dir():
+            paths = sorted((path for path in folder.rglob("*")
+                            if path.suffix.lower() in {".md", ".markdown"} and path.is_file()),
+                           key=lambda path: str(path.relative_to(folder)).casefold(), reverse=True)
+            files.extend((path.resolve(), str(path.relative_to(root))) for path in paths)
+    return files
+
+
+class FilePicker(ModalScreen[Path | None]):
+    BINDINGS = [Binding("escape", "cancel", "Cancel"),
+                Binding("down", "next_file", "Next", priority=True),
+                Binding("up", "previous_file", "Previous", priority=True)]
+    CSS = """
+    FilePicker { align: center middle; background: $background 80%; }
+    #picker-dialog { width: 90%; height: 85%; padding: 1 2; border: round $accent; }
+    #picker-heading, #picker-status { height: auto; }
+    #picker-files { height: 1fr; }
+    """
+
+    def __init__(self, root: Path):
+        super().__init__()
+        self.root = root
+        self.files: list[tuple[Path, str]] = []
+        self.visible_files: list[tuple[Path, str]] = []
+        self.picker_loading = True
+
+    def compose(self) -> ComposeResult:
+        with Vertical(id="picker-dialog"):
+            yield Static("Choose a Markdown file · type to filter · ↑/↓ select · Enter watch · Escape cancel",
+                         id="picker-heading", markup=False)
+            yield Input(placeholder="Search filenames (for example: ai systems)", id="picker-search")
+            yield Static("Loading _drafts and _posts…", id="picker-status", markup=False)
+            yield OptionList(id="picker-files")
+
+    def on_mount(self) -> None:
+        self.query_one("#picker-search", Input).focus()
+        self.run_worker(self.load_files(), name="load-file-picker")
+
+    async def load_files(self) -> None:
+        try:
+            self.files = await asyncio.to_thread(picker_files, self.root)
+        except OSError:
+            self.picker_loading = False
+            self.query_one("#picker-status", Static).update(
+                "Could not list files; check directory permissions. Escape to cancel.")
+            return
+        self.picker_loading = False
+        self.filter_files(self.query_one("#picker-search", Input).value)
+
+    @on(Input.Changed, "#picker-search")
+    def search_changed(self, event: Input.Changed) -> None:
+        if not self.picker_loading:
+            self.filter_files(event.value)
+
+    def filter_files(self, value: str) -> None:
+        def searchable(text: str) -> str:
+            return text.casefold().replace("-", " ").replace("_", " ")
+
+        terms = searchable(value).split()
+        matches = [(path, label) for path, label in self.files
+                   if all(term in searchable(label) for term in terms)]
+        # Keep typing responsive even with thousands of posts.
+        self.visible_files = matches[:200]
+        options = self.query_one("#picker-files", OptionList)
+        options.clear_options()
+        options.add_options(Option(Text(literal(label))) for _, label in self.visible_files)
+        if self.visible_files:
+            options.highlighted = 0
+        if not self.files:
+            status = "No Markdown files in _drafts or _posts beside this script. Escape to cancel."
+        elif not matches:
+            status = "No matching filenames. Try fewer search terms."
+        else:
+            status = f"{len(matches):,} matches of {len(self.files):,} files"
+            if len(matches) > 200:
+                status += " · showing first 200; refine your search"
+        self.query_one("#picker-status", Static).update(status)
+
+    def action_next_file(self) -> None:
+        self.query_one("#picker-files", OptionList).action_cursor_down()
+
+    def action_previous_file(self) -> None:
+        self.query_one("#picker-files", OptionList).action_cursor_up()
+
+    @on(Input.Submitted, "#picker-search")
+    def submit_search(self) -> None:
+        self.choose(self.query_one("#picker-files", OptionList).highlighted)
+
+    @on(OptionList.OptionSelected, "#picker-files")
+    def selected(self, event: OptionList.OptionSelected) -> None:
+        self.choose(event.option_index)
+
+    def choose(self, index: int | None) -> None:
+        if index is None or not 0 <= index < len(self.visible_files):
+            return
+        path = self.visible_files[index][0]
+        if not path.is_file():
+            self.query_one("#picker-status", Static).update(
+                "That file is no longer available; choose another.")
+            return
+        self.dismiss(path)
+
+    def action_cancel(self) -> None:
+        self.dismiss(None)
 
 
 class FileScreen(ModalScreen[Path | None]):
@@ -468,7 +612,9 @@ class PreviewText(TextArea):
 class Companion(App):
     TITLE = "Markdown companion"
     BINDINGS = [("r", "search", "Search now"), ("p", "pause", "Pause/resume"),
-                ("f", "file", "Switch file"), ("c", "copy_preview", "Copy post"),
+                ("f", "file", "Enter path"), ("b", "browse", "Browse files"),
+                ("c", "copy_preview", "Copy post"),
+                ("v", "toggle_preview", "Longer / matches"),
                 ("q", "quit", "Quit")]
     CSS = """
     Screen { layout: vertical; }
@@ -487,7 +633,8 @@ class Companion(App):
     def __init__(self, args: argparse.Namespace):
         super().__init__()
         self.args = args
-        self.path = args.file
+        self.path: Path | None = args.file
+        self.project_root = Path(__file__).resolve().parent
         self.generation = 0
         self.snapshot: Snapshot | None = None
         self.changed_at = 0.0
@@ -503,6 +650,8 @@ class Companion(App):
         self.sources: dict[str, Path] = {}
         self.preview_version = 0
         self.preview_text = ""
+        self.preview_hit: Hit | None = None
+        self.full_preview = False
         self.preview_cache: dict[str, tuple[str, str]] = {}
         self.file_label = Static("", id="file-path", markup=False)
         self.counts_label = Static("", id="counts", markup=False)
@@ -538,13 +687,15 @@ class Companion(App):
         self.refresh_status()
         self.results_list.focus()
         self.set_interval(1.0, self.poll)
+        if self.path is None:
+            self.action_browse()
 
     @property
     def next_count(self) -> int:
         return (self.baseline or 0) + self.args.word_step
 
     def refresh_status(self) -> None:
-        self.file_label.update(literal(self.path))
+        self.file_label.update(literal(self.path) if self.path else "Choose a Markdown file to watch.")
         count = self.snapshot.count if self.snapshot else 0
         context = " · context trimmed to first/last 6,000 words" if (
             self.snapshot and self.snapshot.trimmed) else ""
@@ -555,6 +706,8 @@ class Companion(App):
 
     async def poll(self) -> None:
         path, generation = self.path, self.generation
+        if path is None:
+            return
         try:
             snapshot = await asyncio.to_thread(read_snapshot, path)
         except (OSError, UnicodeError):
@@ -657,7 +810,12 @@ class Companion(App):
         if not 0 <= index < len(self.hits):
             return
         hit = self.hits[index]
+        if self.preview_hit is hit:
+            return
         self.preview_version += 1
+        self.workers.cancel_group(self, "preview")
+        self.preview_hit = hit
+        self.full_preview = False
         similarity = (f"Similarity: {hit.similarity:.4f}" if
                       isinstance(hit.similarity, (int, float)) else "")
         self.details_label.update(
@@ -665,8 +823,34 @@ class Companion(App):
             + similarity + "\n\nMatched queries\n"
             + "\n".join("• " + query for query in hit.queries)
         )
-        self.set_preview(hit.snippet, "Matching passage · loading full post…")
-        self.run_worker(self.load_preview(hit, self.preview_version),
+        self.show_passages(hit)
+
+    def show_passages(self, hit: Hit) -> None:
+        if hit.passages:
+            sections = []
+            for number, passage in enumerate(hit.passages, 1):
+                similarity = (f" · Similarity: {passage.similarity:.4f}" if
+                              isinstance(passage.similarity, (int, float)) else "")
+                # Separate each query's actual chunk from the document-level metadata.
+                heading = passage.query.replace("\n", " ")
+                sections.append(f"### Match {number}: {heading}{similarity}\n\n{passage.text}")
+            self.set_preview("\n\n---\n\n".join(sections),
+                             "Hister matched passages · v for longer preview · Enter opens original")
+        else:
+            self.set_preview(excerpt(hit.snippet, PASSAGE_CHAR_LIMIT),
+                             "Search text excerpt · Hister supplied no matched chunk · v for longer preview")
+
+    def action_toggle_preview(self) -> None:
+        if isinstance(self.screen, ModalScreen) or self.preview_hit is None:
+            return
+        self.preview_version += 1
+        self.workers.cancel_group(self, "preview")
+        self.full_preview = not self.full_preview
+        if not self.full_preview:
+            self.show_passages(self.preview_hit)
+            return
+        self.preview_status.update("Loading longer preview… v returns to matches")
+        self.run_worker(self.load_preview(self.preview_hit, self.preview_version),
                         group="preview", exclusive=True, name="load-preview")
 
     def set_preview(self, text: str, status: str) -> None:
@@ -678,6 +862,9 @@ class Companion(App):
 
     def clear_preview(self) -> None:
         self.preview_version += 1
+        self.workers.cancel_group(self, "preview")
+        self.preview_hit = None
+        self.full_preview = False
         self.set_preview("", "")
 
     async def load_preview(self, hit: Hit, version: int) -> None:
@@ -688,7 +875,8 @@ class Companion(App):
                 path = self.sources.get(url_key(hit.url)) or local_path(hit.url)
                 if path and path.suffix.lower() in {".md", ".markdown"} and path.is_file():
                     text = await asyncio.to_thread(path.read_text, encoding="utf-8")
-                    cached = (markdown_body(text), "Full Markdown from local file")
+                    text = markdown_body(text)
+                    status = "Markdown from local file"
                 else:
                     headers = {"Accept": "application/json", "Origin": "hister://"}
                     token = os.environ.get("HISTER_ACCESS_TOKEN", "").strip()
@@ -696,7 +884,12 @@ class Companion(App):
                         headers["Authorization"] = f"Bearer {token}"
                     async with httpx.AsyncClient(headers=headers, timeout=30.0) as http:
                         text = await HisterClient(http, self.args.hister_url).document_text(hit.url)
-                    cached = (text, "Full indexed text from Hister · original Markdown may be unavailable")
+                    status = "Indexed text from Hister · original Markdown may be unavailable"
+                if len(text) > FULL_PREVIEW_CHAR_LIMIT:
+                    status += " · first 20,000 characters; Enter opens original"
+                else:
+                    status += " · complete document"
+                cached = (excerpt(text, FULL_PREVIEW_CHAR_LIMIT), status + " · v returns to matches")
                 if version != self.preview_version:
                     return
                 self.preview_cache[hit.url] = cached
@@ -706,19 +899,20 @@ class Companion(App):
             raise
         except Exception as exc:
             if version == self.preview_version:
-                self.preview_status.update("Matching passage only · " + error_message(exc))
+                self.full_preview = False
+                self.preview_status.update("Matched passages retained · " + error_message(exc))
 
     def action_copy_preview(self) -> None:
-        if isinstance(self.screen, FileScreen) or not self.preview_text:
+        if isinstance(self.screen, (FileScreen, FilePicker)) or not self.preview_text:
             return
         self.copy_to_clipboard(self.preview_text)
         self.notify("Preview sent to terminal clipboard.")
 
-    @on(OptionList.OptionHighlighted)
+    @on(OptionList.OptionHighlighted, "#results")
     def highlight(self, event: OptionList.OptionHighlighted) -> None:
         self.show_detail(event.option_index)
 
-    @on(OptionList.OptionSelected)
+    @on(OptionList.OptionSelected, "#results")
     def select(self, event: OptionList.OptionSelected) -> None:
         if 0 <= event.option_index < len(self.hits):
             self.run_worker(self.open_hit(self.hits[event.option_index]), name="open-result")
@@ -772,7 +966,18 @@ class Companion(App):
         self.maybe_search()
 
     def action_file(self) -> None:
-        self.push_screen(FileScreen(self.path), self.switch_file)
+        if self.path is not None and not isinstance(self.screen, ModalScreen):
+            self.push_screen(FileScreen(self.path), self.switch_file)
+
+    def action_browse(self) -> None:
+        if not isinstance(self.screen, ModalScreen):
+            self.push_screen(FilePicker(self.project_root), self.picked_file)
+
+    def picked_file(self, path: Path | None) -> None:
+        if path is None and self.path is None:
+            self.action_quit()
+        else:
+            self.switch_file(path)
 
     def action_quit(self) -> None:
         self.stopping = True
