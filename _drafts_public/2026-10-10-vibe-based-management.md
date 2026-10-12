@@ -1,10 +1,17 @@
 ---
 layout: post
 title: "Vibes-Based Management"
-excerpt: 
+permalink: /drafts/vibes-based-management/
+excerpt: "Vibes-based management and process-based micromanagement are two manifestations of the same underlying failure to tolerate uncertainty..."
 date: 2026-10-10 16:40:21 -0500
 categories: 
+ - leadership
+ - product
 ---
+
+> ...each time we part the bars of conviction and opinion to step out from this cell of certitude, or are evicted from it by some existential cataclysm, we discover that the most interesting parts of life, the most fulfilling experiences, the richest relationships, are found in the spaces between categories, in the unclassifiable, the unnameable, the deliriously disorienting.
+
+[The Marginalian: The Power of Being a Threshold Person: Liminality, Communitas, and the Anti-structures of Possibility](https://www.themarginalian.org/2026/09/04/turner-liminality-communitas/)
 
 I've worked in organizations where priorities seem to shift with the mood of the person in charge. Sometimes there's a new strategic initiative, sometimes an urgent problem that apparently wasn't urgent yesterday, sometimes a sudden interest in the details of a project that had been progressing just fine without executive attention.
 
@@ -48,7 +55,7 @@ This doesn't mean leaders should be passive, indifferent, or unwilling to make d
 
 Sometimes the appropriate response to an uncomfortable feeling is to investigate. Sometimes it's to make a decision. And sometimes it's simply to live with the feeling for a while.
 
-In *Time to think*, I ended with a thought from Ashley Williams that has stayed with me: _effective leadership can involve spending a great deal of time sitting quietly with uncomfortable feelings._
+In *[Time to think](/2020/10/28/time-to-think/)*, I ended with a thought from Ashley Williams that has stayed with me: _effective leadership can involve spending a great deal of time sitting quietly with uncomfortable feelings._
 
 We talk a lot about decisiveness, accountability, transparency, and alignment. We build tools and frameworks to make organizations more predictable. These things have their place. But perhaps one of the most valuable things a leader can do is develop the capacity to be uncertain without making that uncertainty everyone else's problem.
 

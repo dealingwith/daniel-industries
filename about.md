@@ -5,15 +5,22 @@ layout: page
 
 <style>
   .main-content img {
-    float: right;
     background-color: #ffd7fc;
+    border: 1px solid #040404;
     border-radius: 50%;
-    border: 1px solid #71003e;
+    float: right;
     max-width: 40%;
+    margin-left: 0.3rem;
   }
   @media (prefers-color-scheme: dark) {
     .main-content img {
       border: 1px solid #ffd7fc;
+    }
+  }
+  @media screen and (max-width: 700px) {
+    .main-content img {
+      float: none;
+      margin: 0 auto;
     }
   }
 </style>

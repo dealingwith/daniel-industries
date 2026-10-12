@@ -1,6 +1,9 @@
 collections:
   writings:
     output: true
+  drafts_public:
+    output: true
+    permalink: /drafts/:name/
 
 exclude:
   - archives.html
