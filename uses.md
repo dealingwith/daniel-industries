@@ -9,7 +9,7 @@ title: "Uses"
 - **Calendar**: Google with Notion Calendar as front-end
 - **Cloud storage**: Google Drive, Proton Drive
 - **RSS**: Feedbin
-- **Read Later**: Folio
+- **Read Later**: Instapaper
 - **Contacts**: Google
 - **Browser**: Vivaldi  
 - **Chat**: 
