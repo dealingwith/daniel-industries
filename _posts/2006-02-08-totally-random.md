@@ -26,10 +26,10 @@ Somehow this all relates to Integration Research. It seems like the only people 
 
 Sunday I wrote mostly to myself, _i didn't take the bread and wine...i need to get in the ring with god, not sit at the table with her/him/it_.
 
-> As this prayer has yet to be answered, instead we explore others who have gone on before us, surviving in this spiritual world that disallows our attempts to ignore its contingencies and incongruencies.
+> As this prayer has yet to be answered, instead we explore others who have gone on before us, surviving in this spiritual world that disallows our attempts to ignore its contingencies and incongruities.
 
 > ...It seems that the struggle to journey along a path that 'thinks' and 'sees' is not just linked or similar to a 'spiritual' path, or the Gospels, or wisdom literature, or historical struggles for justice, freedom, and equality, it is as one with them as lovers locked in the sweaty, smelly bonds of intercourse.
 
 _[...Wrecks Art Exhibit: Trickster Makes This World and the role of art in a spiritual life]({{site.url}}/writings/wrecks-art-exhibit/)_
 
-It seems like we're all in our own little echo chambers, mostly opaque shimmering spheres encircling us with their blissful ignorance. Above us are the vines hanging down (devine threads perhaps?) from a higher level and the Monkey(ies) swing, penetrating our chambers like in a sci-fi movie, anomolies in the Matrix. First shock at their appearance at the edge of our understanding, then puzzled observation as they make their way through our headspace, then just as we're getting used to their idea they swing through the other side, out of sight.
+It seems like we're all in our own little echo chambers, mostly opaque shimmering spheres encircling us with their blissful ignorance. Above us are the vines hanging down (divine threads perhaps?) from a higher level and the Monkey(ies) swing, penetrating our chambers like in a sci-fi movie, anomalies in the Matrix. First shock at their appearance at the edge of our understanding, then puzzled observation as they make their way through our head space, then just as we're getting used to their idea they swing through the other side, out of sight.
