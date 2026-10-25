@@ -70,7 +70,17 @@ Last night I went to see my friend Chris Holt play at the Kessler Theater and he
 > I promise you, you can change the world  
 > And they'll just change it back again
 
-We think LLMs will help us speak with God, but it's the musicians we should be listening to. [Always has been](https://daniel.industries/writings/my-new-church/#part-3-my-new-church).
+We think LLMs will help us speak with God, but it's the musicians we should be listening to. [Always has been](/writings/my-new-church/#part-3-my-new-church).
+
+---
+
+See also:
+
+> Clearly you foresee that machines which ape people are tending to encroach on every aspect of people’s lives, and that such machines force people to behave like machines. The new electronic devices do indeed have the power to force people to “communicate” with them and with each other on the terms of the machine. Whatever structurally does not fit the logic of machines is effectively filtered from a culture dominated by their use.
+
+-- Ivan Illich, 1982, captured here in [A Quiet Home](/2024/09/30/a-quiet-home/)
+
+📼 ["ai will kill us all" ...lol](https://youtu.be/wp7zZa0q7Ts)
 
 [^1]: See [Integration Research](/2016/03/15/goodbye-integration-research/)
 

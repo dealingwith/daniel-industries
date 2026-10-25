@@ -51,6 +51,7 @@ The central question becomes: how do we design systems — from businesses to so
 ---
 
 ### References to Integrate Further:
+
 - Stafford Beer, *The Heart of Enterprise* (POSIWID)
 - Donella Meadows, *Thinking in Systems* (leverage points, incentives)
 - Daniel Kahneman & Amos Tversky, *Prospect Theory* (loss aversion)
