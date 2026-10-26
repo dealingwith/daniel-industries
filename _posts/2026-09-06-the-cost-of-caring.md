@@ -63,3 +63,9 @@ There is a lot of bullshit in my life that I'd love to outsource to Claude. Desp
 ---
 
 After writing, I realized this is another version of [When Machines Make the Incompetent More Confident](/2026/05/31/when-machines-make-the-incompetent-more-confident/).
+
+---
+
+Update 2026-10-26: [The AI content paradox](https://www.therebooting.com/p/the-ai-content-paradox). Instead of a new post to point to this article, I'm just appending it to this one. Just to capture this fantastic quote:
+
+> To the executives using these services: There is also a social cost for this sweaty behavior.
