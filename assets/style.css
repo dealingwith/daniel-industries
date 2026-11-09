@@ -160,18 +160,19 @@ a.blog-index-a {
 a strong {
   color: inherit;
 }
-.main-content article p a.dead {
+.main-content article p a.dead,
+del {
   background-image: none;
-  color: var(--grey);
+  color: var(--text);
   cursor: default;
   text-decoration-line: line-through;
-  text-decoration-style: wavy;
+  text-decoration-style: double;
   text-decoration-color: var(--lightgrey);
 }
 
-del {
+/* del {
   color: var(--grey);
-}
+} */
 
 .main-content {
   margin: 2rem auto;

@@ -4,11 +4,10 @@ title: "Existential Crisis of the Fediverse"
 excerpt: "A solution looking for a problem"
 date: 2018-11-03 16:33:57 -0500
 categories: 
+ - social software
 ---
 
-_Note: I'm publishing this before I figure out if I agree with myself, and changing the body font of this site once again before I figure out if I really like it._
-
-The Fediverse, which by its nature I cannot link to (however [The Federation](https://the-federation.info/) is a good hub for this collective project) is [defined by Wikipedia](https://en.wikipedia.org/wiki/Fediverse) as:
+The Fediverse, which by its nature I cannot link to (however <a class="dead" title="was a link to the now gone the-federation.info">The Federation</a> is a good hub for this collective project) is [defined by Wikipedia](https://en.wikipedia.org/wiki/Fediverse) as:
 
 > (a portmanteau of "federation" and "universe")...the ensemble of federated servers that are used for web publishing (i.e. social networking, microblogging or websites) and file hosting.
 

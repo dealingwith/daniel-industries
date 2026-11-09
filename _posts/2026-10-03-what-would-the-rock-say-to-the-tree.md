@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "What would the rock say to the tree"
-excerpt: 
+excerpt: "I am searching for information about our last-hired tree trimming service. Instead I found this silly bit I wrote while participating in a daily writing community in 2019. I lightly edited it (didn’t like the last few lines, they’re gone now) and added the emojis, as even I had a hard time tracking which character was saying what by about halfway down. 🪨 🌳"
 date: 2026-10-03 18:39:42 -0500
 categories: 
  - fiction
 ---
- 
+
 🪨 "Hey."
 
 🌳 "Hey."
