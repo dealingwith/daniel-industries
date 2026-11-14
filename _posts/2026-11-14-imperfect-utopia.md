@@ -41,7 +41,7 @@ So far, midlife has been a string of unexplained physical failures.
 
 ---
 
-Last weekend my uncle, who had been suffering with MS for over a decade with the most dignity I could possibly image, passed over to the other side. He was kind of a big deal: Marine bombardier/navigator in Vietnam, electrical engineer, CEO of a large, successful company, and creator of numerous initiatives to advance the values he considered essential to human flourishing. I might have disagreed with some of his ideas, but that never resulted in anything but the utmost respect for his mind and his character.
+Last weekend my uncle, who had been suffering with MS for over a decade with the most dignity I could possibly image, passed over to the other side. He was kind of a big deal: a Marine Radar Intercept Officer in F-4B Phantom jets in Vietnam, electrical engineer, CEO of a large, successful company, and creator of numerous initiatives to advance the values he considered essential to human flourishing. I might have disagreed with some of his ideas, but that never resulted in anything but the utmost respect for his mind and his character.
 
 When Margot was in the ICU, my aunt and uncle were the closest family, and I called them, and they drove down to Dallas immediately, the first of my family to arrive; my parents were on the earliest flight the next day. I'm not sure when the last time I might have called them was, but it was probably years. It was a very short conversation, and then they were packing, figuring out where they would sleep in Dallas, and within hours they were at her bedside. They'd never met her before.
 
@@ -62,3 +62,5 @@ My cousin, who has succeeded my uncle as CEO in the same spirit as his father, d
 Investing in people is the most rewarding part of my life, and I hope I can continue to improve my performance, be it at work with a software developer in his first job as one, or with a 12-year-old crashing out the night before a big audition.
 
 Maybe we'll manage to thaw this cold heart before it decides to stop beating.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3905649950/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=24706874/transparent=true/" seamless><a href="https://glenhansard.bandcamp.com/album/all-that-was-east-is-west-of-me-now">All That Was East Is West Of Me Now by Glen Hansard</a></iframe>
