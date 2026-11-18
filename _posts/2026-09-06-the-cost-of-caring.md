@@ -69,3 +69,7 @@ After writing, I realized this is another version of [When Machines Make the Inc
 Update 2026-10-26: [The AI content paradox](https://www.therebooting.com/p/the-ai-content-paradox). Instead of a new post to point to this article, I'm just appending it to this one. Just to capture this fantastic quote:
 
 > To the executives using these services: There is also a social cost for this sweaty behavior.
+
+Update 2026-11-18: [r/ClaudeAI: Is everything becoming Claudefied?](https://www.reddit.com/r/ClaudeAI/comments/1xyzkct/is_everything_becoming_claudefied/)
+
+> AI talks to you like Tony Robbins who just did a line of coke
